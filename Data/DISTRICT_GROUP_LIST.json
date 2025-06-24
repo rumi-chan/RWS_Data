@@ -1,0 +1,537 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DISTRICT_GROUP_LIST",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBDISTRICT_GROUP_LIST'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "101": {
+        "Index": 1,
+        "GROUP_ID": 103,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_PARON",
+        "Level": 1010201,
+        "Name": "LEVEL_INSTANCE_STELLARIUM",
+        "BGM_INDEX": 1,
+        "BANNER_IMAGE": "Worldmap_Banner_District101"
+      },
+      "102": {
+        "Index": 4,
+        "GROUP_ID": 102,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_EAST",
+        "Level": 1010101,
+        "Name": "LEVEL_FIELD_DIETERS_EAST",
+        "BGM_INDEX": 2,
+        "BANNER_IMAGE": "Worldmap_Banner_District102"
+      },
+      "103": {
+        "Index": 5,
+        "GROUP_ID": 103,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_PARON",
+        "Level": 1010101,
+        "Name": "LEVEL_FIELD_DIETERS_PARON",
+        "BGM_INDEX": 3,
+        "BANNER_IMAGE": "Worldmap_Banner_District103"
+      },
+      "104": {
+        "Index": 1,
+        "GROUP_ID": 104,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_MID",
+        "Level": 1010101,
+        "Name": "LEVEL_FIELD_DIETERS_MID",
+        "BGM_INDEX": 4,
+        "BANNER_IMAGE": "Worldmap_Banner_District104"
+      },
+      "105": {
+        "Index": 4,
+        "GROUP_ID": 105,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_NORTH",
+        "Level": 1010101,
+        "Name": "LEVEL_FIELD_DIETERS_NORTH",
+        "BGM_INDEX": 5,
+        "BANNER_IMAGE": "Worldmap_Banner_District105"
+      },
+      "106": {
+        "Index": 2,
+        "GROUP_ID": 106,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_SOUTH",
+        "Level": 1010101,
+        "Name": "LEVEL_FIELD_DIETERS_SOUTH",
+        "BGM_INDEX": 6,
+        "BANNER_IMAGE": "Worldmap_Banner_District106"
+      },
+      "107": {
+        "Index": 3,
+        "GROUP_ID": 107,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_WEST",
+        "Level": 1010101,
+        "Name": "LEVEL_FIELD_DIETERS_WEST",
+        "BGM_INDEX": 7,
+        "BANNER_IMAGE": "Worldmap_Banner_District107"
+      },
+      "108": {
+        "Index": 1,
+        "GROUP_ID": 102,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_EAST",
+        "Level": 2110101,
+        "Name": "LEVEL_INSTANCE_GRASSVILLE_INN01",
+        "BGM_INDEX": 8,
+        "BANNER_IMAGE": "Worldmap_Banner_District108"
+      },
+      "109": {
+        "Index": 1,
+        "GROUP_ID": 102,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_EAST",
+        "Level": 2110201,
+        "Name": "LEVEL_INSTANCE_GRASSVILLE_INNWAREHOUSE01",
+        "BGM_INDEX": 9,
+        "BANNER_IMAGE": "Worldmap_Banner_District109"
+      },
+      "110": {
+        "Index": 1,
+        "GROUP_ID": 104,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_MID",
+        "Level": 2110501,
+        "Name": "LEVEL_INSTANCE_PEREUSPALACE",
+        "BGM_INDEX": 11,
+        "BANNER_IMAGE": "Worldmap_Banner_District110"
+      },
+      "111": {
+        "Index": 1,
+        "GROUP_ID": 103,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_PARON",
+        "Level": 2110401,
+        "Name": "LEVEL_INSTANCE_NUSKACAVITY",
+        "BGM_INDEX": 10,
+        "BANNER_IMAGE": "Worldmap_Banner_District111"
+      },
+      "112": {
+        "Index": 1,
+        "GROUP_ID": 104,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_MID",
+        "Level": 2110601,
+        "Name": "LEVEL_INSTANCE_REDROSEINN",
+        "BGM_INDEX": 13,
+        "BANNER_IMAGE": "Worldmap_Banner_District112"
+      },
+      "113": {
+        "Index": 1,
+        "GROUP_ID": 104,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_MID",
+        "Level": 2110701,
+        "Name": "LEVEL_INSTANCE_ROUSSINMYSTERY",
+        "BGM_INDEX": 12,
+        "BANNER_IMAGE": "Worldmap_Banner_District113"
+      },
+      "114": {
+        "Index": 1,
+        "GROUP_ID": 106,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_SOUTH",
+        "Level": 2110901,
+        "Name": "LEVEL_INSTANCE_ISANIACIRCLEHIDEOUT",
+        "BGM_INDEX": 14,
+        "BANNER_IMAGE": "Worldmap_Banner_District114"
+      },
+      "115": {
+        "Index": 1,
+        "GROUP_ID": 105,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_NORTH",
+        "Level": 2111201,
+        "Name": "LEVEL_INSTANCE_ROOKSMANSION",
+        "BGM_INDEX": 15,
+        "BANNER_IMAGE": "Worldmap_Banner_District115"
+      },
+      "116": {
+        "Index": 1,
+        "GROUP_ID": 105,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_NORTH",
+        "Level": 2111301,
+        "Name": "LEVEL_INSTANCE_FORLORNHOPEHIDEOUT_2",
+        "BGM_INDEX": 16,
+        "BANNER_IMAGE": "Worldmap_Banner_District116"
+      },
+      "117": {
+        "Index": 1,
+        "GROUP_ID": 110,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_NORTH",
+        "Level": 1010101,
+        "Name": "LEVEL_INSTANCE_KAMPOPERATIONTENT",
+        "BGM_INDEX": 17,
+        "BANNER_IMAGE": "NULL"
+      },
+      "118": {
+        "Index": 1,
+        "GROUP_ID": 104,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_MID",
+        "Level": 2111901,
+        "Name": "LEVEL_INSTANCE_PEREUSSEWER",
+        "BGM_INDEX": 21,
+        "BANNER_IMAGE": "Worldmap_Banner_District118"
+      },
+      "119": {
+        "Index": 1,
+        "GROUP_ID": 104,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_MID",
+        "Level": 2111101,
+        "Name": "LEVEL_INSTANCE_PEREUSBALLROOM",
+        "BGM_INDEX": 19,
+        "BANNER_IMAGE": "Worldmap_Banner_District119"
+      },
+      "120": {
+        "Index": 1,
+        "GROUP_ID": 120,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_EAST",
+        "Level": 2120101,
+        "Name": "LEVEL_INSTANCE_DUNGEONPEREUS001",
+        "BGM_INDEX": 22,
+        "BANNER_IMAGE": "NULL"
+      },
+      "121": {
+        "Index": 1,
+        "GROUP_ID": 121,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_PARON",
+        "Level": 2120202,
+        "Name": "LEVEL_INSTANCE_DUNGEONPEREUS002",
+        "BGM_INDEX": 23,
+        "BANNER_IMAGE": "NULL"
+      },
+      "122": {
+        "Index": 1,
+        "GROUP_ID": 122,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_NORTH",
+        "Level": 2120203,
+        "Name": "LEVEL_INSTANCE_DUNGEONPEREUS003",
+        "BGM_INDEX": 24,
+        "BANNER_IMAGE": "NULL"
+      },
+      "123": {
+        "Index": 1,
+        "GROUP_ID": 123,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_MID",
+        "Level": 2120204,
+        "Name": "LEVEL_INSTANCE_DUNGEONPEREUS004",
+        "BGM_INDEX": 25,
+        "BANNER_IMAGE": "NULL"
+      },
+      "124": {
+        "Index": 1,
+        "GROUP_ID": 124,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_SOUTH",
+        "Level": 2120205,
+        "Name": "LEVEL_INSTANCE_DUNGEONPEREUS005",
+        "BGM_INDEX": 26,
+        "BANNER_IMAGE": "NULL"
+      },
+      "125": {
+        "Index": 1,
+        "GROUP_ID": 125,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_NORTH",
+        "Level": 2120206,
+        "Name": "LEVEL_INSTANCE_DUNGEONPEREUS006",
+        "BGM_INDEX": 27,
+        "BANNER_IMAGE": "NULL"
+      },
+      "126": {
+        "Index": 1,
+        "GROUP_ID": 126,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_WEST",
+        "Level": 2120207,
+        "Name": "LEVEL_INSTANCE_DUNGEONPEREUS007",
+        "BGM_INDEX": 28,
+        "BANNER_IMAGE": "NULL"
+      },
+      "127": {
+        "Index": 1,
+        "GROUP_ID": 127,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_EAST",
+        "Level": 2120201,
+        "Name": "LEVEL_INSTANCE_GRASSVILLE_DUNGEONGRASSVILLE001",
+        "BGM_INDEX": 22,
+        "BANNER_IMAGE": "NULL"
+      },
+      "128": {
+        "Index": 1,
+        "GROUP_ID": 105,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_NORTH",
+        "Level": 2111401,
+        "Name": "LEVEL_INSTANCE_RAFIASHRINE",
+        "BGM_INDEX": 20,
+        "BANNER_IMAGE": "Worldmap_Banner_District128"
+      },
+      "129": {
+        "Index": 1,
+        "GROUP_ID": 129,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_WEST",
+        "Level": 2120208,
+        "Name": "LEVEL_INSTANCE_DUNGEONPEREUS008",
+        "BGM_INDEX": 29,
+        "BANNER_IMAGE": "NULL"
+      },
+      "130": {
+        "Index": 1,
+        "GROUP_ID": 102,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_EAST",
+        "Level": 2110301,
+        "Name": "LEVEL_INSTANCE_GRASSVILLE_BURNING",
+        "BGM_INDEX": 46,
+        "BANNER_IMAGE": "NULL"
+      },
+      "131": {
+        "Index": 11,
+        "GROUP_ID": 102,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_EAST",
+        "Level": 1010101,
+        "Name": "LEVEL_FIELD_GRASSVILLE",
+        "BGM_INDEX": 32,
+        "BANNER_IMAGE": "Worldmap_Banner_District131"
+      },
+      "132": {
+        "Index": 1,
+        "GROUP_ID": 101,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_EAST",
+        "Level": 1010203,
+        "Name": "LEVEL_INSTANCE_STELLARIUM_POLLUTED",
+        "BGM_INDEX": 48,
+        "BANNER_IMAGE": "NULL"
+      },
+      "133": {
+        "Index": 10,
+        "GROUP_ID": 102,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_EAST",
+        "Level": 1010101,
+        "Name": "LEVEL_FIELD_TAYGETARUINS",
+        "BGM_INDEX": 33,
+        "BANNER_IMAGE": "NULL"
+      },
+      "134": {
+        "Index": 11,
+        "GROUP_ID": 104,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_MID",
+        "Level": 1010101,
+        "Name": "LEVEL_FIELD_PEREUSCASTLE",
+        "BGM_INDEX": 34,
+        "BANNER_IMAGE": "Worldmap_Banner_District134"
+      },
+      "135": {
+        "Index": 11,
+        "GROUP_ID": 105,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_NORTH",
+        "Level": 1010101,
+        "Name": "LEVEL_FIELD_ROOKS",
+        "BGM_INDEX": 35,
+        "BANNER_IMAGE": "Worldmap_Banner_District135"
+      },
+      "136": {
+        "Index": 11,
+        "GROUP_ID": 104,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_SOUTH",
+        "Level": 1010101,
+        "Name": "LEVEL_FIELD_AMONE",
+        "BGM_INDEX": 36,
+        "BANNER_IMAGE": "Worldmap_Banner_District136"
+      },
+      "137": {
+        "Index": 11,
+        "GROUP_ID": 107,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_MID",
+        "Level": 1010101,
+        "Name": "LEVEL_FIELD_KAMP",
+        "BGM_INDEX": 37,
+        "BANNER_IMAGE": "Worldmap_Banner_District137"
+      },
+      "138": {
+        "Index": 11,
+        "GROUP_ID": 104,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_MID",
+        "Level": 1010101,
+        "Name": "",
+        "BGM_INDEX": 38,
+        "BANNER_IMAGE": "NULL"
+      },
+      "139": {
+        "Index": 11,
+        "GROUP_ID": 104,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_MID",
+        "Level": 1010101,
+        "Name": "",
+        "BGM_INDEX": 39,
+        "BANNER_IMAGE": "NULL"
+      },
+      "140": {
+        "Index": 11,
+        "GROUP_ID": 104,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_MID",
+        "Level": 2110801,
+        "Name": "LEVEL_INSTANCE_SHUTEINHOUSE",
+        "BGM_INDEX": 18,
+        "BANNER_IMAGE": "Worldmap_Banner_District140"
+      },
+      "141": {
+        "Index": 1,
+        "GROUP_ID": 101,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_EAST",
+        "Level": 1010202,
+        "Name": "LEVEL_INSTANCE_STELLARIUM_BURNING",
+        "BGM_INDEX": 47,
+        "BANNER_IMAGE": "NULL"
+      },
+      "142": {
+        "Index": 1,
+        "GROUP_ID": 101,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_EAST",
+        "Level": 2113301,
+        "Name": "",
+        "BGM_INDEX": 45,
+        "BANNER_IMAGE": "NULL"
+      },
+      "143": {
+        "Index": 1,
+        "GROUP_ID": 101,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_EAST",
+        "Level": 2111501,
+        "Name": "LEVEL_FIELD_ROOKS",
+        "BGM_INDEX": 54,
+        "BANNER_IMAGE": "NULL"
+      },
+      "144": {
+        "Index": 1,
+        "GROUP_ID": 101,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_EAST",
+        "Level": 1010102,
+        "Name": "LEVEL_INSTANCE_FIELD_DIETERS",
+        "BGM_INDEX": 44,
+        "BANNER_IMAGE": "NULL"
+      },
+      "145": {
+        "Index": 1,
+        "GROUP_ID": 107,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_WEST",
+        "Level": 2111601,
+        "Name": "LEVEL_INSTANCE_GOLDENWOOD_CHAPEL",
+        "BGM_INDEX": 55,
+        "BANNER_IMAGE": "NULL"
+      },
+      "146": {
+        "Index": 2,
+        "GROUP_ID": 107,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_WEST",
+        "Level": 2111701,
+        "Name": "LEVEL_INSTANCE_FLORANCEMANSION",
+        "BGM_INDEX": 56,
+        "BANNER_IMAGE": "NULL"
+      },
+      "147": {
+        "Index": 1,
+        "GROUP_ID": 107,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_WEST",
+        "Level": 2111801,
+        "Name": "LEVEL_INSTANCE_GOLDENWOOD",
+        "BGM_INDEX": 57,
+        "BANNER_IMAGE": "NULL"
+      },
+      "148": {
+        "Index": 1,
+        "GROUP_ID": 104,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_MID",
+        "Level": 2112101,
+        "Name": "LEVEL_INSTANCE_WHITE",
+        "BGM_INDEX": 60,
+        "BANNER_IMAGE": "NULL"
+      },
+      "190": {
+        "Index": 1,
+        "GROUP_ID": 103,
+        "GROUP_NAME": "LEVEL_INSTANCE_GRASSVILLE_WEEKLYBOSSPEREUS001",
+        "Level": 2130101,
+        "Name": "LEVEL_INSTANCE_GRASSVILLE_WEEKLYBOSSPEREUS001",
+        "BGM_INDEX": 41,
+        "BANNER_IMAGE": "NULL"
+      },
+      "191": {
+        "Index": 1,
+        "GROUP_ID": 106,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_SOUTH",
+        "Level": 2111001,
+        "Name": "LEVEL_INSTANCE_GRASSVILLE_WEEKLYBOSSPEREUS002",
+        "BGM_INDEX": 41,
+        "BANNER_IMAGE": "NULL"
+      },
+      "192": {
+        "Index": 1,
+        "GROUP_ID": 192,
+        "GROUP_NAME": "LEVEL_INSTANCE_GRASSVILLE_WEEKLYBOSSPEREUS003",
+        "Level": 2130101,
+        "Name": "LEVEL_INSTANCE_GRASSVILLE_WEEKLYBOSSPEREUS003",
+        "BGM_INDEX": 42,
+        "BANNER_IMAGE": "NULL"
+      },
+      "193": {
+        "Index": 2,
+        "GROUP_ID": 104,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_MID",
+        "Level": 2111901,
+        "Name": "LEVEL_INSTANCE_GRASSVILLE_WEEKLYBOSSPEREUS004",
+        "BGM_INDEX": 42,
+        "BANNER_IMAGE": "Worldmap_Banner_District120"
+      },
+      "199": {
+        "Index": 1,
+        "GROUP_ID": 199,
+        "GROUP_NAME": "",
+        "Level": 1010101,
+        "Name": "",
+        "BGM_INDEX": 1,
+        "BANNER_IMAGE": "NULL"
+      },
+      "601": {
+        "Index": 51,
+        "GROUP_ID": 104,
+        "GROUP_NAME": "LEVEL_FIELD_DIETERS_MID",
+        "Level": 1010101,
+        "Name": "LEVEL_FIELD_PEREUSISLAND",
+        "BGM_INDEX": 59,
+        "BANNER_IMAGE": "NULL"
+      },
+      "701": {
+        "Index": 1,
+        "GROUP_ID": 701,
+        "GROUP_NAME": "LEVEL_INSTANCE_ABYSSLAKE",
+        "Level": 2140101,
+        "Name": "LEVEL_FIELD_ABYSSLAKE",
+        "BGM_INDEX": 58,
+        "BANNER_IMAGE": "NULL"
+      },
+      "801": {
+        "Index": 1,
+        "GROUP_ID": 801,
+        "GROUP_NAME": "",
+        "Level": 2990101,
+        "Name": "",
+        "BGM_INDEX": 43,
+        "BANNER_IMAGE": "NULL"
+      },
+      "802": {
+        "Index": 1,
+        "GROUP_ID": 801,
+        "GROUP_NAME": "",
+        "Level": 2990101,
+        "Name": "",
+        "BGM_INDEX": 43,
+        "BANNER_IMAGE": "NULL"
+      },
+      "999": {
+        "Index": 1,
+        "GROUP_ID": 999,
+        "GROUP_NAME": "",
+        "Level": 9999901,
+        "Name": "",
+        "BGM_INDEX": 44,
+        "BANNER_IMAGE": "NULL"
+      }
+    }
+  }
+]

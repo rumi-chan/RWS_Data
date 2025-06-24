@@ -1,0 +1,335 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CHARACTER_LEVEL",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBCHARACTER_LEVEL'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1": {
+        "Level": 0,
+        "CHARACTER_EXP": 0
+      },
+      "10": {
+        "Level": 0,
+        "CHARACTER_EXP": 1000
+      },
+      "11": {
+        "Level": 0,
+        "CHARACTER_EXP": 1180
+      },
+      "12": {
+        "Level": 0,
+        "CHARACTER_EXP": 1370
+      },
+      "13": {
+        "Level": 0,
+        "CHARACTER_EXP": 1580
+      },
+      "14": {
+        "Level": 0,
+        "CHARACTER_EXP": 1810
+      },
+      "15": {
+        "Level": 0,
+        "CHARACTER_EXP": 2060
+      },
+      "16": {
+        "Level": 0,
+        "CHARACTER_EXP": 2320
+      },
+      "17": {
+        "Level": 0,
+        "CHARACTER_EXP": 2600
+      },
+      "18": {
+        "Level": 0,
+        "CHARACTER_EXP": 2900
+      },
+      "19": {
+        "Level": 0,
+        "CHARACTER_EXP": 3220
+      },
+      "2": {
+        "Level": 0,
+        "CHARACTER_EXP": 200
+      },
+      "20": {
+        "Level": 0,
+        "CHARACTER_EXP": 3550
+      },
+      "21": {
+        "Level": 0,
+        "CHARACTER_EXP": 3900
+      },
+      "22": {
+        "Level": 0,
+        "CHARACTER_EXP": 4270
+      },
+      "23": {
+        "Level": 0,
+        "CHARACTER_EXP": 4650
+      },
+      "24": {
+        "Level": 0,
+        "CHARACTER_EXP": 5050
+      },
+      "25": {
+        "Level": 0,
+        "CHARACTER_EXP": 5470
+      },
+      "26": {
+        "Level": 0,
+        "CHARACTER_EXP": 5910
+      },
+      "27": {
+        "Level": 0,
+        "CHARACTER_EXP": 6360
+      },
+      "28": {
+        "Level": 0,
+        "CHARACTER_EXP": 6830
+      },
+      "29": {
+        "Level": 0,
+        "CHARACTER_EXP": 7320
+      },
+      "3": {
+        "Level": 0,
+        "CHARACTER_EXP": 240
+      },
+      "30": {
+        "Level": 0,
+        "CHARACTER_EXP": 7830
+      },
+      "31": {
+        "Level": 0,
+        "CHARACTER_EXP": 8350
+      },
+      "32": {
+        "Level": 0,
+        "CHARACTER_EXP": 8890
+      },
+      "33": {
+        "Level": 0,
+        "CHARACTER_EXP": 9450
+      },
+      "34": {
+        "Level": 0,
+        "CHARACTER_EXP": 10020
+      },
+      "35": {
+        "Level": 0,
+        "CHARACTER_EXP": 10610
+      },
+      "36": {
+        "Level": 0,
+        "CHARACTER_EXP": 11220
+      },
+      "37": {
+        "Level": 0,
+        "CHARACTER_EXP": 11850
+      },
+      "38": {
+        "Level": 0,
+        "CHARACTER_EXP": 12490
+      },
+      "39": {
+        "Level": 0,
+        "CHARACTER_EXP": 13150
+      },
+      "4": {
+        "Level": 0,
+        "CHARACTER_EXP": 300
+      },
+      "40": {
+        "Level": 0,
+        "CHARACTER_EXP": 13830
+      },
+      "41": {
+        "Level": 0,
+        "CHARACTER_EXP": 14520
+      },
+      "42": {
+        "Level": 0,
+        "CHARACTER_EXP": 15230
+      },
+      "43": {
+        "Level": 0,
+        "CHARACTER_EXP": 15960
+      },
+      "44": {
+        "Level": 0,
+        "CHARACTER_EXP": 16710
+      },
+      "45": {
+        "Level": 0,
+        "CHARACTER_EXP": 17470
+      },
+      "46": {
+        "Level": 0,
+        "CHARACTER_EXP": 18250
+      },
+      "47": {
+        "Level": 0,
+        "CHARACTER_EXP": 19050
+      },
+      "48": {
+        "Level": 0,
+        "CHARACTER_EXP": 19870
+      },
+      "49": {
+        "Level": 0,
+        "CHARACTER_EXP": 20700
+      },
+      "5": {
+        "Level": 0,
+        "CHARACTER_EXP": 370
+      },
+      "50": {
+        "Level": 0,
+        "CHARACTER_EXP": 21550
+      },
+      "51": {
+        "Level": 0,
+        "CHARACTER_EXP": 22420
+      },
+      "52": {
+        "Level": 0,
+        "CHARACTER_EXP": 23300
+      },
+      "53": {
+        "Level": 0,
+        "CHARACTER_EXP": 24200
+      },
+      "54": {
+        "Level": 0,
+        "CHARACTER_EXP": 25120
+      },
+      "55": {
+        "Level": 0,
+        "CHARACTER_EXP": 26060
+      },
+      "56": {
+        "Level": 0,
+        "CHARACTER_EXP": 27010
+      },
+      "57": {
+        "Level": 0,
+        "CHARACTER_EXP": 27980
+      },
+      "58": {
+        "Level": 0,
+        "CHARACTER_EXP": 28970
+      },
+      "59": {
+        "Level": 0,
+        "CHARACTER_EXP": 29980
+      },
+      "6": {
+        "Level": 0,
+        "CHARACTER_EXP": 460
+      },
+      "60": {
+        "Level": 0,
+        "CHARACTER_EXP": 31000
+      },
+      "61": {
+        "Level": 0,
+        "CHARACTER_EXP": 32040
+      },
+      "62": {
+        "Level": 0,
+        "CHARACTER_EXP": 33100
+      },
+      "63": {
+        "Level": 0,
+        "CHARACTER_EXP": 34170
+      },
+      "64": {
+        "Level": 0,
+        "CHARACTER_EXP": 35260
+      },
+      "65": {
+        "Level": 0,
+        "CHARACTER_EXP": 36370
+      },
+      "66": {
+        "Level": 0,
+        "CHARACTER_EXP": 37500
+      },
+      "67": {
+        "Level": 0,
+        "CHARACTER_EXP": 38640
+      },
+      "68": {
+        "Level": 0,
+        "CHARACTER_EXP": 39800
+      },
+      "69": {
+        "Level": 0,
+        "CHARACTER_EXP": 40980
+      },
+      "7": {
+        "Level": 0,
+        "CHARACTER_EXP": 570
+      },
+      "70": {
+        "Level": 0,
+        "CHARACTER_EXP": 42180
+      },
+      "71": {
+        "Level": 0,
+        "CHARACTER_EXP": 43390
+      },
+      "72": {
+        "Level": 0,
+        "CHARACTER_EXP": 44620
+      },
+      "73": {
+        "Level": 0,
+        "CHARACTER_EXP": 45870
+      },
+      "74": {
+        "Level": 0,
+        "CHARACTER_EXP": 47130
+      },
+      "75": {
+        "Level": 0,
+        "CHARACTER_EXP": 48410
+      },
+      "76": {
+        "Level": 0,
+        "CHARACTER_EXP": 49710
+      },
+      "77": {
+        "Level": 0,
+        "CHARACTER_EXP": 51030
+      },
+      "78": {
+        "Level": 0,
+        "CHARACTER_EXP": 52360
+      },
+      "79": {
+        "Level": 0,
+        "CHARACTER_EXP": 53710
+      },
+      "8": {
+        "Level": 0,
+        "CHARACTER_EXP": 700
+      },
+      "80": {
+        "Level": 0,
+        "CHARACTER_EXP": 55080
+      },
+      "9": {
+        "Level": 0,
+        "CHARACTER_EXP": 840
+      }
+    }
+  }
+]

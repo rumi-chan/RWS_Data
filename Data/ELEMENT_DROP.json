@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ELEMENT_DROP",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBELEMENT_DROP'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1": {
+        "BLUE": 0,
+        "RED": 0,
+        "GREEN": 0,
+        "ETHER": 10000
+      }
+    }
+  }
+]

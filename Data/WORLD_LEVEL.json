@@ -1,0 +1,39 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "WORLD_LEVEL",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBWORLD_LEVEL'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1": {
+        "FAME_LEVEL": 0
+      },
+      "2": {
+        "FAME_LEVEL": 3
+      },
+      "3": {
+        "FAME_LEVEL": 4
+      },
+      "4": {
+        "FAME_LEVEL": 30
+      },
+      "5": {
+        "FAME_LEVEL": 35
+      },
+      "6": {
+        "FAME_LEVEL": 40
+      },
+      "7": {
+        "FAME_LEVEL": 45
+      },
+      "8": {
+        "FAME_LEVEL": 50
+      }
+    }
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "SHOP_NPC",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBSHOP_NPC'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "20001": {
+        "ID": 0,
+        "GOODS_GROUP_ID": 101,
+        "Name": "UI_NPC_SHOP_TITLE",
+        "Icon": "T_UI_NPCShop_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "CURRENCY_ID1": 101,
+        "CURRENCY_ID2": 0,
+        "CURRENCY_ID3": 0
+      },
+      "20002": {
+        "ID": 0,
+        "GOODS_GROUP_ID": 20002,
+        "Name": "UI_NPC_SHOP_TITLE",
+        "Icon": "T_UI_NPCShop_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "CURRENCY_ID1": 101,
+        "CURRENCY_ID2": 0,
+        "CURRENCY_ID3": 0
+      },
+      "20003": {
+        "ID": 0,
+        "GOODS_GROUP_ID": 20003,
+        "Name": "UI_NPC_SHOP_TITLE",
+        "Icon": "T_UI_NPCShop_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "CURRENCY_ID1": 101,
+        "CURRENCY_ID2": 0,
+        "CURRENCY_ID3": 0
+      },
+      "20004": {
+        "ID": 0,
+        "GOODS_GROUP_ID": 20004,
+        "Name": "UI_NPC_SHOP_TITLE",
+        "Icon": "T_UI_NPCShop_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "CURRENCY_ID1": 101,
+        "CURRENCY_ID2": 0,
+        "CURRENCY_ID3": 0
+      }
+    }
+  }
+]

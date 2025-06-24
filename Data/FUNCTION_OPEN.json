@@ -1,0 +1,135 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "FUNCTION_OPEN",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBFUNCTION_OPEN'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "101101": {
+        "QUEST_ID": 0,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 101
+      },
+      "101102": {
+        "QUEST_ID": 0,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 102
+      },
+      "101104": {
+        "QUEST_ID": 0,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 104
+      },
+      "101105": {
+        "QUEST_ID": 0,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 105
+      },
+      "101106": {
+        "QUEST_ID": 0,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 106
+      },
+      "101107": {
+        "QUEST_ID": 0,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 107
+      },
+      "101109": {
+        "QUEST_ID": 111003,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 109
+      },
+      "101202": {
+        "QUEST_ID": 0,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 202
+      },
+      "102201": {
+        "QUEST_ID": 0,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 201
+      },
+      "103108": {
+        "QUEST_ID": 111002,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 108
+      },
+      "104113": {
+        "QUEST_ID": 111004,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 113
+      },
+      "104114": {
+        "QUEST_ID": 111004,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 114
+      },
+      "105116": {
+        "QUEST_ID": 111006,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 116
+      },
+      "105118": {
+        "QUEST_ID": 111008,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 118
+      },
+      "105119": {
+        "QUEST_ID": 111006,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 119
+      },
+      "105120": {
+        "QUEST_ID": 111004,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 120
+      },
+      "105230": {
+        "QUEST_ID": 0,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 121
+      },
+      "106001": {
+        "QUEST_ID": 0,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 122
+      },
+      "106301": {
+        "QUEST_ID": 111004,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 301
+      },
+      "106302": {
+        "QUEST_ID": 111004,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 302
+      },
+      "106303": {
+        "QUEST_ID": 0,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 303
+      },
+      "106304": {
+        "QUEST_ID": 0,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 304
+      },
+      "106305": {
+        "QUEST_ID": 111004,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 305
+      },
+      "106306": {
+        "QUEST_ID": 111002,
+        "CORE_RANK": 0,
+        "FUNC_OPEN": 306
+      }
+    }
+  }
+]

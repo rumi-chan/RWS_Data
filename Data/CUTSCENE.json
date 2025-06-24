@@ -1,0 +1,2127 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CUTSCENE",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBCUTSCENE'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "100001": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Player_Skill99/SQ_PC_Player_Skill99_Master_Re.SQ_PC_Player_Skill99_Master_Re",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Player_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Player_Skill99_Master_Re"
+      },
+      "100002": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Serie_Skill99/SQ_PC_Serie_Skill99_Master.SQ_PC_Serie_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Serie_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Serie_Skill99_Master"
+      },
+      "100003": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Jeremiah_Skill99/SQ_PC_Jeremiah_Skill99_Master.SQ_PC_Jeremiah_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Jeremiah_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Jeremiah_Skill99_Master"
+      },
+      "100004": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Theodore_Skill99/SQ_PC_Theodore_Skill99_Master.SQ_PC_Theodore_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Theodore_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Theodore_Skill99_Master"
+      },
+      "100005": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Lilia_Skill99/SQ_PC_Lilia_Skill99_Master.SQ_PC_Lilia_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Lilia_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Lilia_Skill99_Master"
+      },
+      "100006": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Lixiang_Skill99/SQ_PC_Lixiang_Skill99_Master.SQ_PC_Lixiang_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Lixiang_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Lixiang_Skill99_Master"
+      },
+      "100007": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Yuri_Skill99/SQ_PC_Yuri_Skill99_Master.SQ_PC_Yuri_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Yuri_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Yuri_Skill99_Master"
+      },
+      "100008": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Xeon_Skill99/SQ_PC_Xeon_Skill99_Master.SQ_PC_Xeon_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Xeon_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Xeon_Skill99_Master"
+      },
+      "100009": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Kana_Skill99/SQ_PC_Kana_Skill99_Master.SQ_PC_Kana_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Kana_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Kana_Skill99_Master"
+      },
+      "100010": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Ferrancy_Skill99/SQ_PC_Ferrancy_Skill99_Master.SQ_PC_Ferrancy_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Ferrancy_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Ferrancy_Skill99_Master"
+      },
+      "100011": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Bernice_Skill99/SQ_PC_Bernice_Skill99_Master_Re.SQ_PC_Bernice_Skill99_Master_Re",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Bernice_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Bernice_Skill99_Master_Re"
+      },
+      "100012": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Shutein_Skill99/SQ_PC_Shutein_Skill99_Master.SQ_PC_Shutein_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Shutein_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Shutein_Skill99_Master"
+      },
+      "100013": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Artnis_Skill99/SQ_PC_Artnis_Skill99_Master.SQ_PC_Artnis_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Artnis_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Artnis_Skill99_Master"
+      },
+      "100014": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Roussin_Skill99/SQ_PC_Roussin_Skill99_Master.SQ_PC_Roussin_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Roussin_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Roussin_Skill99_Master"
+      },
+      "100015": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Chloe_Skill99/SQ_PC_Chloe_Skill99_Master.SQ_PC_Chloe_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Chloe_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Chloe_Skill99_Master"
+      },
+      "100016": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Lucas_Skill99/SQ_PC_Lucas_Skill99_Master.SQ_PC_Lucas_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Lucas_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Lucas_Skill99_Master"
+      },
+      "100017": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Isania_Skill99/SQ_PC_Isania_Skill99_Master.SQ_PC_Isania_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Isania_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Isania_Skill99_Master"
+      },
+      "100018": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Pluto_Skill99/PC_Pluto_Skill99_Master.PC_Pluto_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Pluto_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Pluto_Skill99_Master"
+      },
+      "100019": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Monica_Skill99/SQ_PC_Monica_Skill99_Master.SQ_PC_Monica_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Monica_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Monica_Skill99_Master"
+      },
+      "100020": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Rampart_Skill99/PC_Rampart_Skill99_Master.PC_Rampart_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Rampart_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Rampart_Skill99_Master"
+      },
+      "100021": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Hajin_Skill99/SQ_PC_Hajin_Skill99_Master.SQ_PC_Hajin_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Hajin_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Hajin_Skill99_Master"
+      },
+      "100022": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Sacha_Skill99/SQ_PC_Sacha_Skill99_Master.SQ_PC_Sacha_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Sacha_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Sacha_Skill99_Master"
+      },
+      "100023": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Beatrice_Skill99/SQ_PC_Beatrice_Skill99_Master.SQ_PC_Beatrice_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Beatrice_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Beatrice_Skill99_Master"
+      },
+      "100024": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Diana_Skill99/SQ_PC_Diana_Skill99_Master.SQ_PC_Diana_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Diana_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "SQ_PC_Diana_Skill99_Master"
+      },
+      "100025": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/PC_Chesha_Skill99/PC_Chesha_Skill99_Master.PC_Chesha_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/PC_Chesha_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Chesha_Skill99_Master"
+      },
+      "130011": {
+        "Type": "ENBCutSceneType::QuestWorld",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Entry/BOSS_Nuska_Entry/BOSS_Nuska_Entry_Master.BOSS_Nuska_Entry_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Entry/BOSS_Nuska_Entry",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "BOSS_Nuska_Entry_Master"
+      },
+      "130012": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/BOSS_Nuska_Skill99/BOSS_Nuska_Skill99_Master.BOSS_Nuska_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/BOSS_Nuska_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "BOSS_Nuska_Skill99_Master"
+      },
+      "130022": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Skill/BOSS_CorruptedApostle_Skill99/BOSS_CorruptedApostle_Skill99_Master.BOSS_CorruptedApostle_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Skill/BOSS_CorruptedApostle_Skill99",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "BOSS_CorruptedApostle_Skill99_Master"
+      },
+      "211001": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_001/Main_00_01_001_Master.Main_00_01_001_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_001",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_001_Master"
+      },
+      "211002": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_002/Main_00_01_002_Master.Main_00_01_002_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_002",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_002_Master"
+      },
+      "211003": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_003/Main_00_01_003_Master.Main_00_01_003_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_003",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_003_Master"
+      },
+      "211004": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_004/Main_00_01_004_Master.Main_00_01_004_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_004",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_004_Master"
+      },
+      "211005": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_005/Main_00_01_005_Master.Main_00_01_005_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_005",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_005_Master"
+      },
+      "211006": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_006/1_GoldenWood_opening/Main_00_01_006_1_Movie.Main_00_01_006_1_Movie",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_006/1_GoldenWood_opening",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_006_1_Movie"
+      },
+      "211007": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_007/Main_00_01_007_Master.Main_00_01_007_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_007",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_007_Master"
+      },
+      "211008": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_008/Main_00_01_008_Master.Main_00_01_008_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_008",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_008_Master"
+      },
+      "211009": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_009/Main_00_01_009_Master.Main_00_01_009_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_009",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_009_Master"
+      },
+      "211010": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_010/Main_00_01_010_Master.Main_00_01_010_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_010",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_010_Master"
+      },
+      "211011": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_011/Main_00_01_011_Master.Main_00_01_011_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_011",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_011_Master"
+      },
+      "211012": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_012/Main_00_01_012_Master.Main_00_01_012_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_012",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_012_Master"
+      },
+      "211013": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_000/Main_00_01_000_01_Master.Main_00_01_000_01_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_000",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_000_01_Master"
+      },
+      "211014": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_013/Main_00_01_013_Master.Main_00_01_013_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_013",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_013_Master"
+      },
+      "211015": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_000/Main_00_01_000_03_Master.Main_00_01_000_03_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_000",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_000_03_Master"
+      },
+      "211016": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_002_01/Main_00_01_002_01_Master.Main_00_01_002_01_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_002_01",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_002_01_Master"
+      },
+      "211017": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_002_02/Main_00_01_002_02_Master.Main_00_01_002_02_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_002_02",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_002_02_Master"
+      },
+      "211018": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_002_03/Main_00_01_002_03_Master.Main_00_01_002_03_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_002_03",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_002_03_Master"
+      },
+      "212001": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_014/Main_00_01_014_Master.Main_00_01_014_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_014",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_014_Master"
+      },
+      "212002": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_015/Main_00_01_015_Master.Main_00_01_015_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_015",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_015_Master"
+      },
+      "212003": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_016/Main_00_01_016_Master.Main_00_01_016_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_016",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_016_Master"
+      },
+      "212004": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_017/Main_00_01_017_Master.Main_00_01_017_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_017",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_017_Master"
+      },
+      "212005": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_018/Main_00_01_018_Master.Main_00_01_018_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_018",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_018_Master"
+      },
+      "212006": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_019/Main_00_01_019_Master.Main_00_01_019_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_019",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_019_Master"
+      },
+      "212007": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_020/Main_00_01_020_Master.Main_00_01_020_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_020",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_020_Master"
+      },
+      "212008": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/GD_TEMP.GD_TEMP",
+          "SubPathString": ""
+        },
+        "Path": "",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "GD_TEMP"
+      },
+      "212009": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/TEMP_021.TEMP_021",
+          "SubPathString": ""
+        },
+        "Path": "",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "TEMP_021"
+      },
+      "212010": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_021/Main_00_01_021_Master.Main_00_01_021_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_021",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_021_Master"
+      },
+      "212011": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_00_01_006/2_Grassville_Inn01/Main_00_01_006_2_Master.Main_00_01_006_2_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_006/2_Grassville_Inn01",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_006_2_Master"
+      },
+      "213001": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_01_001/Main_01_01_001_Master.Main_01_01_001_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_01_001",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_01_001_Master"
+      },
+      "213002": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_01_002/Main_01_01_002_Master.Main_01_01_002_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_01_002",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_01_002_Master"
+      },
+      "213003": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_01_004/Main_01_01_004_Master.Main_01_01_004_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_01_004",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_01_004_Master"
+      },
+      "213004": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_01_005/Main_01_01_005_Master.Main_01_01_005_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_01_005",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_01_005_Master"
+      },
+      "213005": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_01_003/Main_01_01_003_Movie.Main_01_01_003_Movie",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_01_003",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_01_003_Movie"
+      },
+      "213006": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_01_006/Main_01_01_006_Master.Main_01_01_006_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_01_006",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_01_006_Master"
+      },
+      "213007": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_01_007/Main_01_01_007_Master.Main_01_01_007_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_01_007",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_01_007_Master"
+      },
+      "213008": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_01_008/Main_01_01_008_Master.Main_01_01_008_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_01_008",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_01_008_Master"
+      },
+      "213009": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_01_009/Main_01_01_009_Master.Main_01_01_009_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_01_009",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_01_009_Master"
+      },
+      "213010": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_01_010/Main_01_01_010_Master.Main_01_01_010_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_01_010",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_01_010_Master"
+      },
+      "213011": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_01_011/Main_01_01_011_Master.Main_01_01_011_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_01_011",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_01_011_Master"
+      },
+      "213012": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_01_012/Main_01_01_012_Master.Main_01_01_012_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_01_012",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_01_012_Master"
+      },
+      "213013": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_01_013/Main_01_01_013_Master.Main_01_01_013_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_01_013",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_01_013_Master"
+      },
+      "213014": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_01_014/Main_01_01_014_Master.Main_01_01_014_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_01_014",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_01_014_Master"
+      },
+      "213015": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/TEMP_Main_001.TEMP_Main_001",
+          "SubPathString": ""
+        },
+        "Path": "",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "TEMP_Main_001"
+      },
+      "213016": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/TEMP_Main_002.TEMP_Main_002",
+          "SubPathString": ""
+        },
+        "Path": "",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "TEMP_Main_002"
+      },
+      "213017": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_02_001/Main_01_02_001_Master.Main_01_02_001_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_02_001",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_02_001_Master"
+      },
+      "213018": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_02_002/Main_01_02_002_Master.Main_01_02_002_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_02_002",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_02_002_Master"
+      },
+      "213019": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_02_003/Main_01_02_003_Master.Main_01_02_003_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_02_003",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_02_003_Master"
+      },
+      "213020": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_02_004/Main_01_02_004_Master.Main_01_02_004_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_02_004",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_02_004_Master"
+      },
+      "213021": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_02_005/Main_01_02_005_Master.Main_01_02_005_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_02_005",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_02_005_Master"
+      },
+      "213022": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_02_006/Main_01_02_006_Master.Main_01_02_006_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_02_006",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_02_006_Master"
+      },
+      "213023": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_02_007/Main_01_02_007_Master.Main_01_02_007_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_02_007",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_02_007_Master"
+      },
+      "213024": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_02_008/Main_01_02_008_Master.Main_01_02_008_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_02_008",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_02_008_Master"
+      },
+      "213025": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_02_009/Main_01_02_009_Master.Main_01_02_009_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_02_009",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_02_009_Master"
+      },
+      "213026": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_02_010/Main_01_02_010_Master.Main_01_02_010_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_02_010",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_02_010_Master"
+      },
+      "213027": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_02_011/Main_01_02_011_Master.Main_01_02_011_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_02_011",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_02_011_Master"
+      },
+      "213028": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_02_012/Main_01_02_012_Master.Main_01_02_012_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_02_012",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_02_012_Master"
+      },
+      "213029": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_02_013/Main_01_02_013_Master.Main_01_02_013_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_02_013",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_02_013_Master"
+      },
+      "213030": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_02_014/Main_01_02_014_Master.Main_01_02_014_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_02_014",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_02_014_Master"
+      },
+      "213031": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_02_015/Main_01_02_015_Master.Main_01_02_015_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_02_015",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_02_015_Master"
+      },
+      "213032": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_001/Main_01_03_001_Master.Main_01_03_001_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_001",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_001_Master"
+      },
+      "213033": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_002/Main_01_03_002_Master.Main_01_03_002_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_002",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_002_Master"
+      },
+      "213034": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_003/Main_01_03_003_Master.Main_01_03_003_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_003",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_003_Master"
+      },
+      "213035": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_004/Main_01_03_004_Master.Main_01_03_004_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_004",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_004_Master"
+      },
+      "213036": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_005/Main_01_03_005_Master.Main_01_03_005_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_005",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_005_Master"
+      },
+      "213037": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_006/Main_01_03_006_Master.Main_01_03_006_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_006",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_006_Master"
+      },
+      "213038": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_007/Main_01_03_007_Master.Main_01_03_007_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_007",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_007_Master"
+      },
+      "213039": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_008/Main_01_03_008_Master.Main_01_03_008_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_008",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_008_Master"
+      },
+      "213040": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_009/Main_01_03_009_Master.Main_01_03_009_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_009",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_009_Master"
+      },
+      "213041": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_010/Main_01_03_010_Master.Main_01_03_010_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_010",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_010_Master"
+      },
+      "213042": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_011/Main_01_03_011_Master.Main_01_03_011_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_011",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_011_Master"
+      },
+      "213043": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_012/Main_01_03_012_Master.Main_01_03_012_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_012",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_012_Master"
+      },
+      "213044": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_013/Main_01_03_013_Master.Main_01_03_013_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_013",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_013_Master"
+      },
+      "213045": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_014/Main_01_03_014_Master.Main_01_03_014_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_014",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_014_Master"
+      },
+      "213046": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_015/Main_01_03_015_Master.Main_01_03_015_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_015",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_015_Master"
+      },
+      "213047": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_016/Main_01_03_016_Master.Main_01_03_016_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_016",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_016_Master"
+      },
+      "213048": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_017/Main_01_03_017_Master.Main_01_03_017_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_017",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_017_Master"
+      },
+      "213049": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_03_018/Main_01_03_018_Master.Main_01_03_018_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_03_018",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_03_018_Master"
+      },
+      "213050": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/TEMP_002.TEMP_002",
+          "SubPathString": ""
+        },
+        "Path": "",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "TEMP_002"
+      },
+      "213051": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_04_001/Main_01_04_001_Master.Main_01_04_001_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_04_001",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_04_001_Master"
+      },
+      "213052": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_04_002/Main_01_04_002_Master.Main_01_04_002_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_04_002",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_04_002_Master"
+      },
+      "213053": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_04_003/Main_01_04_003_Master.Main_01_04_003_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_04_003",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_04_003_Master"
+      },
+      "213054": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_04_004/Main_01_04_004_Master.Main_01_04_004_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_04_004",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_04_004_Master"
+      },
+      "213055": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_04_005/Main_01_04_005_Master.Main_01_04_005_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_04_005",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_04_005_Master"
+      },
+      "213056": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_04_006/Main_01_04_006_Master.Main_01_04_006_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_04_006",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_04_006_Master"
+      },
+      "213057": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_04_007/Main_01_04_007_Master.Main_01_04_007_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_04_007",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_04_007_Master"
+      },
+      "213058": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_04_008/Main_01_04_008_Master.Main_01_04_008_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_04_008",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_04_008_Master"
+      },
+      "213061": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_05_001/Main_01_05_001_Master.Main_01_05_001_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_05_001",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_05_001_Master"
+      },
+      "213062": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_05_002/Main_01_05_002_Master.Main_01_05_002_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_05_002",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_05_002_Master"
+      },
+      "213063": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_05_003/Main_01_05_003_Master.Main_01_05_003_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_05_003",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_05_003_Master"
+      },
+      "213064": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_05_004/Main_01_05_004_Movie.Main_01_05_004_Movie",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_05_004",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_05_004_Movie"
+      },
+      "213065": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_05_005/Main_01_05_005_Master.Main_01_05_005_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_05_005",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_05_005_Master"
+      },
+      "213066": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_05_006/Main_01_05_006_Movie.Main_01_05_006_Movie",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_05_006",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_05_006_Movie"
+      },
+      "213067": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_05_007/Main_01_05_007_Master.Main_01_05_007_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_05_007",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_05_007_Master"
+      },
+      "213068": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Main_01_05_008/Main_01_05_008_Movie.Main_01_05_008_Movie",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_01_05_008",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_01_05_008_Movie"
+      },
+      "500999": {
+        "Type": "ENBCutSceneType::JoinCharacter",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/TEMP_028.TEMP_028",
+          "SubPathString": ""
+        },
+        "Path": "",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "TEMP_028"
+      },
+      "511001": {
+        "Type": "ENBCutSceneType::JoinCharacter",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/World_Pereus_001/World_Pereus_001_Master.World_Pereus_001_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/World_Pereus_001",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "World_Pereus_001_Master"
+      },
+      "511002": {
+        "Type": "ENBCutSceneType::JoinCharacter",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/World_Pereus_002/World_Pereus_002_Master.World_Pereus_002_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/World_Pereus_002",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "World_Pereus_002_Master"
+      },
+      "511003": {
+        "Type": "ENBCutSceneType::JoinCharacter",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/World_Pereus_003/World_Pereus_003_Master.World_Pereus_003_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/World_Pereus_003",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "World_Pereus_003_Master"
+      },
+      "511004": {
+        "Type": "ENBCutSceneType::JoinCharacter",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/World_Pereus_004/World_Pereus_004_Master.World_Pereus_004_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/World_Pereus_004",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "World_Pereus_004_Master"
+      },
+      "511005": {
+        "Type": "ENBCutSceneType::JoinCharacter",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/World_Pereus_005/World_Pereus_005_Master.World_Pereus_005_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/World_Pereus_005",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "World_Pereus_005_Master"
+      },
+      "511006": {
+        "Type": "ENBCutSceneType::JoinCharacter",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/World_Pereus_006/World_Pereus_006_Master.World_Pereus_006_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/World_Pereus_006",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "World_Pereus_006_Master"
+      },
+      "511007": {
+        "Type": "ENBCutSceneType::JoinCharacter",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/World_Pereus_007/World_Pereus_007_Master.World_Pereus_007_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/World_Pereus_007",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "World_Pereus_007_Master"
+      },
+      "511008": {
+        "Type": "ENBCutSceneType::JoinCharacter",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/World_Pereus_008/World_Pereus_008_Master.World_Pereus_008_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/World_Pereus_008",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "World_Pereus_008_Master"
+      },
+      "511009": {
+        "Type": "ENBCutSceneType::JoinCharacter",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/World_Pereus_009/World_Pereus_009_Master.World_Pereus_009_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/World_Pereus_009",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "World_Pereus_009_Master"
+      },
+      "600001": {
+        "Type": "ENBCutSceneType::Gacha",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Join/PC_Serie_Join/PC_Serie_Join_Master.PC_Serie_Join_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Join/PC_Serie_Join",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Serie_Join_Master"
+      },
+      "600002": {
+        "Type": "ENBCutSceneType::Gacha",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Join/PC_Jeremiah_Join/PC_Jeremiah_Join_Master.PC_Jeremiah_Join_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Join/PC_Jeremiah_Join",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Jeremiah_Join_Master"
+      },
+      "600003": {
+        "Type": "ENBCutSceneType::Gacha",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Join/PC_Chloe_Join/PC_Chloe_Join_Master.PC_Chloe_Join_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Join/PC_Chloe_Join",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Chloe_Join_Master"
+      },
+      "600004": {
+        "Type": "ENBCutSceneType::Gacha",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Join/PC_Artnis_Join/PC_Artnis_Join_Master.PC_Artnis_Join_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Join/PC_Artnis_Join",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Artnis_Join_Master"
+      },
+      "600005": {
+        "Type": "ENBCutSceneType::Gacha",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Join/PC_Monica_Join/PC_Monica_Join_Master.PC_Monica_Join_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Join/PC_Monica_Join",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Monica_Join_Master"
+      },
+      "600006": {
+        "Type": "ENBCutSceneType::Gacha",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Join/PC_Beatrice_Join/PC_Beatrice_Join_Master.PC_Beatrice_Join_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Join/PC_Beatrice_Join",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Beatrice_Join_Master"
+      },
+      "600007": {
+        "Type": "ENBCutSceneType::Gacha",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Join/PC_Ferrancy_Join/PC_Ferrancy_Join_Master.PC_Ferrancy_Join_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Join/PC_Ferrancy_Join",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Ferrancy_Join_Master"
+      },
+      "600008": {
+        "Type": "ENBCutSceneType::Gacha",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Join/PC_Xeon_Join/PC_Xeon_Join_Master.PC_Xeon_Join_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Join/PC_Xeon_Join",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Xeon_Join_Master"
+      },
+      "600009": {
+        "Type": "ENBCutSceneType::Gacha",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Join/PC_Bernice_Join/PC_Bernice_Join_Master.PC_Bernice_Join_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Join/PC_Bernice_Join",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Bernice_Join_Master"
+      },
+      "600010": {
+        "Type": "ENBCutSceneType::Gacha",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Join/PC_Isania_Join/PC_Isania_Join_Master.PC_Isania_Join_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Join/PC_Isania_Join",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Isania_Join_Master"
+      },
+      "600011": {
+        "Type": "ENBCutSceneType::Gacha",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Join/PC_Chesha_Join/PC_Chesha_Join_Master.PC_Chesha_Join_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Join/PC_Chesha_Join",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Chesha_Join_Master"
+      },
+      "600012": {
+        "Type": "ENBCutSceneType::Gacha",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Join/PC_Diana_Join/PC_Diana_Join_Master.PC_Diana_Join_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Join/PC_Diana_Join",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Diana_Join_Master"
+      },
+      "600013": {
+        "Type": "ENBCutSceneType::Gacha",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Join/PC_Ravi_Join/PC_Ravi_Join_Master.PC_Ravi_Join_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Join/PC_Ravi_Join",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Ravi_Join_Master"
+      },
+      "600014": {
+        "Type": "ENBCutSceneType::Gacha",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Join/PC_Priscilia_Join/PC_Priscilia_Join_Master.PC_Priscilia_Join_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Join/PC_Priscilia_Join",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Priscilia_Join_Master"
+      },
+      "600015": {
+        "Type": "ENBCutSceneType::Gacha",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Join/PC_Libertas_Join/PC_Libertas_Join_Master.PC_Libertas_Join_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Join/PC_Libertas_Join",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Libertas_Join_Master"
+      },
+      "600016": {
+        "Type": "ENBCutSceneType::Gacha",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Join/PC_Enas_Join/PC_Enas_Join_Master.PC_Enas_Join_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Join/PC_Enas_Join",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Enas_Join_Master"
+      },
+      "600017": {
+        "Type": "ENBCutSceneType::Gacha",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Join/PC_Ivy_Join/PC_Ivy_Join_Master.PC_Ivy_Join_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Join/PC_Ivy_Join",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "PC_Ivy_Join_Master"
+      },
+      "701001": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_01_001/Event_01_01_001_Master.Event_01_01_001_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_01_001",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_01_001_Master"
+      },
+      "701002": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_01_002/Event_01_01_002_Master.Event_01_01_002_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_01_002",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_01_002_Master"
+      },
+      "701003": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_01_003/Event_01_01_003_Master.Event_01_01_003_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_01_003",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_01_003_Master"
+      },
+      "701004": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_01_004/Event_01_01_004_Master.Event_01_01_004_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_01_004",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_01_004_Master"
+      },
+      "701005": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_01_005/Event_01_01_005_Master.Event_01_01_005_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_01_005",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_01_005_Master"
+      },
+      "701006": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_01_006/Event_01_01_006_Master.Event_01_01_006_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_01_006",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_01_006_Master"
+      },
+      "701007": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_01_007/Event_01_01_007_Master.Event_01_01_007_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_01_007",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_01_007_Master"
+      },
+      "701008": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_01_008/Event_01_01_008_Master.Event_01_01_008_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_01_008",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_01_008_Master"
+      },
+      "701009": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_01_009/Event_01_01_009_Master.Event_01_01_009_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_01_009",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_01_009_Master"
+      },
+      "701010": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_01_010/Event_01_01_010_Master.Event_01_01_010_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_01_010",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_01_010_Master"
+      },
+      "701011": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_01_011/Event_01_01_011_Master.Event_01_01_011_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_01_011",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_01_011_Master"
+      },
+      "701012": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_01_012/Event_01_01_012_Master.Event_01_01_012_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_01_012",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_01_012_Master"
+      },
+      "701013": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_01_013/Event_01_01_013_Master.Event_01_01_013_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_01_013",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_01_013_Master"
+      },
+      "701014": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_02_001/Event_01_02_001_Master.Event_01_02_001_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_02_001",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_02_001_Master"
+      },
+      "701015": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_02_002/Event_01_02_002_Master.Event_01_02_002_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_02_002",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_02_002_Master"
+      },
+      "701016": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_02_003/Event_01_02_003_Master.Event_01_02_003_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_02_003",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_02_003_Master"
+      },
+      "701017": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_02_004/Event_01_02_004_Master.Event_01_02_004_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_02_004",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_02_004_Master"
+      },
+      "701018": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_02_005/Event_01_02_005_Master.Event_01_02_005_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_02_005",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_02_005_Master"
+      },
+      "701019": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_02_006/Event_01_02_006_Master.Event_01_02_006_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_02_006",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_02_006_Master"
+      },
+      "701020": {
+        "Type": "ENBCutSceneType::QuestMain",
+        "RESOURCE_W_YN": 1,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Quest/Event_01_02_007/Event_01_02_007_Master.Event_01_02_007_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Event_01_02_007",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Event_01_02_007_Master"
+      },
+      "800001": {
+        "Type": "ENBCutSceneType::ENBCutSceneType_MAX",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Gacha/Gacha_Single/Gacha_Single_Master.Gacha_Single_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Gacha/Gacha_Single",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Gacha_Single_Master"
+      },
+      "800002": {
+        "Type": "ENBCutSceneType::ENBCutSceneType_MAX",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Gacha/Gacha_Single/Gacha_Single_Master_Grade5.Gacha_Single_Master_Grade5",
+          "SubPathString": ""
+        },
+        "Path": "/Gacha/Gacha_Single",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Gacha_Single_Master_Grade5"
+      },
+      "800003": {
+        "Type": "ENBCutSceneType::ENBCutSceneType_MAX",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Gacha/Gacha_Multi/Gacha_Multi_Master.Gacha_Multi_Master",
+          "SubPathString": ""
+        },
+        "Path": "/Gacha/Gacha_Multi",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Gacha_Multi_Master"
+      },
+      "800004": {
+        "Type": "ENBCutSceneType::ENBCutSceneType_MAX",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/Gacha/Gacha_Multi/Gacha_Multi_Master_Grade5.Gacha_Multi_Master_Grade5",
+          "SubPathString": ""
+        },
+        "Path": "/Gacha/Gacha_Multi",
+        "SKIP_TYPE": "ENBCutSceneSkipType::VisibleSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Gacha_Multi_Master_Grade5"
+      },
+      "999998": {
+        "Type": "ENBCutSceneType::Victory",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Path": "/Quest/Main_00_01_003",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "Main_00_01_003_Master_Test"
+      },
+      "999999": {
+        "Type": "ENBCutSceneType::9",
+        "RESOURCE_W_YN": 0,
+        "RESOURCEForCook": {
+          "AssetPathName": "/Game/CutScenes/GD_TEMP.GD_TEMP",
+          "SubPathString": ""
+        },
+        "Path": "",
+        "SKIP_TYPE": "ENBCutSceneSkipType::HideSkip",
+        "ENABLE_STREAMING": 0,
+        "RESOURCE": "GD_TEMP"
+      }
+    }
+  }
+]

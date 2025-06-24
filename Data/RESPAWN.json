@@ -1,0 +1,43 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "RESPAWN",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBRESPAWN'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "101": {
+        "ID": 0,
+        "Time": 72000000
+      },
+      "102": {
+        "ID": 0,
+        "Time": 72000000
+      },
+      "103": {
+        "ID": 0,
+        "Time": 72000000
+      },
+      "104": {
+        "ID": 0,
+        "Time": 72000000
+      },
+      "105": {
+        "ID": 0,
+        "Time": 72000000
+      },
+      "301": {
+        "ID": 0,
+        "Time": 72000000
+      },
+      "501": {
+        "ID": 0,
+        "Time": 72000000
+      }
+    }
+  }
+]

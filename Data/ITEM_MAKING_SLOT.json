@@ -1,0 +1,215 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ITEM_MAKING_SLOT",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBITEM_MAKING_SLOT'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1001": {
+        "SLOT_COOK": 4,
+        "SLOT_EQUIP": 5
+      },
+      "1002": {
+        "SLOT_COOK": 3,
+        "SLOT_EQUIP": 2
+      },
+      "1003": {
+        "SLOT_COOK": 3,
+        "SLOT_EQUIP": 2
+      },
+      "1004": {
+        "SLOT_COOK": 3,
+        "SLOT_EQUIP": 2
+      },
+      "1005": {
+        "SLOT_COOK": 4,
+        "SLOT_EQUIP": 2
+      },
+      "1006": {
+        "SLOT_COOK": 4,
+        "SLOT_EQUIP": 2
+      },
+      "1007": {
+        "SLOT_COOK": 4,
+        "SLOT_EQUIP": 2
+      },
+      "1008": {
+        "SLOT_COOK": 4,
+        "SLOT_EQUIP": 2
+      },
+      "1009": {
+        "SLOT_COOK": 4,
+        "SLOT_EQUIP": 2
+      },
+      "1010": {
+        "SLOT_COOK": 5,
+        "SLOT_EQUIP": 3
+      },
+      "1011": {
+        "SLOT_COOK": 5,
+        "SLOT_EQUIP": 3
+      },
+      "1012": {
+        "SLOT_COOK": 5,
+        "SLOT_EQUIP": 3
+      },
+      "1013": {
+        "SLOT_COOK": 5,
+        "SLOT_EQUIP": 3
+      },
+      "1014": {
+        "SLOT_COOK": 5,
+        "SLOT_EQUIP": 3
+      },
+      "1015": {
+        "SLOT_COOK": 6,
+        "SLOT_EQUIP": 3
+      },
+      "1016": {
+        "SLOT_COOK": 6,
+        "SLOT_EQUIP": 3
+      },
+      "1017": {
+        "SLOT_COOK": 6,
+        "SLOT_EQUIP": 3
+      },
+      "1018": {
+        "SLOT_COOK": 6,
+        "SLOT_EQUIP": 3
+      },
+      "1019": {
+        "SLOT_COOK": 6,
+        "SLOT_EQUIP": 3
+      },
+      "1020": {
+        "SLOT_COOK": 7,
+        "SLOT_EQUIP": 4
+      },
+      "1021": {
+        "SLOT_COOK": 7,
+        "SLOT_EQUIP": 4
+      },
+      "1022": {
+        "SLOT_COOK": 7,
+        "SLOT_EQUIP": 4
+      },
+      "1023": {
+        "SLOT_COOK": 7,
+        "SLOT_EQUIP": 4
+      },
+      "1024": {
+        "SLOT_COOK": 7,
+        "SLOT_EQUIP": 4
+      },
+      "1025": {
+        "SLOT_COOK": 7,
+        "SLOT_EQUIP": 4
+      },
+      "1026": {
+        "SLOT_COOK": 7,
+        "SLOT_EQUIP": 4
+      },
+      "1027": {
+        "SLOT_COOK": 7,
+        "SLOT_EQUIP": 4
+      },
+      "1028": {
+        "SLOT_COOK": 7,
+        "SLOT_EQUIP": 4
+      },
+      "1029": {
+        "SLOT_COOK": 7,
+        "SLOT_EQUIP": 4
+      },
+      "1030": {
+        "SLOT_COOK": 8,
+        "SLOT_EQUIP": 5
+      },
+      "1031": {
+        "SLOT_COOK": 8,
+        "SLOT_EQUIP": 5
+      },
+      "1032": {
+        "SLOT_COOK": 8,
+        "SLOT_EQUIP": 5
+      },
+      "1033": {
+        "SLOT_COOK": 8,
+        "SLOT_EQUIP": 5
+      },
+      "1034": {
+        "SLOT_COOK": 8,
+        "SLOT_EQUIP": 5
+      },
+      "1035": {
+        "SLOT_COOK": 8,
+        "SLOT_EQUIP": 5
+      },
+      "1036": {
+        "SLOT_COOK": 8,
+        "SLOT_EQUIP": 5
+      },
+      "1037": {
+        "SLOT_COOK": 8,
+        "SLOT_EQUIP": 5
+      },
+      "1038": {
+        "SLOT_COOK": 8,
+        "SLOT_EQUIP": 5
+      },
+      "1039": {
+        "SLOT_COOK": 8,
+        "SLOT_EQUIP": 5
+      },
+      "1040": {
+        "SLOT_COOK": 9,
+        "SLOT_EQUIP": 6
+      },
+      "1041": {
+        "SLOT_COOK": 9,
+        "SLOT_EQUIP": 6
+      },
+      "1042": {
+        "SLOT_COOK": 9,
+        "SLOT_EQUIP": 6
+      },
+      "1043": {
+        "SLOT_COOK": 9,
+        "SLOT_EQUIP": 6
+      },
+      "1044": {
+        "SLOT_COOK": 9,
+        "SLOT_EQUIP": 6
+      },
+      "1045": {
+        "SLOT_COOK": 9,
+        "SLOT_EQUIP": 6
+      },
+      "1046": {
+        "SLOT_COOK": 9,
+        "SLOT_EQUIP": 6
+      },
+      "1047": {
+        "SLOT_COOK": 9,
+        "SLOT_EQUIP": 6
+      },
+      "1048": {
+        "SLOT_COOK": 9,
+        "SLOT_EQUIP": 6
+      },
+      "1049": {
+        "SLOT_COOK": 9,
+        "SLOT_EQUIP": 6
+      },
+      "1050": {
+        "SLOT_COOK": 10,
+        "SLOT_EQUIP": 8
+      }
+    }
+  }
+]

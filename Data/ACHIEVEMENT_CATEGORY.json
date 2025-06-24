@@ -1,0 +1,83 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ACHIEVEMENT_CATEGORY",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBACHIEVEMENT_CATEGORY'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1": {
+        "Category": 0,
+        "Index": 1,
+        "Name": "ACHIEVEMENT_CATEGORY_NAME_1",
+        "Icon": "MENU_ICON1_Sprite",
+        "MENU_ICON": "MENU_ICON1_Sprite",
+        "REWARD": 0,
+        "DISPLAY_YN": false,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/MENU_ICON1_Sprite.MENU_ICON1_Sprite",
+          "SubPathString": ""
+        },
+        "MENUICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/MENU_ICON1_Sprite.MENU_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "2": {
+        "Category": 0,
+        "Index": 2,
+        "Name": "ACHIEVEMENT_CATEGORY_NAME_2",
+        "Icon": "MENU_ICON2_Sprite",
+        "MENU_ICON": "MENU_ICON2_Sprite",
+        "REWARD": 0,
+        "DISPLAY_YN": false,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/MENU_ICON2_Sprite.MENU_ICON2_Sprite",
+          "SubPathString": ""
+        },
+        "MENUICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/MENU_ICON2_Sprite.MENU_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "3": {
+        "Category": 0,
+        "Index": 3,
+        "Name": "ACHIEVEMENT_CATEGORY_NAME_3",
+        "Icon": "MENU_ICON3_Sprite",
+        "MENU_ICON": "MENU_ICON3_Sprite",
+        "REWARD": 0,
+        "DISPLAY_YN": false,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/MENU_ICON3_Sprite.MENU_ICON3_Sprite",
+          "SubPathString": ""
+        },
+        "MENUICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/MENU_ICON3_Sprite.MENU_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "4": {
+        "Category": 0,
+        "Index": 4,
+        "Name": "ACHIEVEMENT_CATEGORY_NAME_4",
+        "Icon": "MENU_ICON4_Sprite",
+        "MENU_ICON": "MENU_ICON4_Sprite",
+        "REWARD": 0,
+        "DISPLAY_YN": false,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/MENU_ICON4_Sprite.MENU_ICON4_Sprite",
+          "SubPathString": ""
+        },
+        "MENUICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/MENU_ICON4_Sprite.MENU_ICON4_Sprite",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

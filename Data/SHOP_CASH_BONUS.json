@@ -1,0 +1,33 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "SHOP_CASH_BONUS",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBSHOP_CASH_BONUS'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1001001": {
+        "GROUP_ID": 300001,
+        "Name": "CASH_BONUS_NAME_01",
+        "Desc": "CASH_BONUS_DESC_01",
+        "CURRENCY_ID": 103,
+        "CURRENCY_MAX": 16000,
+        "START_DATE": "2025-04-15 06:00:00",
+        "END_DATE": "2025-05-28 06:00:00"
+      },
+      "1001002": {
+        "GROUP_ID": 300001,
+        "Name": "CASH_BONUS_NAME_01",
+        "Desc": "CASH_BONUS_DESC_01",
+        "CURRENCY_ID": 103,
+        "CURRENCY_MAX": 16000,
+        "START_DATE": "2025-05-28 06:00:01",
+        "END_DATE": "2025-06-18 11:59:59"
+      }
+    }
+  }
+]

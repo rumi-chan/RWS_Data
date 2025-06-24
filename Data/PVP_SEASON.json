@@ -1,0 +1,60 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "PVP_SEASON",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBPVP_SEASON'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "2001": {
+        "Name": "UI_SINGLEPVP_LB_SEASON_1",
+        "START_DATE": "2024-12-01 06:00:00",
+        "END_DATE": "2025-01-22 05:59:59"
+      },
+      "2002": {
+        "Name": "UI_SINGLEPVP_LB_SEASON_2",
+        "START_DATE": "2025-01-22 06:00:00",
+        "END_DATE": "2025-02-12 05:59:59"
+      },
+      "2003": {
+        "Name": "UI_SINGLEPVP_LB_SEASON_3",
+        "START_DATE": "2025-02-12 06:00:00",
+        "END_DATE": "2025-03-05 05:59:59"
+      },
+      "2004": {
+        "Name": "UI_SINGLEPVP_LB_SEASON_4",
+        "START_DATE": "2025-03-05 06:00:00",
+        "END_DATE": "2025-03-26 05:59:59"
+      },
+      "2005": {
+        "Name": "UI_SINGLEPVP_LB_SEASON_5",
+        "START_DATE": "2025-03-26 06:00:00",
+        "END_DATE": "2025-04-16 05:59:59"
+      },
+      "2006": {
+        "Name": "UI_SINGLEPVP_LB_SEASON_6",
+        "START_DATE": "2025-04-16 06:00:00",
+        "END_DATE": "2025-05-07 05:59:59"
+      },
+      "2007": {
+        "Name": "UI_SINGLEPVP_LB_SEASON_7",
+        "START_DATE": "2025-05-07 06:00:00",
+        "END_DATE": "2025-05-28 05:59:59"
+      },
+      "2008": {
+        "Name": "UI_SINGLEPVP_LB_SEASON_8",
+        "START_DATE": "2025-05-28 06:00:00",
+        "END_DATE": "2025-06-18 11:59:59"
+      },
+      "2009": {
+        "Name": "UI_SINGLEPVP_LB_SEASON_9",
+        "START_DATE": "2025-06-18 12:00:00",
+        "END_DATE": "2025-07-09 11:59:59"
+      }
+    }
+  }
+]

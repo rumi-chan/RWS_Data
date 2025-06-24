@@ -1,0 +1,2548 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ACHIEVEMENT",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBACHIEVEMENT'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "101001": {
+        "Category": 1,
+        "GROUP_ID": 101,
+        "Index": 1,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_101001",
+        "Desc": "ACHIEVEMENT_DESC_101001",
+        "Trigger": 800000058,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101002": {
+        "Category": 1,
+        "GROUP_ID": 101,
+        "Index": 1,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 101001,
+        "Name": "ACHIEVEMENT_NAME_101002",
+        "Desc": "ACHIEVEMENT_DESC_101002",
+        "Trigger": 800000059,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101003": {
+        "Category": 1,
+        "GROUP_ID": 101,
+        "Index": 1,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101002,
+        "Name": "ACHIEVEMENT_NAME_101003",
+        "Desc": "ACHIEVEMENT_DESC_101003",
+        "Trigger": 800000060,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101004": {
+        "Category": 1,
+        "GROUP_ID": 101,
+        "Index": 1,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101003,
+        "Name": "ACHIEVEMENT_NAME_101004",
+        "Desc": "ACHIEVEMENT_DESC_101004",
+        "Trigger": 800000061,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101005": {
+        "Category": 1,
+        "GROUP_ID": 101,
+        "Index": 1,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 101004,
+        "Name": "ACHIEVEMENT_NAME_101005",
+        "Desc": "ACHIEVEMENT_DESC_101005",
+        "Trigger": 800000062,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101051": {
+        "Category": 1,
+        "GROUP_ID": 102,
+        "Index": 2,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_101051",
+        "Desc": "ACHIEVEMENT_DESC_101051",
+        "Trigger": 800000063,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101052": {
+        "Category": 1,
+        "GROUP_ID": 102,
+        "Index": 2,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101051,
+        "Name": "ACHIEVEMENT_NAME_101052",
+        "Desc": "ACHIEVEMENT_DESC_101052",
+        "Trigger": 800000064,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101053": {
+        "Category": 1,
+        "GROUP_ID": 102,
+        "Index": 2,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 101052,
+        "Name": "ACHIEVEMENT_NAME_101053",
+        "Desc": "ACHIEVEMENT_DESC_101053",
+        "Trigger": 800000065,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101101": {
+        "Category": 1,
+        "GROUP_ID": 103,
+        "Index": 3,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_101101",
+        "Desc": "ACHIEVEMENT_DESC_101101",
+        "Trigger": 800000066,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101102": {
+        "Category": 1,
+        "GROUP_ID": 103,
+        "Index": 3,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 101101,
+        "Name": "ACHIEVEMENT_NAME_101102",
+        "Desc": "ACHIEVEMENT_DESC_101102",
+        "Trigger": 800000067,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101103": {
+        "Category": 1,
+        "GROUP_ID": 103,
+        "Index": 3,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101102,
+        "Name": "ACHIEVEMENT_NAME_101103",
+        "Desc": "ACHIEVEMENT_DESC_101103",
+        "Trigger": 800000068,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101104": {
+        "Category": 1,
+        "GROUP_ID": 103,
+        "Index": 3,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101103,
+        "Name": "ACHIEVEMENT_NAME_101104",
+        "Desc": "ACHIEVEMENT_DESC_101104",
+        "Trigger": 800000069,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101105": {
+        "Category": 1,
+        "GROUP_ID": 103,
+        "Index": 3,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 101104,
+        "Name": "ACHIEVEMENT_NAME_101105",
+        "Desc": "ACHIEVEMENT_DESC_101105",
+        "Trigger": 800000070,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101201": {
+        "Category": 1,
+        "GROUP_ID": 104,
+        "Index": 4,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_101201",
+        "Desc": "ACHIEVEMENT_DESC_101201",
+        "Trigger": 800000071,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101202": {
+        "Category": 1,
+        "GROUP_ID": 104,
+        "Index": 4,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 101201,
+        "Name": "ACHIEVEMENT_NAME_101202",
+        "Desc": "ACHIEVEMENT_DESC_101202",
+        "Trigger": 800000072,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101203": {
+        "Category": 1,
+        "GROUP_ID": 104,
+        "Index": 4,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101202,
+        "Name": "ACHIEVEMENT_NAME_101203",
+        "Desc": "ACHIEVEMENT_DESC_101203",
+        "Trigger": 800000073,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101204": {
+        "Category": 1,
+        "GROUP_ID": 104,
+        "Index": 4,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101203,
+        "Name": "ACHIEVEMENT_NAME_101204",
+        "Desc": "ACHIEVEMENT_DESC_101204",
+        "Trigger": 800000074,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101205": {
+        "Category": 1,
+        "GROUP_ID": 104,
+        "Index": 4,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 101204,
+        "Name": "ACHIEVEMENT_NAME_101205",
+        "Desc": "ACHIEVEMENT_DESC_101205",
+        "Trigger": 800000075,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101301": {
+        "Category": 1,
+        "GROUP_ID": 105,
+        "Index": 5,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_101301",
+        "Desc": "ACHIEVEMENT_DESC_101301",
+        "Trigger": 800000076,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101302": {
+        "Category": 1,
+        "GROUP_ID": 105,
+        "Index": 5,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 101301,
+        "Name": "ACHIEVEMENT_NAME_101302",
+        "Desc": "ACHIEVEMENT_DESC_101302",
+        "Trigger": 800000077,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101303": {
+        "Category": 1,
+        "GROUP_ID": 105,
+        "Index": 5,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101302,
+        "Name": "ACHIEVEMENT_NAME_101303",
+        "Desc": "ACHIEVEMENT_DESC_101303",
+        "Trigger": 800000078,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101304": {
+        "Category": 1,
+        "GROUP_ID": 105,
+        "Index": 5,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101303,
+        "Name": "ACHIEVEMENT_NAME_101304",
+        "Desc": "ACHIEVEMENT_DESC_101304",
+        "Trigger": 800000079,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101305": {
+        "Category": 1,
+        "GROUP_ID": 105,
+        "Index": 5,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 101304,
+        "Name": "ACHIEVEMENT_NAME_101305",
+        "Desc": "ACHIEVEMENT_DESC_101305",
+        "Trigger": 800000080,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101401": {
+        "Category": 1,
+        "GROUP_ID": 106,
+        "Index": 6,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_101401",
+        "Desc": "ACHIEVEMENT_DESC_101401",
+        "Trigger": 800000081,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101402": {
+        "Category": 1,
+        "GROUP_ID": 106,
+        "Index": 6,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 101401,
+        "Name": "ACHIEVEMENT_NAME_101402",
+        "Desc": "ACHIEVEMENT_DESC_101402",
+        "Trigger": 800000082,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101403": {
+        "Category": 1,
+        "GROUP_ID": 106,
+        "Index": 6,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101402,
+        "Name": "ACHIEVEMENT_NAME_101403",
+        "Desc": "ACHIEVEMENT_DESC_101403",
+        "Trigger": 800000083,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101404": {
+        "Category": 1,
+        "GROUP_ID": 106,
+        "Index": 6,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101403,
+        "Name": "ACHIEVEMENT_NAME_101404",
+        "Desc": "ACHIEVEMENT_DESC_101404",
+        "Trigger": 800000084,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101405": {
+        "Category": 1,
+        "GROUP_ID": 106,
+        "Index": 6,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 101404,
+        "Name": "ACHIEVEMENT_NAME_101405",
+        "Desc": "ACHIEVEMENT_DESC_101405",
+        "Trigger": 800000085,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101501": {
+        "Category": 1,
+        "GROUP_ID": 107,
+        "Index": 7,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_101501",
+        "Desc": "ACHIEVEMENT_DESC_101501",
+        "Trigger": 800000086,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101502": {
+        "Category": 1,
+        "GROUP_ID": 107,
+        "Index": 7,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 101501,
+        "Name": "ACHIEVEMENT_NAME_101502",
+        "Desc": "ACHIEVEMENT_DESC_101502",
+        "Trigger": 800000087,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101503": {
+        "Category": 1,
+        "GROUP_ID": 107,
+        "Index": 7,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101502,
+        "Name": "ACHIEVEMENT_NAME_101503",
+        "Desc": "ACHIEVEMENT_DESC_101503",
+        "Trigger": 800000088,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101504": {
+        "Category": 1,
+        "GROUP_ID": 107,
+        "Index": 7,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101503,
+        "Name": "ACHIEVEMENT_NAME_101504",
+        "Desc": "ACHIEVEMENT_DESC_101504",
+        "Trigger": 800000089,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101505": {
+        "Category": 1,
+        "GROUP_ID": 107,
+        "Index": 7,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 101504,
+        "Name": "ACHIEVEMENT_NAME_101505",
+        "Desc": "ACHIEVEMENT_DESC_101505",
+        "Trigger": 800000090,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101601": {
+        "Category": 1,
+        "GROUP_ID": 108,
+        "Index": 8,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_101601",
+        "Desc": "ACHIEVEMENT_DESC_101601",
+        "Trigger": 800000091,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101602": {
+        "Category": 1,
+        "GROUP_ID": 108,
+        "Index": 8,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 101601,
+        "Name": "ACHIEVEMENT_NAME_101602",
+        "Desc": "ACHIEVEMENT_DESC_101602",
+        "Trigger": 800000092,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101603": {
+        "Category": 1,
+        "GROUP_ID": 108,
+        "Index": 8,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 101602,
+        "Name": "ACHIEVEMENT_NAME_101603",
+        "Desc": "ACHIEVEMENT_DESC_101603",
+        "Trigger": 800000093,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101604": {
+        "Category": 1,
+        "GROUP_ID": 108,
+        "Index": 8,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 101603,
+        "Name": "ACHIEVEMENT_NAME_101604",
+        "Desc": "ACHIEVEMENT_DESC_101604",
+        "Trigger": 800000094,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101605": {
+        "Category": 1,
+        "GROUP_ID": 108,
+        "Index": 8,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101604,
+        "Name": "ACHIEVEMENT_NAME_101605",
+        "Desc": "ACHIEVEMENT_DESC_101605",
+        "Trigger": 800000095,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101606": {
+        "Category": 1,
+        "GROUP_ID": 108,
+        "Index": 8,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101605,
+        "Name": "ACHIEVEMENT_NAME_101606",
+        "Desc": "ACHIEVEMENT_DESC_101606",
+        "Trigger": 800000096,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101607": {
+        "Category": 1,
+        "GROUP_ID": 108,
+        "Index": 8,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101606,
+        "Name": "ACHIEVEMENT_NAME_101607",
+        "Desc": "ACHIEVEMENT_DESC_101607",
+        "Trigger": 800000097,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101608": {
+        "Category": 1,
+        "GROUP_ID": 108,
+        "Index": 8,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101607,
+        "Name": "ACHIEVEMENT_NAME_101608",
+        "Desc": "ACHIEVEMENT_DESC_101608",
+        "Trigger": 800000098,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101609": {
+        "Category": 1,
+        "GROUP_ID": 108,
+        "Index": 8,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 101608,
+        "Name": "ACHIEVEMENT_NAME_101609",
+        "Desc": "ACHIEVEMENT_DESC_101609",
+        "Trigger": 800000099,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101610": {
+        "Category": 1,
+        "GROUP_ID": 108,
+        "Index": 8,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 101609,
+        "Name": "ACHIEVEMENT_NAME_101610",
+        "Desc": "ACHIEVEMENT_DESC_101610",
+        "Trigger": 800000100,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101701": {
+        "Category": 1,
+        "GROUP_ID": 109,
+        "Index": 9,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_101701",
+        "Desc": "ACHIEVEMENT_DESC_101701",
+        "Trigger": 800000101,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101702": {
+        "Category": 1,
+        "GROUP_ID": 109,
+        "Index": 9,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 101701,
+        "Name": "ACHIEVEMENT_NAME_101702",
+        "Desc": "ACHIEVEMENT_DESC_101702",
+        "Trigger": 800000102,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101703": {
+        "Category": 1,
+        "GROUP_ID": 109,
+        "Index": 9,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 101702,
+        "Name": "ACHIEVEMENT_NAME_101703",
+        "Desc": "ACHIEVEMENT_DESC_101703",
+        "Trigger": 800000103,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101704": {
+        "Category": 1,
+        "GROUP_ID": 109,
+        "Index": 9,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 101703,
+        "Name": "ACHIEVEMENT_NAME_101704",
+        "Desc": "ACHIEVEMENT_DESC_101704",
+        "Trigger": 800000104,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101705": {
+        "Category": 1,
+        "GROUP_ID": 109,
+        "Index": 9,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101704,
+        "Name": "ACHIEVEMENT_NAME_101705",
+        "Desc": "ACHIEVEMENT_DESC_101705",
+        "Trigger": 800000105,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101706": {
+        "Category": 1,
+        "GROUP_ID": 109,
+        "Index": 9,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101705,
+        "Name": "ACHIEVEMENT_NAME_101706",
+        "Desc": "ACHIEVEMENT_DESC_101706",
+        "Trigger": 800000106,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101707": {
+        "Category": 1,
+        "GROUP_ID": 109,
+        "Index": 9,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101706,
+        "Name": "ACHIEVEMENT_NAME_101707",
+        "Desc": "ACHIEVEMENT_DESC_101707",
+        "Trigger": 800000107,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101708": {
+        "Category": 1,
+        "GROUP_ID": 109,
+        "Index": 9,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 101707,
+        "Name": "ACHIEVEMENT_NAME_101708",
+        "Desc": "ACHIEVEMENT_DESC_101708",
+        "Trigger": 800000108,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101709": {
+        "Category": 1,
+        "GROUP_ID": 109,
+        "Index": 9,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 101708,
+        "Name": "ACHIEVEMENT_NAME_101709",
+        "Desc": "ACHIEVEMENT_DESC_101709",
+        "Trigger": 800000109,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "101710": {
+        "Category": 1,
+        "GROUP_ID": 109,
+        "Index": 9,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 101709,
+        "Name": "ACHIEVEMENT_NAME_101710",
+        "Desc": "ACHIEVEMENT_DESC_101710",
+        "Trigger": 800000110,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "201001": {
+        "Category": 2,
+        "GROUP_ID": 201,
+        "Index": 1,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_201001",
+        "Desc": "ACHIEVEMENT_DESC_201001",
+        "Trigger": 800000111,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "201002": {
+        "Category": 2,
+        "GROUP_ID": 201,
+        "Index": 1,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 201001,
+        "Name": "ACHIEVEMENT_NAME_201002",
+        "Desc": "ACHIEVEMENT_DESC_201002",
+        "Trigger": 800000112,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "201003": {
+        "Category": 2,
+        "GROUP_ID": 201,
+        "Index": 1,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 201002,
+        "Name": "ACHIEVEMENT_NAME_201003",
+        "Desc": "ACHIEVEMENT_DESC_201003",
+        "Trigger": 800000113,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "201004": {
+        "Category": 2,
+        "GROUP_ID": 201,
+        "Index": 1,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 201003,
+        "Name": "ACHIEVEMENT_NAME_201004",
+        "Desc": "ACHIEVEMENT_DESC_201004",
+        "Trigger": 800000114,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "201005": {
+        "Category": 2,
+        "GROUP_ID": 201,
+        "Index": 1,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 201004,
+        "Name": "ACHIEVEMENT_NAME_201005",
+        "Desc": "ACHIEVEMENT_DESC_201005",
+        "Trigger": 800000115,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "202001": {
+        "Category": 2,
+        "GROUP_ID": 202,
+        "Index": 2,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_202001",
+        "Desc": "ACHIEVEMENT_DESC_202001",
+        "Trigger": 800000116,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "202002": {
+        "Category": 2,
+        "GROUP_ID": 202,
+        "Index": 2,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 202001,
+        "Name": "ACHIEVEMENT_NAME_202002",
+        "Desc": "ACHIEVEMENT_DESC_202002",
+        "Trigger": 800000117,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "202003": {
+        "Category": 2,
+        "GROUP_ID": 202,
+        "Index": 2,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 202002,
+        "Name": "ACHIEVEMENT_NAME_202003",
+        "Desc": "ACHIEVEMENT_DESC_202003",
+        "Trigger": 800000118,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "202004": {
+        "Category": 2,
+        "GROUP_ID": 202,
+        "Index": 2,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 202003,
+        "Name": "ACHIEVEMENT_NAME_202004",
+        "Desc": "ACHIEVEMENT_DESC_202004",
+        "Trigger": 800000119,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "202005": {
+        "Category": 2,
+        "GROUP_ID": 202,
+        "Index": 2,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 202004,
+        "Name": "ACHIEVEMENT_NAME_202005",
+        "Desc": "ACHIEVEMENT_DESC_202005",
+        "Trigger": 800000120,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "203001": {
+        "Category": 2,
+        "GROUP_ID": 203,
+        "Index": 3,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_203001",
+        "Desc": "ACHIEVEMENT_DESC_203001",
+        "Trigger": 800000121,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "203002": {
+        "Category": 2,
+        "GROUP_ID": 203,
+        "Index": 3,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 203001,
+        "Name": "ACHIEVEMENT_NAME_203002",
+        "Desc": "ACHIEVEMENT_DESC_203002",
+        "Trigger": 800000122,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "203003": {
+        "Category": 2,
+        "GROUP_ID": 203,
+        "Index": 3,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 203002,
+        "Name": "ACHIEVEMENT_NAME_203003",
+        "Desc": "ACHIEVEMENT_DESC_203003",
+        "Trigger": 800000123,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "203004": {
+        "Category": 2,
+        "GROUP_ID": 203,
+        "Index": 3,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 203003,
+        "Name": "ACHIEVEMENT_NAME_203004",
+        "Desc": "ACHIEVEMENT_DESC_203004",
+        "Trigger": 800000124,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "203005": {
+        "Category": 2,
+        "GROUP_ID": 203,
+        "Index": 3,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 203004,
+        "Name": "ACHIEVEMENT_NAME_203005",
+        "Desc": "ACHIEVEMENT_DESC_203005",
+        "Trigger": 800000125,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "204001": {
+        "Category": 2,
+        "GROUP_ID": 204,
+        "Index": 4,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_204001",
+        "Desc": "ACHIEVEMENT_DESC_204001",
+        "Trigger": 800000126,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "204002": {
+        "Category": 2,
+        "GROUP_ID": 204,
+        "Index": 4,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 204001,
+        "Name": "ACHIEVEMENT_NAME_204002",
+        "Desc": "ACHIEVEMENT_DESC_204002",
+        "Trigger": 800000127,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "204003": {
+        "Category": 2,
+        "GROUP_ID": 204,
+        "Index": 4,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 204002,
+        "Name": "ACHIEVEMENT_NAME_204003",
+        "Desc": "ACHIEVEMENT_DESC_204003",
+        "Trigger": 800000128,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "204004": {
+        "Category": 2,
+        "GROUP_ID": 204,
+        "Index": 4,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 204003,
+        "Name": "ACHIEVEMENT_NAME_204004",
+        "Desc": "ACHIEVEMENT_DESC_204004",
+        "Trigger": 800000129,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "204005": {
+        "Category": 2,
+        "GROUP_ID": 204,
+        "Index": 4,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 204004,
+        "Name": "ACHIEVEMENT_NAME_204005",
+        "Desc": "ACHIEVEMENT_DESC_204005",
+        "Trigger": 800000130,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "205001": {
+        "Category": 2,
+        "GROUP_ID": 205,
+        "Index": 5,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_205001",
+        "Desc": "ACHIEVEMENT_DESC_205001",
+        "Trigger": 800000131,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "205002": {
+        "Category": 2,
+        "GROUP_ID": 205,
+        "Index": 5,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 205001,
+        "Name": "ACHIEVEMENT_NAME_205002",
+        "Desc": "ACHIEVEMENT_DESC_205002",
+        "Trigger": 800000132,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "205003": {
+        "Category": 2,
+        "GROUP_ID": 205,
+        "Index": 5,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 205002,
+        "Name": "ACHIEVEMENT_NAME_205003",
+        "Desc": "ACHIEVEMENT_DESC_205003",
+        "Trigger": 800000133,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "205004": {
+        "Category": 2,
+        "GROUP_ID": 205,
+        "Index": 5,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 205003,
+        "Name": "ACHIEVEMENT_NAME_205004",
+        "Desc": "ACHIEVEMENT_DESC_205004",
+        "Trigger": 800000134,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "205005": {
+        "Category": 2,
+        "GROUP_ID": 205,
+        "Index": 5,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 205004,
+        "Name": "ACHIEVEMENT_NAME_205005",
+        "Desc": "ACHIEVEMENT_DESC_205005",
+        "Trigger": 800000135,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "206001": {
+        "Category": 2,
+        "GROUP_ID": 206,
+        "Index": 6,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_206001",
+        "Desc": "ACHIEVEMENT_DESC_206001",
+        "Trigger": 800000136,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "206002": {
+        "Category": 2,
+        "GROUP_ID": 207,
+        "Index": 7,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_206002",
+        "Desc": "ACHIEVEMENT_DESC_206002",
+        "Trigger": 800000137,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "206003": {
+        "Category": 2,
+        "GROUP_ID": 208,
+        "Index": 8,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_206003",
+        "Desc": "ACHIEVEMENT_DESC_206003",
+        "Trigger": 800000138,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "206004": {
+        "Category": 2,
+        "GROUP_ID": 209,
+        "Index": 9,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_206004",
+        "Desc": "ACHIEVEMENT_DESC_206004",
+        "Trigger": 800000139,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "206005": {
+        "Category": 2,
+        "GROUP_ID": 210,
+        "Index": 10,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_206005",
+        "Desc": "ACHIEVEMENT_DESC_206005",
+        "Trigger": 800000140,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "206006": {
+        "Category": 2,
+        "GROUP_ID": 211,
+        "Index": 11,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_206006",
+        "Desc": "ACHIEVEMENT_DESC_206006",
+        "Trigger": 800000141,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "206007": {
+        "Category": 2,
+        "GROUP_ID": 212,
+        "Index": 12,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_206007",
+        "Desc": "ACHIEVEMENT_DESC_206007",
+        "Trigger": 800000142,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "207001": {
+        "Category": 2,
+        "GROUP_ID": 213,
+        "Index": 13,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_207001",
+        "Desc": "ACHIEVEMENT_DESC_207001",
+        "Trigger": 800000143,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "207002": {
+        "Category": 2,
+        "GROUP_ID": 213,
+        "Index": 13,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 207001,
+        "Name": "ACHIEVEMENT_NAME_207002",
+        "Desc": "ACHIEVEMENT_DESC_207002",
+        "Trigger": 800000144,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "207003": {
+        "Category": 2,
+        "GROUP_ID": 213,
+        "Index": 13,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 207002,
+        "Name": "ACHIEVEMENT_NAME_207003",
+        "Desc": "ACHIEVEMENT_DESC_207003",
+        "Trigger": 800000145,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "207004": {
+        "Category": 2,
+        "GROUP_ID": 213,
+        "Index": 13,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 207003,
+        "Name": "ACHIEVEMENT_NAME_207004",
+        "Desc": "ACHIEVEMENT_DESC_207004",
+        "Trigger": 800000146,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "207005": {
+        "Category": 2,
+        "GROUP_ID": 213,
+        "Index": 13,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 207004,
+        "Name": "ACHIEVEMENT_NAME_207005",
+        "Desc": "ACHIEVEMENT_DESC_207005",
+        "Trigger": 800000147,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "208001": {
+        "Category": 2,
+        "GROUP_ID": 214,
+        "Index": 14,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_208001",
+        "Desc": "ACHIEVEMENT_DESC_208001",
+        "Trigger": 800000148,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "208002": {
+        "Category": 2,
+        "GROUP_ID": 214,
+        "Index": 14,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 208001,
+        "Name": "ACHIEVEMENT_NAME_208002",
+        "Desc": "ACHIEVEMENT_DESC_208002",
+        "Trigger": 800000149,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "208003": {
+        "Category": 2,
+        "GROUP_ID": 214,
+        "Index": 14,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 208002,
+        "Name": "ACHIEVEMENT_NAME_208003",
+        "Desc": "ACHIEVEMENT_DESC_208003",
+        "Trigger": 800000150,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "208004": {
+        "Category": 2,
+        "GROUP_ID": 214,
+        "Index": 14,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 208003,
+        "Name": "ACHIEVEMENT_NAME_208004",
+        "Desc": "ACHIEVEMENT_DESC_208004",
+        "Trigger": 800000151,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "208005": {
+        "Category": 2,
+        "GROUP_ID": 214,
+        "Index": 14,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 208004,
+        "Name": "ACHIEVEMENT_NAME_208005",
+        "Desc": "ACHIEVEMENT_DESC_208005",
+        "Trigger": 800000152,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "209001": {
+        "Category": 2,
+        "GROUP_ID": 215,
+        "Index": 15,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_209001",
+        "Desc": "ACHIEVEMENT_DESC_209001",
+        "Trigger": 800000153,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "209002": {
+        "Category": 2,
+        "GROUP_ID": 215,
+        "Index": 15,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 209001,
+        "Name": "ACHIEVEMENT_NAME_209002",
+        "Desc": "ACHIEVEMENT_DESC_209002",
+        "Trigger": 800000154,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "209003": {
+        "Category": 2,
+        "GROUP_ID": 215,
+        "Index": 15,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 209002,
+        "Name": "ACHIEVEMENT_NAME_209003",
+        "Desc": "ACHIEVEMENT_DESC_209003",
+        "Trigger": 800000155,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "209004": {
+        "Category": 2,
+        "GROUP_ID": 215,
+        "Index": 15,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 209003,
+        "Name": "ACHIEVEMENT_NAME_209004",
+        "Desc": "ACHIEVEMENT_DESC_209004",
+        "Trigger": 800000156,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "301001": {
+        "Category": 3,
+        "GROUP_ID": 301,
+        "Index": 1,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_301001",
+        "Desc": "ACHIEVEMENT_DESC_301001",
+        "Trigger": 800000157,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "301002": {
+        "Category": 3,
+        "GROUP_ID": 301,
+        "Index": 1,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 301001,
+        "Name": "ACHIEVEMENT_NAME_301002",
+        "Desc": "ACHIEVEMENT_DESC_301002",
+        "Trigger": 800000158,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "301003": {
+        "Category": 3,
+        "GROUP_ID": 301,
+        "Index": 1,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 301002,
+        "Name": "ACHIEVEMENT_NAME_301003",
+        "Desc": "ACHIEVEMENT_DESC_301003",
+        "Trigger": 800000159,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "301004": {
+        "Category": 3,
+        "GROUP_ID": 301,
+        "Index": 1,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 301003,
+        "Name": "ACHIEVEMENT_NAME_301004",
+        "Desc": "ACHIEVEMENT_DESC_301004",
+        "Trigger": 800000160,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "301005": {
+        "Category": 3,
+        "GROUP_ID": 301,
+        "Index": 1,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 301004,
+        "Name": "ACHIEVEMENT_NAME_301005",
+        "Desc": "ACHIEVEMENT_DESC_301005",
+        "Trigger": 800000161,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "302001": {
+        "Category": 3,
+        "GROUP_ID": 302,
+        "Index": 2,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_302001",
+        "Desc": "ACHIEVEMENT_DESC_302001",
+        "Trigger": 800000162,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "302002": {
+        "Category": 3,
+        "GROUP_ID": 302,
+        "Index": 2,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 302001,
+        "Name": "ACHIEVEMENT_NAME_302002",
+        "Desc": "ACHIEVEMENT_DESC_302002",
+        "Trigger": 800000163,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "302003": {
+        "Category": 3,
+        "GROUP_ID": 302,
+        "Index": 2,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 302002,
+        "Name": "ACHIEVEMENT_NAME_302003",
+        "Desc": "ACHIEVEMENT_DESC_302003",
+        "Trigger": 800000164,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "302004": {
+        "Category": 3,
+        "GROUP_ID": 302,
+        "Index": 2,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 302003,
+        "Name": "ACHIEVEMENT_NAME_302004",
+        "Desc": "ACHIEVEMENT_DESC_302004",
+        "Trigger": 800000165,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "302005": {
+        "Category": 3,
+        "GROUP_ID": 302,
+        "Index": 2,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 302004,
+        "Name": "ACHIEVEMENT_NAME_302005",
+        "Desc": "ACHIEVEMENT_DESC_302005",
+        "Trigger": 800000166,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "303001": {
+        "Category": 3,
+        "GROUP_ID": 303,
+        "Index": 3,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_303001",
+        "Desc": "ACHIEVEMENT_DESC_303001",
+        "Trigger": 800000167,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "303002": {
+        "Category": 3,
+        "GROUP_ID": 303,
+        "Index": 3,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 303001,
+        "Name": "ACHIEVEMENT_NAME_303002",
+        "Desc": "ACHIEVEMENT_DESC_303002",
+        "Trigger": 800000168,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "303003": {
+        "Category": 3,
+        "GROUP_ID": 303,
+        "Index": 3,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 303002,
+        "Name": "ACHIEVEMENT_NAME_303003",
+        "Desc": "ACHIEVEMENT_DESC_303003",
+        "Trigger": 800000169,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "303004": {
+        "Category": 3,
+        "GROUP_ID": 303,
+        "Index": 3,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 303003,
+        "Name": "ACHIEVEMENT_NAME_303004",
+        "Desc": "ACHIEVEMENT_DESC_303004",
+        "Trigger": 800000170,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "303005": {
+        "Category": 3,
+        "GROUP_ID": 303,
+        "Index": 3,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 303004,
+        "Name": "ACHIEVEMENT_NAME_303005",
+        "Desc": "ACHIEVEMENT_DESC_303005",
+        "Trigger": 800000171,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "304001": {
+        "Category": 3,
+        "GROUP_ID": 304,
+        "Index": 4,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_304001",
+        "Desc": "ACHIEVEMENT_DESC_304001",
+        "Trigger": 800000172,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "304002": {
+        "Category": 3,
+        "GROUP_ID": 304,
+        "Index": 4,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 304001,
+        "Name": "ACHIEVEMENT_NAME_304002",
+        "Desc": "ACHIEVEMENT_DESC_304002",
+        "Trigger": 800000173,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "304003": {
+        "Category": 3,
+        "GROUP_ID": 304,
+        "Index": 4,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 304002,
+        "Name": "ACHIEVEMENT_NAME_304003",
+        "Desc": "ACHIEVEMENT_DESC_304003",
+        "Trigger": 800000174,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "304004": {
+        "Category": 3,
+        "GROUP_ID": 304,
+        "Index": 4,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 304003,
+        "Name": "ACHIEVEMENT_NAME_304004",
+        "Desc": "ACHIEVEMENT_DESC_304004",
+        "Trigger": 800000175,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "304005": {
+        "Category": 3,
+        "GROUP_ID": 304,
+        "Index": 4,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 304004,
+        "Name": "ACHIEVEMENT_NAME_304005",
+        "Desc": "ACHIEVEMENT_DESC_304005",
+        "Trigger": 800000176,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "305001": {
+        "Category": 3,
+        "GROUP_ID": 305,
+        "Index": 5,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_305001",
+        "Desc": "ACHIEVEMENT_DESC_305001",
+        "Trigger": 800000177,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "305002": {
+        "Category": 3,
+        "GROUP_ID": 305,
+        "Index": 5,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 305001,
+        "Name": "ACHIEVEMENT_NAME_305002",
+        "Desc": "ACHIEVEMENT_DESC_305002",
+        "Trigger": 800000178,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "305003": {
+        "Category": 3,
+        "GROUP_ID": 305,
+        "Index": 5,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 305002,
+        "Name": "ACHIEVEMENT_NAME_305003",
+        "Desc": "ACHIEVEMENT_DESC_305003",
+        "Trigger": 800000179,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "305004": {
+        "Category": 3,
+        "GROUP_ID": 305,
+        "Index": 5,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 305003,
+        "Name": "ACHIEVEMENT_NAME_305004",
+        "Desc": "ACHIEVEMENT_DESC_305004",
+        "Trigger": 800000180,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "305005": {
+        "Category": 3,
+        "GROUP_ID": 305,
+        "Index": 5,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 305004,
+        "Name": "ACHIEVEMENT_NAME_305005",
+        "Desc": "ACHIEVEMENT_DESC_305005",
+        "Trigger": 800000181,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "306001": {
+        "Category": 3,
+        "GROUP_ID": 306,
+        "Index": 6,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_306001",
+        "Desc": "ACHIEVEMENT_DESC_306001",
+        "Trigger": 800000182,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "306002": {
+        "Category": 3,
+        "GROUP_ID": 306,
+        "Index": 6,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 306001,
+        "Name": "ACHIEVEMENT_NAME_306002",
+        "Desc": "ACHIEVEMENT_DESC_306002",
+        "Trigger": 800000183,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "306003": {
+        "Category": 3,
+        "GROUP_ID": 306,
+        "Index": 6,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 306002,
+        "Name": "ACHIEVEMENT_NAME_306003",
+        "Desc": "ACHIEVEMENT_DESC_306003",
+        "Trigger": 800000184,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "306004": {
+        "Category": 3,
+        "GROUP_ID": 306,
+        "Index": 6,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 306003,
+        "Name": "ACHIEVEMENT_NAME_306004",
+        "Desc": "ACHIEVEMENT_DESC_306004",
+        "Trigger": 800000185,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "306005": {
+        "Category": 3,
+        "GROUP_ID": 306,
+        "Index": 6,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 306004,
+        "Name": "ACHIEVEMENT_NAME_306005",
+        "Desc": "ACHIEVEMENT_DESC_306005",
+        "Trigger": 800000186,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "307001": {
+        "Category": 3,
+        "GROUP_ID": 307,
+        "Index": 7,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_307001",
+        "Desc": "ACHIEVEMENT_DESC_307001",
+        "Trigger": 800000187,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "307002": {
+        "Category": 3,
+        "GROUP_ID": 307,
+        "Index": 7,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 307001,
+        "Name": "ACHIEVEMENT_NAME_307002",
+        "Desc": "ACHIEVEMENT_DESC_307002",
+        "Trigger": 800000188,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "307003": {
+        "Category": 3,
+        "GROUP_ID": 307,
+        "Index": 7,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 307002,
+        "Name": "ACHIEVEMENT_NAME_307003",
+        "Desc": "ACHIEVEMENT_DESC_307003",
+        "Trigger": 800000189,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "307004": {
+        "Category": 3,
+        "GROUP_ID": 307,
+        "Index": 7,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 307003,
+        "Name": "ACHIEVEMENT_NAME_307004",
+        "Desc": "ACHIEVEMENT_DESC_307004",
+        "Trigger": 800000190,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "307005": {
+        "Category": 3,
+        "GROUP_ID": 307,
+        "Index": 7,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 307004,
+        "Name": "ACHIEVEMENT_NAME_307005",
+        "Desc": "ACHIEVEMENT_DESC_307005",
+        "Trigger": 800000191,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "401001": {
+        "Category": 4,
+        "GROUP_ID": 401,
+        "Index": 1,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_401001",
+        "Desc": "ACHIEVEMENT_DESC_401001",
+        "Trigger": 800000192,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "401002": {
+        "Category": 4,
+        "GROUP_ID": 401,
+        "Index": 1,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 401001,
+        "Name": "ACHIEVEMENT_NAME_401002",
+        "Desc": "ACHIEVEMENT_DESC_401002",
+        "Trigger": 800000193,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "401003": {
+        "Category": 4,
+        "GROUP_ID": 401,
+        "Index": 1,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 401002,
+        "Name": "ACHIEVEMENT_NAME_401003",
+        "Desc": "ACHIEVEMENT_DESC_401003",
+        "Trigger": 800000194,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "401004": {
+        "Category": 4,
+        "GROUP_ID": 401,
+        "Index": 1,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 401003,
+        "Name": "ACHIEVEMENT_NAME_401004",
+        "Desc": "ACHIEVEMENT_DESC_401004",
+        "Trigger": 800000195,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "401005": {
+        "Category": 4,
+        "GROUP_ID": 401,
+        "Index": 1,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 401004,
+        "Name": "ACHIEVEMENT_NAME_401005",
+        "Desc": "ACHIEVEMENT_DESC_401005",
+        "Trigger": 800000196,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "402001": {
+        "Category": 4,
+        "GROUP_ID": 402,
+        "Index": 2,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_402001",
+        "Desc": "ACHIEVEMENT_DESC_402001",
+        "Trigger": 800000197,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "402002": {
+        "Category": 4,
+        "GROUP_ID": 402,
+        "Index": 2,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 402001,
+        "Name": "ACHIEVEMENT_NAME_402002",
+        "Desc": "ACHIEVEMENT_DESC_402002",
+        "Trigger": 800000198,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "402003": {
+        "Category": 4,
+        "GROUP_ID": 402,
+        "Index": 2,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 402002,
+        "Name": "ACHIEVEMENT_NAME_402003",
+        "Desc": "ACHIEVEMENT_DESC_402003",
+        "Trigger": 800000199,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "402004": {
+        "Category": 4,
+        "GROUP_ID": 402,
+        "Index": 2,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 402003,
+        "Name": "ACHIEVEMENT_NAME_402004",
+        "Desc": "ACHIEVEMENT_DESC_402004",
+        "Trigger": 800000200,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "402005": {
+        "Category": 4,
+        "GROUP_ID": 402,
+        "Index": 2,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 402004,
+        "Name": "ACHIEVEMENT_NAME_402005",
+        "Desc": "ACHIEVEMENT_DESC_402005",
+        "Trigger": 800000201,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "403001": {
+        "Category": 4,
+        "GROUP_ID": 403,
+        "Index": 3,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 0,
+        "Name": "ACHIEVEMENT_NAME_403001",
+        "Desc": "ACHIEVEMENT_DESC_403001",
+        "Trigger": 800000202,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "403002": {
+        "Category": 4,
+        "GROUP_ID": 403,
+        "Index": 3,
+        "GRADE": 1,
+        "Point": 5,
+        "ACHIEVEMENT_COMPLETE": 403001,
+        "Name": "ACHIEVEMENT_NAME_403002",
+        "Desc": "ACHIEVEMENT_DESC_403002",
+        "Trigger": 800000203,
+        "REWARD": 701010101,
+        "Icon": "ACHIEVEMENT_ICON3_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON3_Sprite.ACHIEVEMENT_ICON3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "403003": {
+        "Category": 4,
+        "GROUP_ID": 403,
+        "Index": 3,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 403002,
+        "Name": "ACHIEVEMENT_NAME_403003",
+        "Desc": "ACHIEVEMENT_DESC_403003",
+        "Trigger": 800000204,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "403004": {
+        "Category": 4,
+        "GROUP_ID": 403,
+        "Index": 3,
+        "GRADE": 2,
+        "Point": 10,
+        "ACHIEVEMENT_COMPLETE": 403003,
+        "Name": "ACHIEVEMENT_NAME_403004",
+        "Desc": "ACHIEVEMENT_DESC_403004",
+        "Trigger": 800000205,
+        "REWARD": 701010102,
+        "Icon": "ACHIEVEMENT_ICON2_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON2_Sprite.ACHIEVEMENT_ICON2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "403005": {
+        "Category": 4,
+        "GROUP_ID": 403,
+        "Index": 3,
+        "GRADE": 3,
+        "Point": 15,
+        "ACHIEVEMENT_COMPLETE": 403004,
+        "Name": "ACHIEVEMENT_NAME_403005",
+        "Desc": "ACHIEVEMENT_DESC_403005",
+        "Trigger": 800000206,
+        "REWARD": 701010103,
+        "Icon": "ACHIEVEMENT_ICON1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Achievement/ACHIEVEMENT_ICON1_Sprite.ACHIEVEMENT_ICON1_Sprite",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

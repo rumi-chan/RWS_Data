@@ -1,0 +1,20 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "PC_RESET",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBPC_RESET'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "100001": {
+        "GROUP_ID": 1001,
+        "PC_ID": 100013,
+        "SHORTCUT_ID": 7130502
+      }
+    }
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "MISSION",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBMISSION'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "7061001": {
+        "Type": "ENBMissionType::Daily",
+        "TYPE_VALUE": 101,
+        "GROUP_ID": 7061001,
+        "Index": 1,
+        "COMPLETE_COUNT": 5,
+        "COMPLETE_REWARD": 706010201,
+        "Name": "MISSION_NAME_7061001",
+        "RESET_TIME": 0
+      },
+      "7064001": {
+        "Type": "ENBMissionType::GuideMission",
+        "TYPE_VALUE": 401,
+        "GROUP_ID": 7064001,
+        "Index": 1,
+        "COMPLETE_COUNT": 5,
+        "COMPLETE_REWARD": 706040201,
+        "Name": "MISSION_NAME_7064001",
+        "RESET_TIME": 0
+      },
+      "7064002": {
+        "Type": "ENBMissionType::GuideMission",
+        "TYPE_VALUE": 401,
+        "GROUP_ID": 7064002,
+        "Index": 2,
+        "COMPLETE_COUNT": 5,
+        "COMPLETE_REWARD": 706040202,
+        "Name": "MISSION_NAME_7064002",
+        "RESET_TIME": 0
+      },
+      "7064003": {
+        "Type": "ENBMissionType::GuideMission",
+        "TYPE_VALUE": 401,
+        "GROUP_ID": 7064003,
+        "Index": 3,
+        "COMPLETE_COUNT": 5,
+        "COMPLETE_REWARD": 706040203,
+        "Name": "MISSION_NAME_7064003",
+        "RESET_TIME": 0
+      },
+      "7064004": {
+        "Type": "ENBMissionType::GuideMission",
+        "TYPE_VALUE": 401,
+        "GROUP_ID": 7064004,
+        "Index": 4,
+        "COMPLETE_COUNT": 5,
+        "COMPLETE_REWARD": 706040204,
+        "Name": "MISSION_NAME_7064004",
+        "RESET_TIME": 0
+      },
+      "7064005": {
+        "Type": "ENBMissionType::GuideMission",
+        "TYPE_VALUE": 401,
+        "GROUP_ID": 7064005,
+        "Index": 5,
+        "COMPLETE_COUNT": 5,
+        "COMPLETE_REWARD": 706040205,
+        "Name": "MISSION_NAME_7064005",
+        "RESET_TIME": 0
+      }
+    }
+  }
+]

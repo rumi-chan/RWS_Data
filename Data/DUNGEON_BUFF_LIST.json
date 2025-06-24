@@ -1,0 +1,690 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DUNGEON_BUFF_LIST",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBDUNGEON_BUFF_LIST'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "101001": {
+        "GROUP_ID": 101,
+        "PROB": 100000,
+        "Category": 1,
+        "SUB_CATEGORY": 0,
+        "ABILITY_GROUP_ID": 770903011,
+        "Icon": "ICON_ABIL_1001_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_0"
+      },
+      "101002": {
+        "GROUP_ID": 101,
+        "PROB": 100000,
+        "Category": 1,
+        "SUB_CATEGORY": 0,
+        "ABILITY_GROUP_ID": 770903021,
+        "Icon": "ICON_ABIL_1002_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_0"
+      },
+      "101003": {
+        "GROUP_ID": 101,
+        "PROB": 100000,
+        "Category": 1,
+        "SUB_CATEGORY": 0,
+        "ABILITY_GROUP_ID": 770903031,
+        "Icon": "ICON_ABIL_1003_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_0"
+      },
+      "101004": {
+        "GROUP_ID": 101,
+        "PROB": 100000,
+        "Category": 1,
+        "SUB_CATEGORY": 0,
+        "ABILITY_GROUP_ID": 770903041,
+        "Icon": "ICON_ABIL_1004_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_0"
+      },
+      "101005": {
+        "GROUP_ID": 101,
+        "PROB": 100000,
+        "Category": 1,
+        "SUB_CATEGORY": 0,
+        "ABILITY_GROUP_ID": 770903051,
+        "Icon": "ICON_ABIL_1009_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_0"
+      },
+      "101006": {
+        "GROUP_ID": 101,
+        "PROB": 50000,
+        "Category": 1,
+        "SUB_CATEGORY": 201,
+        "ABILITY_GROUP_ID": 770903061,
+        "Icon": "ICON_ABIL_1001_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_201"
+      },
+      "101007": {
+        "GROUP_ID": 101,
+        "PROB": 50000,
+        "Category": 1,
+        "SUB_CATEGORY": 202,
+        "ABILITY_GROUP_ID": 770903071,
+        "Icon": "ICON_ABIL_1002_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_202"
+      },
+      "101008": {
+        "GROUP_ID": 101,
+        "PROB": 50000,
+        "Category": 1,
+        "SUB_CATEGORY": 203,
+        "ABILITY_GROUP_ID": 770903081,
+        "Icon": "ICON_ABIL_1003_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_203"
+      },
+      "101009": {
+        "GROUP_ID": 101,
+        "PROB": 50000,
+        "Category": 1,
+        "SUB_CATEGORY": 204,
+        "ABILITY_GROUP_ID": 770903091,
+        "Icon": "ICON_ABIL_1004_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_204"
+      },
+      "101010": {
+        "GROUP_ID": 101,
+        "PROB": 50000,
+        "Category": 1,
+        "SUB_CATEGORY": 205,
+        "ABILITY_GROUP_ID": 770903101,
+        "Icon": "ICON_ABIL_1009_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_205"
+      },
+      "101011": {
+        "GROUP_ID": 101,
+        "PROB": 50000,
+        "Category": 1,
+        "SUB_CATEGORY": 301,
+        "ABILITY_GROUP_ID": 770903111,
+        "Icon": "ICON_ABIL_1001_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_301"
+      },
+      "101012": {
+        "GROUP_ID": 101,
+        "PROB": 50000,
+        "Category": 1,
+        "SUB_CATEGORY": 302,
+        "ABILITY_GROUP_ID": 770903121,
+        "Icon": "ICON_ABIL_1002_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_302"
+      },
+      "101013": {
+        "GROUP_ID": 101,
+        "PROB": 50000,
+        "Category": 1,
+        "SUB_CATEGORY": 303,
+        "ABILITY_GROUP_ID": 770903131,
+        "Icon": "ICON_ABIL_1003_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_303"
+      },
+      "101014": {
+        "GROUP_ID": 101,
+        "PROB": 50000,
+        "Category": 1,
+        "SUB_CATEGORY": 304,
+        "ABILITY_GROUP_ID": 770903141,
+        "Icon": "ICON_ABIL_1004_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_304"
+      },
+      "101015": {
+        "GROUP_ID": 101,
+        "PROB": 50000,
+        "Category": 1,
+        "SUB_CATEGORY": 305,
+        "ABILITY_GROUP_ID": 770903151,
+        "Icon": "ICON_ABIL_1009_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_305"
+      },
+      "102001": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 1,
+        "SUB_CATEGORY": 0,
+        "ABILITY_GROUP_ID": 770501011,
+        "Icon": "ICON_ABYSSLAKE_PUBLIC_001_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_0"
+      },
+      "102002": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 1,
+        "SUB_CATEGORY": 0,
+        "ABILITY_GROUP_ID": 770501021,
+        "Icon": "ICON_ABYSSLAKE_PUBLIC_002_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_0"
+      },
+      "102003": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 1,
+        "SUB_CATEGORY": 0,
+        "ABILITY_GROUP_ID": 770501031,
+        "Icon": "ICON_ABYSSLAKE_PUBLIC_003_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_0"
+      },
+      "102004": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 1,
+        "SUB_CATEGORY": 0,
+        "ABILITY_GROUP_ID": 770501041,
+        "Icon": "ICON_ABYSSLAKE_PUBLIC_004_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_0"
+      },
+      "102005": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 1,
+        "SUB_CATEGORY": 0,
+        "ABILITY_GROUP_ID": 770501051,
+        "Icon": "ICON_ABYSSLAKE_PUBLIC_005_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_0"
+      },
+      "102006": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 1,
+        "SUB_CATEGORY": 0,
+        "ABILITY_GROUP_ID": 770501061,
+        "Icon": "ICON_ABYSSLAKE_PUBLIC_006_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_0"
+      },
+      "102007": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 1,
+        "SUB_CATEGORY": 0,
+        "ABILITY_GROUP_ID": 770501071,
+        "Icon": "ICON_ABYSSLAKE_PUBLIC_007_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_0"
+      },
+      "102008": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 1,
+        "SUB_CATEGORY": 0,
+        "ABILITY_GROUP_ID": 770501081,
+        "Icon": "ICON_ABYSSLAKE_PUBLIC_008_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_0"
+      },
+      "102009": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 1,
+        "SUB_CATEGORY": 0,
+        "ABILITY_GROUP_ID": 770501091,
+        "Icon": "ICON_ABYSSLAKE_PUBLIC_009_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_0"
+      },
+      "102010": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 1,
+        "SUB_CATEGORY": 0,
+        "ABILITY_GROUP_ID": 770501101,
+        "Icon": "ICON_ABYSSLAKE_PUBLIC_010_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_0"
+      },
+      "102011": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 201,
+        "ABILITY_GROUP_ID": 770501111,
+        "Icon": "ICON_ABYSSLAKE_ATTACK_001_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_201"
+      },
+      "102012": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 201,
+        "ABILITY_GROUP_ID": 770501121,
+        "Icon": "ICON_ABYSSLAKE_ATTACK_002_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_201"
+      },
+      "102013": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 201,
+        "ABILITY_GROUP_ID": 770501131,
+        "Icon": "ICON_ABYSSLAKE_ATTACK_003_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_201"
+      },
+      "102014": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 201,
+        "ABILITY_GROUP_ID": 770501141,
+        "Icon": "ICON_ABYSSLAKE_ATTACK_004_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_201"
+      },
+      "102015": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 201,
+        "ABILITY_GROUP_ID": 770501151,
+        "Icon": "ICON_ABYSSLAKE_ATTACK_005_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_201"
+      },
+      "102016": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 201,
+        "ABILITY_GROUP_ID": 770501161,
+        "Icon": "ICON_ABYSSLAKE_ATTACK_006_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_201"
+      },
+      "102017": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 202,
+        "ABILITY_GROUP_ID": 770501171,
+        "Icon": "ICON_ABYSSLAKE_WEAKEN_001_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_202"
+      },
+      "102018": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 202,
+        "ABILITY_GROUP_ID": 770501181,
+        "Icon": "ICON_ABYSSLAKE_WEAKEN_002_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_202"
+      },
+      "102019": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 202,
+        "ABILITY_GROUP_ID": 770501191,
+        "Icon": "ICON_ABYSSLAKE_WEAKEN_003_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_202"
+      },
+      "102020": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 202,
+        "ABILITY_GROUP_ID": 770501201,
+        "Icon": "ICON_ABYSSLAKE_WEAKEN_004_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_202"
+      },
+      "102021": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 202,
+        "ABILITY_GROUP_ID": 770501211,
+        "Icon": "ICON_ABYSSLAKE_WEAKEN_005_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_202"
+      },
+      "102022": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 202,
+        "ABILITY_GROUP_ID": 770501221,
+        "Icon": "ICON_ABYSSLAKE_WEAKEN_006_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_202"
+      },
+      "102023": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 203,
+        "ABILITY_GROUP_ID": 770501231,
+        "Icon": "ICON_ABYSSLAKE_DEFENCE_001_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_203"
+      },
+      "102024": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 203,
+        "ABILITY_GROUP_ID": 770501241,
+        "Icon": "ICON_ABYSSLAKE_DEFENCE_002_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_203"
+      },
+      "102025": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 203,
+        "ABILITY_GROUP_ID": 770501251,
+        "Icon": "ICON_ABYSSLAKE_DEFENCE_003_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_203"
+      },
+      "102026": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 203,
+        "ABILITY_GROUP_ID": 770501261,
+        "Icon": "ICON_ABYSSLAKE_DEFENCE_004_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_203"
+      },
+      "102027": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 203,
+        "ABILITY_GROUP_ID": 770501271,
+        "Icon": "ICON_ABYSSLAKE_DEFENCE_005_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_203"
+      },
+      "102028": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 203,
+        "ABILITY_GROUP_ID": 770501281,
+        "Icon": "ICON_ABYSSLAKE_DEFENCE_006_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_203"
+      },
+      "102029": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 204,
+        "ABILITY_GROUP_ID": 770501291,
+        "Icon": "ICON_ABYSSLAKE_SUPPORT_001_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_204"
+      },
+      "102030": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 204,
+        "ABILITY_GROUP_ID": 770501301,
+        "Icon": "ICON_ABYSSLAKE_SUPPORT_002_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_204"
+      },
+      "102031": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 204,
+        "ABILITY_GROUP_ID": 770501311,
+        "Icon": "ICON_ABYSSLAKE_SUPPORT_003_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_204"
+      },
+      "102032": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 204,
+        "ABILITY_GROUP_ID": 770501321,
+        "Icon": "ICON_ABYSSLAKE_SUPPORT_004_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_204"
+      },
+      "102033": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 204,
+        "ABILITY_GROUP_ID": 770501331,
+        "Icon": "ICON_ABYSSLAKE_SUPPORT_005_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_204"
+      },
+      "102034": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 204,
+        "ABILITY_GROUP_ID": 770501341,
+        "Icon": "ICON_ABYSSLAKE_SUPPORT_006_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_204"
+      },
+      "102035": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 205,
+        "ABILITY_GROUP_ID": 770501351,
+        "Icon": "ICON_ABYSSLAKE_HEAL_001_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_205"
+      },
+      "102036": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 205,
+        "ABILITY_GROUP_ID": 770501361,
+        "Icon": "ICON_ABYSSLAKE_HEAL_002_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_205"
+      },
+      "102037": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 205,
+        "ABILITY_GROUP_ID": 770501371,
+        "Icon": "ICON_ABYSSLAKE_HEAL_003_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_205"
+      },
+      "102038": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 205,
+        "ABILITY_GROUP_ID": 770501381,
+        "Icon": "ICON_ABYSSLAKE_HEAL_004_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_205"
+      },
+      "102039": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 205,
+        "ABILITY_GROUP_ID": 770501391,
+        "Icon": "ICON_ABYSSLAKE_HEAL_005_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_205"
+      },
+      "102040": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 2,
+        "SUB_CATEGORY": 205,
+        "ABILITY_GROUP_ID": 770501401,
+        "Icon": "ICON_ABYSSLAKE_HEAL_006_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_205"
+      },
+      "102041": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 301,
+        "ABILITY_GROUP_ID": 770501411,
+        "Icon": "ICON_ABYSSLAKE_WATER_001_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_301"
+      },
+      "102042": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 301,
+        "ABILITY_GROUP_ID": 770501421,
+        "Icon": "ICON_ABYSSLAKE_WATER_002_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_301"
+      },
+      "102043": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 301,
+        "ABILITY_GROUP_ID": 770501431,
+        "Icon": "ICON_ABYSSLAKE_WATER_003_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_301"
+      },
+      "102044": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 301,
+        "ABILITY_GROUP_ID": 770501441,
+        "Icon": "ICON_ABYSSLAKE_WATER_004_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_301"
+      },
+      "102045": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 302,
+        "ABILITY_GROUP_ID": 770501451,
+        "Icon": "ICON_ABYSSLAKE_FIRE_001_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_302"
+      },
+      "102046": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 302,
+        "ABILITY_GROUP_ID": 770501461,
+        "Icon": "ICON_ABYSSLAKE_FIRE_002_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_302"
+      },
+      "102047": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 302,
+        "ABILITY_GROUP_ID": 770501471,
+        "Icon": "ICON_ABYSSLAKE_FIRE_003_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_302"
+      },
+      "102048": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 302,
+        "ABILITY_GROUP_ID": 770501481,
+        "Icon": "ICON_ABYSSLAKE_FIRE_004_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_302"
+      },
+      "102049": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 303,
+        "ABILITY_GROUP_ID": 770501491,
+        "Icon": "ICON_ABYSSLAKE_FOREST_001_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_303"
+      },
+      "102050": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 303,
+        "ABILITY_GROUP_ID": 770501501,
+        "Icon": "ICON_ABYSSLAKE_FOREST_002_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_303"
+      },
+      "102051": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 303,
+        "ABILITY_GROUP_ID": 770501511,
+        "Icon": "ICON_ABYSSLAKE_FOREST_003_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_303"
+      },
+      "102052": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 303,
+        "ABILITY_GROUP_ID": 770501521,
+        "Icon": "ICON_ABYSSLAKE_FOREST_004_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_303"
+      },
+      "102053": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 304,
+        "ABILITY_GROUP_ID": 770501531,
+        "Icon": "ICON_ABYSSLAKE_LIGHT_001_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_304"
+      },
+      "102054": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 304,
+        "ABILITY_GROUP_ID": 770501541,
+        "Icon": "ICON_ABYSSLAKE_LIGHT_002_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_304"
+      },
+      "102055": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 304,
+        "ABILITY_GROUP_ID": 770501551,
+        "Icon": "ICON_ABYSSLAKE_LIGHT_003_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_304"
+      },
+      "102056": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 304,
+        "ABILITY_GROUP_ID": 770501561,
+        "Icon": "ICON_ABYSSLAKE_LIGHT_004_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_304"
+      },
+      "102057": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 305,
+        "ABILITY_GROUP_ID": 770501571,
+        "Icon": "ICON_ABYSSLAKE_DARK_001_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_305"
+      },
+      "102058": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 305,
+        "ABILITY_GROUP_ID": 770501581,
+        "Icon": "ICON_ABYSSLAKE_DARK_002_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_305"
+      },
+      "102059": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 305,
+        "ABILITY_GROUP_ID": 770501591,
+        "Icon": "ICON_ABYSSLAKE_DARK_003_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_305"
+      },
+      "102060": {
+        "GROUP_ID": 102,
+        "PROB": 100000,
+        "Category": 3,
+        "SUB_CATEGORY": 305,
+        "ABILITY_GROUP_ID": 770501601,
+        "Icon": "ICON_ABYSSLAKE_DARK_004_Sprite",
+        "SUB_CATEGORY_NAME": "UI_ABYSS_BUFF_SUB_CATEGORY_305"
+      }
+    }
+  }
+]

@@ -1,0 +1,3799 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "VOICE_INFO",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBVOICE_INFO'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "100101": {
+        "GROUP_ID": 100001,
+        "Name": "PC_VOICE_INFO_NAME_100001_1",
+        "Desc": "PC_VOICE_INFO_DESC_100001_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Player/V_PC_Player_LongIdle_Anim.V_PC_Player_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Player/",
+        "Voice": "V_PC_Player_LongIdle_Anim"
+      },
+      "100102": {
+        "GROUP_ID": 100001,
+        "Name": "PC_VOICE_INFO_NAME_100001_2",
+        "Desc": "PC_VOICE_INFO_DESC_100001_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Player/V_PC_Player_Skill02_Montage.V_PC_Player_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Player/",
+        "Voice": "V_PC_Player_Skill02_Montage"
+      },
+      "100103": {
+        "GROUP_ID": 100001,
+        "Name": "PC_VOICE_INFO_NAME_100001_3",
+        "Desc": "PC_VOICE_INFO_DESC_100001_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Player/V_PC_Player_Skill03_Montage.V_PC_Player_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Player/",
+        "Voice": "V_PC_Player_Skill03_Montage"
+      },
+      "100104": {
+        "GROUP_ID": 100001,
+        "Name": "PC_VOICE_INFO_NAME_100001_4",
+        "Desc": "PC_VOICE_INFO_DESC_100001_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Player/V_SQ_PC_Player_Skill99_Master.V_SQ_PC_Player_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Player/",
+        "Voice": "V_SQ_PC_Player_Skill99_Master"
+      },
+      "100201": {
+        "GROUP_ID": 100002,
+        "Name": "PC_VOICE_INFO_NAME_100002_1",
+        "Desc": "PC_VOICE_INFO_DESC_100002_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Serie/V_PC_Serie_Gacha.V_PC_Serie_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Serie/",
+        "Voice": "V_PC_Serie_Gacha"
+      },
+      "100202": {
+        "GROUP_ID": 100002,
+        "Name": "PC_VOICE_INFO_NAME_100002_2",
+        "Desc": "PC_VOICE_INFO_DESC_100002_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Serie/V_PC_Serie_LongIdle_Anim.V_PC_Serie_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Serie/",
+        "Voice": "V_PC_Serie_LongIdle_Anim"
+      },
+      "100203": {
+        "GROUP_ID": 100002,
+        "Name": "PC_VOICE_INFO_NAME_100002_3",
+        "Desc": "PC_VOICE_INFO_DESC_100002_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Serie/V_PC_Serie_Favor_LevelUp.V_PC_Serie_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Serie/",
+        "Voice": "V_PC_Serie_Favor_LevelUp"
+      },
+      "100204": {
+        "GROUP_ID": 100002,
+        "Name": "PC_VOICE_INFO_NAME_100002_4",
+        "Desc": "PC_VOICE_INFO_DESC_100002_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Serie/V_PC_Serie_Gift_Basic.V_PC_Serie_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Serie/",
+        "Voice": "V_PC_Serie_Gift_Basic"
+      },
+      "100205": {
+        "GROUP_ID": 100002,
+        "Name": "PC_VOICE_INFO_NAME_100002_5",
+        "Desc": "PC_VOICE_INFO_DESC_100002_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Serie/V_PC_Serie_Gift_Like.V_PC_Serie_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Serie/",
+        "Voice": "V_PC_Serie_Gift_Like"
+      },
+      "100206": {
+        "GROUP_ID": 100002,
+        "Name": "PC_VOICE_INFO_NAME_100002_6",
+        "Desc": "PC_VOICE_INFO_DESC_100002_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Serie/V_PC_Serie_Tag.V_PC_Serie_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Serie/",
+        "Voice": "V_PC_Serie_Tag"
+      },
+      "100207": {
+        "GROUP_ID": 100002,
+        "Name": "PC_VOICE_INFO_NAME_100002_7",
+        "Desc": "PC_VOICE_INFO_DESC_100002_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Serie/V_PC_Serie_TurnStart_Montage_01.V_PC_Serie_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Serie/",
+        "Voice": "V_PC_Serie_TurnStart_Montage_01"
+      },
+      "100208": {
+        "GROUP_ID": 100002,
+        "Name": "PC_VOICE_INFO_NAME_100002_8",
+        "Desc": "PC_VOICE_INFO_DESC_100002_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Serie/V_PC_Serie_TurnStart_Montage_02.V_PC_Serie_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Serie/",
+        "Voice": "V_PC_Serie_TurnStart_Montage_02"
+      },
+      "100209": {
+        "GROUP_ID": 100002,
+        "Name": "PC_VOICE_INFO_NAME_100002_9",
+        "Desc": "PC_VOICE_INFO_DESC_100002_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Serie/V_PC_Serie_TurnStart_Montage_03.V_PC_Serie_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Serie/",
+        "Voice": "V_PC_Serie_TurnStart_Montage_03"
+      },
+      "100210": {
+        "GROUP_ID": 100002,
+        "Name": "PC_VOICE_INFO_NAME_100002_10",
+        "Desc": "PC_VOICE_INFO_DESC_100002_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Serie/V_PC_Serie_Skill02_Montage.V_PC_Serie_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Serie/",
+        "Voice": "V_PC_Serie_Skill02_Montage"
+      },
+      "100211": {
+        "GROUP_ID": 100002,
+        "Name": "PC_VOICE_INFO_NAME_100002_11",
+        "Desc": "PC_VOICE_INFO_DESC_100002_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Serie/V_PC_Serie_Skill03_Montage.V_PC_Serie_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Serie/",
+        "Voice": "V_PC_Serie_Skill03_Montage"
+      },
+      "100212": {
+        "GROUP_ID": 100002,
+        "Name": "PC_VOICE_INFO_NAME_100002_12",
+        "Desc": "PC_VOICE_INFO_DESC_100002_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Serie/V_SQ_PC_Serie_Skill99_Master.V_SQ_PC_Serie_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Serie/",
+        "Voice": "V_SQ_PC_Serie_Skill99_Master"
+      },
+      "100301": {
+        "GROUP_ID": 100003,
+        "Name": "PC_VOICE_INFO_NAME_100003_1",
+        "Desc": "PC_VOICE_INFO_DESC_100003_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Jeremiah/V_PC_Jeremiah_Gacha.V_PC_Jeremiah_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Jeremiah/",
+        "Voice": "V_PC_Jeremiah_Gacha"
+      },
+      "100302": {
+        "GROUP_ID": 100003,
+        "Name": "PC_VOICE_INFO_NAME_100003_2",
+        "Desc": "PC_VOICE_INFO_DESC_100003_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Jeremiah/V_PC_Jeremiah_LongIdle_Anim.V_PC_Jeremiah_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Jeremiah/",
+        "Voice": "V_PC_Jeremiah_LongIdle_Anim"
+      },
+      "100303": {
+        "GROUP_ID": 100003,
+        "Name": "PC_VOICE_INFO_NAME_100003_3",
+        "Desc": "PC_VOICE_INFO_DESC_100003_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Jeremiah/V_PC_Jeremiah_Favor_LevelUp.V_PC_Jeremiah_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Jeremiah/",
+        "Voice": "V_PC_Jeremiah_Favor_LevelUp"
+      },
+      "100304": {
+        "GROUP_ID": 100003,
+        "Name": "PC_VOICE_INFO_NAME_100003_4",
+        "Desc": "PC_VOICE_INFO_DESC_100003_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Jeremiah/V_PC_Jeremiah_Gift_Basic.V_PC_Jeremiah_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Jeremiah/",
+        "Voice": "V_PC_Jeremiah_Gift_Basic"
+      },
+      "100305": {
+        "GROUP_ID": 100003,
+        "Name": "PC_VOICE_INFO_NAME_100003_5",
+        "Desc": "PC_VOICE_INFO_DESC_100003_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Jeremiah/V_PC_Jeremiah_Gift_Like.V_PC_Jeremiah_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Jeremiah/",
+        "Voice": "V_PC_Jeremiah_Gift_Like"
+      },
+      "100306": {
+        "GROUP_ID": 100003,
+        "Name": "PC_VOICE_INFO_NAME_100003_6",
+        "Desc": "PC_VOICE_INFO_DESC_100003_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Jeremiah/V_PC_Jeremiah_Tag.V_PC_Jeremiah_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Jeremiah/",
+        "Voice": "V_PC_Jeremiah_Tag"
+      },
+      "100307": {
+        "GROUP_ID": 100003,
+        "Name": "PC_VOICE_INFO_NAME_100003_7",
+        "Desc": "PC_VOICE_INFO_DESC_100003_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Jeremiah/V_PC_Jeremiah_TurnStart_Montage_01.V_PC_Jeremiah_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Jeremiah/",
+        "Voice": "V_PC_Jeremiah_TurnStart_Montage_01"
+      },
+      "100308": {
+        "GROUP_ID": 100003,
+        "Name": "PC_VOICE_INFO_NAME_100003_8",
+        "Desc": "PC_VOICE_INFO_DESC_100003_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Jeremiah/V_PC_Jeremiah_TurnStart_Montage_02.V_PC_Jeremiah_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Jeremiah/",
+        "Voice": "V_PC_Jeremiah_TurnStart_Montage_02"
+      },
+      "100309": {
+        "GROUP_ID": 100003,
+        "Name": "PC_VOICE_INFO_NAME_100003_9",
+        "Desc": "PC_VOICE_INFO_DESC_100003_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Jeremiah/V_PC_Jeremiah_TurnStart_Montage_03.V_PC_Jeremiah_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Jeremiah/",
+        "Voice": "V_PC_Jeremiah_TurnStart_Montage_03"
+      },
+      "100310": {
+        "GROUP_ID": 100003,
+        "Name": "PC_VOICE_INFO_NAME_100003_10",
+        "Desc": "PC_VOICE_INFO_DESC_100003_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Jeremiah/V_PC_Jeremiah_Skill02_Montage.V_PC_Jeremiah_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Jeremiah/",
+        "Voice": "V_PC_Jeremiah_Skill02_Montage"
+      },
+      "100311": {
+        "GROUP_ID": 100003,
+        "Name": "PC_VOICE_INFO_NAME_100003_11",
+        "Desc": "PC_VOICE_INFO_DESC_100003_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Jeremiah/V_PC_Jeremiah_Skill03_Montage_01.V_PC_Jeremiah_Skill03_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Jeremiah/",
+        "Voice": "V_PC_Jeremiah_Skill03_Montage_01"
+      },
+      "100312": {
+        "GROUP_ID": 100003,
+        "Name": "PC_VOICE_INFO_NAME_100003_12",
+        "Desc": "PC_VOICE_INFO_DESC_100003_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Jeremiah/V_SQ_PC_Jeremiah_Skill99_Master.V_SQ_PC_Jeremiah_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Jeremiah/",
+        "Voice": "V_SQ_PC_Jeremiah_Skill99_Master"
+      },
+      "100401": {
+        "GROUP_ID": 100004,
+        "Name": "PC_VOICE_INFO_NAME_100004_1",
+        "Desc": "PC_VOICE_INFO_DESC_100004_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Theodore/V_PC_Theodore_Gacha.V_PC_Theodore_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Theodore/",
+        "Voice": "V_PC_Theodore_Gacha"
+      },
+      "100402": {
+        "GROUP_ID": 100004,
+        "Name": "PC_VOICE_INFO_NAME_100004_2",
+        "Desc": "PC_VOICE_INFO_DESC_100004_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Theodore/V_PC_Theodore_LongIdle_Anim.V_PC_Theodore_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Theodore/",
+        "Voice": "V_PC_Theodore_LongIdle_Anim"
+      },
+      "100403": {
+        "GROUP_ID": 100004,
+        "Name": "PC_VOICE_INFO_NAME_100004_3",
+        "Desc": "PC_VOICE_INFO_DESC_100004_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Theodore/V_PC_Theodore_Favor_LevelUp.V_PC_Theodore_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Theodore/",
+        "Voice": "V_PC_Theodore_Favor_LevelUp"
+      },
+      "100404": {
+        "GROUP_ID": 100004,
+        "Name": "PC_VOICE_INFO_NAME_100004_4",
+        "Desc": "PC_VOICE_INFO_DESC_100004_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Theodore/V_PC_Theodore_Gift_Basic.V_PC_Theodore_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Theodore/",
+        "Voice": "V_PC_Theodore_Gift_Basic"
+      },
+      "100405": {
+        "GROUP_ID": 100004,
+        "Name": "PC_VOICE_INFO_NAME_100004_5",
+        "Desc": "PC_VOICE_INFO_DESC_100004_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Theodore/V_PC_Theodore_Gift_Like.V_PC_Theodore_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Theodore/",
+        "Voice": "V_PC_Theodore_Gift_Like"
+      },
+      "100406": {
+        "GROUP_ID": 100004,
+        "Name": "PC_VOICE_INFO_NAME_100004_6",
+        "Desc": "PC_VOICE_INFO_DESC_100004_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Theodore/V_PC_Theodore_Tag.V_PC_Theodore_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Theodore/",
+        "Voice": "V_PC_Theodore_Tag"
+      },
+      "100407": {
+        "GROUP_ID": 100004,
+        "Name": "PC_VOICE_INFO_NAME_100004_7",
+        "Desc": "PC_VOICE_INFO_DESC_100004_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Theodore/V_PC_Theodore_TurnStart_Montage_01.V_PC_Theodore_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Theodore/",
+        "Voice": "V_PC_Theodore_TurnStart_Montage_01"
+      },
+      "100408": {
+        "GROUP_ID": 100004,
+        "Name": "PC_VOICE_INFO_NAME_100004_8",
+        "Desc": "PC_VOICE_INFO_DESC_100004_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Theodore/V_PC_Theodore_TurnStart_Montage_02.V_PC_Theodore_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Theodore/",
+        "Voice": "V_PC_Theodore_TurnStart_Montage_02"
+      },
+      "100409": {
+        "GROUP_ID": 100004,
+        "Name": "PC_VOICE_INFO_NAME_100004_9",
+        "Desc": "PC_VOICE_INFO_DESC_100004_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Theodore/V_PC_Theodore_TurnStart_Montage_03.V_PC_Theodore_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Theodore/",
+        "Voice": "V_PC_Theodore_TurnStart_Montage_03"
+      },
+      "100410": {
+        "GROUP_ID": 100004,
+        "Name": "PC_VOICE_INFO_NAME_100004_10",
+        "Desc": "PC_VOICE_INFO_DESC_100004_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Theodore/V_PC_Theodore_Skill02_Montage.V_PC_Theodore_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Theodore/",
+        "Voice": "V_PC_Theodore_Skill02_Montage"
+      },
+      "100411": {
+        "GROUP_ID": 100004,
+        "Name": "PC_VOICE_INFO_NAME_100004_11",
+        "Desc": "PC_VOICE_INFO_DESC_100004_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Theodore/V_PC_Theodore_Skill03_Montage.V_PC_Theodore_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Theodore/",
+        "Voice": "V_PC_Theodore_Skill03_Montage"
+      },
+      "100412": {
+        "GROUP_ID": 100004,
+        "Name": "PC_VOICE_INFO_NAME_100004_12",
+        "Desc": "PC_VOICE_INFO_DESC_100004_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Theodore/V_SQ_PC_Theodore_Skill99_Master.V_SQ_PC_Theodore_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Theodore/",
+        "Voice": "V_SQ_PC_Theodore_Skill99_Master"
+      },
+      "100501": {
+        "GROUP_ID": 100005,
+        "Name": "PC_VOICE_INFO_NAME_100005_1",
+        "Desc": "PC_VOICE_INFO_DESC_100005_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lilia/V_PC_Lilia_Gacha.V_PC_Lilia_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lilia/",
+        "Voice": "V_PC_Lilia_Gacha"
+      },
+      "100502": {
+        "GROUP_ID": 100005,
+        "Name": "PC_VOICE_INFO_NAME_100005_2",
+        "Desc": "PC_VOICE_INFO_DESC_100005_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lilia/V_PC_Lilia_LongIdle_Anim.V_PC_Lilia_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lilia/",
+        "Voice": "V_PC_Lilia_LongIdle_Anim"
+      },
+      "100503": {
+        "GROUP_ID": 100005,
+        "Name": "PC_VOICE_INFO_NAME_100005_3",
+        "Desc": "PC_VOICE_INFO_DESC_100005_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lilia/V_PC_Lilia_Favor_LevelUp.V_PC_Lilia_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lilia/",
+        "Voice": "V_PC_Lilia_Favor_LevelUp"
+      },
+      "100504": {
+        "GROUP_ID": 100005,
+        "Name": "PC_VOICE_INFO_NAME_100005_4",
+        "Desc": "PC_VOICE_INFO_DESC_100005_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lilia/V_PC_Lilia_Gift_Basic.V_PC_Lilia_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lilia/",
+        "Voice": "V_PC_Lilia_Gift_Basic"
+      },
+      "100505": {
+        "GROUP_ID": 100005,
+        "Name": "PC_VOICE_INFO_NAME_100005_5",
+        "Desc": "PC_VOICE_INFO_DESC_100005_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lilia/V_PC_Lilia_Gift_Like.V_PC_Lilia_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lilia/",
+        "Voice": "V_PC_Lilia_Gift_Like"
+      },
+      "100506": {
+        "GROUP_ID": 100005,
+        "Name": "PC_VOICE_INFO_NAME_100005_6",
+        "Desc": "PC_VOICE_INFO_DESC_100005_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lilia/V_PC_Lilia_Tag.V_PC_Lilia_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lilia/",
+        "Voice": "V_PC_Lilia_Tag"
+      },
+      "100507": {
+        "GROUP_ID": 100005,
+        "Name": "PC_VOICE_INFO_NAME_100005_7",
+        "Desc": "PC_VOICE_INFO_DESC_100005_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lilia/V_PC_Lilia_TurnStart_Montage_01.V_PC_Lilia_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lilia/",
+        "Voice": "V_PC_Lilia_TurnStart_Montage_01"
+      },
+      "100508": {
+        "GROUP_ID": 100005,
+        "Name": "PC_VOICE_INFO_NAME_100005_8",
+        "Desc": "PC_VOICE_INFO_DESC_100005_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lilia/V_PC_Lilia_TurnStart_Montage_02.V_PC_Lilia_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lilia/",
+        "Voice": "V_PC_Lilia_TurnStart_Montage_02"
+      },
+      "100509": {
+        "GROUP_ID": 100005,
+        "Name": "PC_VOICE_INFO_NAME_100005_9",
+        "Desc": "PC_VOICE_INFO_DESC_100005_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lilia/V_PC_Lilia_TurnStart_Montage_03.V_PC_Lilia_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lilia/",
+        "Voice": "V_PC_Lilia_TurnStart_Montage_03"
+      },
+      "100510": {
+        "GROUP_ID": 100005,
+        "Name": "PC_VOICE_INFO_NAME_100005_10",
+        "Desc": "PC_VOICE_INFO_DESC_100005_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lilia/V_PC_Lilia_Skill02_Montage.V_PC_Lilia_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lilia/",
+        "Voice": "V_PC_Lilia_Skill02_Montage"
+      },
+      "100511": {
+        "GROUP_ID": 100005,
+        "Name": "PC_VOICE_INFO_NAME_100005_11",
+        "Desc": "PC_VOICE_INFO_DESC_100005_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lilia/V_PC_Lilia_Skill03_Montage.V_PC_Lilia_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lilia/",
+        "Voice": "V_PC_Lilia_Skill03_Montage"
+      },
+      "100512": {
+        "GROUP_ID": 100005,
+        "Name": "PC_VOICE_INFO_NAME_100005_12",
+        "Desc": "PC_VOICE_INFO_DESC_100005_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lilia/V_SQ_PC_Lilia_Skill99_Master.V_SQ_PC_Lilia_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lilia/",
+        "Voice": "V_SQ_PC_Lilia_Skill99_Master"
+      },
+      "100701": {
+        "GROUP_ID": 100007,
+        "Name": "PC_VOICE_INFO_NAME_100007_1",
+        "Desc": "PC_VOICE_INFO_DESC_100007_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Yuri/V_PC_Yuri_Gacha.V_PC_Yuri_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Yuri/",
+        "Voice": "V_PC_Yuri_Gacha"
+      },
+      "100702": {
+        "GROUP_ID": 100007,
+        "Name": "PC_VOICE_INFO_NAME_100007_2",
+        "Desc": "PC_VOICE_INFO_DESC_100007_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Yuri/V_PC_Yuri_LongIdle_Anim.V_PC_Yuri_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Yuri/",
+        "Voice": "V_PC_Yuri_LongIdle_Anim"
+      },
+      "100703": {
+        "GROUP_ID": 100007,
+        "Name": "PC_VOICE_INFO_NAME_100007_3",
+        "Desc": "PC_VOICE_INFO_DESC_100007_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Yuri/V_PC_Yuri_Favor_LevelUp.V_PC_Yuri_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Yuri/",
+        "Voice": "V_PC_Yuri_Favor_LevelUp"
+      },
+      "100704": {
+        "GROUP_ID": 100007,
+        "Name": "PC_VOICE_INFO_NAME_100007_4",
+        "Desc": "PC_VOICE_INFO_DESC_100007_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Yuri/V_PC_Yuri_Gift_Basic.V_PC_Yuri_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Yuri/",
+        "Voice": "V_PC_Yuri_Gift_Basic"
+      },
+      "100705": {
+        "GROUP_ID": 100007,
+        "Name": "PC_VOICE_INFO_NAME_100007_5",
+        "Desc": "PC_VOICE_INFO_DESC_100007_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Yuri/V_PC_Yuri_Gift_Like.V_PC_Yuri_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Yuri/",
+        "Voice": "V_PC_Yuri_Gift_Like"
+      },
+      "100706": {
+        "GROUP_ID": 100007,
+        "Name": "PC_VOICE_INFO_NAME_100007_6",
+        "Desc": "PC_VOICE_INFO_DESC_100007_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Yuri/V_PC_Yuri_Tag.V_PC_Yuri_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Yuri/",
+        "Voice": "V_PC_Yuri_Tag"
+      },
+      "100707": {
+        "GROUP_ID": 100007,
+        "Name": "PC_VOICE_INFO_NAME_100007_7",
+        "Desc": "PC_VOICE_INFO_DESC_100007_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Yuri/V_PC_Yuri_TurnStart_Montage_01.V_PC_Yuri_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Yuri/",
+        "Voice": "V_PC_Yuri_TurnStart_Montage_01"
+      },
+      "100708": {
+        "GROUP_ID": 100007,
+        "Name": "PC_VOICE_INFO_NAME_100007_8",
+        "Desc": "PC_VOICE_INFO_DESC_100007_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Yuri/V_PC_Yuri_TurnStart_Montage_02.V_PC_Yuri_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Yuri/",
+        "Voice": "V_PC_Yuri_TurnStart_Montage_02"
+      },
+      "100709": {
+        "GROUP_ID": 100007,
+        "Name": "PC_VOICE_INFO_NAME_100007_9",
+        "Desc": "PC_VOICE_INFO_DESC_100007_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Yuri/V_PC_Yuri_TurnStart_Montage_03.V_PC_Yuri_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Yuri/",
+        "Voice": "V_PC_Yuri_TurnStart_Montage_03"
+      },
+      "100710": {
+        "GROUP_ID": 100007,
+        "Name": "PC_VOICE_INFO_NAME_100007_10",
+        "Desc": "PC_VOICE_INFO_DESC_100007_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Yuri/V_PC_Yuri_Skill02_Montage.V_PC_Yuri_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Yuri/",
+        "Voice": "V_PC_Yuri_Skill02_Montage"
+      },
+      "100711": {
+        "GROUP_ID": 100007,
+        "Name": "PC_VOICE_INFO_NAME_100007_11",
+        "Desc": "PC_VOICE_INFO_DESC_100007_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Yuri/V_PC_Yuri_Skill03_Montage.V_PC_Yuri_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Yuri/",
+        "Voice": "V_PC_Yuri_Skill03_Montage"
+      },
+      "100712": {
+        "GROUP_ID": 100007,
+        "Name": "PC_VOICE_INFO_NAME_100007_12",
+        "Desc": "PC_VOICE_INFO_DESC_100007_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Yuri/V_SQ_PC_Yuri_Skill99_Master.V_SQ_PC_Yuri_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Yuri/",
+        "Voice": "V_SQ_PC_Yuri_Skill99_Master"
+      },
+      "100801": {
+        "GROUP_ID": 100008,
+        "Name": "PC_VOICE_INFO_NAME_100008_1",
+        "Desc": "PC_VOICE_INFO_DESC_100008_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Xeon/V_PC_Xeon_Gacha.V_PC_Xeon_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Xeon/",
+        "Voice": "V_PC_Xeon_Gacha"
+      },
+      "100802": {
+        "GROUP_ID": 100008,
+        "Name": "PC_VOICE_INFO_NAME_100008_2",
+        "Desc": "PC_VOICE_INFO_DESC_100008_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Xeon/V_PC_Xeon_LongIdle_Anim.V_PC_Xeon_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Xeon/",
+        "Voice": "V_PC_Xeon_LongIdle_Anim"
+      },
+      "100803": {
+        "GROUP_ID": 100008,
+        "Name": "PC_VOICE_INFO_NAME_100008_3",
+        "Desc": "PC_VOICE_INFO_DESC_100008_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Xeon/V_PC_Xeon_Favor_LevelUp.V_PC_Xeon_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Xeon/",
+        "Voice": "V_PC_Xeon_Favor_LevelUp"
+      },
+      "100804": {
+        "GROUP_ID": 100008,
+        "Name": "PC_VOICE_INFO_NAME_100008_4",
+        "Desc": "PC_VOICE_INFO_DESC_100008_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Xeon/V_PC_Xeon_Gift_Basic.V_PC_Xeon_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Xeon/",
+        "Voice": "V_PC_Xeon_Gift_Basic"
+      },
+      "100805": {
+        "GROUP_ID": 100008,
+        "Name": "PC_VOICE_INFO_NAME_100008_5",
+        "Desc": "PC_VOICE_INFO_DESC_100008_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Xeon/V_PC_Xeon_Gift_Like.V_PC_Xeon_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Xeon/",
+        "Voice": "V_PC_Xeon_Gift_Like"
+      },
+      "100806": {
+        "GROUP_ID": 100008,
+        "Name": "PC_VOICE_INFO_NAME_100008_6",
+        "Desc": "PC_VOICE_INFO_DESC_100008_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Xeon/V_PC_Xeon_Tag.V_PC_Xeon_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Xeon/",
+        "Voice": "V_PC_Xeon_Tag"
+      },
+      "100807": {
+        "GROUP_ID": 100008,
+        "Name": "PC_VOICE_INFO_NAME_100008_7",
+        "Desc": "PC_VOICE_INFO_DESC_100008_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Xeon/V_PC_Xeon_TurnStart_Montage_01.V_PC_Xeon_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Xeon/",
+        "Voice": "V_PC_Xeon_TurnStart_Montage_01"
+      },
+      "100808": {
+        "GROUP_ID": 100008,
+        "Name": "PC_VOICE_INFO_NAME_100008_8",
+        "Desc": "PC_VOICE_INFO_DESC_100008_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Xeon/V_PC_Xeon_TurnStart_Montage_02.V_PC_Xeon_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Xeon/",
+        "Voice": "V_PC_Xeon_TurnStart_Montage_02"
+      },
+      "100809": {
+        "GROUP_ID": 100008,
+        "Name": "PC_VOICE_INFO_NAME_100008_9",
+        "Desc": "PC_VOICE_INFO_DESC_100008_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Xeon/V_PC_Xeon_TurnStart_Montage_03.V_PC_Xeon_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Xeon/",
+        "Voice": "V_PC_Xeon_TurnStart_Montage_03"
+      },
+      "100810": {
+        "GROUP_ID": 100008,
+        "Name": "PC_VOICE_INFO_NAME_100008_10",
+        "Desc": "PC_VOICE_INFO_DESC_100008_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Xeon/V_PC_Xeon_Skill02_Montage.V_PC_Xeon_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Xeon/",
+        "Voice": "V_PC_Xeon_Skill02_Montage"
+      },
+      "100811": {
+        "GROUP_ID": 100008,
+        "Name": "PC_VOICE_INFO_NAME_100008_11",
+        "Desc": "PC_VOICE_INFO_DESC_100008_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Xeon/V_PC_Xeon_Skill03_Montage.V_PC_Xeon_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Xeon/",
+        "Voice": "V_PC_Xeon_Skill03_Montage"
+      },
+      "100812": {
+        "GROUP_ID": 100008,
+        "Name": "PC_VOICE_INFO_NAME_100008_12",
+        "Desc": "PC_VOICE_INFO_DESC_100008_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Xeon/V_SQ_PC_Xeon_Skill99_Master.V_SQ_PC_Xeon_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Xeon/",
+        "Voice": "V_SQ_PC_Xeon_Skill99_Master"
+      },
+      "100901": {
+        "GROUP_ID": 100009,
+        "Name": "PC_VOICE_INFO_NAME_100009_1",
+        "Desc": "PC_VOICE_INFO_DESC_100009_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Kana/V_PC_Kana_Gacha.V_PC_Kana_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Kana/",
+        "Voice": "V_PC_Kana_Gacha"
+      },
+      "100902": {
+        "GROUP_ID": 100009,
+        "Name": "PC_VOICE_INFO_NAME_100009_2",
+        "Desc": "PC_VOICE_INFO_DESC_100009_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Kana/V_PC_Kana_Longidle_Anim.V_PC_Kana_Longidle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Kana/",
+        "Voice": "V_PC_Kana_LongIdle_Anim"
+      },
+      "100903": {
+        "GROUP_ID": 100009,
+        "Name": "PC_VOICE_INFO_NAME_100009_3",
+        "Desc": "PC_VOICE_INFO_DESC_100009_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Kana/V_PC_Kana_Favor_LevelUp.V_PC_Kana_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Kana/",
+        "Voice": "V_PC_Kana_Favor_LevelUp"
+      },
+      "100904": {
+        "GROUP_ID": 100009,
+        "Name": "PC_VOICE_INFO_NAME_100009_4",
+        "Desc": "PC_VOICE_INFO_DESC_100009_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Kana/V_PC_Kana_Gift_Basic.V_PC_Kana_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Kana/",
+        "Voice": "V_PC_Kana_Gift_Basic"
+      },
+      "100905": {
+        "GROUP_ID": 100009,
+        "Name": "PC_VOICE_INFO_NAME_100009_5",
+        "Desc": "PC_VOICE_INFO_DESC_100009_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Kana/V_PC_Kana_Gift_Like.V_PC_Kana_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Kana/",
+        "Voice": "V_PC_Kana_Gift_Like"
+      },
+      "100906": {
+        "GROUP_ID": 100009,
+        "Name": "PC_VOICE_INFO_NAME_100009_6",
+        "Desc": "PC_VOICE_INFO_DESC_100009_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Kana/V_PC_Kana_Tag.V_PC_Kana_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Kana/",
+        "Voice": "V_PC_Kana_Tag"
+      },
+      "100907": {
+        "GROUP_ID": 100009,
+        "Name": "PC_VOICE_INFO_NAME_100009_7",
+        "Desc": "PC_VOICE_INFO_DESC_100009_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Kana/V_PC_Kana_TurnStart_Montage_01.V_PC_Kana_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Kana/",
+        "Voice": "V_PC_Kana_TurnStart_Montage_01"
+      },
+      "100908": {
+        "GROUP_ID": 100009,
+        "Name": "PC_VOICE_INFO_NAME_100009_8",
+        "Desc": "PC_VOICE_INFO_DESC_100009_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Kana/V_PC_Kana_TurnStart_Montage_02.V_PC_Kana_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Kana/",
+        "Voice": "V_PC_Kana_TurnStart_Montage_02"
+      },
+      "100909": {
+        "GROUP_ID": 100009,
+        "Name": "PC_VOICE_INFO_NAME_100009_9",
+        "Desc": "PC_VOICE_INFO_DESC_100009_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Kana/V_PC_Kana_TurnStart_Montage_03.V_PC_Kana_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Kana/",
+        "Voice": "V_PC_Kana_TurnStart_Montage_03"
+      },
+      "100910": {
+        "GROUP_ID": 100009,
+        "Name": "PC_VOICE_INFO_NAME_100009_10",
+        "Desc": "PC_VOICE_INFO_DESC_100009_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Kana/V_PC_Kana_Skill02_Montage.V_PC_Kana_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Kana/",
+        "Voice": "V_PC_Kana_Skill02_Montage"
+      },
+      "100911": {
+        "GROUP_ID": 100009,
+        "Name": "PC_VOICE_INFO_NAME_100009_11",
+        "Desc": "PC_VOICE_INFO_DESC_100009_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Kana/V_PC_Kana_Skill03_Montage.V_PC_Kana_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Kana/",
+        "Voice": "V_PC_Kana_Skill03_Montage"
+      },
+      "100912": {
+        "GROUP_ID": 100009,
+        "Name": "PC_VOICE_INFO_NAME_100009_12",
+        "Desc": "PC_VOICE_INFO_DESC_100009_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Kana/V_SQ_PC_Kana_Skill99_Master.V_SQ_PC_Kana_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Kana/",
+        "Voice": "V_SQ_PC_Kana_Skill99_Master"
+      },
+      "101001": {
+        "GROUP_ID": 100010,
+        "Name": "PC_VOICE_INFO_NAME_100010_1",
+        "Desc": "PC_VOICE_INFO_DESC_100010_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ferrancy/V_PC_Ferrancy_Gacha.V_PC_Ferrancy_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ferrancy/",
+        "Voice": "V_PC_Ferrancy_Gacha"
+      },
+      "101002": {
+        "GROUP_ID": 100010,
+        "Name": "PC_VOICE_INFO_NAME_100010_2",
+        "Desc": "PC_VOICE_INFO_DESC_100010_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ferrancy/V_PC_Ferrancy_LongIdle_Anim.V_PC_Ferrancy_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ferrancy/",
+        "Voice": "V_PC_Ferrancy_LongIdle_Anim"
+      },
+      "101003": {
+        "GROUP_ID": 100010,
+        "Name": "PC_VOICE_INFO_NAME_100010_3",
+        "Desc": "PC_VOICE_INFO_DESC_100010_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ferrancy/V_PC_Ferrancy_Favor_LevelUp.V_PC_Ferrancy_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ferrancy/",
+        "Voice": "V_PC_Ferrancy_Favor_LevelUp"
+      },
+      "101004": {
+        "GROUP_ID": 100010,
+        "Name": "PC_VOICE_INFO_NAME_100010_4",
+        "Desc": "PC_VOICE_INFO_DESC_100010_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ferrancy/V_PC_Ferrancy_Gift_Basic.V_PC_Ferrancy_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ferrancy/",
+        "Voice": "V_PC_Ferrancy_Gift_Basic"
+      },
+      "101005": {
+        "GROUP_ID": 100010,
+        "Name": "PC_VOICE_INFO_NAME_100010_5",
+        "Desc": "PC_VOICE_INFO_DESC_100010_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ferrancy/V_PC_Ferrancy_Gift_Like.V_PC_Ferrancy_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ferrancy/",
+        "Voice": "V_PC_Ferrancy_Gift_Like"
+      },
+      "101006": {
+        "GROUP_ID": 100010,
+        "Name": "PC_VOICE_INFO_NAME_100010_6",
+        "Desc": "PC_VOICE_INFO_DESC_100010_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ferrancy/V_PC_Ferrancy_Tag.V_PC_Ferrancy_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ferrancy/",
+        "Voice": "V_PC_Ferrancy_Tag"
+      },
+      "101007": {
+        "GROUP_ID": 100010,
+        "Name": "PC_VOICE_INFO_NAME_100010_7",
+        "Desc": "PC_VOICE_INFO_DESC_100010_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ferrancy/V_PC_Ferrancy_TurnStart_Montage_01.V_PC_Ferrancy_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ferrancy/",
+        "Voice": "V_PC_Ferrancy_TurnStart_Montage_01"
+      },
+      "101008": {
+        "GROUP_ID": 100010,
+        "Name": "PC_VOICE_INFO_NAME_100010_8",
+        "Desc": "PC_VOICE_INFO_DESC_100010_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ferrancy/V_PC_Ferrancy_TurnStart_Montage_02.V_PC_Ferrancy_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ferrancy/",
+        "Voice": "V_PC_Ferrancy_TurnStart_Montage_02"
+      },
+      "101009": {
+        "GROUP_ID": 100010,
+        "Name": "PC_VOICE_INFO_NAME_100010_9",
+        "Desc": "PC_VOICE_INFO_DESC_100010_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ferrancy/V_PC_Ferrancy_TurnStart_Montage_03.V_PC_Ferrancy_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ferrancy/",
+        "Voice": "V_PC_Ferrancy_TurnStart_Montage_03"
+      },
+      "101010": {
+        "GROUP_ID": 100010,
+        "Name": "PC_VOICE_INFO_NAME_100010_10",
+        "Desc": "PC_VOICE_INFO_DESC_100010_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ferrancy/V_PC_Ferrancy_Skill02_Montage.V_PC_Ferrancy_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ferrancy/",
+        "Voice": "V_PC_Ferrancy_Skill02_Montage"
+      },
+      "101011": {
+        "GROUP_ID": 100010,
+        "Name": "PC_VOICE_INFO_NAME_100010_11",
+        "Desc": "PC_VOICE_INFO_DESC_100010_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ferrancy/V_PC_Ferrancy_Skill03_Montage.V_PC_Ferrancy_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ferrancy/",
+        "Voice": "V_PC_Ferrancy_Skill03_Montage"
+      },
+      "101012": {
+        "GROUP_ID": 100010,
+        "Name": "PC_VOICE_INFO_NAME_100010_12",
+        "Desc": "PC_VOICE_INFO_DESC_100010_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ferrancy/V_SQ_PC_Ferrancy_Skill99_Master.V_SQ_PC_Ferrancy_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ferrancy/",
+        "Voice": "V_SQ_PC_Ferrancy_Skill99_Master"
+      },
+      "101101": {
+        "GROUP_ID": 100011,
+        "Name": "PC_VOICE_INFO_NAME_100011_1",
+        "Desc": "PC_VOICE_INFO_DESC_100011_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Bernice/V_PC_Bernice_Gacha.V_PC_Bernice_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Bernice/",
+        "Voice": "V_PC_Bernice_Gacha"
+      },
+      "101102": {
+        "GROUP_ID": 100011,
+        "Name": "PC_VOICE_INFO_NAME_100011_2",
+        "Desc": "PC_VOICE_INFO_DESC_100011_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Bernice/V_PC_Bernice_LongIdle_Anim.V_PC_Bernice_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Bernice/",
+        "Voice": "V_PC_Bernice_LongIdle_Anim"
+      },
+      "101103": {
+        "GROUP_ID": 100011,
+        "Name": "PC_VOICE_INFO_NAME_100011_3",
+        "Desc": "PC_VOICE_INFO_DESC_100011_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Bernice/V_PC_Bernice_Favor_LevelUp.V_PC_Bernice_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Bernice/",
+        "Voice": "V_PC_Bernice_Favor_LevelUp"
+      },
+      "101104": {
+        "GROUP_ID": 100011,
+        "Name": "PC_VOICE_INFO_NAME_100011_4",
+        "Desc": "PC_VOICE_INFO_DESC_100011_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Bernice/V_PC_Bernice_Gift_Basic.V_PC_Bernice_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Bernice/",
+        "Voice": "V_PC_Bernice_Gift_Basic"
+      },
+      "101105": {
+        "GROUP_ID": 100011,
+        "Name": "PC_VOICE_INFO_NAME_100011_5",
+        "Desc": "PC_VOICE_INFO_DESC_100011_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Bernice/V_PC_Bernice_Gift_Like.V_PC_Bernice_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Bernice/",
+        "Voice": "V_PC_Bernice_Gift_Like"
+      },
+      "101106": {
+        "GROUP_ID": 100011,
+        "Name": "PC_VOICE_INFO_NAME_100011_6",
+        "Desc": "PC_VOICE_INFO_DESC_100011_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Bernice/V_PC_Bernice_Tag.V_PC_Bernice_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Bernice/",
+        "Voice": "V_PC_Bernice_Tag"
+      },
+      "101107": {
+        "GROUP_ID": 100011,
+        "Name": "PC_VOICE_INFO_NAME_100011_7",
+        "Desc": "PC_VOICE_INFO_DESC_100011_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Bernice/V_PC_Bernice_TurnStart_Montage_01.V_PC_Bernice_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Bernice/",
+        "Voice": "V_PC_Bernice_TurnStart_Montage_01"
+      },
+      "101108": {
+        "GROUP_ID": 100011,
+        "Name": "PC_VOICE_INFO_NAME_100011_8",
+        "Desc": "PC_VOICE_INFO_DESC_100011_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Bernice/V_PC_Bernice_TurnStart_Montage_02.V_PC_Bernice_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Bernice/",
+        "Voice": "V_PC_Bernice_TurnStart_Montage_02"
+      },
+      "101109": {
+        "GROUP_ID": 100011,
+        "Name": "PC_VOICE_INFO_NAME_100011_9",
+        "Desc": "PC_VOICE_INFO_DESC_100011_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Bernice/V_PC_Bernice_TurnStart_Montage_03.V_PC_Bernice_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Bernice/",
+        "Voice": "V_PC_Bernice_TurnStart_Montage_03"
+      },
+      "101110": {
+        "GROUP_ID": 100011,
+        "Name": "PC_VOICE_INFO_NAME_100011_10",
+        "Desc": "PC_VOICE_INFO_DESC_100011_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Bernice/V_PC_Bernice_Skill02_Montage.V_PC_Bernice_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Bernice/",
+        "Voice": "V_PC_Bernice_Skill02_Montage"
+      },
+      "101111": {
+        "GROUP_ID": 100011,
+        "Name": "PC_VOICE_INFO_NAME_100011_11",
+        "Desc": "PC_VOICE_INFO_DESC_100011_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Bernice/V_PC_Bernice_Skill03_Montage.V_PC_Bernice_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Bernice/",
+        "Voice": "V_PC_Bernice_Skill03_Montage"
+      },
+      "101112": {
+        "GROUP_ID": 100011,
+        "Name": "PC_VOICE_INFO_NAME_100011_12",
+        "Desc": "PC_VOICE_INFO_DESC_100011_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Bernice/V_SQ_PC_Bernice_Skill99_Master.V_SQ_PC_Bernice_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Bernice/",
+        "Voice": "V_SQ_PC_Bernice_Skill99_Master"
+      },
+      "101201": {
+        "GROUP_ID": 100012,
+        "Name": "PC_VOICE_INFO_NAME_100012_1",
+        "Desc": "PC_VOICE_INFO_DESC_100012_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Shutein/V_PC_Shutein_Gacha.V_PC_Shutein_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Shutein/",
+        "Voice": "V_PC_Shutein_Gacha"
+      },
+      "101202": {
+        "GROUP_ID": 100012,
+        "Name": "PC_VOICE_INFO_NAME_100012_2",
+        "Desc": "PC_VOICE_INFO_DESC_100012_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Shutein/V_PC_Shutein_LongIdle_Anim.V_PC_Shutein_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Shutein/",
+        "Voice": "V_PC_Shutein_LongIdle_Anim"
+      },
+      "101203": {
+        "GROUP_ID": 100012,
+        "Name": "PC_VOICE_INFO_NAME_100012_3",
+        "Desc": "PC_VOICE_INFO_DESC_100012_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Shutein/V_PC_Shutein_Favor_LevelUp.V_PC_Shutein_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Shutein/",
+        "Voice": "V_PC_Shutein_Favor_LevelUp"
+      },
+      "101204": {
+        "GROUP_ID": 100012,
+        "Name": "PC_VOICE_INFO_NAME_100012_4",
+        "Desc": "PC_VOICE_INFO_DESC_100012_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Shutein/V_PC_Shutein_Gift_Basic.V_PC_Shutein_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Shutein/",
+        "Voice": "V_PC_Shutein_Gift_Basic"
+      },
+      "101205": {
+        "GROUP_ID": 100012,
+        "Name": "PC_VOICE_INFO_NAME_100012_5",
+        "Desc": "PC_VOICE_INFO_DESC_100012_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Shutein/V_PC_Shutein_Gift_Like.V_PC_Shutein_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Shutein/",
+        "Voice": "V_PC_Shutein_Gift_Like"
+      },
+      "101206": {
+        "GROUP_ID": 100012,
+        "Name": "PC_VOICE_INFO_NAME_100012_6",
+        "Desc": "PC_VOICE_INFO_DESC_100012_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Shutein/V_PC_Shutein_Tag.V_PC_Shutein_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Shutein/",
+        "Voice": "V_PC_Shutein_Tag"
+      },
+      "101207": {
+        "GROUP_ID": 100012,
+        "Name": "PC_VOICE_INFO_NAME_100012_7",
+        "Desc": "PC_VOICE_INFO_DESC_100012_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Shutein/V_PC_Shutein_TurnStart_Montage_01.V_PC_Shutein_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Shutein/",
+        "Voice": "V_PC_Shutein_TurnStart_Montage_01"
+      },
+      "101208": {
+        "GROUP_ID": 100012,
+        "Name": "PC_VOICE_INFO_NAME_100012_8",
+        "Desc": "PC_VOICE_INFO_DESC_100012_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Shutein/V_PC_Shutein_TurnStart_Montage_02.V_PC_Shutein_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Shutein/",
+        "Voice": "V_PC_Shutein_TurnStart_Montage_02"
+      },
+      "101209": {
+        "GROUP_ID": 100012,
+        "Name": "PC_VOICE_INFO_NAME_100012_9",
+        "Desc": "PC_VOICE_INFO_DESC_100012_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Shutein/V_PC_Shutein_TurnStart_Montage_03.V_PC_Shutein_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Shutein/",
+        "Voice": "V_PC_Shutein_TurnStart_Montage_03"
+      },
+      "101210": {
+        "GROUP_ID": 100012,
+        "Name": "PC_VOICE_INFO_NAME_100012_10",
+        "Desc": "PC_VOICE_INFO_DESC_100012_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Shutein/V_PC_Shutein_Skill02_Montage.V_PC_Shutein_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Shutein/",
+        "Voice": "V_PC_Shutein_Skill02_Montage"
+      },
+      "101211": {
+        "GROUP_ID": 100012,
+        "Name": "PC_VOICE_INFO_NAME_100012_11",
+        "Desc": "PC_VOICE_INFO_DESC_100012_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Shutein/V_PC_Shutein_Skill03_Montage.V_PC_Shutein_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Shutein/",
+        "Voice": "V_PC_Shutein_Skill03_Montage"
+      },
+      "101212": {
+        "GROUP_ID": 100012,
+        "Name": "PC_VOICE_INFO_NAME_100012_12",
+        "Desc": "PC_VOICE_INFO_DESC_100012_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Shutein/V_SQ_PC_Shutein_Skill99_Master.V_SQ_PC_Shutein_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Shutein/",
+        "Voice": "V_SQ_PC_Shutein_Skill99_Master"
+      },
+      "101301": {
+        "GROUP_ID": 100013,
+        "Name": "PC_VOICE_INFO_NAME_100013_1",
+        "Desc": "PC_VOICE_INFO_DESC_100013_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Artnis/V_PC_Artnis_Gacha.V_PC_Artnis_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Artnis/",
+        "Voice": "V_PC_Artnis_Gacha"
+      },
+      "101302": {
+        "GROUP_ID": 100013,
+        "Name": "PC_VOICE_INFO_NAME_100013_2",
+        "Desc": "PC_VOICE_INFO_DESC_100013_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Artnis/V_PC_Artnis_LongIdle_Anim.V_PC_Artnis_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Artnis/",
+        "Voice": "V_PC_Artnis_LongIdle_Anim"
+      },
+      "101303": {
+        "GROUP_ID": 100013,
+        "Name": "PC_VOICE_INFO_NAME_100013_3",
+        "Desc": "PC_VOICE_INFO_DESC_100013_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Artnis/V_PC_Artnis_Favor_LevelUp.V_PC_Artnis_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Artnis/",
+        "Voice": "V_PC_Artnis_Favor_LevelUp"
+      },
+      "101304": {
+        "GROUP_ID": 100013,
+        "Name": "PC_VOICE_INFO_NAME_100013_4",
+        "Desc": "PC_VOICE_INFO_DESC_100013_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Artnis/V_PC_Artnis_Gift_Basic.V_PC_Artnis_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Artnis/",
+        "Voice": "V_PC_Artnis_Gift_Basic"
+      },
+      "101305": {
+        "GROUP_ID": 100013,
+        "Name": "PC_VOICE_INFO_NAME_100013_5",
+        "Desc": "PC_VOICE_INFO_DESC_100013_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Artnis/V_PC_Artnis_Gift_Like.V_PC_Artnis_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Artnis/",
+        "Voice": "V_PC_Artnis_Gift_Like"
+      },
+      "101306": {
+        "GROUP_ID": 100013,
+        "Name": "PC_VOICE_INFO_NAME_100013_6",
+        "Desc": "PC_VOICE_INFO_DESC_100013_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Artnis/V_PC_Artnis_Tag.V_PC_Artnis_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Artnis/",
+        "Voice": "V_PC_Artnis_Tag"
+      },
+      "101307": {
+        "GROUP_ID": 100013,
+        "Name": "PC_VOICE_INFO_NAME_100013_7",
+        "Desc": "PC_VOICE_INFO_DESC_100013_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Artnis/V_PC_Artnis_TurnStart_Montage_01.V_PC_Artnis_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Artnis/",
+        "Voice": "V_PC_Artnis_TurnStart_Montage_01"
+      },
+      "101308": {
+        "GROUP_ID": 100013,
+        "Name": "PC_VOICE_INFO_NAME_100013_8",
+        "Desc": "PC_VOICE_INFO_DESC_100013_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Artnis/V_PC_Artnis_TurnStart_Montage_02.V_PC_Artnis_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Artnis/",
+        "Voice": "V_PC_Artnis_TurnStart_Montage_02"
+      },
+      "101309": {
+        "GROUP_ID": 100013,
+        "Name": "PC_VOICE_INFO_NAME_100013_9",
+        "Desc": "PC_VOICE_INFO_DESC_100013_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Artnis/V_PC_Artnis_TurnStart_Montage_03.V_PC_Artnis_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Artnis/",
+        "Voice": "V_PC_Artnis_TurnStart_Montage_03"
+      },
+      "101310": {
+        "GROUP_ID": 100013,
+        "Name": "PC_VOICE_INFO_NAME_100013_10",
+        "Desc": "PC_VOICE_INFO_DESC_100013_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Artnis/V_PC_Artnis_Skill02_Montage.V_PC_Artnis_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Artnis/",
+        "Voice": "V_PC_Artnis_Skill02_Montage"
+      },
+      "101311": {
+        "GROUP_ID": 100013,
+        "Name": "PC_VOICE_INFO_NAME_100013_11",
+        "Desc": "PC_VOICE_INFO_DESC_100013_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Artnis/V_PC_Artnis_Skill03_Montage.V_PC_Artnis_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Artnis/",
+        "Voice": "V_PC_Artnis_Skill03_Montage"
+      },
+      "101312": {
+        "GROUP_ID": 100013,
+        "Name": "PC_VOICE_INFO_NAME_100013_12",
+        "Desc": "PC_VOICE_INFO_DESC_100013_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Artnis/V_SQ_PC_Artnis_Skill99_Master.V_SQ_PC_Artnis_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Artnis/",
+        "Voice": "V_SQ_PC_Artnis_Skill99_Master"
+      },
+      "101401": {
+        "GROUP_ID": 100014,
+        "Name": "PC_VOICE_INFO_NAME_100014_1",
+        "Desc": "PC_VOICE_INFO_DESC_100014_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Roussin/V_PC_Roussin_Gacha.V_PC_Roussin_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Roussin/",
+        "Voice": "V_PC_Roussin_Gacha"
+      },
+      "101402": {
+        "GROUP_ID": 100014,
+        "Name": "PC_VOICE_INFO_NAME_100014_2",
+        "Desc": "PC_VOICE_INFO_DESC_100014_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Roussin/V_PC_Roussin_LongIdle_Anim.V_PC_Roussin_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Roussin/",
+        "Voice": "V_PC_Roussin_LongIdle_Anim"
+      },
+      "101403": {
+        "GROUP_ID": 100014,
+        "Name": "PC_VOICE_INFO_NAME_100014_3",
+        "Desc": "PC_VOICE_INFO_DESC_100014_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Roussin/V_PC_Roussin_Favor_LevelUp.V_PC_Roussin_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Roussin/",
+        "Voice": "V_PC_Roussin_Favor_LevelUp"
+      },
+      "101404": {
+        "GROUP_ID": 100014,
+        "Name": "PC_VOICE_INFO_NAME_100014_4",
+        "Desc": "PC_VOICE_INFO_DESC_100014_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Roussin/V_PC_Roussin_Gift_Basic.V_PC_Roussin_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Roussin/",
+        "Voice": "V_PC_Roussin_Gift_Basic"
+      },
+      "101405": {
+        "GROUP_ID": 100014,
+        "Name": "PC_VOICE_INFO_NAME_100014_5",
+        "Desc": "PC_VOICE_INFO_DESC_100014_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Roussin/V_PC_Roussin_Gift_Like.V_PC_Roussin_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Roussin/",
+        "Voice": "V_PC_Roussin_Gift_Like"
+      },
+      "101406": {
+        "GROUP_ID": 100014,
+        "Name": "PC_VOICE_INFO_NAME_100014_6",
+        "Desc": "PC_VOICE_INFO_DESC_100014_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Roussin/V_PC_Roussin_Tag.V_PC_Roussin_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Roussin/",
+        "Voice": "V_PC_Roussin_Tag"
+      },
+      "101407": {
+        "GROUP_ID": 100014,
+        "Name": "PC_VOICE_INFO_NAME_100014_7",
+        "Desc": "PC_VOICE_INFO_DESC_100014_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Roussin/V_PC_Roussin_TurnStart_Montage_01.V_PC_Roussin_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Roussin/",
+        "Voice": "V_PC_Roussin_TurnStart_Montage_01"
+      },
+      "101408": {
+        "GROUP_ID": 100014,
+        "Name": "PC_VOICE_INFO_NAME_100014_8",
+        "Desc": "PC_VOICE_INFO_DESC_100014_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Roussin/V_PC_Roussin_TurnStart_Montage_02.V_PC_Roussin_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Roussin/",
+        "Voice": "V_PC_Roussin_TurnStart_Montage_02"
+      },
+      "101409": {
+        "GROUP_ID": 100014,
+        "Name": "PC_VOICE_INFO_NAME_100014_9",
+        "Desc": "PC_VOICE_INFO_DESC_100014_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Roussin/V_PC_Roussin_TurnStart_Montage_03.V_PC_Roussin_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Roussin/",
+        "Voice": "V_PC_Roussin_TurnStart_Montage_03"
+      },
+      "101410": {
+        "GROUP_ID": 100014,
+        "Name": "PC_VOICE_INFO_NAME_100014_10",
+        "Desc": "PC_VOICE_INFO_DESC_100014_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Roussin/V_PC_Roussin_Skill02_Montage.V_PC_Roussin_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Roussin/",
+        "Voice": "V_PC_Roussin_Skill02_Montage"
+      },
+      "101411": {
+        "GROUP_ID": 100014,
+        "Name": "PC_VOICE_INFO_NAME_100014_11",
+        "Desc": "PC_VOICE_INFO_DESC_100014_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Roussin/V_PC_Roussin_Skill03_Montage.V_PC_Roussin_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Roussin/",
+        "Voice": "V_PC_Roussin_Skill03_Montage"
+      },
+      "101412": {
+        "GROUP_ID": 100014,
+        "Name": "PC_VOICE_INFO_NAME_100014_12",
+        "Desc": "PC_VOICE_INFO_DESC_100014_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Roussin/V_SQ_PC_Roussin_Skill99_Master.V_SQ_PC_Roussin_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Roussin/",
+        "Voice": "V_SQ_PC_Roussin_Skill99_Master"
+      },
+      "101501": {
+        "GROUP_ID": 100015,
+        "Name": "PC_VOICE_INFO_NAME_100015_1",
+        "Desc": "PC_VOICE_INFO_DESC_100015_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chloe/V_PC_Chloe_Gacha.V_PC_Chloe_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chloe/",
+        "Voice": "V_PC_Chloe_Gacha"
+      },
+      "101502": {
+        "GROUP_ID": 100015,
+        "Name": "PC_VOICE_INFO_NAME_100015_2",
+        "Desc": "PC_VOICE_INFO_DESC_100015_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chloe/V_PC_Chloe_LongIdle_Anim.V_PC_Chloe_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chloe/",
+        "Voice": "V_PC_Chloe_LongIdle_Anim"
+      },
+      "101503": {
+        "GROUP_ID": 100015,
+        "Name": "PC_VOICE_INFO_NAME_100015_3",
+        "Desc": "PC_VOICE_INFO_DESC_100015_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chloe/V_PC_Chloe_Favor_LevelUp.V_PC_Chloe_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chloe/",
+        "Voice": "V_PC_Chloe_Favor_LevelUp"
+      },
+      "101504": {
+        "GROUP_ID": 100015,
+        "Name": "PC_VOICE_INFO_NAME_100015_4",
+        "Desc": "PC_VOICE_INFO_DESC_100015_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chloe/V_PC_Chloe_Gift_Basic.V_PC_Chloe_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chloe/",
+        "Voice": "V_PC_Chloe_Gift_Basic"
+      },
+      "101505": {
+        "GROUP_ID": 100015,
+        "Name": "PC_VOICE_INFO_NAME_100015_5",
+        "Desc": "PC_VOICE_INFO_DESC_100015_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chloe/V_PC_Chloe_Gift_LIke.V_PC_Chloe_Gift_LIke",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chloe/",
+        "Voice": "V_PC_Chloe_Gift_Like"
+      },
+      "101506": {
+        "GROUP_ID": 100015,
+        "Name": "PC_VOICE_INFO_NAME_100015_6",
+        "Desc": "PC_VOICE_INFO_DESC_100015_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chloe/V_PC_Chloe_Tag.V_PC_Chloe_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chloe/",
+        "Voice": "V_PC_Chloe_Tag"
+      },
+      "101507": {
+        "GROUP_ID": 100015,
+        "Name": "PC_VOICE_INFO_NAME_100015_7",
+        "Desc": "PC_VOICE_INFO_DESC_100015_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chloe/V_PC_Chloe_TurnStart_Montage_01.V_PC_Chloe_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chloe/",
+        "Voice": "V_PC_Chloe_TurnStart_Montage_01"
+      },
+      "101508": {
+        "GROUP_ID": 100015,
+        "Name": "PC_VOICE_INFO_NAME_100015_8",
+        "Desc": "PC_VOICE_INFO_DESC_100015_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chloe/V_PC_Chloe_TurnStart_Montage_02.V_PC_Chloe_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chloe/",
+        "Voice": "V_PC_Chloe_TurnStart_Montage_02"
+      },
+      "101509": {
+        "GROUP_ID": 100015,
+        "Name": "PC_VOICE_INFO_NAME_100015_9",
+        "Desc": "PC_VOICE_INFO_DESC_100015_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chloe/V_PC_Chloe_TurnStart_Montage_03.V_PC_Chloe_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chloe/",
+        "Voice": "V_PC_Chloe_TurnStart_Montage_03"
+      },
+      "101510": {
+        "GROUP_ID": 100015,
+        "Name": "PC_VOICE_INFO_NAME_100015_10",
+        "Desc": "PC_VOICE_INFO_DESC_100015_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chloe/V_PC_Chloe_Skill02_Montage.V_PC_Chloe_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chloe/",
+        "Voice": "V_PC_Chloe_Skill02_Montage"
+      },
+      "101511": {
+        "GROUP_ID": 100015,
+        "Name": "PC_VOICE_INFO_NAME_100015_11",
+        "Desc": "PC_VOICE_INFO_DESC_100015_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chloe/V_PC_Chloe_Skill03_Montage.V_PC_Chloe_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chloe/",
+        "Voice": "V_PC_Chloe_Skill03_Montage"
+      },
+      "101512": {
+        "GROUP_ID": 100015,
+        "Name": "PC_VOICE_INFO_NAME_100015_12",
+        "Desc": "PC_VOICE_INFO_DESC_100015_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chloe/V_SQ_PC_Chloe_Skill99_Master.V_SQ_PC_Chloe_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chloe/",
+        "Voice": "V_SQ_PC_Chloe_Skill99_Master"
+      },
+      "101601": {
+        "GROUP_ID": 100016,
+        "Name": "PC_VOICE_INFO_NAME_100016_1",
+        "Desc": "PC_VOICE_INFO_DESC_100016_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lucas/V_PC_Lucas_Gacha.V_PC_Lucas_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lucas/",
+        "Voice": "V_PC_Lucas_Gacha"
+      },
+      "101602": {
+        "GROUP_ID": 100016,
+        "Name": "PC_VOICE_INFO_NAME_100016_2",
+        "Desc": "PC_VOICE_INFO_DESC_100016_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lucas/V_PC_Lucas_LongIdle_Anim.V_PC_Lucas_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lucas/",
+        "Voice": "V_PC_Lucas_LongIdle_Anim"
+      },
+      "101603": {
+        "GROUP_ID": 100016,
+        "Name": "PC_VOICE_INFO_NAME_100016_3",
+        "Desc": "PC_VOICE_INFO_DESC_100016_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lucas/V_PC_Lucas_Favor_LevelUp.V_PC_Lucas_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lucas/",
+        "Voice": "V_PC_Lucas_Favor_LevelUp"
+      },
+      "101604": {
+        "GROUP_ID": 100016,
+        "Name": "PC_VOICE_INFO_NAME_100016_4",
+        "Desc": "PC_VOICE_INFO_DESC_100016_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lucas/V_PC_Lucas_Gift_Basic.V_PC_Lucas_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lucas/",
+        "Voice": "V_PC_Lucas_Gift_Basic"
+      },
+      "101605": {
+        "GROUP_ID": 100016,
+        "Name": "PC_VOICE_INFO_NAME_100016_5",
+        "Desc": "PC_VOICE_INFO_DESC_100016_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lucas/V_PC_Lucas_Gift_Like.V_PC_Lucas_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lucas/",
+        "Voice": "V_PC_Lucas_Gift_Like"
+      },
+      "101606": {
+        "GROUP_ID": 100016,
+        "Name": "PC_VOICE_INFO_NAME_100016_6",
+        "Desc": "PC_VOICE_INFO_DESC_100016_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lucas/V_PC_Lucas_Tag.V_PC_Lucas_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lucas/",
+        "Voice": "V_PC_Lucas_Tag"
+      },
+      "101607": {
+        "GROUP_ID": 100016,
+        "Name": "PC_VOICE_INFO_NAME_100016_7",
+        "Desc": "PC_VOICE_INFO_DESC_100016_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lucas/V_PC_Lucas_TurnStart_Montage_01.V_PC_Lucas_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lucas/",
+        "Voice": "V_PC_Lucas_TurnStart_Montage_01"
+      },
+      "101608": {
+        "GROUP_ID": 100016,
+        "Name": "PC_VOICE_INFO_NAME_100016_8",
+        "Desc": "PC_VOICE_INFO_DESC_100016_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lucas/V_PC_Lucas_TurnStart_Montage_02.V_PC_Lucas_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lucas/",
+        "Voice": "V_PC_Lucas_TurnStart_Montage_02"
+      },
+      "101609": {
+        "GROUP_ID": 100016,
+        "Name": "PC_VOICE_INFO_NAME_100016_9",
+        "Desc": "PC_VOICE_INFO_DESC_100016_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lucas/V_PC_Lucas_TurnStart_Montage_03.V_PC_Lucas_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lucas/",
+        "Voice": "V_PC_Lucas_TurnStart_Montage_03"
+      },
+      "101610": {
+        "GROUP_ID": 100016,
+        "Name": "PC_VOICE_INFO_NAME_100016_10",
+        "Desc": "PC_VOICE_INFO_DESC_100016_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lucas/V_PC_Lucas_Skill02_Montage_01.V_PC_Lucas_Skill02_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lucas/",
+        "Voice": "V_PC_Lucas_Skill02_Montage_01"
+      },
+      "101611": {
+        "GROUP_ID": 100016,
+        "Name": "PC_VOICE_INFO_NAME_100016_11",
+        "Desc": "PC_VOICE_INFO_DESC_100016_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lucas/V_PC_Lucas_Skill03_Montage.V_PC_Lucas_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lucas/",
+        "Voice": "V_PC_Lucas_Skill03_Montage"
+      },
+      "101612": {
+        "GROUP_ID": 100016,
+        "Name": "PC_VOICE_INFO_NAME_100016_12",
+        "Desc": "PC_VOICE_INFO_DESC_100016_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Lucas/V_SQ_PC_Lucas_Skill99_Master.V_SQ_PC_Lucas_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Lucas/",
+        "Voice": "V_SQ_PC_Lucas_Skill99_Master"
+      },
+      "101701": {
+        "GROUP_ID": 100017,
+        "Name": "PC_VOICE_INFO_NAME_100017_1",
+        "Desc": "PC_VOICE_INFO_DESC_100017_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Isania/V_PC_Isania_Gacha.V_PC_Isania_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Isania/",
+        "Voice": "V_PC_Isania_Gacha"
+      },
+      "101702": {
+        "GROUP_ID": 100017,
+        "Name": "PC_VOICE_INFO_NAME_100017_2",
+        "Desc": "PC_VOICE_INFO_DESC_100017_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Isania/V_PC_Isania_LongIdle_Anim.V_PC_Isania_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Isania/",
+        "Voice": "V_PC_Isania_LongIdle_Anim"
+      },
+      "101703": {
+        "GROUP_ID": 100017,
+        "Name": "PC_VOICE_INFO_NAME_100017_3",
+        "Desc": "PC_VOICE_INFO_DESC_100017_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Isania/V_PC_Isania_Favor_LevelUp.V_PC_Isania_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Isania/",
+        "Voice": "V_PC_Isania_Favor_LevelUp"
+      },
+      "101704": {
+        "GROUP_ID": 100017,
+        "Name": "PC_VOICE_INFO_NAME_100017_4",
+        "Desc": "PC_VOICE_INFO_DESC_100017_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Isania/V_PC_Isania_Gift_Basic.V_PC_Isania_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Isania/",
+        "Voice": "V_PC_Isania_Gift_Basic"
+      },
+      "101705": {
+        "GROUP_ID": 100017,
+        "Name": "PC_VOICE_INFO_NAME_100017_5",
+        "Desc": "PC_VOICE_INFO_DESC_100017_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Isania/V_PC_Isania_Gift_Like.V_PC_Isania_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Isania/",
+        "Voice": "V_PC_Isania_Gift_Like"
+      },
+      "101706": {
+        "GROUP_ID": 100017,
+        "Name": "PC_VOICE_INFO_NAME_100017_6",
+        "Desc": "PC_VOICE_INFO_DESC_100017_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Isania/V_PC_Isania_Tag.V_PC_Isania_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Isania/",
+        "Voice": "V_PC_Isania_Tag"
+      },
+      "101707": {
+        "GROUP_ID": 100017,
+        "Name": "PC_VOICE_INFO_NAME_100017_7",
+        "Desc": "PC_VOICE_INFO_DESC_100017_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Isania/V_PC_Isania_TurnStart_Montage_01.V_PC_Isania_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Isania/",
+        "Voice": "V_PC_Isania_TurnStart_Montage_01"
+      },
+      "101708": {
+        "GROUP_ID": 100017,
+        "Name": "PC_VOICE_INFO_NAME_100017_8",
+        "Desc": "PC_VOICE_INFO_DESC_100017_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Isania/V_PC_Isania_TurnStart_Montage_02.V_PC_Isania_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Isania/",
+        "Voice": "V_PC_Isania_TurnStart_Montage_02"
+      },
+      "101709": {
+        "GROUP_ID": 100017,
+        "Name": "PC_VOICE_INFO_NAME_100017_9",
+        "Desc": "PC_VOICE_INFO_DESC_100017_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Isania/V_PC_Isania_TurnStart_Montage_03.V_PC_Isania_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Isania/",
+        "Voice": "V_PC_Isania_TurnStart_Montage_03"
+      },
+      "101710": {
+        "GROUP_ID": 100017,
+        "Name": "PC_VOICE_INFO_NAME_100017_10",
+        "Desc": "PC_VOICE_INFO_DESC_100017_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Isania/V_PC_Isania_Skill02_Montage.V_PC_Isania_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Isania/",
+        "Voice": "V_PC_Isania_Skill02_Montage"
+      },
+      "101711": {
+        "GROUP_ID": 100017,
+        "Name": "PC_VOICE_INFO_NAME_100017_11",
+        "Desc": "PC_VOICE_INFO_DESC_100017_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Isania/V_PC_Isania_Skill03_Montage.V_PC_Isania_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Isania/",
+        "Voice": "V_PC_Isania_Skill03_Montage"
+      },
+      "101712": {
+        "GROUP_ID": 100017,
+        "Name": "PC_VOICE_INFO_NAME_100017_12",
+        "Desc": "PC_VOICE_INFO_DESC_100017_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Isania/V_SQ_PC_Isania_Skill99_Master.V_SQ_PC_Isania_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Isania/",
+        "Voice": "V_SQ_PC_Isania_Skill99_Master"
+      },
+      "101801": {
+        "GROUP_ID": 100018,
+        "Name": "PC_VOICE_INFO_NAME_100018_1",
+        "Desc": "PC_VOICE_INFO_DESC_100018_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Pluto/V_PC_Pluto_Gacha.V_PC_Pluto_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Pluto/",
+        "Voice": "V_PC_Pluto_Gacha"
+      },
+      "101802": {
+        "GROUP_ID": 100018,
+        "Name": "PC_VOICE_INFO_NAME_100018_2",
+        "Desc": "PC_VOICE_INFO_DESC_100018_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Pluto/V_PC_Pluto_LongIdle_Anim.V_PC_Pluto_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Pluto/",
+        "Voice": "V_PC_Pluto_LongIdle_Anim"
+      },
+      "101803": {
+        "GROUP_ID": 100018,
+        "Name": "PC_VOICE_INFO_NAME_100018_3",
+        "Desc": "PC_VOICE_INFO_DESC_100018_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Pluto/V_PC_Pluto_Favor_LevelUp.V_PC_Pluto_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Pluto/",
+        "Voice": "V_PC_Pluto_Favor_LevelUp"
+      },
+      "101804": {
+        "GROUP_ID": 100018,
+        "Name": "PC_VOICE_INFO_NAME_100018_4",
+        "Desc": "PC_VOICE_INFO_DESC_100018_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Pluto/V_PC_Pluto_Gift_Basic.V_PC_Pluto_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Pluto/",
+        "Voice": "V_PC_Pluto_Gift_Basic"
+      },
+      "101805": {
+        "GROUP_ID": 100018,
+        "Name": "PC_VOICE_INFO_NAME_100018_5",
+        "Desc": "PC_VOICE_INFO_DESC_100018_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Pluto/V_PC_Pluto_Gift_Like.V_PC_Pluto_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Pluto/",
+        "Voice": "V_PC_Pluto_Gift_Like"
+      },
+      "101806": {
+        "GROUP_ID": 100018,
+        "Name": "PC_VOICE_INFO_NAME_100018_6",
+        "Desc": "PC_VOICE_INFO_DESC_100018_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Pluto/V_PC_Pluto_Tag.V_PC_Pluto_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Pluto/",
+        "Voice": "V_PC_Pluto_Tag"
+      },
+      "101807": {
+        "GROUP_ID": 100018,
+        "Name": "PC_VOICE_INFO_NAME_100018_7",
+        "Desc": "PC_VOICE_INFO_DESC_100018_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Pluto/V_PC_Pluto_TurnStart_Montage_01.V_PC_Pluto_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Pluto/",
+        "Voice": "V_PC_Pluto_TurnStart_Montage_01"
+      },
+      "101808": {
+        "GROUP_ID": 100018,
+        "Name": "PC_VOICE_INFO_NAME_100018_8",
+        "Desc": "PC_VOICE_INFO_DESC_100018_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Pluto/V_PC_Pluto_TurnStart_Montage_02.V_PC_Pluto_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Pluto/",
+        "Voice": "V_PC_Pluto_TurnStart_Montage_02"
+      },
+      "101809": {
+        "GROUP_ID": 100018,
+        "Name": "PC_VOICE_INFO_NAME_100018_9",
+        "Desc": "PC_VOICE_INFO_DESC_100018_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Pluto/V_PC_Pluto_TurnStart_Montage_03.V_PC_Pluto_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Pluto/",
+        "Voice": "V_PC_Pluto_TurnStart_Montage_03"
+      },
+      "101810": {
+        "GROUP_ID": 100018,
+        "Name": "PC_VOICE_INFO_NAME_100018_10",
+        "Desc": "PC_VOICE_INFO_DESC_100018_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Pluto/V_PC_Pluto_Skill02_Montage.V_PC_Pluto_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Pluto/",
+        "Voice": "V_PC_Pluto_Skill02_Montage"
+      },
+      "101811": {
+        "GROUP_ID": 100018,
+        "Name": "PC_VOICE_INFO_NAME_100018_11",
+        "Desc": "PC_VOICE_INFO_DESC_100018_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Pluto/V_PC_Pluto_Skill03_Montage.V_PC_Pluto_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Pluto/",
+        "Voice": "V_PC_Pluto_Skill03_Montage"
+      },
+      "101812": {
+        "GROUP_ID": 100018,
+        "Name": "PC_VOICE_INFO_NAME_100018_12",
+        "Desc": "PC_VOICE_INFO_DESC_100018_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Pluto/V_SQ_PC_Pluto_Skill99_Master.V_SQ_PC_Pluto_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Pluto/",
+        "Voice": "V_SQ_PC_Pluto_Skill99_Master"
+      },
+      "101901": {
+        "GROUP_ID": 100019,
+        "Name": "PC_VOICE_INFO_NAME_100019_1",
+        "Desc": "PC_VOICE_INFO_DESC_100019_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Monica/V_PC_Monica_Gacha.V_PC_Monica_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Monica/",
+        "Voice": "V_PC_Monica_Gacha"
+      },
+      "101902": {
+        "GROUP_ID": 100019,
+        "Name": "PC_VOICE_INFO_NAME_100019_2",
+        "Desc": "PC_VOICE_INFO_DESC_100019_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Monica/V_PC_Monica_LongIdle_Anim.V_PC_Monica_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Monica/",
+        "Voice": "V_PC_Monica_LongIdle_Anim"
+      },
+      "101903": {
+        "GROUP_ID": 100019,
+        "Name": "PC_VOICE_INFO_NAME_100019_3",
+        "Desc": "PC_VOICE_INFO_DESC_100019_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Monica/V_PC_Monica_Favor_LevelUp.V_PC_Monica_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Monica/",
+        "Voice": "V_PC_Monica_Favor_LevelUp"
+      },
+      "101904": {
+        "GROUP_ID": 100019,
+        "Name": "PC_VOICE_INFO_NAME_100019_4",
+        "Desc": "PC_VOICE_INFO_DESC_100019_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Monica/V_PC_Monica_Gift_Basic.V_PC_Monica_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Monica/",
+        "Voice": "V_PC_Monica_Gift_Basic"
+      },
+      "101905": {
+        "GROUP_ID": 100019,
+        "Name": "PC_VOICE_INFO_NAME_100019_5",
+        "Desc": "PC_VOICE_INFO_DESC_100019_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Monica/V_PC_Monica_Gift_Like.V_PC_Monica_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Monica/",
+        "Voice": "V_PC_Monica_Gift_Like"
+      },
+      "101906": {
+        "GROUP_ID": 100019,
+        "Name": "PC_VOICE_INFO_NAME_100019_6",
+        "Desc": "PC_VOICE_INFO_DESC_100019_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Monica/V_PC_Monica_Tag.V_PC_Monica_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Monica/",
+        "Voice": "V_PC_Monica_Tag"
+      },
+      "101907": {
+        "GROUP_ID": 100019,
+        "Name": "PC_VOICE_INFO_NAME_100019_7",
+        "Desc": "PC_VOICE_INFO_DESC_100019_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Monica/V_PC_Monica_TurnStart_Montage_01.V_PC_Monica_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Monica/",
+        "Voice": "V_PC_Monica_TurnStart_Montage_01"
+      },
+      "101908": {
+        "GROUP_ID": 100019,
+        "Name": "PC_VOICE_INFO_NAME_100019_8",
+        "Desc": "PC_VOICE_INFO_DESC_100019_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Monica/V_PC_Monica_TurnStart_Montage_02.V_PC_Monica_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Monica/",
+        "Voice": "V_PC_Monica_TurnStart_Montage_02"
+      },
+      "101909": {
+        "GROUP_ID": 100019,
+        "Name": "PC_VOICE_INFO_NAME_100019_9",
+        "Desc": "PC_VOICE_INFO_DESC_100019_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Monica/V_PC_Monica_TurnStart_Montage_03.V_PC_Monica_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Monica/",
+        "Voice": "V_PC_Monica_TurnStart_Montage_03"
+      },
+      "101910": {
+        "GROUP_ID": 100019,
+        "Name": "PC_VOICE_INFO_NAME_100019_10",
+        "Desc": "PC_VOICE_INFO_DESC_100019_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Monica/V_PC_Monica_Skill02_Montage.V_PC_Monica_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Monica/",
+        "Voice": "V_PC_Monica_Skill02_Montage"
+      },
+      "101911": {
+        "GROUP_ID": 100019,
+        "Name": "PC_VOICE_INFO_NAME_100019_11",
+        "Desc": "PC_VOICE_INFO_DESC_100019_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Monica/V_PC_Monica_Skill03_Montage.V_PC_Monica_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Monica/",
+        "Voice": "V_PC_Monica_Skill03_Montage"
+      },
+      "101912": {
+        "GROUP_ID": 100019,
+        "Name": "PC_VOICE_INFO_NAME_100019_12",
+        "Desc": "PC_VOICE_INFO_DESC_100019_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Monica/V_SQ_PC_Monica_Skill99_Master.V_SQ_PC_Monica_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Monica/",
+        "Voice": "V_SQ_PC_Monica_Skill99_Master"
+      },
+      "102001": {
+        "GROUP_ID": 100020,
+        "Name": "PC_VOICE_INFO_NAME_100020_1",
+        "Desc": "PC_VOICE_INFO_DESC_100020_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Rampart/V_PC_Rampart_Gacha.V_PC_Rampart_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Rampart/",
+        "Voice": "V_PC_Rampart_Gacha"
+      },
+      "102002": {
+        "GROUP_ID": 100020,
+        "Name": "PC_VOICE_INFO_NAME_100020_2",
+        "Desc": "PC_VOICE_INFO_DESC_100020_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Rampart/V_PC_Rampart_LongIdle_Anim.V_PC_Rampart_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Rampart/",
+        "Voice": "V_PC_Rampart_LongIdle_Anim"
+      },
+      "102003": {
+        "GROUP_ID": 100020,
+        "Name": "PC_VOICE_INFO_NAME_100020_3",
+        "Desc": "PC_VOICE_INFO_DESC_100020_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Rampart/V_PC_Rampart_Favor_LevelUp.V_PC_Rampart_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Rampart/",
+        "Voice": "V_PC_Rampart_Favor_LevelUp"
+      },
+      "102004": {
+        "GROUP_ID": 100020,
+        "Name": "PC_VOICE_INFO_NAME_100020_4",
+        "Desc": "PC_VOICE_INFO_DESC_100020_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Rampart/V_PC_Rampart_Gift_Basic.V_PC_Rampart_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Rampart/",
+        "Voice": "V_PC_Rampart_Gift_Basic"
+      },
+      "102005": {
+        "GROUP_ID": 100020,
+        "Name": "PC_VOICE_INFO_NAME_100020_5",
+        "Desc": "PC_VOICE_INFO_DESC_100020_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Rampart/V_PC_Rampart_Gift_Like.V_PC_Rampart_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Rampart/",
+        "Voice": "V_PC_Rampart_Gift_Like"
+      },
+      "102006": {
+        "GROUP_ID": 100020,
+        "Name": "PC_VOICE_INFO_NAME_100020_6",
+        "Desc": "PC_VOICE_INFO_DESC_100020_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Rampart/V_PC_Rampart_Tag.V_PC_Rampart_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Rampart/",
+        "Voice": "V_PC_Rampart_Tag"
+      },
+      "102007": {
+        "GROUP_ID": 100020,
+        "Name": "PC_VOICE_INFO_NAME_100020_7",
+        "Desc": "PC_VOICE_INFO_DESC_100020_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Rampart/V_PC_Rampart_TurnStart_Montage_01.V_PC_Rampart_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Rampart/",
+        "Voice": "V_PC_Rampart_TurnStart_Montage_01"
+      },
+      "102008": {
+        "GROUP_ID": 100020,
+        "Name": "PC_VOICE_INFO_NAME_100020_8",
+        "Desc": "PC_VOICE_INFO_DESC_100020_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Rampart/V_PC_Rampart_TurnStart_Montage_02.V_PC_Rampart_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Rampart/",
+        "Voice": "V_PC_Rampart_TurnStart_Montage_02"
+      },
+      "102009": {
+        "GROUP_ID": 100020,
+        "Name": "PC_VOICE_INFO_NAME_100020_9",
+        "Desc": "PC_VOICE_INFO_DESC_100020_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Rampart/V_PC_Rampart_TurnStart_Montage_03.V_PC_Rampart_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Rampart/",
+        "Voice": "V_PC_Rampart_TurnStart_Montage_03"
+      },
+      "102010": {
+        "GROUP_ID": 100020,
+        "Name": "PC_VOICE_INFO_NAME_100020_10",
+        "Desc": "PC_VOICE_INFO_DESC_100020_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Rampart/V_PC_Rampart_Skill02_Montage.V_PC_Rampart_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Rampart/",
+        "Voice": "V_PC_Rampart_Skill02_Montage"
+      },
+      "102011": {
+        "GROUP_ID": 100020,
+        "Name": "PC_VOICE_INFO_NAME_100020_11",
+        "Desc": "PC_VOICE_INFO_DESC_100020_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Rampart/V_PC_Rampart_Skill03_Montage.V_PC_Rampart_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Rampart/",
+        "Voice": "V_PC_Rampart_Skill03_Montage"
+      },
+      "102012": {
+        "GROUP_ID": 100020,
+        "Name": "PC_VOICE_INFO_NAME_100020_12",
+        "Desc": "PC_VOICE_INFO_DESC_100020_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Rampart/V_SQ_PC_Rampart_Skill99_Master.V_SQ_PC_Rampart_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Rampart/",
+        "Voice": "V_SQ_PC_Rampart_Skill99_Master"
+      },
+      "102101": {
+        "GROUP_ID": 100021,
+        "Name": "PC_VOICE_INFO_NAME_100021_1",
+        "Desc": "PC_VOICE_INFO_DESC_100021_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Hajin/V_PC_Hajin_Gacha.V_PC_Hajin_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Hajin/",
+        "Voice": "V_PC_Hajin_Gacha"
+      },
+      "102102": {
+        "GROUP_ID": 100021,
+        "Name": "PC_VOICE_INFO_NAME_100021_2",
+        "Desc": "PC_VOICE_INFO_DESC_100021_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Hajin/V_PC_Hajin_LongIdle_Anim.V_PC_Hajin_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Hajin/",
+        "Voice": "V_PC_Hajin_LongIdle_Anim"
+      },
+      "102103": {
+        "GROUP_ID": 100021,
+        "Name": "PC_VOICE_INFO_NAME_100021_3",
+        "Desc": "PC_VOICE_INFO_DESC_100021_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Hajin/V_PC_Hajin_Favor_LevelUp.V_PC_Hajin_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Hajin/",
+        "Voice": "V_PC_Hajin_Favor_LevelUp"
+      },
+      "102104": {
+        "GROUP_ID": 100021,
+        "Name": "PC_VOICE_INFO_NAME_100021_4",
+        "Desc": "PC_VOICE_INFO_DESC_100021_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Hajin/V_PC_Hajin_Gift_Basic.V_PC_Hajin_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Hajin/",
+        "Voice": "V_PC_Hajin_Gift_Basic"
+      },
+      "102105": {
+        "GROUP_ID": 100021,
+        "Name": "PC_VOICE_INFO_NAME_100021_5",
+        "Desc": "PC_VOICE_INFO_DESC_100021_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Hajin/V_PC_Hajin_Gift_Like.V_PC_Hajin_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Hajin/",
+        "Voice": "V_PC_Hajin_Gift_Like"
+      },
+      "102106": {
+        "GROUP_ID": 100021,
+        "Name": "PC_VOICE_INFO_NAME_100021_6",
+        "Desc": "PC_VOICE_INFO_DESC_100021_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Hajin/V_PC_Hajin_Tag.V_PC_Hajin_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Hajin/",
+        "Voice": "V_PC_Hajin_Tag"
+      },
+      "102107": {
+        "GROUP_ID": 100021,
+        "Name": "PC_VOICE_INFO_NAME_100021_7",
+        "Desc": "PC_VOICE_INFO_DESC_100021_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Hajin/V_PC_Hajin_TurnStart_Montage_01.V_PC_Hajin_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Hajin/",
+        "Voice": "V_PC_Hajin_TurnStart_Montage_01"
+      },
+      "102108": {
+        "GROUP_ID": 100021,
+        "Name": "PC_VOICE_INFO_NAME_100021_8",
+        "Desc": "PC_VOICE_INFO_DESC_100021_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Hajin/V_PC_Hajin_TurnStart_Montage_02.V_PC_Hajin_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Hajin/",
+        "Voice": "V_PC_Hajin_TurnStart_Montage_02"
+      },
+      "102109": {
+        "GROUP_ID": 100021,
+        "Name": "PC_VOICE_INFO_NAME_100021_9",
+        "Desc": "PC_VOICE_INFO_DESC_100021_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Hajin/V_PC_Hajin_TurnStart_Montage_03.V_PC_Hajin_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Hajin/",
+        "Voice": "V_PC_Hajin_TurnStart_Montage_03"
+      },
+      "102110": {
+        "GROUP_ID": 100021,
+        "Name": "PC_VOICE_INFO_NAME_100021_10",
+        "Desc": "PC_VOICE_INFO_DESC_100021_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Hajin/V_PC_Hajin_Skill02_Montage.V_PC_Hajin_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Hajin/",
+        "Voice": "V_PC_Hajin_Skill02_Montage"
+      },
+      "102111": {
+        "GROUP_ID": 100021,
+        "Name": "PC_VOICE_INFO_NAME_100021_11",
+        "Desc": "PC_VOICE_INFO_DESC_100021_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Hajin/V_PC_Hajin_Skill03_Montage.V_PC_Hajin_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Hajin/",
+        "Voice": "V_PC_Hajin_Skill03_Montage"
+      },
+      "102112": {
+        "GROUP_ID": 100021,
+        "Name": "PC_VOICE_INFO_NAME_100021_12",
+        "Desc": "PC_VOICE_INFO_DESC_100021_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Hajin/V_SQ_PC_Hajin_Skill99_Master.V_SQ_PC_Hajin_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Hajin/",
+        "Voice": "V_SQ_PC_Hajin_Skill99_Master"
+      },
+      "102201": {
+        "GROUP_ID": 100022,
+        "Name": "PC_VOICE_INFO_NAME_100022_1",
+        "Desc": "PC_VOICE_INFO_DESC_100022_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Sacha/V_PC_Sacha_Gacha.V_PC_Sacha_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Sacha/",
+        "Voice": "V_PC_Sacha_Gacha"
+      },
+      "102202": {
+        "GROUP_ID": 100022,
+        "Name": "PC_VOICE_INFO_NAME_100022_2",
+        "Desc": "PC_VOICE_INFO_DESC_100022_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Sacha/V_PC_Sacha_LongIdle_Anim.V_PC_Sacha_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Sacha/",
+        "Voice": "V_PC_Sacha_LongIdle_Anim"
+      },
+      "102203": {
+        "GROUP_ID": 100022,
+        "Name": "PC_VOICE_INFO_NAME_100022_3",
+        "Desc": "PC_VOICE_INFO_DESC_100022_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Sacha/V_PC_Sacha_Favor_LevelUp.V_PC_Sacha_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Sacha/",
+        "Voice": "V_PC_Sacha_Favor_LevelUp"
+      },
+      "102204": {
+        "GROUP_ID": 100022,
+        "Name": "PC_VOICE_INFO_NAME_100022_4",
+        "Desc": "PC_VOICE_INFO_DESC_100022_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Sacha/V_PC_Sacha_Gift_Basic.V_PC_Sacha_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Sacha/",
+        "Voice": "V_PC_Sacha_Gift_Basic"
+      },
+      "102205": {
+        "GROUP_ID": 100022,
+        "Name": "PC_VOICE_INFO_NAME_100022_5",
+        "Desc": "PC_VOICE_INFO_DESC_100022_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Sacha/V_PC_Sacha_Gift_Like.V_PC_Sacha_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Sacha/",
+        "Voice": "V_PC_Sacha_Gift_Like"
+      },
+      "102206": {
+        "GROUP_ID": 100022,
+        "Name": "PC_VOICE_INFO_NAME_100022_6",
+        "Desc": "PC_VOICE_INFO_DESC_100022_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Sacha/V_PC_Sacha_Tag.V_PC_Sacha_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Sacha/",
+        "Voice": "V_PC_Sacha_Tag"
+      },
+      "102207": {
+        "GROUP_ID": 100022,
+        "Name": "PC_VOICE_INFO_NAME_100022_7",
+        "Desc": "PC_VOICE_INFO_DESC_100022_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Sacha/V_PC_Sacha_TurnStart_Montage_01.V_PC_Sacha_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Sacha/",
+        "Voice": "V_PC_Sacha_TurnStart_Montage_01"
+      },
+      "102208": {
+        "GROUP_ID": 100022,
+        "Name": "PC_VOICE_INFO_NAME_100022_8",
+        "Desc": "PC_VOICE_INFO_DESC_100022_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Sacha/V_PC_Sacha_TurnStart_Montage_02.V_PC_Sacha_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Sacha/",
+        "Voice": "V_PC_Sacha_TurnStart_Montage_02"
+      },
+      "102209": {
+        "GROUP_ID": 100022,
+        "Name": "PC_VOICE_INFO_NAME_100022_9",
+        "Desc": "PC_VOICE_INFO_DESC_100022_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Sacha/V_PC_Sacha_TurnStart_Montage_03.V_PC_Sacha_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Sacha/",
+        "Voice": "V_PC_Sacha_TurnStart_Montage_03"
+      },
+      "102210": {
+        "GROUP_ID": 100022,
+        "Name": "PC_VOICE_INFO_NAME_100022_10",
+        "Desc": "PC_VOICE_INFO_DESC_100022_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Sacha/V_PC_Sacha_Skill02_Montage.V_PC_Sacha_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Sacha/",
+        "Voice": "V_PC_Sacha_Skill02_Montage"
+      },
+      "102211": {
+        "GROUP_ID": 100022,
+        "Name": "PC_VOICE_INFO_NAME_100022_11",
+        "Desc": "PC_VOICE_INFO_DESC_100022_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Sacha/V_PC_Sacha_Skill03_Montage.V_PC_Sacha_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Sacha/",
+        "Voice": "V_PC_Sacha_Skill03_Montage"
+      },
+      "102212": {
+        "GROUP_ID": 100022,
+        "Name": "PC_VOICE_INFO_NAME_100022_12",
+        "Desc": "PC_VOICE_INFO_DESC_100022_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Sacha/V_SQ_PC_Sacha_Skill99_Master.V_SQ_PC_Sacha_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Sacha/",
+        "Voice": "V_SQ_PC_Sacha_Skill99_Master"
+      },
+      "102301": {
+        "GROUP_ID": 100023,
+        "Name": "PC_VOICE_INFO_NAME_100023_1",
+        "Desc": "PC_VOICE_INFO_DESC_100023_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Beatrice/V_PC_Beatrice_Gacha.V_PC_Beatrice_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Beatrice/",
+        "Voice": "V_PC_Beatrice_Gacha"
+      },
+      "102302": {
+        "GROUP_ID": 100023,
+        "Name": "PC_VOICE_INFO_NAME_100023_2",
+        "Desc": "PC_VOICE_INFO_DESC_100023_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Beatrice/V_PC_Beatrice_LongIdle_Anim.V_PC_Beatrice_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Beatrice/",
+        "Voice": "V_PC_Beatrice_LongIdle_Anim"
+      },
+      "102303": {
+        "GROUP_ID": 100023,
+        "Name": "PC_VOICE_INFO_NAME_100023_3",
+        "Desc": "PC_VOICE_INFO_DESC_100023_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Beatrice/V_PC_Beatrice_Favor_LevelUp.V_PC_Beatrice_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Beatrice/",
+        "Voice": "V_PC_Beatrice_Favor_LevelUp"
+      },
+      "102304": {
+        "GROUP_ID": 100023,
+        "Name": "PC_VOICE_INFO_NAME_100023_4",
+        "Desc": "PC_VOICE_INFO_DESC_100023_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Beatrice/V_PC_Beatrice_Gift_Basic.V_PC_Beatrice_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Beatrice/",
+        "Voice": "V_PC_Beatrice_Gift_Basic"
+      },
+      "102305": {
+        "GROUP_ID": 100023,
+        "Name": "PC_VOICE_INFO_NAME_100023_5",
+        "Desc": "PC_VOICE_INFO_DESC_100023_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Beatrice/V_PC_Beatrice_Gift_Like.V_PC_Beatrice_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Beatrice/",
+        "Voice": "V_PC_Beatrice_Gift_Like"
+      },
+      "102306": {
+        "GROUP_ID": 100023,
+        "Name": "PC_VOICE_INFO_NAME_100023_6",
+        "Desc": "PC_VOICE_INFO_DESC_100023_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Beatrice/V_PC_Beatrice_Tag.V_PC_Beatrice_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Beatrice/",
+        "Voice": "V_PC_Beatrice_Tag"
+      },
+      "102307": {
+        "GROUP_ID": 100023,
+        "Name": "PC_VOICE_INFO_NAME_100023_7",
+        "Desc": "PC_VOICE_INFO_DESC_100023_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Beatrice/V_PC_Beatrice_TurnStart_Montage_01.V_PC_Beatrice_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Beatrice/",
+        "Voice": "V_PC_Beatrice_TurnStart_Montage_01"
+      },
+      "102308": {
+        "GROUP_ID": 100023,
+        "Name": "PC_VOICE_INFO_NAME_100023_8",
+        "Desc": "PC_VOICE_INFO_DESC_100023_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Beatrice/V_PC_Beatrice_TurnStart_Montage_02.V_PC_Beatrice_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Beatrice/",
+        "Voice": "V_PC_Beatrice_TurnStart_Montage_02"
+      },
+      "102309": {
+        "GROUP_ID": 100023,
+        "Name": "PC_VOICE_INFO_NAME_100023_9",
+        "Desc": "PC_VOICE_INFO_DESC_100023_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Beatrice/V_PC_Beatrice_TurnStart_Montage_03.V_PC_Beatrice_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Beatrice/",
+        "Voice": "V_PC_Beatrice_TurnStart_Montage_03"
+      },
+      "102310": {
+        "GROUP_ID": 100023,
+        "Name": "PC_VOICE_INFO_NAME_100023_10",
+        "Desc": "PC_VOICE_INFO_DESC_100023_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Beatrice/V_PC_Beatrice_Skill02_Montage.V_PC_Beatrice_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Beatrice/",
+        "Voice": "V_PC_Beatrice_Skill02_Montage"
+      },
+      "102311": {
+        "GROUP_ID": 100023,
+        "Name": "PC_VOICE_INFO_NAME_100023_11",
+        "Desc": "PC_VOICE_INFO_DESC_100023_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Beatrice/V_PC_Beatrice_Skill03_Montage.V_PC_Beatrice_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Beatrice/",
+        "Voice": "V_PC_Beatrice_Skill03_Montage"
+      },
+      "102312": {
+        "GROUP_ID": 100023,
+        "Name": "PC_VOICE_INFO_NAME_100023_12",
+        "Desc": "PC_VOICE_INFO_DESC_100023_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Beatrice/V_SQ_PC_Beatrice_Skill99_Master.V_SQ_PC_Beatrice_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Beatrice/",
+        "Voice": "V_SQ_PC_Beatrice_Skill99_Master"
+      },
+      "102401": {
+        "GROUP_ID": 100024,
+        "Name": "PC_VOICE_INFO_NAME_100024_1",
+        "Desc": "PC_VOICE_INFO_DESC_100024_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Diana/V_PC_Diana_Gacha.V_PC_Diana_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Diana/",
+        "Voice": "V_PC_Diana_Gacha"
+      },
+      "102402": {
+        "GROUP_ID": 100024,
+        "Name": "PC_VOICE_INFO_NAME_100024_2",
+        "Desc": "PC_VOICE_INFO_DESC_100024_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Diana/V_PC_Diana_LongIdle_Anim.V_PC_Diana_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Diana/",
+        "Voice": "V_PC_Diana_LongIdle_Anim"
+      },
+      "102403": {
+        "GROUP_ID": 100024,
+        "Name": "PC_VOICE_INFO_NAME_100024_3",
+        "Desc": "PC_VOICE_INFO_DESC_100024_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Diana/V_PC_Diana_Favor_LevelUp.V_PC_Diana_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Diana/",
+        "Voice": "V_PC_Diana_Favor_LevelUp"
+      },
+      "102404": {
+        "GROUP_ID": 100024,
+        "Name": "PC_VOICE_INFO_NAME_100024_4",
+        "Desc": "PC_VOICE_INFO_DESC_100024_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Diana/V_PC_Diana_Gift_Basic.V_PC_Diana_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Diana/",
+        "Voice": "V_PC_Diana_Gift_Basic"
+      },
+      "102405": {
+        "GROUP_ID": 100024,
+        "Name": "PC_VOICE_INFO_NAME_100024_5",
+        "Desc": "PC_VOICE_INFO_DESC_100024_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Diana/V_PC_Diana_Gift_LIke.V_PC_Diana_Gift_LIke",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Diana/",
+        "Voice": "V_PC_Diana_Gift_Like"
+      },
+      "102406": {
+        "GROUP_ID": 100024,
+        "Name": "PC_VOICE_INFO_NAME_100024_6",
+        "Desc": "PC_VOICE_INFO_DESC_100024_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Diana/V_PC_Diana_Tag.V_PC_Diana_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Diana/",
+        "Voice": "V_PC_Diana_Tag"
+      },
+      "102407": {
+        "GROUP_ID": 100024,
+        "Name": "PC_VOICE_INFO_NAME_100024_7",
+        "Desc": "PC_VOICE_INFO_DESC_100024_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Diana/V_PC_Diana_TurnStart_Montage_01.V_PC_Diana_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Diana/",
+        "Voice": "V_PC_Diana_TurnStart_Montage_01"
+      },
+      "102408": {
+        "GROUP_ID": 100024,
+        "Name": "PC_VOICE_INFO_NAME_100024_8",
+        "Desc": "PC_VOICE_INFO_DESC_100024_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Diana/V_PC_Diana_TurnStart_Montage_02.V_PC_Diana_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Diana/",
+        "Voice": "V_PC_Diana_TurnStart_Montage_02"
+      },
+      "102409": {
+        "GROUP_ID": 100024,
+        "Name": "PC_VOICE_INFO_NAME_100024_9",
+        "Desc": "PC_VOICE_INFO_DESC_100024_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Diana/V_PC_Diana_TurnStart_Montage_03.V_PC_Diana_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Diana/",
+        "Voice": "V_PC_Diana_TurnStart_Montage_03"
+      },
+      "102410": {
+        "GROUP_ID": 100024,
+        "Name": "PC_VOICE_INFO_NAME_100024_10",
+        "Desc": "PC_VOICE_INFO_DESC_100024_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Diana/V_PC_Diana_Skill02_Montage.V_PC_Diana_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Diana/",
+        "Voice": "V_PC_Diana_Skill02_Montage"
+      },
+      "102411": {
+        "GROUP_ID": 100024,
+        "Name": "PC_VOICE_INFO_NAME_100024_11",
+        "Desc": "PC_VOICE_INFO_DESC_100024_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Diana/V_PC_Diana_Skill03_Montage.V_PC_Diana_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Diana/",
+        "Voice": "V_PC_Diana_Skill03_Montage"
+      },
+      "102412": {
+        "GROUP_ID": 100024,
+        "Name": "PC_VOICE_INFO_NAME_100024_12",
+        "Desc": "PC_VOICE_INFO_DESC_100024_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Diana/V_SQ_PC_Diana_Skill99_Master.V_SQ_PC_Diana_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Diana/",
+        "Voice": "V_SQ_PC_Diana_Skill99_Master"
+      },
+      "102501": {
+        "GROUP_ID": 100025,
+        "Name": "PC_VOICE_INFO_NAME_100025_1",
+        "Desc": "PC_VOICE_INFO_DESC_100025_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chesha/V_PC_Chesha_Gacha.V_PC_Chesha_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chesha/",
+        "Voice": "V_PC_Chesha_Gacha"
+      },
+      "102502": {
+        "GROUP_ID": 100025,
+        "Name": "PC_VOICE_INFO_NAME_100025_2",
+        "Desc": "PC_VOICE_INFO_DESC_100025_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chesha/V_PC_Chesha_LongIdle_Anim.V_PC_Chesha_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chesha/",
+        "Voice": "V_PC_Chesha_LongIdle_Anim"
+      },
+      "102503": {
+        "GROUP_ID": 100025,
+        "Name": "PC_VOICE_INFO_NAME_100025_3",
+        "Desc": "PC_VOICE_INFO_DESC_100025_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chesha/V_PC_Chesha_Favor_LevelUp.V_PC_Chesha_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chesha/",
+        "Voice": "V_PC_Chesha_Favor_LevelUp"
+      },
+      "102504": {
+        "GROUP_ID": 100025,
+        "Name": "PC_VOICE_INFO_NAME_100025_4",
+        "Desc": "PC_VOICE_INFO_DESC_100025_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chesha/V_PC_Chesha_Gift_Basic.V_PC_Chesha_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chesha/",
+        "Voice": "V_PC_Chesha_Gift_Basic"
+      },
+      "102505": {
+        "GROUP_ID": 100025,
+        "Name": "PC_VOICE_INFO_NAME_100025_5",
+        "Desc": "PC_VOICE_INFO_DESC_100025_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chesha/V_PC_Chesha_Gift_LIke.V_PC_Chesha_Gift_LIke",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chesha/",
+        "Voice": "V_PC_Chesha_Gift_Like"
+      },
+      "102506": {
+        "GROUP_ID": 100025,
+        "Name": "PC_VOICE_INFO_NAME_100025_6",
+        "Desc": "PC_VOICE_INFO_DESC_100025_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chesha/V_PC_Chesha_Tag.V_PC_Chesha_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chesha/",
+        "Voice": "V_PC_Chesha_Tag"
+      },
+      "102507": {
+        "GROUP_ID": 100025,
+        "Name": "PC_VOICE_INFO_NAME_100025_7",
+        "Desc": "PC_VOICE_INFO_DESC_100025_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chesha/V_PC_Chesha_TurnStart_Montage_01.V_PC_Chesha_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chesha/",
+        "Voice": "V_PC_Chesha_TurnStart_Montage_01"
+      },
+      "102508": {
+        "GROUP_ID": 100025,
+        "Name": "PC_VOICE_INFO_NAME_100025_8",
+        "Desc": "PC_VOICE_INFO_DESC_100025_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chesha/V_PC_Chesha_TurnStart_Montage_02.V_PC_Chesha_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chesha/",
+        "Voice": "V_PC_Chesha_TurnStart_Montage_02"
+      },
+      "102509": {
+        "GROUP_ID": 100025,
+        "Name": "PC_VOICE_INFO_NAME_100025_9",
+        "Desc": "PC_VOICE_INFO_DESC_100025_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chesha/V_PC_Chesha_TurnStart_Montage_03.V_PC_Chesha_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chesha/",
+        "Voice": "V_PC_Chesha_TurnStart_Montage_03"
+      },
+      "102510": {
+        "GROUP_ID": 100025,
+        "Name": "PC_VOICE_INFO_NAME_100025_10",
+        "Desc": "PC_VOICE_INFO_DESC_100025_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chesha/V_PC_Chesha_Skill02_Montage.V_PC_Chesha_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chesha/",
+        "Voice": "V_PC_Chesha_Skill02_Montage"
+      },
+      "102511": {
+        "GROUP_ID": 100025,
+        "Name": "PC_VOICE_INFO_NAME_100025_11",
+        "Desc": "PC_VOICE_INFO_DESC_100025_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chesha/V_PC_Chesha_Skill03_Montage.V_PC_Chesha_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chesha/",
+        "Voice": "V_PC_Chesha_Skill03_Montage"
+      },
+      "102512": {
+        "GROUP_ID": 100025,
+        "Name": "PC_VOICE_INFO_NAME_100025_12",
+        "Desc": "PC_VOICE_INFO_DESC_100025_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Chesha/V_SQ_PC_Chesha_Skill99_Master.V_SQ_PC_Chesha_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Chesha/",
+        "Voice": "V_SQ_PC_Chesha_Skill99_Master"
+      },
+      "102601": {
+        "GROUP_ID": 100026,
+        "Name": "PC_VOICE_INFO_NAME_100026_1",
+        "Desc": "PC_VOICE_INFO_DESC_100026_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Priscilia/V_PC_Priscilia_Gacha.V_PC_Priscilia_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Priscilia/",
+        "Voice": "V_PC_Priscilia_Gacha"
+      },
+      "102602": {
+        "GROUP_ID": 100026,
+        "Name": "PC_VOICE_INFO_NAME_100026_2",
+        "Desc": "PC_VOICE_INFO_DESC_100026_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Priscilia/V_PC_Priscilia_Longidle_Anim.V_PC_Priscilia_Longidle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Priscilia/",
+        "Voice": "V_PC_Priscilia_LongIdle_Anim"
+      },
+      "102603": {
+        "GROUP_ID": 100026,
+        "Name": "PC_VOICE_INFO_NAME_100026_3",
+        "Desc": "PC_VOICE_INFO_DESC_100026_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Priscilia/V_PC_Priscilia_Favor_LevelUp.V_PC_Priscilia_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Priscilia/",
+        "Voice": "V_PC_Priscilia_Favor_LevelUp"
+      },
+      "102604": {
+        "GROUP_ID": 100026,
+        "Name": "PC_VOICE_INFO_NAME_100026_4",
+        "Desc": "PC_VOICE_INFO_DESC_100026_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Priscilia/V_PC_Priscilia_Gift_Basic.V_PC_Priscilia_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Priscilia/",
+        "Voice": "V_PC_Priscilia_Gift_Basic"
+      },
+      "102605": {
+        "GROUP_ID": 100026,
+        "Name": "PC_VOICE_INFO_NAME_100026_5",
+        "Desc": "PC_VOICE_INFO_DESC_100026_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Priscilia/V_PC_Priscilia_Gift_Like.V_PC_Priscilia_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Priscilia/",
+        "Voice": "V_PC_Priscilia_Gift_Like"
+      },
+      "102606": {
+        "GROUP_ID": 100026,
+        "Name": "PC_VOICE_INFO_NAME_100026_6",
+        "Desc": "PC_VOICE_INFO_DESC_100026_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Priscilia/V_PC_Priscilia_Tag.V_PC_Priscilia_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Priscilia/",
+        "Voice": "V_PC_Priscilia_Tag"
+      },
+      "102607": {
+        "GROUP_ID": 100026,
+        "Name": "PC_VOICE_INFO_NAME_100026_7",
+        "Desc": "PC_VOICE_INFO_DESC_100026_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Priscilia/V_PC_Priscilia_TurnStart_Montage_01.V_PC_Priscilia_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Priscilia/",
+        "Voice": "V_PC_Priscilia_TurnStart_Montage_01"
+      },
+      "102608": {
+        "GROUP_ID": 100026,
+        "Name": "PC_VOICE_INFO_NAME_100026_8",
+        "Desc": "PC_VOICE_INFO_DESC_100026_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Priscilia/V_PC_Priscilia_TurnStart_Montage_02.V_PC_Priscilia_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Priscilia/",
+        "Voice": "V_PC_Priscilia_TurnStart_Montage_02"
+      },
+      "102609": {
+        "GROUP_ID": 100026,
+        "Name": "PC_VOICE_INFO_NAME_100026_9",
+        "Desc": "PC_VOICE_INFO_DESC_100026_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Priscilia/V_PC_Priscilia_TurnStart_Montage_03.V_PC_Priscilia_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Priscilia/",
+        "Voice": "V_PC_Priscilia_TurnStart_Montage_03"
+      },
+      "102610": {
+        "GROUP_ID": 100026,
+        "Name": "PC_VOICE_INFO_NAME_100026_10",
+        "Desc": "PC_VOICE_INFO_DESC_100026_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Priscilia/V_PC_Priscilia_Skill02_Montage.V_PC_Priscilia_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Priscilia/",
+        "Voice": "V_PC_Priscilia_Skill02_Montage"
+      },
+      "102611": {
+        "GROUP_ID": 100026,
+        "Name": "PC_VOICE_INFO_NAME_100026_11",
+        "Desc": "PC_VOICE_INFO_DESC_100026_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Priscilia/V_PC_Priscilia_Skill03_Montage.V_PC_Priscilia_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Priscilia/",
+        "Voice": "V_PC_Priscilia_Skill03_Montage"
+      },
+      "102612": {
+        "GROUP_ID": 100026,
+        "Name": "PC_VOICE_INFO_NAME_100026_12",
+        "Desc": "PC_VOICE_INFO_DESC_100026_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Priscilia/V_SQ_PC_Priscilia_Skill99_Master.V_SQ_PC_Priscilia_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Priscilia/",
+        "Voice": "V_SQ_PC_Priscilia_Skill99_Master"
+      },
+      "102701": {
+        "GROUP_ID": 100027,
+        "Name": "PC_VOICE_INFO_NAME_100027_1",
+        "Desc": "PC_VOICE_INFO_DESC_100027_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ravi/V_PC_Ravi_Gacha.V_PC_Ravi_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ravi/",
+        "Voice": "V_PC_Ravi_Gacha"
+      },
+      "102702": {
+        "GROUP_ID": 100027,
+        "Name": "PC_VOICE_INFO_NAME_100027_2",
+        "Desc": "PC_VOICE_INFO_DESC_100027_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ravi/V_PC_Ravi_Longidle_Anim.V_PC_Ravi_Longidle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ravi/",
+        "Voice": "V_PC_Ravi_LongIdle_Anim"
+      },
+      "102703": {
+        "GROUP_ID": 100027,
+        "Name": "PC_VOICE_INFO_NAME_100027_3",
+        "Desc": "PC_VOICE_INFO_DESC_100027_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ravi/V_PC_Ravi_Favor_LevelUp.V_PC_Ravi_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ravi/",
+        "Voice": "V_PC_Ravi_Favor_LevelUp"
+      },
+      "102704": {
+        "GROUP_ID": 100027,
+        "Name": "PC_VOICE_INFO_NAME_100027_4",
+        "Desc": "PC_VOICE_INFO_DESC_100027_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ravi/V_PC_Ravi_Gift_Basic.V_PC_Ravi_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ravi/",
+        "Voice": "V_PC_Ravi_Gift_Basic"
+      },
+      "102705": {
+        "GROUP_ID": 100027,
+        "Name": "PC_VOICE_INFO_NAME_100027_5",
+        "Desc": "PC_VOICE_INFO_DESC_100027_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ravi/V_PC_Ravi_Gift_Like.V_PC_Ravi_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ravi/",
+        "Voice": "V_PC_Ravi_Gift_Like"
+      },
+      "102706": {
+        "GROUP_ID": 100027,
+        "Name": "PC_VOICE_INFO_NAME_100027_6",
+        "Desc": "PC_VOICE_INFO_DESC_100027_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ravi/V_PC_Ravi_Tag.V_PC_Ravi_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ravi/",
+        "Voice": "V_PC_Ravi_Tag"
+      },
+      "102707": {
+        "GROUP_ID": 100027,
+        "Name": "PC_VOICE_INFO_NAME_100027_7",
+        "Desc": "PC_VOICE_INFO_DESC_100027_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ravi/V_PC_Ravi_TurnStart_Montage_01.V_PC_Ravi_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ravi/",
+        "Voice": "V_PC_Ravi_TurnStart_Montage_01"
+      },
+      "102708": {
+        "GROUP_ID": 100027,
+        "Name": "PC_VOICE_INFO_NAME_100027_8",
+        "Desc": "PC_VOICE_INFO_DESC_100027_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ravi/V_PC_Ravi_TurnStart_Montage_02.V_PC_Ravi_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ravi/",
+        "Voice": "V_PC_Ravi_TurnStart_Montage_02"
+      },
+      "102709": {
+        "GROUP_ID": 100027,
+        "Name": "PC_VOICE_INFO_NAME_100027_9",
+        "Desc": "PC_VOICE_INFO_DESC_100027_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ravi/V_PC_Ravi_TurnStart_Montage_03.V_PC_Ravi_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ravi/",
+        "Voice": "V_PC_Ravi_TurnStart_Montage_03"
+      },
+      "102710": {
+        "GROUP_ID": 100027,
+        "Name": "PC_VOICE_INFO_NAME_100027_10",
+        "Desc": "PC_VOICE_INFO_DESC_100027_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ravi/V_PC_Ravi_Skill02_Montage.V_PC_Ravi_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ravi/",
+        "Voice": "V_PC_Ravi_Skill02_Montage"
+      },
+      "102711": {
+        "GROUP_ID": 100027,
+        "Name": "PC_VOICE_INFO_NAME_100027_11",
+        "Desc": "PC_VOICE_INFO_DESC_100027_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ravi/V_PC_Ravi_Skill03_Montage.V_PC_Ravi_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ravi/",
+        "Voice": "V_PC_Ravi_Skill03_Montage"
+      },
+      "102712": {
+        "GROUP_ID": 100027,
+        "Name": "PC_VOICE_INFO_NAME_100027_12",
+        "Desc": "PC_VOICE_INFO_DESC_100027_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ravi/V_SQ_PC_Ravi_Skill99_Master.V_SQ_PC_Ravi_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ravi/",
+        "Voice": "V_SQ_PC_Ravi_Skill99_Master"
+      },
+      "102801": {
+        "GROUP_ID": 100028,
+        "Name": "PC_VOICE_INFO_NAME_100028_1",
+        "Desc": "PC_VOICE_INFO_DESC_100028_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Libertas/V_PC_Libertas_Gacha.V_PC_Libertas_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Libertas/",
+        "Voice": "V_PC_Libertas_Gacha"
+      },
+      "102802": {
+        "GROUP_ID": 100028,
+        "Name": "PC_VOICE_INFO_NAME_100028_2",
+        "Desc": "PC_VOICE_INFO_DESC_100028_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Libertas/V_PC_Libertas_LongIdle_Anim.V_PC_Libertas_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Libertas/",
+        "Voice": "V_PC_Libertas_LongIdle_Anim"
+      },
+      "102803": {
+        "GROUP_ID": 100028,
+        "Name": "PC_VOICE_INFO_NAME_100028_3",
+        "Desc": "PC_VOICE_INFO_DESC_100028_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Libertas/V_PC_Libertas_Favor_LevelUp.V_PC_Libertas_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Libertas/",
+        "Voice": "V_PC_Libertas_Favor_LevelUp"
+      },
+      "102804": {
+        "GROUP_ID": 100028,
+        "Name": "PC_VOICE_INFO_NAME_100028_4",
+        "Desc": "PC_VOICE_INFO_DESC_100028_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Libertas/V_PC_Libertas_Gift_Basic.V_PC_Libertas_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Libertas/",
+        "Voice": "V_PC_Libertas_Gift_Basic"
+      },
+      "102805": {
+        "GROUP_ID": 100028,
+        "Name": "PC_VOICE_INFO_NAME_100028_5",
+        "Desc": "PC_VOICE_INFO_DESC_100028_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Libertas/V_PC_Libertas_Gift_Like.V_PC_Libertas_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Libertas/",
+        "Voice": "V_PC_Libertas_Gift_Like"
+      },
+      "102806": {
+        "GROUP_ID": 100028,
+        "Name": "PC_VOICE_INFO_NAME_100028_6",
+        "Desc": "PC_VOICE_INFO_DESC_100028_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Libertas/V_PC_Libertas_Tag.V_PC_Libertas_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Libertas/",
+        "Voice": "V_PC_Libertas_Tag"
+      },
+      "102807": {
+        "GROUP_ID": 100028,
+        "Name": "PC_VOICE_INFO_NAME_100028_7",
+        "Desc": "PC_VOICE_INFO_DESC_100028_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Libertas/V_PC_Libertas_TurnStart_Montage_01.V_PC_Libertas_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Libertas/",
+        "Voice": "V_PC_Libertas_TurnStart_Montage_01"
+      },
+      "102808": {
+        "GROUP_ID": 100028,
+        "Name": "PC_VOICE_INFO_NAME_100028_8",
+        "Desc": "PC_VOICE_INFO_DESC_100028_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Libertas/V_PC_Libertas_TurnStart_Montage_02.V_PC_Libertas_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Libertas/",
+        "Voice": "V_PC_Libertas_TurnStart_Montage_02"
+      },
+      "102809": {
+        "GROUP_ID": 100028,
+        "Name": "PC_VOICE_INFO_NAME_100028_9",
+        "Desc": "PC_VOICE_INFO_DESC_100028_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Libertas/V_PC_Libertas_TurnStart_Montage_03.V_PC_Libertas_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Libertas/",
+        "Voice": "V_PC_Libertas_TurnStart_Montage_03"
+      },
+      "102810": {
+        "GROUP_ID": 100028,
+        "Name": "PC_VOICE_INFO_NAME_100028_10",
+        "Desc": "PC_VOICE_INFO_DESC_100028_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Libertas/V_PC_Libertas_Skill02_Montage.V_PC_Libertas_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Libertas/",
+        "Voice": "V_PC_Libertas_Skill02_Montage"
+      },
+      "102811": {
+        "GROUP_ID": 100028,
+        "Name": "PC_VOICE_INFO_NAME_100028_11",
+        "Desc": "PC_VOICE_INFO_DESC_100028_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Libertas/V_PC_Libertas_Skill03_Montage.V_PC_Libertas_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Libertas/",
+        "Voice": "V_PC_Libertas_Skill03_Montage"
+      },
+      "102812": {
+        "GROUP_ID": 100028,
+        "Name": "PC_VOICE_INFO_NAME_100028_12",
+        "Desc": "PC_VOICE_INFO_DESC_100028_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Libertas/V_SQ_PC_Libertas_Skill99_Master.V_SQ_PC_Libertas_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Libertas/",
+        "Voice": "V_SQ_PC_Libertas_Skill99_Master"
+      },
+      "102901": {
+        "GROUP_ID": 100029,
+        "Name": "PC_VOICE_INFO_NAME_100029_1",
+        "Desc": "PC_VOICE_INFO_DESC_100029_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Enas/V_PC_Enas_Gacha.V_PC_Enas_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Enas/",
+        "Voice": "V_PC_Enas_Gacha"
+      },
+      "102902": {
+        "GROUP_ID": 100029,
+        "Name": "PC_VOICE_INFO_NAME_100029_2",
+        "Desc": "PC_VOICE_INFO_DESC_100029_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Enas/V_PC_Enas_LongIdle_Anim.V_PC_Enas_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Enas/",
+        "Voice": "V_PC_Enas_LongIdle_Anim"
+      },
+      "102903": {
+        "GROUP_ID": 100029,
+        "Name": "PC_VOICE_INFO_NAME_100029_3",
+        "Desc": "PC_VOICE_INFO_DESC_100029_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Enas/V_PC_Enas_Favor_LevelUp.V_PC_Enas_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Enas/",
+        "Voice": "V_PC_Enas_Favor_LevelUp"
+      },
+      "102904": {
+        "GROUP_ID": 100029,
+        "Name": "PC_VOICE_INFO_NAME_100029_4",
+        "Desc": "PC_VOICE_INFO_DESC_100029_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Enas/V_PC_Enas_Gift_Basic.V_PC_Enas_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Enas/",
+        "Voice": "V_PC_Enas_Gift_Basic"
+      },
+      "102905": {
+        "GROUP_ID": 100029,
+        "Name": "PC_VOICE_INFO_NAME_100029_5",
+        "Desc": "PC_VOICE_INFO_DESC_100029_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Enas/V_PC_Enas_Gift_Like.V_PC_Enas_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Enas/",
+        "Voice": "V_PC_Enas_Gift_Like"
+      },
+      "102906": {
+        "GROUP_ID": 100029,
+        "Name": "PC_VOICE_INFO_NAME_100029_6",
+        "Desc": "PC_VOICE_INFO_DESC_100029_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Enas/V_PC_Enas_Tag.V_PC_Enas_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Enas/",
+        "Voice": "V_PC_Enas_Tag"
+      },
+      "102907": {
+        "GROUP_ID": 100029,
+        "Name": "PC_VOICE_INFO_NAME_100029_7",
+        "Desc": "PC_VOICE_INFO_DESC_100029_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Enas/V_PC_Enas_TurnStart_Montage_01.V_PC_Enas_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Enas/",
+        "Voice": "V_PC_Enas_TurnStart_Montage_01"
+      },
+      "102908": {
+        "GROUP_ID": 100029,
+        "Name": "PC_VOICE_INFO_NAME_100029_8",
+        "Desc": "PC_VOICE_INFO_DESC_100029_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Enas/V_PC_Enas_TurnStart_Montage_02.V_PC_Enas_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Enas/",
+        "Voice": "V_PC_Enas_TurnStart_Montage_02"
+      },
+      "102909": {
+        "GROUP_ID": 100029,
+        "Name": "PC_VOICE_INFO_NAME_100029_9",
+        "Desc": "PC_VOICE_INFO_DESC_100029_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Enas/V_PC_Enas_TurnStart_Montage_03.V_PC_Enas_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Enas/",
+        "Voice": "V_PC_Enas_TurnStart_Montage_03"
+      },
+      "102910": {
+        "GROUP_ID": 100029,
+        "Name": "PC_VOICE_INFO_NAME_100029_10",
+        "Desc": "PC_VOICE_INFO_DESC_100029_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Enas/V_PC_Enas_Skill02_Montage.V_PC_Enas_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Enas/",
+        "Voice": "V_PC_Enas_Skill02_Montage"
+      },
+      "102911": {
+        "GROUP_ID": 100029,
+        "Name": "PC_VOICE_INFO_NAME_100029_11",
+        "Desc": "PC_VOICE_INFO_DESC_100029_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Enas/V_PC_Enas_Skill03_Montage.V_PC_Enas_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Enas/",
+        "Voice": "V_PC_Enas_Skill03_Montage"
+      },
+      "102912": {
+        "GROUP_ID": 100029,
+        "Name": "PC_VOICE_INFO_NAME_100029_12",
+        "Desc": "PC_VOICE_INFO_DESC_100029_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Enas/V_SQ_PC_Enas_Skill99_Master.V_SQ_PC_Enas_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Enas/",
+        "Voice": "V_SQ_PC_Enas_Skill99_Master"
+      },
+      "103001": {
+        "GROUP_ID": 100030,
+        "Name": "PC_VOICE_INFO_NAME_100030_1",
+        "Desc": "PC_VOICE_INFO_DESC_100030_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ivy/V_PC_Ivy_Gacha.V_PC_Ivy_Gacha",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ivy/",
+        "Voice": "V_PC_ivy_Gacha"
+      },
+      "103002": {
+        "GROUP_ID": 100030,
+        "Name": "PC_VOICE_INFO_NAME_100030_2",
+        "Desc": "PC_VOICE_INFO_DESC_100030_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ivy/V_PC_Ivy_LongIdle_Anim.V_PC_Ivy_LongIdle_Anim",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ivy/",
+        "Voice": "V_PC_Ivy_LongIdle_Anim"
+      },
+      "103003": {
+        "GROUP_ID": 100030,
+        "Name": "PC_VOICE_INFO_NAME_100030_3",
+        "Desc": "PC_VOICE_INFO_DESC_100030_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ivy/V_PC_Ivy_Favor_LevelUp.V_PC_Ivy_Favor_LevelUp",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ivy/",
+        "Voice": "V_PC_Ivy_Favor_LevelUp"
+      },
+      "103004": {
+        "GROUP_ID": 100030,
+        "Name": "PC_VOICE_INFO_NAME_100030_4",
+        "Desc": "PC_VOICE_INFO_DESC_100030_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ivy/V_PC_Ivy_Gift_Basic.V_PC_Ivy_Gift_Basic",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ivy/",
+        "Voice": "V_PC_Ivy_Gift_Basic"
+      },
+      "103005": {
+        "GROUP_ID": 100030,
+        "Name": "PC_VOICE_INFO_NAME_100030_5",
+        "Desc": "PC_VOICE_INFO_DESC_100030_5",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ivy/V_PC_Ivy_Gift_Like.V_PC_Ivy_Gift_Like",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ivy/",
+        "Voice": "V_PC_Ivy_Gift_Like"
+      },
+      "103006": {
+        "GROUP_ID": 100030,
+        "Name": "PC_VOICE_INFO_NAME_100030_6",
+        "Desc": "PC_VOICE_INFO_DESC_100030_6",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ivy/V_PC_Ivy_Tag.V_PC_Ivy_Tag",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ivy/",
+        "Voice": "V_PC_Ivy_Tag"
+      },
+      "103007": {
+        "GROUP_ID": 100030,
+        "Name": "PC_VOICE_INFO_NAME_100030_7",
+        "Desc": "PC_VOICE_INFO_DESC_100030_7",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ivy/V_PC_Ivy_TurnStart_Montage_01.V_PC_Ivy_TurnStart_Montage_01",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ivy/",
+        "Voice": "V_PC_Ivy_TurnStart_Montage_01"
+      },
+      "103008": {
+        "GROUP_ID": 100030,
+        "Name": "PC_VOICE_INFO_NAME_100030_8",
+        "Desc": "PC_VOICE_INFO_DESC_100030_8",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ivy/V_PC_Ivy_TurnStart_Montage_02.V_PC_Ivy_TurnStart_Montage_02",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ivy/",
+        "Voice": "V_PC_Ivy_TurnStart_Montage_02"
+      },
+      "103009": {
+        "GROUP_ID": 100030,
+        "Name": "PC_VOICE_INFO_NAME_100030_9",
+        "Desc": "PC_VOICE_INFO_DESC_100030_9",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ivy/V_PC_Ivy_TurnStart_Montage_03.V_PC_Ivy_TurnStart_Montage_03",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ivy/",
+        "Voice": "V_PC_Ivy_TurnStart_Montage_03"
+      },
+      "103010": {
+        "GROUP_ID": 100030,
+        "Name": "PC_VOICE_INFO_NAME_100030_10",
+        "Desc": "PC_VOICE_INFO_DESC_100030_10",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ivy/V_PC_Ivy_Skill02_Montage.V_PC_Ivy_Skill02_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ivy/",
+        "Voice": "V_PC_Ivy_Skill02_Montage"
+      },
+      "103011": {
+        "GROUP_ID": 100030,
+        "Name": "PC_VOICE_INFO_NAME_100030_11",
+        "Desc": "PC_VOICE_INFO_DESC_100030_11",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ivy/V_PC_Ivy_Skill03_Montage.V_PC_Ivy_Skill03_Montage",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ivy/",
+        "Voice": "V_PC_Ivy_Skill03_Montage"
+      },
+      "103012": {
+        "GROUP_ID": 100030,
+        "Name": "PC_VOICE_INFO_NAME_100030_12",
+        "Desc": "PC_VOICE_INFO_DESC_100030_12",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Ivy/V_SQ_PC_Ivy_Skill99_Master.V_SQ_PC_Ivy_Skill99_Master",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Ivy/",
+        "Voice": "V_SQ_PC_Ivy_Skill99_Master"
+      },
+      "109901": {
+        "GROUP_ID": 109999,
+        "Name": "PC_VOICE_INFO_NAME_100001_1",
+        "Desc": "PC_VOICE_INFO_DESC_100001_1",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Player_W/V_PC_Player_LongIdle_Anim_W.V_PC_Player_LongIdle_Anim_W",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Player_W/",
+        "Voice": "V_PC_Player_LongIdle_Anim_W"
+      },
+      "109902": {
+        "GROUP_ID": 109999,
+        "Name": "PC_VOICE_INFO_NAME_100001_2",
+        "Desc": "PC_VOICE_INFO_DESC_100001_2",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Player_W/V_PC_Player_Skill02_Montage_W.V_PC_Player_Skill02_Montage_W",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Player_W/",
+        "Voice": "V_PC_Player_Skill02_Montage_W"
+      },
+      "109903": {
+        "GROUP_ID": 109999,
+        "Name": "PC_VOICE_INFO_NAME_100001_3",
+        "Desc": "PC_VOICE_INFO_DESC_100001_3",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Player_W/V_PC_Player_Skill03_Montage_W.V_PC_Player_Skill03_Montage_W",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Player_W/",
+        "Voice": "V_PC_Player_Skill03_Montage_W"
+      },
+      "109904": {
+        "GROUP_ID": 109999,
+        "Name": "PC_VOICE_INFO_NAME_100001_4",
+        "Desc": "PC_VOICE_INFO_DESC_100001_4",
+        "VOICEForCook": {
+          "AssetPathName": "/Game/Sound/SE/Character/PC_Player_W/V_SQ_PC_Player_Skill99_Master_W.V_SQ_PC_Player_Skill99_Master_W",
+          "SubPathString": ""
+        },
+        "Path": "Character/PC_Player_W/",
+        "Voice": "V_SQ_PC_Player_Skill99_Master_W"
+      }
+    }
+  }
+]

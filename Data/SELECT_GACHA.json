@@ -1,0 +1,24 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "SELECT_GACHA",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBSELECT_GACHA'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "605099001": {
+        "Name": "SELECT_GACHA_NAME_605099001",
+        "Desc": "SELECT_GACHA_DESC_605099001",
+        "GACHA_ID_1": 900001,
+        "GACHA_ID_2": 900002,
+        "GACHA_ID_3": 900003,
+        "GACHA_ID_4": 900004,
+        "GACHA_ID_5": 0
+      }
+    }
+  }
+]

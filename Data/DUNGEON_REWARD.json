@@ -1,0 +1,315 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DUNGEON_REWARD",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBDUNGEON_REWARD'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "101": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 3,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "102": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 6,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "103": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 9,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "104": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 12,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "105": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 15,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "106": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 18,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "107": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 21,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "108": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 24,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "109": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 27,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "110": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 30,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "111": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 33,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "112": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 36,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "113": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 39,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "114": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 42,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "115": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 45,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "116": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 48,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "117": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 51,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "118": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 54,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "119": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 57,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "120": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 60,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "121": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 63,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "122": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 66,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "123": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 69,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "124": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 72,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "125": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 75,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "126": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 78,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "127": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 81,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "128": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 84,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "129": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 87,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "130": {
+        "GROUP_ID": 1,
+        "COMPLETE_COUNT": 90,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "131": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 3,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "132": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 6,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "133": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 9,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "134": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 12,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "135": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 15,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "136": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 18,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "137": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 21,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "138": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 24,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "139": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 27,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "140": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 30,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "141": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 33,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "142": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 36,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "143": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 39,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "144": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 42,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "145": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 45,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "146": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 48,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "147": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 51,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "148": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 54,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "149": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 57,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "150": {
+        "GROUP_ID": 2,
+        "COMPLETE_COUNT": 60,
+        "REWARD_GROUP_ID": 704050201
+      },
+      "151": {
+        "GROUP_ID": 3,
+        "COMPLETE_COUNT": 3,
+        "REWARD_GROUP_ID": 704050200
+      },
+      "152": {
+        "GROUP_ID": 3,
+        "COMPLETE_COUNT": 6,
+        "REWARD_GROUP_ID": 704050200
+      },
+      "153": {
+        "GROUP_ID": 3,
+        "COMPLETE_COUNT": 9,
+        "REWARD_GROUP_ID": 704050200
+      },
+      "154": {
+        "GROUP_ID": 3,
+        "COMPLETE_COUNT": 12,
+        "REWARD_GROUP_ID": 704050200
+      },
+      "155": {
+        "GROUP_ID": 3,
+        "COMPLETE_COUNT": 15,
+        "REWARD_GROUP_ID": 704050200
+      },
+      "156": {
+        "GROUP_ID": 3,
+        "COMPLETE_COUNT": 18,
+        "REWARD_GROUP_ID": 704050200
+      },
+      "157": {
+        "GROUP_ID": 3,
+        "COMPLETE_COUNT": 21,
+        "REWARD_GROUP_ID": 704050200
+      },
+      "158": {
+        "GROUP_ID": 3,
+        "COMPLETE_COUNT": 24,
+        "REWARD_GROUP_ID": 704050200
+      },
+      "159": {
+        "GROUP_ID": 3,
+        "COMPLETE_COUNT": 27,
+        "REWARD_GROUP_ID": 704050200
+      },
+      "160": {
+        "GROUP_ID": 3,
+        "COMPLETE_COUNT": 30,
+        "REWARD_GROUP_ID": 704050200
+      }
+    }
+  }
+]

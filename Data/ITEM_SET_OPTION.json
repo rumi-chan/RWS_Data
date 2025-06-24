@@ -1,0 +1,135 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ITEM_SET_OPTION",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBITEM_SET_OPTION'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "10101": {
+        "Name": "EQUIPMENT_SET_10101_NAME",
+        "Icon": "Icon_Equip_Dawn_Sprite",
+        "DISPLAY_ID_01": 311015005,
+        "DISPLAY_ID_02": 311025005,
+        "DISPLAY_ID_03": 311035005,
+        "DISPLAY_ID_04": 311045005,
+        "DISPLAY_ID_05": 311055005,
+        "DISPLAY_ID_06": 311065005,
+        "SET_OPTION_QTY": 2,
+        "SET_OPTION1_TYPE": "ENBItemSetType::Stat",
+        "SET_OPTION1_STAT_TYPE": 201,
+        "SET_OPTION1_VALUE": 1500,
+        "SET_OPTION1_DESC": "EQUIPMENT_SET_10101_DESC_1"
+      },
+      "10102": {
+        "Name": "EQUIPMENT_SET_10102_NAME",
+        "Icon": "Icon_Equip_Fighter_Sprite",
+        "DISPLAY_ID_01": 311015002,
+        "DISPLAY_ID_02": 311025002,
+        "DISPLAY_ID_03": 311035002,
+        "DISPLAY_ID_04": 311045002,
+        "DISPLAY_ID_05": 311055002,
+        "DISPLAY_ID_06": 311065002,
+        "SET_OPTION_QTY": 2,
+        "SET_OPTION1_TYPE": "ENBItemSetType::Stat",
+        "SET_OPTION1_STAT_TYPE": 207,
+        "SET_OPTION1_VALUE": 1200,
+        "SET_OPTION1_DESC": "EQUIPMENT_SET_10102_DESC_2"
+      },
+      "10103": {
+        "Name": "EQUIPMENT_SET_10103_NAME",
+        "Icon": "Icon_Equip_Whistle_Sprite",
+        "DISPLAY_ID_01": 311015006,
+        "DISPLAY_ID_02": 311025006,
+        "DISPLAY_ID_03": 311035006,
+        "DISPLAY_ID_04": 311045006,
+        "DISPLAY_ID_05": 311055006,
+        "DISPLAY_ID_06": 311065006,
+        "SET_OPTION_QTY": 4,
+        "SET_OPTION1_TYPE": "ENBItemSetType::Stat",
+        "SET_OPTION1_STAT_TYPE": 204,
+        "SET_OPTION1_VALUE": 2200,
+        "SET_OPTION1_DESC": "EQUIPMENT_SET_10103_DESC_2"
+      },
+      "10104": {
+        "Name": "EQUIPMENT_SET_10104_NAME",
+        "Icon": "Icon_Equip_Pharmacist_Sprite",
+        "DISPLAY_ID_01": 311015007,
+        "DISPLAY_ID_02": 311025007,
+        "DISPLAY_ID_03": 311035007,
+        "DISPLAY_ID_04": 311045007,
+        "DISPLAY_ID_05": 311055007,
+        "DISPLAY_ID_06": 311065007,
+        "SET_OPTION_QTY": 2,
+        "SET_OPTION1_TYPE": "ENBItemSetType::Stat",
+        "SET_OPTION1_STAT_TYPE": 203,
+        "SET_OPTION1_VALUE": 1500,
+        "SET_OPTION1_DESC": "EQUIPMENT_SET_10104_DESC_1"
+      },
+      "10105": {
+        "Name": "EQUIPMENT_SET_10105_NAME",
+        "Icon": "Icon_Equip_RockArmor_Sprite",
+        "DISPLAY_ID_01": 311015008,
+        "DISPLAY_ID_02": 311025008,
+        "DISPLAY_ID_03": 311035008,
+        "DISPLAY_ID_04": 311045008,
+        "DISPLAY_ID_05": 311055008,
+        "DISPLAY_ID_06": 311065008,
+        "SET_OPTION_QTY": 2,
+        "SET_OPTION1_TYPE": "ENBItemSetType::Stat",
+        "SET_OPTION1_STAT_TYPE": 202,
+        "SET_OPTION1_VALUE": 1500,
+        "SET_OPTION1_DESC": "EQUIPMENT_SET_10105_DESC_1"
+      },
+      "10106": {
+        "Name": "EQUIPMENT_SET_10106_NAME",
+        "Icon": "Icon_Equip_Spy_Sprite",
+        "DISPLAY_ID_01": 311015009,
+        "DISPLAY_ID_02": 311025009,
+        "DISPLAY_ID_03": 311035009,
+        "DISPLAY_ID_04": 311045009,
+        "DISPLAY_ID_05": 311055009,
+        "DISPLAY_ID_06": 311065009,
+        "SET_OPTION_QTY": 4,
+        "SET_OPTION1_TYPE": "ENBItemSetType::Stat",
+        "SET_OPTION1_STAT_TYPE": 208,
+        "SET_OPTION1_VALUE": 4000,
+        "SET_OPTION1_DESC": "EQUIPMENT_SET_10106_DESC_1"
+      },
+      "10107": {
+        "Name": "EQUIPMENT_SET_10107_NAME",
+        "Icon": "Icon_Equip_Pharos_Sprite",
+        "DISPLAY_ID_01": 311015003,
+        "DISPLAY_ID_02": 311025003,
+        "DISPLAY_ID_03": 311035003,
+        "DISPLAY_ID_04": 311045003,
+        "DISPLAY_ID_05": 311055003,
+        "DISPLAY_ID_06": 311065003,
+        "SET_OPTION_QTY": 2,
+        "SET_OPTION1_TYPE": "ENBItemSetType::Stat",
+        "SET_OPTION1_STAT_TYPE": 209,
+        "SET_OPTION1_VALUE": 2000,
+        "SET_OPTION1_DESC": "EQUIPMENT_SET_10107_DESC_1"
+      },
+      "10108": {
+        "Name": "EQUIPMENT_SET_10108_NAME",
+        "Icon": "Icon_Equip_Lux_Sprite",
+        "DISPLAY_ID_01": 311015004,
+        "DISPLAY_ID_02": 311025004,
+        "DISPLAY_ID_03": 311035004,
+        "DISPLAY_ID_04": 311045004,
+        "DISPLAY_ID_05": 311055004,
+        "DISPLAY_ID_06": 311065004,
+        "SET_OPTION_QTY": 2,
+        "SET_OPTION1_TYPE": "ENBItemSetType::Stat",
+        "SET_OPTION1_STAT_TYPE": 210,
+        "SET_OPTION1_VALUE": 2000,
+        "SET_OPTION1_DESC": "EQUIPMENT_SET_10108_DESC_1"
+      }
+    }
+  }
+]

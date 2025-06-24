@@ -1,0 +1,39 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CHARACTER_LIST",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBCHARACTER_LIST'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1": {
+        "Name": "PC_Kayla",
+        "SUBNAME": "PC_KAYLA",
+        "Scale": 0,
+        "RECOGNITION_TYPE": 0,
+        "DESC_LOCAL": "",
+        "RESOURCE": "PC_KAYLA"
+      },
+      "2": {
+        "Name": "PC_Jeremiah",
+        "SUBNAME": "PC_JEREMIAH",
+        "Scale": 0,
+        "RECOGNITION_TYPE": 0,
+        "DESC_LOCAL": "",
+        "RESOURCE": "PC_JEREMIAH"
+      },
+      "3": {
+        "Name": "PC_Nax",
+        "SUBNAME": "PC_NAX",
+        "Scale": 0,
+        "RECOGNITION_TYPE": 0,
+        "DESC_LOCAL": "",
+        "RESOURCE": "PC_NAX"
+      }
+    }
+  }
+]

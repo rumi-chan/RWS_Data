@@ -1,0 +1,1275 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "BATTLEPASS_GROUP",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBBATTLEPASS_GROUP'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "100": {
+        "PASS_LEVEL": 40,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020140,
+        "PREMIUM_REWARD_GROUP_ID": 714030140
+      },
+      "101": {
+        "PASS_LEVEL": 1,
+        "GROUP_ID": 1103,
+        "Exp": 0,
+        "REWARD_GROUP_ID": 714020101,
+        "PREMIUM_REWARD_GROUP_ID": 714030101
+      },
+      "102": {
+        "PASS_LEVEL": 2,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020102,
+        "PREMIUM_REWARD_GROUP_ID": 714030102
+      },
+      "103": {
+        "PASS_LEVEL": 3,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020103,
+        "PREMIUM_REWARD_GROUP_ID": 714030103
+      },
+      "104": {
+        "PASS_LEVEL": 4,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020104,
+        "PREMIUM_REWARD_GROUP_ID": 714030104
+      },
+      "105": {
+        "PASS_LEVEL": 5,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020105,
+        "PREMIUM_REWARD_GROUP_ID": 714030105
+      },
+      "106": {
+        "PASS_LEVEL": 6,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020106,
+        "PREMIUM_REWARD_GROUP_ID": 714030106
+      },
+      "107": {
+        "PASS_LEVEL": 7,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020107,
+        "PREMIUM_REWARD_GROUP_ID": 714030107
+      },
+      "108": {
+        "PASS_LEVEL": 8,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020108,
+        "PREMIUM_REWARD_GROUP_ID": 714030108
+      },
+      "109": {
+        "PASS_LEVEL": 9,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020109,
+        "PREMIUM_REWARD_GROUP_ID": 714030109
+      },
+      "110": {
+        "PASS_LEVEL": 10,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020110,
+        "PREMIUM_REWARD_GROUP_ID": 714030110
+      },
+      "111": {
+        "PASS_LEVEL": 11,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020111,
+        "PREMIUM_REWARD_GROUP_ID": 714030111
+      },
+      "112": {
+        "PASS_LEVEL": 12,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020112,
+        "PREMIUM_REWARD_GROUP_ID": 714030112
+      },
+      "113": {
+        "PASS_LEVEL": 13,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020113,
+        "PREMIUM_REWARD_GROUP_ID": 714030113
+      },
+      "114": {
+        "PASS_LEVEL": 14,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020114,
+        "PREMIUM_REWARD_GROUP_ID": 714030114
+      },
+      "115": {
+        "PASS_LEVEL": 15,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020115,
+        "PREMIUM_REWARD_GROUP_ID": 714030115
+      },
+      "116": {
+        "PASS_LEVEL": 16,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020116,
+        "PREMIUM_REWARD_GROUP_ID": 714030116
+      },
+      "117": {
+        "PASS_LEVEL": 17,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020117,
+        "PREMIUM_REWARD_GROUP_ID": 714030117
+      },
+      "118": {
+        "PASS_LEVEL": 18,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020118,
+        "PREMIUM_REWARD_GROUP_ID": 714030118
+      },
+      "119": {
+        "PASS_LEVEL": 19,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020119,
+        "PREMIUM_REWARD_GROUP_ID": 714030119
+      },
+      "120": {
+        "PASS_LEVEL": 20,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020120,
+        "PREMIUM_REWARD_GROUP_ID": 714030120
+      },
+      "121": {
+        "PASS_LEVEL": 21,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020121,
+        "PREMIUM_REWARD_GROUP_ID": 714030121
+      },
+      "122": {
+        "PASS_LEVEL": 22,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020122,
+        "PREMIUM_REWARD_GROUP_ID": 714030122
+      },
+      "123": {
+        "PASS_LEVEL": 23,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020123,
+        "PREMIUM_REWARD_GROUP_ID": 714030123
+      },
+      "124": {
+        "PASS_LEVEL": 24,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020124,
+        "PREMIUM_REWARD_GROUP_ID": 714030124
+      },
+      "125": {
+        "PASS_LEVEL": 25,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020125,
+        "PREMIUM_REWARD_GROUP_ID": 714030125
+      },
+      "126": {
+        "PASS_LEVEL": 26,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020126,
+        "PREMIUM_REWARD_GROUP_ID": 714030126
+      },
+      "127": {
+        "PASS_LEVEL": 27,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020127,
+        "PREMIUM_REWARD_GROUP_ID": 714030127
+      },
+      "128": {
+        "PASS_LEVEL": 28,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020128,
+        "PREMIUM_REWARD_GROUP_ID": 714030128
+      },
+      "129": {
+        "PASS_LEVEL": 29,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020129,
+        "PREMIUM_REWARD_GROUP_ID": 714030129
+      },
+      "130": {
+        "PASS_LEVEL": 30,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020130,
+        "PREMIUM_REWARD_GROUP_ID": 714030130
+      },
+      "131": {
+        "PASS_LEVEL": 31,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020131,
+        "PREMIUM_REWARD_GROUP_ID": 714030131
+      },
+      "132": {
+        "PASS_LEVEL": 32,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020132,
+        "PREMIUM_REWARD_GROUP_ID": 714030132
+      },
+      "133": {
+        "PASS_LEVEL": 33,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020133,
+        "PREMIUM_REWARD_GROUP_ID": 714030133
+      },
+      "134": {
+        "PASS_LEVEL": 34,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020134,
+        "PREMIUM_REWARD_GROUP_ID": 714030134
+      },
+      "135": {
+        "PASS_LEVEL": 35,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020135,
+        "PREMIUM_REWARD_GROUP_ID": 714030135
+      },
+      "136": {
+        "PASS_LEVEL": 36,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020136,
+        "PREMIUM_REWARD_GROUP_ID": 714030136
+      },
+      "137": {
+        "PASS_LEVEL": 37,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020137,
+        "PREMIUM_REWARD_GROUP_ID": 714030137
+      },
+      "138": {
+        "PASS_LEVEL": 38,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020138,
+        "PREMIUM_REWARD_GROUP_ID": 714030138
+      },
+      "139": {
+        "PASS_LEVEL": 39,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020139,
+        "PREMIUM_REWARD_GROUP_ID": 714030139
+      },
+      "140": {
+        "PASS_LEVEL": 40,
+        "GROUP_ID": 1103,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020140,
+        "PREMIUM_REWARD_GROUP_ID": 714030140
+      },
+      "141": {
+        "PASS_LEVEL": 1,
+        "GROUP_ID": 1104,
+        "Exp": 0,
+        "REWARD_GROUP_ID": 714020101,
+        "PREMIUM_REWARD_GROUP_ID": 714030101
+      },
+      "142": {
+        "PASS_LEVEL": 2,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020102,
+        "PREMIUM_REWARD_GROUP_ID": 714030102
+      },
+      "143": {
+        "PASS_LEVEL": 3,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020103,
+        "PREMIUM_REWARD_GROUP_ID": 714030103
+      },
+      "144": {
+        "PASS_LEVEL": 4,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020104,
+        "PREMIUM_REWARD_GROUP_ID": 714030104
+      },
+      "145": {
+        "PASS_LEVEL": 5,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020105,
+        "PREMIUM_REWARD_GROUP_ID": 714030105
+      },
+      "146": {
+        "PASS_LEVEL": 6,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020106,
+        "PREMIUM_REWARD_GROUP_ID": 714030106
+      },
+      "147": {
+        "PASS_LEVEL": 7,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020107,
+        "PREMIUM_REWARD_GROUP_ID": 714030107
+      },
+      "148": {
+        "PASS_LEVEL": 8,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020108,
+        "PREMIUM_REWARD_GROUP_ID": 714030108
+      },
+      "149": {
+        "PASS_LEVEL": 9,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020109,
+        "PREMIUM_REWARD_GROUP_ID": 714030109
+      },
+      "150": {
+        "PASS_LEVEL": 10,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020110,
+        "PREMIUM_REWARD_GROUP_ID": 714030110
+      },
+      "151": {
+        "PASS_LEVEL": 11,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020111,
+        "PREMIUM_REWARD_GROUP_ID": 714030111
+      },
+      "152": {
+        "PASS_LEVEL": 12,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020112,
+        "PREMIUM_REWARD_GROUP_ID": 714030112
+      },
+      "153": {
+        "PASS_LEVEL": 13,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020113,
+        "PREMIUM_REWARD_GROUP_ID": 714030113
+      },
+      "154": {
+        "PASS_LEVEL": 14,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020114,
+        "PREMIUM_REWARD_GROUP_ID": 714030114
+      },
+      "155": {
+        "PASS_LEVEL": 15,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020115,
+        "PREMIUM_REWARD_GROUP_ID": 714030115
+      },
+      "156": {
+        "PASS_LEVEL": 16,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020116,
+        "PREMIUM_REWARD_GROUP_ID": 714030116
+      },
+      "157": {
+        "PASS_LEVEL": 17,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020117,
+        "PREMIUM_REWARD_GROUP_ID": 714030117
+      },
+      "158": {
+        "PASS_LEVEL": 18,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020118,
+        "PREMIUM_REWARD_GROUP_ID": 714030118
+      },
+      "159": {
+        "PASS_LEVEL": 19,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020119,
+        "PREMIUM_REWARD_GROUP_ID": 714030119
+      },
+      "160": {
+        "PASS_LEVEL": 20,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020120,
+        "PREMIUM_REWARD_GROUP_ID": 714030120
+      },
+      "161": {
+        "PASS_LEVEL": 21,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020121,
+        "PREMIUM_REWARD_GROUP_ID": 714030121
+      },
+      "162": {
+        "PASS_LEVEL": 22,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020122,
+        "PREMIUM_REWARD_GROUP_ID": 714030122
+      },
+      "163": {
+        "PASS_LEVEL": 23,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020123,
+        "PREMIUM_REWARD_GROUP_ID": 714030123
+      },
+      "164": {
+        "PASS_LEVEL": 24,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020124,
+        "PREMIUM_REWARD_GROUP_ID": 714030124
+      },
+      "165": {
+        "PASS_LEVEL": 25,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020125,
+        "PREMIUM_REWARD_GROUP_ID": 714030125
+      },
+      "166": {
+        "PASS_LEVEL": 26,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020126,
+        "PREMIUM_REWARD_GROUP_ID": 714030126
+      },
+      "167": {
+        "PASS_LEVEL": 27,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020127,
+        "PREMIUM_REWARD_GROUP_ID": 714030127
+      },
+      "168": {
+        "PASS_LEVEL": 28,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020128,
+        "PREMIUM_REWARD_GROUP_ID": 714030128
+      },
+      "169": {
+        "PASS_LEVEL": 29,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020129,
+        "PREMIUM_REWARD_GROUP_ID": 714030129
+      },
+      "170": {
+        "PASS_LEVEL": 30,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020130,
+        "PREMIUM_REWARD_GROUP_ID": 714030130
+      },
+      "171": {
+        "PASS_LEVEL": 31,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020131,
+        "PREMIUM_REWARD_GROUP_ID": 714030131
+      },
+      "172": {
+        "PASS_LEVEL": 32,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020132,
+        "PREMIUM_REWARD_GROUP_ID": 714030132
+      },
+      "173": {
+        "PASS_LEVEL": 33,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020133,
+        "PREMIUM_REWARD_GROUP_ID": 714030133
+      },
+      "174": {
+        "PASS_LEVEL": 34,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020134,
+        "PREMIUM_REWARD_GROUP_ID": 714030134
+      },
+      "175": {
+        "PASS_LEVEL": 35,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020135,
+        "PREMIUM_REWARD_GROUP_ID": 714030135
+      },
+      "176": {
+        "PASS_LEVEL": 36,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020136,
+        "PREMIUM_REWARD_GROUP_ID": 714030136
+      },
+      "177": {
+        "PASS_LEVEL": 37,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020137,
+        "PREMIUM_REWARD_GROUP_ID": 714030137
+      },
+      "178": {
+        "PASS_LEVEL": 38,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020138,
+        "PREMIUM_REWARD_GROUP_ID": 714030138
+      },
+      "179": {
+        "PASS_LEVEL": 39,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020139,
+        "PREMIUM_REWARD_GROUP_ID": 714030139
+      },
+      "180": {
+        "PASS_LEVEL": 40,
+        "GROUP_ID": 1104,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020140,
+        "PREMIUM_REWARD_GROUP_ID": 714030140
+      },
+      "181": {
+        "PASS_LEVEL": 1,
+        "GROUP_ID": 1105,
+        "Exp": 0,
+        "REWARD_GROUP_ID": 714020101,
+        "PREMIUM_REWARD_GROUP_ID": 714030101
+      },
+      "182": {
+        "PASS_LEVEL": 2,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020102,
+        "PREMIUM_REWARD_GROUP_ID": 714030102
+      },
+      "183": {
+        "PASS_LEVEL": 3,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020103,
+        "PREMIUM_REWARD_GROUP_ID": 714030103
+      },
+      "184": {
+        "PASS_LEVEL": 4,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020104,
+        "PREMIUM_REWARD_GROUP_ID": 714030104
+      },
+      "185": {
+        "PASS_LEVEL": 5,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020105,
+        "PREMIUM_REWARD_GROUP_ID": 714030105
+      },
+      "186": {
+        "PASS_LEVEL": 6,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020106,
+        "PREMIUM_REWARD_GROUP_ID": 714030106
+      },
+      "187": {
+        "PASS_LEVEL": 7,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020107,
+        "PREMIUM_REWARD_GROUP_ID": 714030107
+      },
+      "188": {
+        "PASS_LEVEL": 8,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020108,
+        "PREMIUM_REWARD_GROUP_ID": 714030108
+      },
+      "189": {
+        "PASS_LEVEL": 9,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020109,
+        "PREMIUM_REWARD_GROUP_ID": 714030109
+      },
+      "190": {
+        "PASS_LEVEL": 10,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020110,
+        "PREMIUM_REWARD_GROUP_ID": 714030110
+      },
+      "191": {
+        "PASS_LEVEL": 11,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020111,
+        "PREMIUM_REWARD_GROUP_ID": 714030111
+      },
+      "192": {
+        "PASS_LEVEL": 12,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020112,
+        "PREMIUM_REWARD_GROUP_ID": 714030112
+      },
+      "193": {
+        "PASS_LEVEL": 13,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020113,
+        "PREMIUM_REWARD_GROUP_ID": 714030113
+      },
+      "194": {
+        "PASS_LEVEL": 14,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020114,
+        "PREMIUM_REWARD_GROUP_ID": 714030114
+      },
+      "195": {
+        "PASS_LEVEL": 15,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020115,
+        "PREMIUM_REWARD_GROUP_ID": 714030115
+      },
+      "196": {
+        "PASS_LEVEL": 16,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020116,
+        "PREMIUM_REWARD_GROUP_ID": 714030116
+      },
+      "197": {
+        "PASS_LEVEL": 17,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020117,
+        "PREMIUM_REWARD_GROUP_ID": 714030117
+      },
+      "198": {
+        "PASS_LEVEL": 18,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020118,
+        "PREMIUM_REWARD_GROUP_ID": 714030118
+      },
+      "199": {
+        "PASS_LEVEL": 19,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020119,
+        "PREMIUM_REWARD_GROUP_ID": 714030119
+      },
+      "200": {
+        "PASS_LEVEL": 20,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020120,
+        "PREMIUM_REWARD_GROUP_ID": 714030120
+      },
+      "201": {
+        "PASS_LEVEL": 21,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020121,
+        "PREMIUM_REWARD_GROUP_ID": 714030121
+      },
+      "202": {
+        "PASS_LEVEL": 22,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020122,
+        "PREMIUM_REWARD_GROUP_ID": 714030122
+      },
+      "203": {
+        "PASS_LEVEL": 23,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020123,
+        "PREMIUM_REWARD_GROUP_ID": 714030123
+      },
+      "204": {
+        "PASS_LEVEL": 24,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020124,
+        "PREMIUM_REWARD_GROUP_ID": 714030124
+      },
+      "205": {
+        "PASS_LEVEL": 25,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020125,
+        "PREMIUM_REWARD_GROUP_ID": 714030125
+      },
+      "206": {
+        "PASS_LEVEL": 26,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020126,
+        "PREMIUM_REWARD_GROUP_ID": 714030126
+      },
+      "207": {
+        "PASS_LEVEL": 27,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020127,
+        "PREMIUM_REWARD_GROUP_ID": 714030127
+      },
+      "208": {
+        "PASS_LEVEL": 28,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020128,
+        "PREMIUM_REWARD_GROUP_ID": 714030128
+      },
+      "209": {
+        "PASS_LEVEL": 29,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020129,
+        "PREMIUM_REWARD_GROUP_ID": 714030129
+      },
+      "210": {
+        "PASS_LEVEL": 30,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020130,
+        "PREMIUM_REWARD_GROUP_ID": 714030130
+      },
+      "211": {
+        "PASS_LEVEL": 31,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020131,
+        "PREMIUM_REWARD_GROUP_ID": 714030131
+      },
+      "212": {
+        "PASS_LEVEL": 32,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020132,
+        "PREMIUM_REWARD_GROUP_ID": 714030132
+      },
+      "213": {
+        "PASS_LEVEL": 33,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020133,
+        "PREMIUM_REWARD_GROUP_ID": 714030133
+      },
+      "214": {
+        "PASS_LEVEL": 34,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020134,
+        "PREMIUM_REWARD_GROUP_ID": 714030134
+      },
+      "215": {
+        "PASS_LEVEL": 35,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020135,
+        "PREMIUM_REWARD_GROUP_ID": 714030135
+      },
+      "216": {
+        "PASS_LEVEL": 36,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020136,
+        "PREMIUM_REWARD_GROUP_ID": 714030136
+      },
+      "217": {
+        "PASS_LEVEL": 37,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020137,
+        "PREMIUM_REWARD_GROUP_ID": 714030137
+      },
+      "218": {
+        "PASS_LEVEL": 38,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020138,
+        "PREMIUM_REWARD_GROUP_ID": 714030138
+      },
+      "219": {
+        "PASS_LEVEL": 39,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020139,
+        "PREMIUM_REWARD_GROUP_ID": 714030139
+      },
+      "220": {
+        "PASS_LEVEL": 40,
+        "GROUP_ID": 1105,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020140,
+        "PREMIUM_REWARD_GROUP_ID": 714030140
+      },
+      "41": {
+        "PASS_LEVEL": 1,
+        "GROUP_ID": 1101,
+        "Exp": 0,
+        "REWARD_GROUP_ID": 714020101,
+        "PREMIUM_REWARD_GROUP_ID": 714030101
+      },
+      "42": {
+        "PASS_LEVEL": 2,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020102,
+        "PREMIUM_REWARD_GROUP_ID": 714030102
+      },
+      "43": {
+        "PASS_LEVEL": 3,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020103,
+        "PREMIUM_REWARD_GROUP_ID": 714030103
+      },
+      "44": {
+        "PASS_LEVEL": 4,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020104,
+        "PREMIUM_REWARD_GROUP_ID": 714030104
+      },
+      "45": {
+        "PASS_LEVEL": 5,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020105,
+        "PREMIUM_REWARD_GROUP_ID": 714030105
+      },
+      "46": {
+        "PASS_LEVEL": 6,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020106,
+        "PREMIUM_REWARD_GROUP_ID": 714030106
+      },
+      "47": {
+        "PASS_LEVEL": 7,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020107,
+        "PREMIUM_REWARD_GROUP_ID": 714030107
+      },
+      "48": {
+        "PASS_LEVEL": 8,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020108,
+        "PREMIUM_REWARD_GROUP_ID": 714030108
+      },
+      "49": {
+        "PASS_LEVEL": 9,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020109,
+        "PREMIUM_REWARD_GROUP_ID": 714030109
+      },
+      "50": {
+        "PASS_LEVEL": 10,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020110,
+        "PREMIUM_REWARD_GROUP_ID": 714030110
+      },
+      "51": {
+        "PASS_LEVEL": 11,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020111,
+        "PREMIUM_REWARD_GROUP_ID": 714030111
+      },
+      "52": {
+        "PASS_LEVEL": 12,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020112,
+        "PREMIUM_REWARD_GROUP_ID": 714030112
+      },
+      "53": {
+        "PASS_LEVEL": 13,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020113,
+        "PREMIUM_REWARD_GROUP_ID": 714030113
+      },
+      "54": {
+        "PASS_LEVEL": 14,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020114,
+        "PREMIUM_REWARD_GROUP_ID": 714030114
+      },
+      "55": {
+        "PASS_LEVEL": 15,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020115,
+        "PREMIUM_REWARD_GROUP_ID": 714030115
+      },
+      "56": {
+        "PASS_LEVEL": 16,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020116,
+        "PREMIUM_REWARD_GROUP_ID": 714030116
+      },
+      "57": {
+        "PASS_LEVEL": 17,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020117,
+        "PREMIUM_REWARD_GROUP_ID": 714030117
+      },
+      "58": {
+        "PASS_LEVEL": 18,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020118,
+        "PREMIUM_REWARD_GROUP_ID": 714030118
+      },
+      "59": {
+        "PASS_LEVEL": 19,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020119,
+        "PREMIUM_REWARD_GROUP_ID": 714030119
+      },
+      "60": {
+        "PASS_LEVEL": 20,
+        "GROUP_ID": 1101,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020120,
+        "PREMIUM_REWARD_GROUP_ID": 714030120
+      },
+      "61": {
+        "PASS_LEVEL": 1,
+        "GROUP_ID": 1102,
+        "Exp": 0,
+        "REWARD_GROUP_ID": 714020101,
+        "PREMIUM_REWARD_GROUP_ID": 714030101
+      },
+      "62": {
+        "PASS_LEVEL": 2,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020102,
+        "PREMIUM_REWARD_GROUP_ID": 714030102
+      },
+      "63": {
+        "PASS_LEVEL": 3,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020103,
+        "PREMIUM_REWARD_GROUP_ID": 714030103
+      },
+      "64": {
+        "PASS_LEVEL": 4,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020104,
+        "PREMIUM_REWARD_GROUP_ID": 714030104
+      },
+      "65": {
+        "PASS_LEVEL": 5,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020105,
+        "PREMIUM_REWARD_GROUP_ID": 714030105
+      },
+      "66": {
+        "PASS_LEVEL": 6,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020106,
+        "PREMIUM_REWARD_GROUP_ID": 714030106
+      },
+      "67": {
+        "PASS_LEVEL": 7,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020107,
+        "PREMIUM_REWARD_GROUP_ID": 714030107
+      },
+      "68": {
+        "PASS_LEVEL": 8,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020108,
+        "PREMIUM_REWARD_GROUP_ID": 714030108
+      },
+      "69": {
+        "PASS_LEVEL": 9,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020109,
+        "PREMIUM_REWARD_GROUP_ID": 714030109
+      },
+      "70": {
+        "PASS_LEVEL": 10,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020110,
+        "PREMIUM_REWARD_GROUP_ID": 714030110
+      },
+      "71": {
+        "PASS_LEVEL": 11,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020111,
+        "PREMIUM_REWARD_GROUP_ID": 714030111
+      },
+      "72": {
+        "PASS_LEVEL": 12,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020112,
+        "PREMIUM_REWARD_GROUP_ID": 714030112
+      },
+      "73": {
+        "PASS_LEVEL": 13,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020113,
+        "PREMIUM_REWARD_GROUP_ID": 714030113
+      },
+      "74": {
+        "PASS_LEVEL": 14,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020114,
+        "PREMIUM_REWARD_GROUP_ID": 714030114
+      },
+      "75": {
+        "PASS_LEVEL": 15,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020115,
+        "PREMIUM_REWARD_GROUP_ID": 714030115
+      },
+      "76": {
+        "PASS_LEVEL": 16,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020116,
+        "PREMIUM_REWARD_GROUP_ID": 714030116
+      },
+      "77": {
+        "PASS_LEVEL": 17,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020117,
+        "PREMIUM_REWARD_GROUP_ID": 714030117
+      },
+      "78": {
+        "PASS_LEVEL": 18,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020118,
+        "PREMIUM_REWARD_GROUP_ID": 714030118
+      },
+      "79": {
+        "PASS_LEVEL": 19,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020119,
+        "PREMIUM_REWARD_GROUP_ID": 714030119
+      },
+      "80": {
+        "PASS_LEVEL": 20,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020120,
+        "PREMIUM_REWARD_GROUP_ID": 714030120
+      },
+      "81": {
+        "PASS_LEVEL": 21,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020121,
+        "PREMIUM_REWARD_GROUP_ID": 714030121
+      },
+      "82": {
+        "PASS_LEVEL": 22,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020122,
+        "PREMIUM_REWARD_GROUP_ID": 714030122
+      },
+      "83": {
+        "PASS_LEVEL": 23,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020123,
+        "PREMIUM_REWARD_GROUP_ID": 714030123
+      },
+      "84": {
+        "PASS_LEVEL": 24,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020124,
+        "PREMIUM_REWARD_GROUP_ID": 714030124
+      },
+      "85": {
+        "PASS_LEVEL": 25,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020125,
+        "PREMIUM_REWARD_GROUP_ID": 714030125
+      },
+      "86": {
+        "PASS_LEVEL": 26,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020126,
+        "PREMIUM_REWARD_GROUP_ID": 714030126
+      },
+      "87": {
+        "PASS_LEVEL": 27,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020127,
+        "PREMIUM_REWARD_GROUP_ID": 714030127
+      },
+      "88": {
+        "PASS_LEVEL": 28,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020128,
+        "PREMIUM_REWARD_GROUP_ID": 714030128
+      },
+      "89": {
+        "PASS_LEVEL": 29,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020129,
+        "PREMIUM_REWARD_GROUP_ID": 714030129
+      },
+      "90": {
+        "PASS_LEVEL": 30,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020130,
+        "PREMIUM_REWARD_GROUP_ID": 714030130
+      },
+      "91": {
+        "PASS_LEVEL": 31,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020131,
+        "PREMIUM_REWARD_GROUP_ID": 714030131
+      },
+      "92": {
+        "PASS_LEVEL": 32,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020132,
+        "PREMIUM_REWARD_GROUP_ID": 714030132
+      },
+      "93": {
+        "PASS_LEVEL": 33,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020133,
+        "PREMIUM_REWARD_GROUP_ID": 714030133
+      },
+      "94": {
+        "PASS_LEVEL": 34,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020134,
+        "PREMIUM_REWARD_GROUP_ID": 714030134
+      },
+      "95": {
+        "PASS_LEVEL": 35,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020135,
+        "PREMIUM_REWARD_GROUP_ID": 714030135
+      },
+      "96": {
+        "PASS_LEVEL": 36,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020136,
+        "PREMIUM_REWARD_GROUP_ID": 714030136
+      },
+      "97": {
+        "PASS_LEVEL": 37,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020137,
+        "PREMIUM_REWARD_GROUP_ID": 714030137
+      },
+      "98": {
+        "PASS_LEVEL": 38,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020138,
+        "PREMIUM_REWARD_GROUP_ID": 714030138
+      },
+      "99": {
+        "PASS_LEVEL": 39,
+        "GROUP_ID": 1102,
+        "Exp": 1550,
+        "REWARD_GROUP_ID": 714020139,
+        "PREMIUM_REWARD_GROUP_ID": 714030139
+      }
+    }
+  }
+]

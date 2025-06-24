@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "NOTE_REWARD",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBNOTE_REWARD'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1": {
+        "REQ_POINT": 20,
+        "COMPLETE_REWARD": 706010301
+      },
+      "2": {
+        "REQ_POINT": 40,
+        "COMPLETE_REWARD": 706010302
+      },
+      "3": {
+        "REQ_POINT": 60,
+        "COMPLETE_REWARD": 706010303
+      },
+      "4": {
+        "REQ_POINT": 80,
+        "COMPLETE_REWARD": 706010304
+      },
+      "5": {
+        "REQ_POINT": 100,
+        "COMPLETE_REWARD": 706010305
+      }
+    }
+  }
+]

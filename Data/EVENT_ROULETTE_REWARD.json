@@ -1,0 +1,141 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "EVENT_ROULETTE_REWARD",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBEVENT_ROULETTE_REWARD'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1503010101": {
+        "GROUP_ID": 15030101,
+        "Index": 1,
+        "Desc": "ROULETTE_DESC_15030101",
+        "TRIGGER_GROUP_ID": 716150301,
+        "REWARD_GROUP_ID": 812000001
+      },
+      "1503010102": {
+        "GROUP_ID": 15030101,
+        "Index": 2,
+        "Desc": "ROULETTE_DESC_15030102",
+        "TRIGGER_GROUP_ID": 716150302,
+        "REWARD_GROUP_ID": 812000002
+      },
+      "1503010103": {
+        "GROUP_ID": 15030101,
+        "Index": 3,
+        "Desc": "ROULETTE_DESC_15030103",
+        "TRIGGER_GROUP_ID": 716150303,
+        "REWARD_GROUP_ID": 812000003
+      },
+      "1503010104": {
+        "GROUP_ID": 15030101,
+        "Index": 4,
+        "Desc": "ROULETTE_DESC_15030104",
+        "TRIGGER_GROUP_ID": 716150304,
+        "REWARD_GROUP_ID": 812000004
+      },
+      "1503010105": {
+        "GROUP_ID": 15030101,
+        "Index": 5,
+        "Desc": "ROULETTE_DESC_15030105",
+        "TRIGGER_GROUP_ID": 716150305,
+        "REWARD_GROUP_ID": 812000005
+      },
+      "1503010106": {
+        "GROUP_ID": 15030101,
+        "Index": 6,
+        "Desc": "ROULETTE_DESC_15030106",
+        "TRIGGER_GROUP_ID": 716150306,
+        "REWARD_GROUP_ID": 812000006
+      },
+      "1503010107": {
+        "GROUP_ID": 15030102,
+        "Index": 1,
+        "Desc": "ROULETTE_DESC_15030101",
+        "TRIGGER_GROUP_ID": 716150307,
+        "REWARD_GROUP_ID": 812000001
+      },
+      "1503010108": {
+        "GROUP_ID": 15030102,
+        "Index": 2,
+        "Desc": "ROULETTE_DESC_15030102",
+        "TRIGGER_GROUP_ID": 716150308,
+        "REWARD_GROUP_ID": 812000002
+      },
+      "1503010109": {
+        "GROUP_ID": 15030102,
+        "Index": 3,
+        "Desc": "ROULETTE_DESC_15030103",
+        "TRIGGER_GROUP_ID": 716150309,
+        "REWARD_GROUP_ID": 812000003
+      },
+      "1503010110": {
+        "GROUP_ID": 15030102,
+        "Index": 4,
+        "Desc": "ROULETTE_DESC_15030104",
+        "TRIGGER_GROUP_ID": 716150310,
+        "REWARD_GROUP_ID": 812000004
+      },
+      "1503010111": {
+        "GROUP_ID": 15030102,
+        "Index": 5,
+        "Desc": "ROULETTE_DESC_15030105",
+        "TRIGGER_GROUP_ID": 716150311,
+        "REWARD_GROUP_ID": 812000005
+      },
+      "1503010112": {
+        "GROUP_ID": 15030102,
+        "Index": 6,
+        "Desc": "ROULETTE_DESC_15030106",
+        "TRIGGER_GROUP_ID": 716150312,
+        "REWARD_GROUP_ID": 812000006
+      },
+      "1503010113": {
+        "GROUP_ID": 15030103,
+        "Index": 1,
+        "Desc": "ROULETTE_DESC_15030101",
+        "TRIGGER_GROUP_ID": 716150313,
+        "REWARD_GROUP_ID": 812000001
+      },
+      "1503010114": {
+        "GROUP_ID": 15030103,
+        "Index": 2,
+        "Desc": "ROULETTE_DESC_15030102",
+        "TRIGGER_GROUP_ID": 716150314,
+        "REWARD_GROUP_ID": 812000002
+      },
+      "1503010115": {
+        "GROUP_ID": 15030103,
+        "Index": 3,
+        "Desc": "ROULETTE_DESC_15030103",
+        "TRIGGER_GROUP_ID": 716150315,
+        "REWARD_GROUP_ID": 812000003
+      },
+      "1503010116": {
+        "GROUP_ID": 15030103,
+        "Index": 4,
+        "Desc": "ROULETTE_DESC_15030104",
+        "TRIGGER_GROUP_ID": 716150316,
+        "REWARD_GROUP_ID": 812000004
+      },
+      "1503010117": {
+        "GROUP_ID": 15030103,
+        "Index": 5,
+        "Desc": "ROULETTE_DESC_15030105",
+        "TRIGGER_GROUP_ID": 716150317,
+        "REWARD_GROUP_ID": 812000005
+      },
+      "1503010118": {
+        "GROUP_ID": 15030103,
+        "Index": 6,
+        "Desc": "ROULETTE_DESC_15030106",
+        "TRIGGER_GROUP_ID": 716150318,
+        "REWARD_GROUP_ID": 812000006
+      }
+    }
+  }
+]

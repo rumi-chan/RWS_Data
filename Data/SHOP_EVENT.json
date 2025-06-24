@@ -1,0 +1,71 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "SHOP_EVENT",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBSHOP_EVENT'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "5000001": {
+        "GOODS_GROUP_ID": 5000001,
+        "Name": "UI_SHOP_EVENT_TITLE",
+        "Icon": "T_UI_SHOP_BASE_EVENT_SPRITE",
+        "Image1": "Event_7_701_1_Illust",
+        "Image2": "Event_7_701_1_BG",
+        "CURRENCY_ID_1": 501
+      },
+      "5000002": {
+        "GOODS_GROUP_ID": 5000002,
+        "Name": "UI_SHOP_EVENT_TITLE",
+        "Icon": "T_UI_SHOP_BASE_EVENT_SPRITE",
+        "Image1": "Event_7_701_2_Illust",
+        "Image2": "Event_7_701_2_BG",
+        "CURRENCY_ID_1": 502
+      },
+      "5000003": {
+        "GOODS_GROUP_ID": 5000003,
+        "Name": "UI_SHOP_EVENT_TITLE",
+        "Icon": "T_UI_SHOP_BASE_EVENT_SPRITE",
+        "Image1": "Event_7_701_2_Illust",
+        "Image2": "Event_7_701_2_BG",
+        "CURRENCY_ID_1": 503
+      },
+      "5000004": {
+        "GOODS_GROUP_ID": 5000004,
+        "Name": "UI_SHOP_EVENT_TITLE",
+        "Icon": "T_UI_SHOP_BASE_EVENT_SPRITE",
+        "Image1": "Event_7_701_4_Illust",
+        "Image2": "Event_7_701_4_BG",
+        "CURRENCY_ID_1": 504
+      },
+      "5000005": {
+        "GOODS_GROUP_ID": 5000005,
+        "Name": "UI_SHOP_EVENT_TITLE",
+        "Icon": "T_UI_SHOP_BASE_EVENT_SPRITE",
+        "Image1": "Event_7_701_5_Illust",
+        "Image2": "Event_7_701_5_BG",
+        "CURRENCY_ID_1": 505
+      },
+      "5000006": {
+        "GOODS_GROUP_ID": 5000006,
+        "Name": "UI_SHOP_EVENT_TITLE",
+        "Icon": "T_UI_SHOP_BASE_EVENT_SPRITE",
+        "Image1": "Event_7_701_6_Illust",
+        "Image2": "Event_7_701_6_BG",
+        "CURRENCY_ID_1": 506
+      },
+      "5000007": {
+        "GOODS_GROUP_ID": 5000007,
+        "Name": "UI_SHOP_EVENT_TITLE",
+        "Icon": "T_UI_SHOP_BASE_EVENT_SPRITE",
+        "Image1": "Event_7_701_6_Illust",
+        "Image2": "Event_7_701_6_BG",
+        "CURRENCY_ID_1": 507
+      }
+    }
+  }
+]

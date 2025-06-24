@@ -1,0 +1,1030 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "FAVOR_RANK",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBFAVOR_RANK'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "10000201": {
+        "GROUP_ID": 100002,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 400201
+      },
+      "10000202": {
+        "GROUP_ID": 100002,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 400202
+      },
+      "10000203": {
+        "GROUP_ID": 100002,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 400203
+      },
+      "10000204": {
+        "GROUP_ID": 100002,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 400204
+      },
+      "10000205": {
+        "GROUP_ID": 100002,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 400205
+      },
+      "10000301": {
+        "GROUP_ID": 100003,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 400301
+      },
+      "10000302": {
+        "GROUP_ID": 100003,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 400302
+      },
+      "10000303": {
+        "GROUP_ID": 100003,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 400303
+      },
+      "10000304": {
+        "GROUP_ID": 100003,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 400304
+      },
+      "10000305": {
+        "GROUP_ID": 100003,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 400305
+      },
+      "10000401": {
+        "GROUP_ID": 100004,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 400401
+      },
+      "10000402": {
+        "GROUP_ID": 100004,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 400402
+      },
+      "10000403": {
+        "GROUP_ID": 100004,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 400403
+      },
+      "10000404": {
+        "GROUP_ID": 100004,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 400404
+      },
+      "10000405": {
+        "GROUP_ID": 100004,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 400405
+      },
+      "10000501": {
+        "GROUP_ID": 100005,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 400501
+      },
+      "10000502": {
+        "GROUP_ID": 100005,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 400502
+      },
+      "10000503": {
+        "GROUP_ID": 100005,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 400503
+      },
+      "10000504": {
+        "GROUP_ID": 100005,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 400504
+      },
+      "10000505": {
+        "GROUP_ID": 100005,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 400505
+      },
+      "10000701": {
+        "GROUP_ID": 100007,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 400701
+      },
+      "10000702": {
+        "GROUP_ID": 100007,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 400702
+      },
+      "10000703": {
+        "GROUP_ID": 100007,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 400703
+      },
+      "10000704": {
+        "GROUP_ID": 100007,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 400704
+      },
+      "10000705": {
+        "GROUP_ID": 100007,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 400705
+      },
+      "10000801": {
+        "GROUP_ID": 100008,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 401701
+      },
+      "10000802": {
+        "GROUP_ID": 100008,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 401702
+      },
+      "10000803": {
+        "GROUP_ID": 100008,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 401703
+      },
+      "10000804": {
+        "GROUP_ID": 100008,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 401704
+      },
+      "10000805": {
+        "GROUP_ID": 100008,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 401705
+      },
+      "10001001": {
+        "GROUP_ID": 100010,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 400901
+      },
+      "10001002": {
+        "GROUP_ID": 100010,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 400902
+      },
+      "10001003": {
+        "GROUP_ID": 100010,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 400903
+      },
+      "10001004": {
+        "GROUP_ID": 100010,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 400904
+      },
+      "10001005": {
+        "GROUP_ID": 100010,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 400905
+      },
+      "10001101": {
+        "GROUP_ID": 100011,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 401901
+      },
+      "10001102": {
+        "GROUP_ID": 100011,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 401902
+      },
+      "10001103": {
+        "GROUP_ID": 100011,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 401903
+      },
+      "10001104": {
+        "GROUP_ID": 100011,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 401904
+      },
+      "10001105": {
+        "GROUP_ID": 100011,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 401905
+      },
+      "10001201": {
+        "GROUP_ID": 100012,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 400601
+      },
+      "10001202": {
+        "GROUP_ID": 100012,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 400602
+      },
+      "10001203": {
+        "GROUP_ID": 100012,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 400603
+      },
+      "10001204": {
+        "GROUP_ID": 100012,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 400604
+      },
+      "10001205": {
+        "GROUP_ID": 100012,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 400605
+      },
+      "10001301": {
+        "GROUP_ID": 100013,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 401801
+      },
+      "10001302": {
+        "GROUP_ID": 100013,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 401802
+      },
+      "10001303": {
+        "GROUP_ID": 100013,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 401803
+      },
+      "10001304": {
+        "GROUP_ID": 100013,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 401804
+      },
+      "10001305": {
+        "GROUP_ID": 100013,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 401805
+      },
+      "10001401": {
+        "GROUP_ID": 100014,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 401601
+      },
+      "10001402": {
+        "GROUP_ID": 100014,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 401602
+      },
+      "10001403": {
+        "GROUP_ID": 100014,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 401603
+      },
+      "10001404": {
+        "GROUP_ID": 100014,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 401604
+      },
+      "10001405": {
+        "GROUP_ID": 100014,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 401605
+      },
+      "10001501": {
+        "GROUP_ID": 100015,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 401501
+      },
+      "10001502": {
+        "GROUP_ID": 100015,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 401502
+      },
+      "10001503": {
+        "GROUP_ID": 100015,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 401503
+      },
+      "10001504": {
+        "GROUP_ID": 100015,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 401504
+      },
+      "10001505": {
+        "GROUP_ID": 100015,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 401505
+      },
+      "10001601": {
+        "GROUP_ID": 100016,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 402801
+      },
+      "10001602": {
+        "GROUP_ID": 100016,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 402802
+      },
+      "10001603": {
+        "GROUP_ID": 100016,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 402803
+      },
+      "10001604": {
+        "GROUP_ID": 100016,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 402804
+      },
+      "10001605": {
+        "GROUP_ID": 100016,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 402805
+      },
+      "10001701": {
+        "GROUP_ID": 100017,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 401301
+      },
+      "10001702": {
+        "GROUP_ID": 100017,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 401302
+      },
+      "10001703": {
+        "GROUP_ID": 100017,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 401303
+      },
+      "10001704": {
+        "GROUP_ID": 100017,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 401304
+      },
+      "10001705": {
+        "GROUP_ID": 100017,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 401305
+      },
+      "10001801": {
+        "GROUP_ID": 100018,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 401401
+      },
+      "10001802": {
+        "GROUP_ID": 100018,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 401402
+      },
+      "10001803": {
+        "GROUP_ID": 100018,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 401403
+      },
+      "10001804": {
+        "GROUP_ID": 100018,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 401404
+      },
+      "10001805": {
+        "GROUP_ID": 100018,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 401405
+      },
+      "10001901": {
+        "GROUP_ID": 100019,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 400801
+      },
+      "10001902": {
+        "GROUP_ID": 100019,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 400802
+      },
+      "10001903": {
+        "GROUP_ID": 100019,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 400803
+      },
+      "10001904": {
+        "GROUP_ID": 100019,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 400804
+      },
+      "10001905": {
+        "GROUP_ID": 100019,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 400805
+      },
+      "10002001": {
+        "GROUP_ID": 100020,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 401001
+      },
+      "10002002": {
+        "GROUP_ID": 100020,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 401002
+      },
+      "10002003": {
+        "GROUP_ID": 100020,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 401003
+      },
+      "10002004": {
+        "GROUP_ID": 100020,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 401004
+      },
+      "10002005": {
+        "GROUP_ID": 100020,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 401005
+      },
+      "10002101": {
+        "GROUP_ID": 100021,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 401101
+      },
+      "10002102": {
+        "GROUP_ID": 100021,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 401102
+      },
+      "10002103": {
+        "GROUP_ID": 100021,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 401103
+      },
+      "10002104": {
+        "GROUP_ID": 100021,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 401104
+      },
+      "10002105": {
+        "GROUP_ID": 100021,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 401105
+      },
+      "10002201": {
+        "GROUP_ID": 100022,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 401201
+      },
+      "10002202": {
+        "GROUP_ID": 100022,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 401202
+      },
+      "10002203": {
+        "GROUP_ID": 100022,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 401203
+      },
+      "10002204": {
+        "GROUP_ID": 100022,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 401204
+      },
+      "10002205": {
+        "GROUP_ID": 100022,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 401205
+      },
+      "10002301": {
+        "GROUP_ID": 100023,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 402701
+      },
+      "10002302": {
+        "GROUP_ID": 100023,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 402702
+      },
+      "10002303": {
+        "GROUP_ID": 100023,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 402703
+      },
+      "10002304": {
+        "GROUP_ID": 100023,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 402704
+      },
+      "10002305": {
+        "GROUP_ID": 100023,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 402705
+      },
+      "10002401": {
+        "GROUP_ID": 100024,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 402001
+      },
+      "10002402": {
+        "GROUP_ID": 100024,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 402002
+      },
+      "10002403": {
+        "GROUP_ID": 100024,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 402003
+      },
+      "10002404": {
+        "GROUP_ID": 100024,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 402004
+      },
+      "10002405": {
+        "GROUP_ID": 100024,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 402005
+      },
+      "10002501": {
+        "GROUP_ID": 100025,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 402101
+      },
+      "10002502": {
+        "GROUP_ID": 100025,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 402102
+      },
+      "10002503": {
+        "GROUP_ID": 100025,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 402103
+      },
+      "10002504": {
+        "GROUP_ID": 100025,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 402104
+      },
+      "10002505": {
+        "GROUP_ID": 100025,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 402105
+      },
+      "10002601": {
+        "GROUP_ID": 100026,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 402201
+      },
+      "10002602": {
+        "GROUP_ID": 100026,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 402202
+      },
+      "10002603": {
+        "GROUP_ID": 100026,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 402203
+      },
+      "10002604": {
+        "GROUP_ID": 100026,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 402204
+      },
+      "10002605": {
+        "GROUP_ID": 100026,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 402205
+      },
+      "10002701": {
+        "GROUP_ID": 100027,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 402301
+      },
+      "10002702": {
+        "GROUP_ID": 100027,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 402302
+      },
+      "10002703": {
+        "GROUP_ID": 100027,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 402303
+      },
+      "10002704": {
+        "GROUP_ID": 100027,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 402304
+      },
+      "10002705": {
+        "GROUP_ID": 100027,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 402305
+      },
+      "10002801": {
+        "GROUP_ID": 100028,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 402401
+      },
+      "10002802": {
+        "GROUP_ID": 100028,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 402402
+      },
+      "10002803": {
+        "GROUP_ID": 100028,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 402403
+      },
+      "10002804": {
+        "GROUP_ID": 100028,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 402404
+      },
+      "10002805": {
+        "GROUP_ID": 100028,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 402405
+      },
+      "10002901": {
+        "GROUP_ID": 100029,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 402501
+      },
+      "10002902": {
+        "GROUP_ID": 100029,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 402502
+      },
+      "10002903": {
+        "GROUP_ID": 100029,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 402503
+      },
+      "10002904": {
+        "GROUP_ID": 100029,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 402504
+      },
+      "10002905": {
+        "GROUP_ID": 100029,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 402505
+      },
+      "10003001": {
+        "GROUP_ID": 100009,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 402601
+      },
+      "10003002": {
+        "GROUP_ID": 100009,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 402602
+      },
+      "10003003": {
+        "GROUP_ID": 100009,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 402603
+      },
+      "10003004": {
+        "GROUP_ID": 100009,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 402604
+      },
+      "10003005": {
+        "GROUP_ID": 100009,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 402605
+      },
+      "10003101": {
+        "GROUP_ID": 100030,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 402901
+      },
+      "10003102": {
+        "GROUP_ID": 100030,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 402902
+      },
+      "10003103": {
+        "GROUP_ID": 100030,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 402903
+      },
+      "10003104": {
+        "GROUP_ID": 100030,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 402904
+      },
+      "10003105": {
+        "GROUP_ID": 100030,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 402905
+      },
+      "10003201": {
+        "GROUP_ID": 100031,
+        "Step": 1,
+        "REQ_LEVEL": 1,
+        "MAX_LEVEL": 10,
+        "REQ_QUEST_COMPLETE": 403001
+      },
+      "10003202": {
+        "GROUP_ID": 100031,
+        "Step": 2,
+        "REQ_LEVEL": 10,
+        "MAX_LEVEL": 20,
+        "REQ_QUEST_COMPLETE": 403002
+      },
+      "10003203": {
+        "GROUP_ID": 100031,
+        "Step": 3,
+        "REQ_LEVEL": 20,
+        "MAX_LEVEL": 30,
+        "REQ_QUEST_COMPLETE": 403003
+      },
+      "10003204": {
+        "GROUP_ID": 100031,
+        "Step": 4,
+        "REQ_LEVEL": 30,
+        "MAX_LEVEL": 40,
+        "REQ_QUEST_COMPLETE": 403004
+      },
+      "10003205": {
+        "GROUP_ID": 100031,
+        "Step": 5,
+        "REQ_LEVEL": 40,
+        "MAX_LEVEL": 50,
+        "REQ_QUEST_COMPLETE": 403005
+      }
+    }
+  }
+]

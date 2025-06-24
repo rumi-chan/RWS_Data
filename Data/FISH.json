@@ -1,0 +1,117 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "FISH",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBFISH'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "205011001": {
+        "ID": 0,
+        "RESOURCE": "FishTestData",
+        "RESOURCEForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "REWARD_GROUP_ID": 711010101,
+        "HP": 500,
+        "LIMIT_TIME": 15000,
+        "MINIMUM_SPEED": 250000,
+        "MAXIMUM_SPEED": 500000,
+        "PERFECT_RANGE_BOX": 100000,
+        "GREAT_RANGE_BOX": 200000,
+        "BERSERK": 300000,
+        "TIME_REDUCTION": 200000
+      },
+      "205011002": {
+        "ID": 0,
+        "RESOURCE": "FishTestData",
+        "RESOURCEForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "REWARD_GROUP_ID": 711010102,
+        "HP": 500,
+        "LIMIT_TIME": 15000,
+        "MINIMUM_SPEED": 250000,
+        "MAXIMUM_SPEED": 500000,
+        "PERFECT_RANGE_BOX": 100000,
+        "GREAT_RANGE_BOX": 200000,
+        "BERSERK": 300000,
+        "TIME_REDUCTION": 200000
+      },
+      "205011003": {
+        "ID": 0,
+        "RESOURCE": "FishTestData",
+        "RESOURCEForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "REWARD_GROUP_ID": 711010103,
+        "HP": 500,
+        "LIMIT_TIME": 15000,
+        "MINIMUM_SPEED": 250000,
+        "MAXIMUM_SPEED": 500000,
+        "PERFECT_RANGE_BOX": 100000,
+        "GREAT_RANGE_BOX": 200000,
+        "BERSERK": 300000,
+        "TIME_REDUCTION": 200000
+      },
+      "205011004": {
+        "ID": 0,
+        "RESOURCE": "FishTestData",
+        "RESOURCEForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "REWARD_GROUP_ID": 711010104,
+        "HP": 500,
+        "LIMIT_TIME": 15000,
+        "MINIMUM_SPEED": 250000,
+        "MAXIMUM_SPEED": 500000,
+        "PERFECT_RANGE_BOX": 100000,
+        "GREAT_RANGE_BOX": 200000,
+        "BERSERK": 300000,
+        "TIME_REDUCTION": 200000
+      },
+      "205011005": {
+        "ID": 0,
+        "RESOURCE": "FishTestData",
+        "RESOURCEForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "REWARD_GROUP_ID": 711010105,
+        "HP": 500,
+        "LIMIT_TIME": 15000,
+        "MINIMUM_SPEED": 250000,
+        "MAXIMUM_SPEED": 500000,
+        "PERFECT_RANGE_BOX": 100000,
+        "GREAT_RANGE_BOX": 200000,
+        "BERSERK": 300000,
+        "TIME_REDUCTION": 200000
+      },
+      "205011006": {
+        "ID": 0,
+        "RESOURCE": "FishTestData",
+        "RESOURCEForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "REWARD_GROUP_ID": 711010106,
+        "HP": 500,
+        "LIMIT_TIME": 15000,
+        "MINIMUM_SPEED": 250000,
+        "MAXIMUM_SPEED": 500000,
+        "PERFECT_RANGE_BOX": 100000,
+        "GREAT_RANGE_BOX": 200000,
+        "BERSERK": 300000,
+        "TIME_REDUCTION": 200000
+      }
+    }
+  }
+]

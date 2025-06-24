@@ -1,0 +1,93 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "OPTION_URL",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBOPTION_URL'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1": {
+        "URL": "https://blackstormcompany.com/"
+      },
+      "102": {
+        "URL": "https://discord.gg/embSamaaP7"
+      },
+      "104": {
+        "URL": "https://rememento.com/privacy"
+      },
+      "12": {
+        "URL": "https://discord.gg/embSamaaP7"
+      },
+      "14": {
+        "URL": "https://rememento.com/privacy"
+      },
+      "2": {
+        "URL": "https://game.naver.com/lounge/rememento/"
+      },
+      "22": {
+        "URL": "https://discord.gg/embSamaaP7"
+      },
+      "24": {
+        "URL": "https://rememento.com/privacy"
+      },
+      "3": {
+        "URL": "https://blackstormcompany.com/"
+      },
+      "32": {
+        "URL": "https://discord.gg/embSamaaP7"
+      },
+      "34": {
+        "URL": "https://rememento.com/privacy"
+      },
+      "35": {
+        "URL": "https://rememento.com/e-commerce"
+      },
+      "36": {
+        "URL": "https://rememento.com/fund-settlement"
+      },
+      "4": {
+        "URL": "https://rememento.com/privacy"
+      },
+      "42": {
+        "URL": "https://discord.gg/embSamaaP7"
+      },
+      "44": {
+        "URL": "https://rememento.com/privacy"
+      },
+      "52": {
+        "URL": "https://discord.gg/embSamaaP7"
+      },
+      "54": {
+        "URL": "https://rememento.com/privacy"
+      },
+      "62": {
+        "URL": "https://discord.gg/embSamaaP7"
+      },
+      "64": {
+        "URL": "https://rememento.com/privacy"
+      },
+      "72": {
+        "URL": "https://discord.gg/embSamaaP7"
+      },
+      "74": {
+        "URL": "https://rememento.com/privacy"
+      },
+      "82": {
+        "URL": "https://discord.gg/embSamaaP7"
+      },
+      "84": {
+        "URL": "https://rememento.com/privacy"
+      },
+      "92": {
+        "URL": "https://discord.gg/embSamaaP7"
+      },
+      "94": {
+        "URL": "https://rememento.com/privacy"
+      }
+    }
+  }
+]

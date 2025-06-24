@@ -1,0 +1,715 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "SUPPLY_QUICK_REWARD",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBSUPPLY_QUICK_REWARD'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "100001": {
+        "CORE_RANK": 10,
+        "Index": 1,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "100002": {
+        "CORE_RANK": 10,
+        "Index": 2,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "100003": {
+        "CORE_RANK": 10,
+        "Index": 3,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "100004": {
+        "CORE_RANK": 10,
+        "Index": 4,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "100005": {
+        "CORE_RANK": 10,
+        "Index": 5,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "100006": {
+        "CORE_RANK": 10,
+        "Index": 6,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "100007": {
+        "CORE_RANK": 10,
+        "Index": 7,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "100008": {
+        "CORE_RANK": 10,
+        "Index": 8,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "100009": {
+        "CORE_RANK": 10,
+        "Index": 9,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "10001": {
+        "CORE_RANK": 1,
+        "Index": 1,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "100010": {
+        "CORE_RANK": 10,
+        "Index": 10,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "10002": {
+        "CORE_RANK": 1,
+        "Index": 2,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "10003": {
+        "CORE_RANK": 1,
+        "Index": 3,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "10004": {
+        "CORE_RANK": 1,
+        "Index": 4,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "10005": {
+        "CORE_RANK": 1,
+        "Index": 5,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "10006": {
+        "CORE_RANK": 1,
+        "Index": 6,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "10007": {
+        "CORE_RANK": 1,
+        "Index": 7,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "10008": {
+        "CORE_RANK": 1,
+        "Index": 8,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "10009": {
+        "CORE_RANK": 1,
+        "Index": 9,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "10010": {
+        "CORE_RANK": 1,
+        "Index": 10,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "20001": {
+        "CORE_RANK": 2,
+        "Index": 1,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "20002": {
+        "CORE_RANK": 2,
+        "Index": 2,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "20003": {
+        "CORE_RANK": 2,
+        "Index": 3,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "20004": {
+        "CORE_RANK": 2,
+        "Index": 4,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "20005": {
+        "CORE_RANK": 2,
+        "Index": 5,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "20006": {
+        "CORE_RANK": 2,
+        "Index": 6,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "20007": {
+        "CORE_RANK": 2,
+        "Index": 7,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "20008": {
+        "CORE_RANK": 2,
+        "Index": 8,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "20009": {
+        "CORE_RANK": 2,
+        "Index": 9,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "20010": {
+        "CORE_RANK": 2,
+        "Index": 10,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "30001": {
+        "CORE_RANK": 3,
+        "Index": 1,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "30002": {
+        "CORE_RANK": 3,
+        "Index": 2,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "30003": {
+        "CORE_RANK": 3,
+        "Index": 3,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "30004": {
+        "CORE_RANK": 3,
+        "Index": 4,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "30005": {
+        "CORE_RANK": 3,
+        "Index": 5,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "30006": {
+        "CORE_RANK": 3,
+        "Index": 6,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "30007": {
+        "CORE_RANK": 3,
+        "Index": 7,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "30008": {
+        "CORE_RANK": 3,
+        "Index": 8,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "30009": {
+        "CORE_RANK": 3,
+        "Index": 9,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "30010": {
+        "CORE_RANK": 3,
+        "Index": 10,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "40001": {
+        "CORE_RANK": 4,
+        "Index": 1,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "40002": {
+        "CORE_RANK": 4,
+        "Index": 2,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "40003": {
+        "CORE_RANK": 4,
+        "Index": 3,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "40004": {
+        "CORE_RANK": 4,
+        "Index": 4,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "40005": {
+        "CORE_RANK": 4,
+        "Index": 5,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "40006": {
+        "CORE_RANK": 4,
+        "Index": 6,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "40007": {
+        "CORE_RANK": 4,
+        "Index": 7,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "40008": {
+        "CORE_RANK": 4,
+        "Index": 8,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "40009": {
+        "CORE_RANK": 4,
+        "Index": 9,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "40010": {
+        "CORE_RANK": 4,
+        "Index": 10,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "50001": {
+        "CORE_RANK": 5,
+        "Index": 1,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "50002": {
+        "CORE_RANK": 5,
+        "Index": 2,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "50003": {
+        "CORE_RANK": 5,
+        "Index": 3,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "50004": {
+        "CORE_RANK": 5,
+        "Index": 4,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "50005": {
+        "CORE_RANK": 5,
+        "Index": 5,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "50006": {
+        "CORE_RANK": 5,
+        "Index": 6,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "50007": {
+        "CORE_RANK": 5,
+        "Index": 7,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "50008": {
+        "CORE_RANK": 5,
+        "Index": 8,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "50009": {
+        "CORE_RANK": 5,
+        "Index": 9,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "50010": {
+        "CORE_RANK": 5,
+        "Index": 10,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "60001": {
+        "CORE_RANK": 6,
+        "Index": 1,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "60002": {
+        "CORE_RANK": 6,
+        "Index": 2,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "60003": {
+        "CORE_RANK": 6,
+        "Index": 3,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "60004": {
+        "CORE_RANK": 6,
+        "Index": 4,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "60005": {
+        "CORE_RANK": 6,
+        "Index": 5,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "60006": {
+        "CORE_RANK": 6,
+        "Index": 6,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "60007": {
+        "CORE_RANK": 6,
+        "Index": 7,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "60008": {
+        "CORE_RANK": 6,
+        "Index": 8,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "60009": {
+        "CORE_RANK": 6,
+        "Index": 9,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "60010": {
+        "CORE_RANK": 6,
+        "Index": 10,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "70001": {
+        "CORE_RANK": 7,
+        "Index": 1,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "70002": {
+        "CORE_RANK": 7,
+        "Index": 2,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "70003": {
+        "CORE_RANK": 7,
+        "Index": 3,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "70004": {
+        "CORE_RANK": 7,
+        "Index": 4,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "70005": {
+        "CORE_RANK": 7,
+        "Index": 5,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "70006": {
+        "CORE_RANK": 7,
+        "Index": 6,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "70007": {
+        "CORE_RANK": 7,
+        "Index": 7,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "70008": {
+        "CORE_RANK": 7,
+        "Index": 8,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "70009": {
+        "CORE_RANK": 7,
+        "Index": 9,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "70010": {
+        "CORE_RANK": 7,
+        "Index": 10,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "80001": {
+        "CORE_RANK": 8,
+        "Index": 1,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "80002": {
+        "CORE_RANK": 8,
+        "Index": 2,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "80003": {
+        "CORE_RANK": 8,
+        "Index": 3,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "80004": {
+        "CORE_RANK": 8,
+        "Index": 4,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "80005": {
+        "CORE_RANK": 8,
+        "Index": 5,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "80006": {
+        "CORE_RANK": 8,
+        "Index": 6,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "80007": {
+        "CORE_RANK": 8,
+        "Index": 7,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "80008": {
+        "CORE_RANK": 8,
+        "Index": 8,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "80009": {
+        "CORE_RANK": 8,
+        "Index": 9,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "80010": {
+        "CORE_RANK": 8,
+        "Index": 10,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "90001": {
+        "CORE_RANK": 9,
+        "Index": 1,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "90002": {
+        "CORE_RANK": 9,
+        "Index": 2,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 25
+      },
+      "90003": {
+        "CORE_RANK": 9,
+        "Index": 3,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "90004": {
+        "CORE_RANK": 9,
+        "Index": 4,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 50
+      },
+      "90005": {
+        "CORE_RANK": 9,
+        "Index": 5,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "90006": {
+        "CORE_RANK": 9,
+        "Index": 6,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 75
+      },
+      "90007": {
+        "CORE_RANK": 9,
+        "Index": 7,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "90008": {
+        "CORE_RANK": 9,
+        "Index": 8,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 100
+      },
+      "90009": {
+        "CORE_RANK": 9,
+        "Index": 9,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      },
+      "90010": {
+        "CORE_RANK": 9,
+        "Index": 10,
+        "REWARD_MAX_TIME": 86400000,
+        "CURRENCY_ID": 102,
+        "CURRENCY_QTY": 125
+      }
+    }
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "LOCALIZING",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBLOCALIZING'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "CN": {
+        "REGION": "",
+        "OPTION_GROUP_ID": 40103,
+        "VNG_VN": false,
+        "VNG_SEA": true,
+        "BLACK_STORM": false,
+        "INNOVA": false
+      },
+      "DE": {
+        "REGION": "",
+        "OPTION_GROUP_ID": 40109,
+        "VNG_VN": false,
+        "VNG_SEA": false,
+        "BLACK_STORM": true,
+        "INNOVA": false
+      },
+      "EN": {
+        "REGION": "",
+        "OPTION_GROUP_ID": 40102,
+        "VNG_VN": true,
+        "VNG_SEA": true,
+        "BLACK_STORM": true,
+        "INNOVA": true
+      },
+      "ES": {
+        "REGION": "",
+        "OPTION_GROUP_ID": 40111,
+        "VNG_VN": false,
+        "VNG_SEA": false,
+        "BLACK_STORM": true,
+        "INNOVA": false
+      },
+      "FR": {
+        "REGION": "",
+        "OPTION_GROUP_ID": 40110,
+        "VNG_VN": false,
+        "VNG_SEA": false,
+        "BLACK_STORM": true,
+        "INNOVA": false
+      },
+      "JP": {
+        "REGION": "",
+        "OPTION_GROUP_ID": 40104,
+        "VNG_VN": false,
+        "VNG_SEA": true,
+        "BLACK_STORM": true,
+        "INNOVA": true
+      },
+      "KR": {
+        "REGION": "",
+        "OPTION_GROUP_ID": 40101,
+        "VNG_VN": false,
+        "VNG_SEA": true,
+        "BLACK_STORM": true,
+        "INNOVA": true
+      },
+      "RU": {
+        "REGION": "",
+        "OPTION_GROUP_ID": 40108,
+        "VNG_VN": false,
+        "VNG_SEA": false,
+        "BLACK_STORM": false,
+        "INNOVA": true
+      },
+      "TH": {
+        "REGION": "",
+        "OPTION_GROUP_ID": 40107,
+        "VNG_VN": false,
+        "VNG_SEA": true,
+        "BLACK_STORM": false,
+        "INNOVA": false
+      },
+      "TW": {
+        "REGION": "",
+        "OPTION_GROUP_ID": 40106,
+        "VNG_VN": false,
+        "VNG_SEA": true,
+        "BLACK_STORM": false,
+        "INNOVA": false
+      },
+      "VN": {
+        "REGION": "",
+        "OPTION_GROUP_ID": 40105,
+        "VNG_VN": true,
+        "VNG_SEA": true,
+        "BLACK_STORM": false,
+        "INNOVA": false
+      }
+    }
+  }
+]

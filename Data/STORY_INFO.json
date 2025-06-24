@@ -1,0 +1,785 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "STORY_INFO",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBSTORY_INFO'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "100101": {
+        "GROUP_ID": 100001,
+        "Name": "PC_STORY_INFO_NAME_100001_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100001_1"
+      },
+      "100201": {
+        "GROUP_ID": 100002,
+        "Name": "PC_STORY_INFO_NAME_100002_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100002_1"
+      },
+      "100202": {
+        "GROUP_ID": 100002,
+        "Name": "PC_STORY_INFO_NAME_100002_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111005,
+        "Desc": "PC_STORY_INFO_DESC_100002_2"
+      },
+      "100203": {
+        "GROUP_ID": 100002,
+        "Name": "PC_STORY_INFO_NAME_100002_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 400201,
+        "Desc": "PC_STORY_INFO_DESC_100002_3"
+      },
+      "100204": {
+        "GROUP_ID": 100002,
+        "Name": "PC_STORY_INFO_NAME_100002_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211006,
+        "Desc": "PC_STORY_INFO_DESC_100002_4"
+      },
+      "100301": {
+        "GROUP_ID": 100003,
+        "Name": "PC_STORY_INFO_NAME_100003_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100003_1"
+      },
+      "100302": {
+        "GROUP_ID": 100003,
+        "Name": "PC_STORY_INFO_NAME_100003_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111006,
+        "Desc": "PC_STORY_INFO_DESC_100003_2"
+      },
+      "100303": {
+        "GROUP_ID": 100003,
+        "Name": "PC_STORY_INFO_NAME_100003_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 400302,
+        "Desc": "PC_STORY_INFO_DESC_100003_3"
+      },
+      "100304": {
+        "GROUP_ID": 100003,
+        "Name": "PC_STORY_INFO_NAME_100003_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211006,
+        "Desc": "PC_STORY_INFO_DESC_100003_4"
+      },
+      "100401": {
+        "GROUP_ID": 100004,
+        "Name": "PC_STORY_INFO_NAME_100004_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100004_1"
+      },
+      "100402": {
+        "GROUP_ID": 100004,
+        "Name": "PC_STORY_INFO_NAME_100004_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111006,
+        "Desc": "PC_STORY_INFO_DESC_100004_2"
+      },
+      "100403": {
+        "GROUP_ID": 100004,
+        "Name": "PC_STORY_INFO_NAME_100004_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 400402,
+        "Desc": "PC_STORY_INFO_DESC_100004_3"
+      },
+      "100404": {
+        "GROUP_ID": 100004,
+        "Name": "PC_STORY_INFO_NAME_100004_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211005,
+        "Desc": "PC_STORY_INFO_DESC_100004_4"
+      },
+      "100501": {
+        "GROUP_ID": 100005,
+        "Name": "PC_STORY_INFO_NAME_100005_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100005_1"
+      },
+      "100502": {
+        "GROUP_ID": 100005,
+        "Name": "PC_STORY_INFO_NAME_100005_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111205,
+        "Desc": "PC_STORY_INFO_DESC_100005_2"
+      },
+      "100503": {
+        "GROUP_ID": 100005,
+        "Name": "PC_STORY_INFO_NAME_100005_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 400504,
+        "Desc": "PC_STORY_INFO_DESC_100005_3"
+      },
+      "100504": {
+        "GROUP_ID": 100005,
+        "Name": "PC_STORY_INFO_NAME_100005_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211104,
+        "Desc": "PC_STORY_INFO_DESC_100005_4"
+      },
+      "100601": {
+        "GROUP_ID": 100006,
+        "Name": "PC_STORY_INFO_NAME_100006_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100006_1"
+      },
+      "100602": {
+        "GROUP_ID": 100006,
+        "Name": "PC_STORY_INFO_NAME_100006_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111405,
+        "Desc": "PC_STORY_INFO_DESC_100006_2"
+      },
+      "100603": {
+        "GROUP_ID": 100006,
+        "Name": "PC_STORY_INFO_NAME_100006_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100006_3"
+      },
+      "100604": {
+        "GROUP_ID": 100006,
+        "Name": "PC_STORY_INFO_NAME_100006_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211122,
+        "Desc": "PC_STORY_INFO_DESC_100006_4"
+      },
+      "100701": {
+        "GROUP_ID": 100007,
+        "Name": "PC_STORY_INFO_NAME_100007_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100007_1"
+      },
+      "100702": {
+        "GROUP_ID": 100007,
+        "Name": "PC_STORY_INFO_NAME_100007_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111007,
+        "Desc": "PC_STORY_INFO_DESC_100007_2"
+      },
+      "100703": {
+        "GROUP_ID": 100007,
+        "Name": "PC_STORY_INFO_NAME_100007_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 400705,
+        "Desc": "PC_STORY_INFO_DESC_100007_3"
+      },
+      "100704": {
+        "GROUP_ID": 100007,
+        "Name": "PC_STORY_INFO_NAME_100007_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211007,
+        "Desc": "PC_STORY_INFO_DESC_100007_4"
+      },
+      "100801": {
+        "GROUP_ID": 100008,
+        "Name": "PC_STORY_INFO_NAME_100008_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100008_1"
+      },
+      "100802": {
+        "GROUP_ID": 100008,
+        "Name": "PC_STORY_INFO_NAME_100008_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111005,
+        "Desc": "PC_STORY_INFO_DESC_100008_2"
+      },
+      "100803": {
+        "GROUP_ID": 100008,
+        "Name": "PC_STORY_INFO_NAME_100008_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 401705,
+        "Desc": "PC_STORY_INFO_DESC_100008_3"
+      },
+      "100804": {
+        "GROUP_ID": 100008,
+        "Name": "PC_STORY_INFO_NAME_100008_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211109,
+        "Desc": "PC_STORY_INFO_DESC_100008_4"
+      },
+      "100901": {
+        "GROUP_ID": 100009,
+        "Name": "PC_STORY_INFO_NAME_100009_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100009_1"
+      },
+      "100902": {
+        "GROUP_ID": 100009,
+        "Name": "PC_STORY_INFO_NAME_100009_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111405,
+        "Desc": "PC_STORY_INFO_DESC_100009_2"
+      },
+      "100903": {
+        "GROUP_ID": 100009,
+        "Name": "PC_STORY_INFO_NAME_100009_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 402603,
+        "Desc": "PC_STORY_INFO_DESC_100009_3"
+      },
+      "100904": {
+        "GROUP_ID": 100009,
+        "Name": "PC_STORY_INFO_NAME_100009_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211122,
+        "Desc": "PC_STORY_INFO_DESC_100009_4"
+      },
+      "101001": {
+        "GROUP_ID": 100010,
+        "Name": "PC_STORY_INFO_NAME_100010_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100010_1"
+      },
+      "101002": {
+        "GROUP_ID": 100010,
+        "Name": "PC_STORY_INFO_NAME_100010_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111105,
+        "Desc": "PC_STORY_INFO_DESC_100010_2"
+      },
+      "101003": {
+        "GROUP_ID": 100010,
+        "Name": "PC_STORY_INFO_NAME_100010_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 400905,
+        "Desc": "PC_STORY_INFO_DESC_100010_3"
+      },
+      "101004": {
+        "GROUP_ID": 100010,
+        "Name": "PC_STORY_INFO_NAME_100010_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211106,
+        "Desc": "PC_STORY_INFO_DESC_100010_4"
+      },
+      "101101": {
+        "GROUP_ID": 100011,
+        "Name": "PC_STORY_INFO_NAME_100011_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100011_1"
+      },
+      "101102": {
+        "GROUP_ID": 100011,
+        "Name": "PC_STORY_INFO_NAME_100011_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111103,
+        "Desc": "PC_STORY_INFO_DESC_100011_2"
+      },
+      "101103": {
+        "GROUP_ID": 100011,
+        "Name": "PC_STORY_INFO_NAME_100011_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 401905,
+        "Desc": "PC_STORY_INFO_DESC_100011_3"
+      },
+      "101104": {
+        "GROUP_ID": 100011,
+        "Name": "PC_STORY_INFO_NAME_100011_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211101,
+        "Desc": "PC_STORY_INFO_DESC_100011_4"
+      },
+      "101201": {
+        "GROUP_ID": 100012,
+        "Name": "PC_STORY_INFO_NAME_100012_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100012_1"
+      },
+      "101202": {
+        "GROUP_ID": 100012,
+        "Name": "PC_STORY_INFO_NAME_100012_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111204,
+        "Desc": "PC_STORY_INFO_DESC_100012_2"
+      },
+      "101203": {
+        "GROUP_ID": 100012,
+        "Name": "PC_STORY_INFO_NAME_100012_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 400604,
+        "Desc": "PC_STORY_INFO_DESC_100012_3"
+      },
+      "101204": {
+        "GROUP_ID": 100012,
+        "Name": "PC_STORY_INFO_NAME_100012_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211102,
+        "Desc": "PC_STORY_INFO_DESC_100012_4"
+      },
+      "101301": {
+        "GROUP_ID": 100013,
+        "Name": "PC_STORY_INFO_NAME_100013_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100013_1"
+      },
+      "101302": {
+        "GROUP_ID": 100013,
+        "Name": "PC_STORY_INFO_NAME_100013_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111301,
+        "Desc": "PC_STORY_INFO_DESC_100013_2"
+      },
+      "101303": {
+        "GROUP_ID": 100013,
+        "Name": "PC_STORY_INFO_NAME_100013_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 401801,
+        "Desc": "PC_STORY_INFO_DESC_100013_3"
+      },
+      "101304": {
+        "GROUP_ID": 100013,
+        "Name": "PC_STORY_INFO_NAME_100013_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211105,
+        "Desc": "PC_STORY_INFO_DESC_100013_4"
+      },
+      "101401": {
+        "GROUP_ID": 100014,
+        "Name": "PC_STORY_INFO_NAME_100014_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100014_1"
+      },
+      "101402": {
+        "GROUP_ID": 100014,
+        "Name": "PC_STORY_INFO_NAME_100014_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111103,
+        "Desc": "PC_STORY_INFO_DESC_100014_2"
+      },
+      "101403": {
+        "GROUP_ID": 100014,
+        "Name": "PC_STORY_INFO_NAME_100014_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 401604,
+        "Desc": "PC_STORY_INFO_DESC_100014_3"
+      },
+      "101404": {
+        "GROUP_ID": 100014,
+        "Name": "PC_STORY_INFO_NAME_100014_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211103,
+        "Desc": "PC_STORY_INFO_DESC_100014_4"
+      },
+      "101501": {
+        "GROUP_ID": 100015,
+        "Name": "PC_STORY_INFO_NAME_100015_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100015_1"
+      },
+      "101502": {
+        "GROUP_ID": 100015,
+        "Name": "PC_STORY_INFO_NAME_100015_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111301,
+        "Desc": "PC_STORY_INFO_DESC_100015_2"
+      },
+      "101503": {
+        "GROUP_ID": 100015,
+        "Name": "PC_STORY_INFO_NAME_100015_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 401501,
+        "Desc": "PC_STORY_INFO_DESC_100015_3"
+      },
+      "101504": {
+        "GROUP_ID": 100015,
+        "Name": "PC_STORY_INFO_NAME_100015_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211115,
+        "Desc": "PC_STORY_INFO_DESC_100015_4"
+      },
+      "101601": {
+        "GROUP_ID": 100016,
+        "Name": "PC_STORY_INFO_NAME_100016_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100016_1"
+      },
+      "101701": {
+        "GROUP_ID": 100017,
+        "Name": "PC_STORY_INFO_NAME_100017_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100017_1"
+      },
+      "101702": {
+        "GROUP_ID": 100017,
+        "Name": "PC_STORY_INFO_NAME_100017_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111205,
+        "Desc": "PC_STORY_INFO_DESC_100017_2"
+      },
+      "101703": {
+        "GROUP_ID": 100017,
+        "Name": "PC_STORY_INFO_NAME_100017_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 401303,
+        "Desc": "PC_STORY_INFO_DESC_100017_3"
+      },
+      "101704": {
+        "GROUP_ID": 100017,
+        "Name": "PC_STORY_INFO_NAME_100017_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211108,
+        "Desc": "PC_STORY_INFO_DESC_100017_4"
+      },
+      "101801": {
+        "GROUP_ID": 100018,
+        "Name": "PC_STORY_INFO_NAME_100018_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100018_1"
+      },
+      "101802": {
+        "GROUP_ID": 100018,
+        "Name": "PC_STORY_INFO_NAME_100018_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111205,
+        "Desc": "PC_STORY_INFO_DESC_100018_2"
+      },
+      "101803": {
+        "GROUP_ID": 100018,
+        "Name": "PC_STORY_INFO_NAME_100018_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 401403,
+        "Desc": "PC_STORY_INFO_DESC_100018_3"
+      },
+      "101804": {
+        "GROUP_ID": 100018,
+        "Name": "PC_STORY_INFO_NAME_100018_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211107,
+        "Desc": "PC_STORY_INFO_DESC_100018_4"
+      },
+      "101901": {
+        "GROUP_ID": 100019,
+        "Name": "PC_STORY_INFO_NAME_100019_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100019_1"
+      },
+      "101902": {
+        "GROUP_ID": 100019,
+        "Name": "PC_STORY_INFO_NAME_100019_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111201,
+        "Desc": "PC_STORY_INFO_DESC_100019_2"
+      },
+      "101903": {
+        "GROUP_ID": 100019,
+        "Name": "PC_STORY_INFO_NAME_100019_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 400805,
+        "Desc": "PC_STORY_INFO_DESC_100019_3"
+      },
+      "101904": {
+        "GROUP_ID": 100019,
+        "Name": "PC_STORY_INFO_NAME_100019_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211110,
+        "Desc": "PC_STORY_INFO_DESC_100019_4"
+      },
+      "102001": {
+        "GROUP_ID": 100020,
+        "Name": "PC_STORY_INFO_NAME_100020_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100020_1"
+      },
+      "102002": {
+        "GROUP_ID": 100020,
+        "Name": "PC_STORY_INFO_NAME_100020_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111305,
+        "Desc": "PC_STORY_INFO_DESC_100020_2"
+      },
+      "102003": {
+        "GROUP_ID": 100020,
+        "Name": "PC_STORY_INFO_NAME_100020_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 401005,
+        "Desc": "PC_STORY_INFO_DESC_100020_3"
+      },
+      "102004": {
+        "GROUP_ID": 100020,
+        "Name": "PC_STORY_INFO_NAME_100020_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211112,
+        "Desc": "PC_STORY_INFO_DESC_100020_4"
+      },
+      "102101": {
+        "GROUP_ID": 100021,
+        "Name": "PC_STORY_INFO_NAME_100021_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100021_1"
+      },
+      "102102": {
+        "GROUP_ID": 100021,
+        "Name": "PC_STORY_INFO_NAME_100021_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111305,
+        "Desc": "PC_STORY_INFO_DESC_100021_2"
+      },
+      "102103": {
+        "GROUP_ID": 100021,
+        "Name": "PC_STORY_INFO_NAME_100021_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 401104,
+        "Desc": "PC_STORY_INFO_DESC_100021_3"
+      },
+      "102104": {
+        "GROUP_ID": 100021,
+        "Name": "PC_STORY_INFO_NAME_100021_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211111,
+        "Desc": "PC_STORY_INFO_DESC_100021_4"
+      },
+      "102201": {
+        "GROUP_ID": 100022,
+        "Name": "PC_STORY_INFO_NAME_100022_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100022_1"
+      },
+      "102202": {
+        "GROUP_ID": 100022,
+        "Name": "PC_STORY_INFO_NAME_100022_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111305,
+        "Desc": "PC_STORY_INFO_DESC_100022_2"
+      },
+      "102203": {
+        "GROUP_ID": 100022,
+        "Name": "PC_STORY_INFO_NAME_100022_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 401205,
+        "Desc": "PC_STORY_INFO_DESC_100022_3"
+      },
+      "102204": {
+        "GROUP_ID": 100022,
+        "Name": "PC_STORY_INFO_NAME_100022_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211113,
+        "Desc": "PC_STORY_INFO_DESC_100022_4"
+      },
+      "102301": {
+        "GROUP_ID": 100023,
+        "Name": "PC_STORY_INFO_NAME_100023_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100023_1"
+      },
+      "102401": {
+        "GROUP_ID": 100024,
+        "Name": "PC_STORY_INFO_NAME_100024_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100024_1"
+      },
+      "102402": {
+        "GROUP_ID": 100024,
+        "Name": "PC_STORY_INFO_NAME_100024_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 600005,
+        "Desc": "PC_STORY_INFO_DESC_100024_2"
+      },
+      "102403": {
+        "GROUP_ID": 100024,
+        "Name": "PC_STORY_INFO_NAME_100024_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 402002,
+        "Desc": "PC_STORY_INFO_DESC_100024_3"
+      },
+      "102404": {
+        "GROUP_ID": 100024,
+        "Name": "PC_STORY_INFO_NAME_100024_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211116,
+        "Desc": "PC_STORY_INFO_DESC_100024_4"
+      },
+      "102501": {
+        "GROUP_ID": 100025,
+        "Name": "PC_STORY_INFO_NAME_100025_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100025_1"
+      },
+      "102502": {
+        "GROUP_ID": 100025,
+        "Name": "PC_STORY_INFO_NAME_100025_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 600005,
+        "Desc": "PC_STORY_INFO_DESC_100025_2"
+      },
+      "102503": {
+        "GROUP_ID": 100025,
+        "Name": "PC_STORY_INFO_NAME_100025_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 402104,
+        "Desc": "PC_STORY_INFO_DESC_100025_3"
+      },
+      "102504": {
+        "GROUP_ID": 100025,
+        "Name": "PC_STORY_INFO_NAME_100025_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211117,
+        "Desc": "PC_STORY_INFO_DESC_100025_4"
+      },
+      "102601": {
+        "GROUP_ID": 100026,
+        "Name": "PC_STORY_INFO_NAME_100026_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100026_1"
+      },
+      "102602": {
+        "GROUP_ID": 100026,
+        "Name": "PC_STORY_INFO_NAME_100026_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 600015,
+        "Desc": "PC_STORY_INFO_DESC_100026_2"
+      },
+      "102603": {
+        "GROUP_ID": 100026,
+        "Name": "PC_STORY_INFO_NAME_100026_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 402202,
+        "Desc": "PC_STORY_INFO_DESC_100026_3"
+      },
+      "102604": {
+        "GROUP_ID": 100026,
+        "Name": "PC_STORY_INFO_NAME_100026_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211120,
+        "Desc": "PC_STORY_INFO_DESC_100026_4"
+      },
+      "102701": {
+        "GROUP_ID": 100027,
+        "Name": "PC_STORY_INFO_NAME_100027_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100027_1"
+      },
+      "102702": {
+        "GROUP_ID": 100027,
+        "Name": "PC_STORY_INFO_NAME_100027_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 600015,
+        "Desc": "PC_STORY_INFO_DESC_100027_2"
+      },
+      "102703": {
+        "GROUP_ID": 100027,
+        "Name": "PC_STORY_INFO_NAME_100027_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 402302,
+        "Desc": "PC_STORY_INFO_DESC_100027_3"
+      },
+      "102704": {
+        "GROUP_ID": 100027,
+        "Name": "PC_STORY_INFO_NAME_100027_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211119,
+        "Desc": "PC_STORY_INFO_DESC_100027_4"
+      },
+      "102801": {
+        "GROUP_ID": 100028,
+        "Name": "PC_STORY_INFO_NAME_100028_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100028_1"
+      },
+      "102802": {
+        "GROUP_ID": 100028,
+        "Name": "PC_STORY_INFO_NAME_100028_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111405,
+        "Desc": "PC_STORY_INFO_DESC_100028_2"
+      },
+      "102803": {
+        "GROUP_ID": 100028,
+        "Name": "PC_STORY_INFO_NAME_100028_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 402403,
+        "Desc": "PC_STORY_INFO_DESC_100028_3"
+      },
+      "102804": {
+        "GROUP_ID": 100028,
+        "Name": "PC_STORY_INFO_NAME_100028_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211121,
+        "Desc": "PC_STORY_INFO_DESC_100028_4"
+      },
+      "102901": {
+        "GROUP_ID": 100029,
+        "Name": "PC_STORY_INFO_NAME_100029_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100029_1"
+      },
+      "102902": {
+        "GROUP_ID": 100029,
+        "Name": "PC_STORY_INFO_NAME_100029_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111405,
+        "Desc": "PC_STORY_INFO_DESC_100029_2"
+      },
+      "102903": {
+        "GROUP_ID": 100029,
+        "Name": "PC_STORY_INFO_NAME_100029_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 402502,
+        "Desc": "PC_STORY_INFO_DESC_100029_3"
+      },
+      "102904": {
+        "GROUP_ID": 100029,
+        "Name": "PC_STORY_INFO_NAME_100029_4",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 211124,
+        "Desc": "PC_STORY_INFO_DESC_100029_4"
+      },
+      "103001": {
+        "GROUP_ID": 100030,
+        "Name": "PC_STORY_INFO_NAME_100030_1",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 0,
+        "Desc": "PC_STORY_INFO_DESC_100030_1"
+      },
+      "103002": {
+        "GROUP_ID": 100030,
+        "Name": "PC_STORY_INFO_NAME_100030_2",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 111405,
+        "Desc": "PC_STORY_INFO_DESC_100030_2"
+      },
+      "103003": {
+        "GROUP_ID": 100030,
+        "Name": "PC_STORY_INFO_NAME_100030_3",
+        "REQ_LEVEL": 0,
+        "REQ_QUEST_COMPLETE": 402901,
+        "Desc": "PC_STORY_INFO_DESC_100030_3"
+      }
+    }
+  }
+]

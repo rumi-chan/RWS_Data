@@ -1,0 +1,239 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "FAVOR",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBFAVOR'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "100002": {
+        "QUEST_COMPLETE": 111006,
+        "FAVOR_ITEM1": 411011039,
+        "FAVOR_ITEM2": 411011040,
+        "FAVOR_ITEM3": 411011009,
+        "FAVOR_QUEST_GROUP_ID": 10000201,
+        "TELEPORT_POINT": 206
+      },
+      "100003": {
+        "QUEST_COMPLETE": 111006,
+        "FAVOR_ITEM1": 411011017,
+        "FAVOR_ITEM2": 411011045,
+        "FAVOR_ITEM3": 411011007,
+        "FAVOR_QUEST_GROUP_ID": 10000301,
+        "TELEPORT_POINT": 207
+      },
+      "100004": {
+        "QUEST_COMPLETE": 111006,
+        "FAVOR_ITEM1": 411011029,
+        "FAVOR_ITEM2": 411011025,
+        "FAVOR_ITEM3": 411011011,
+        "FAVOR_QUEST_GROUP_ID": 10000401,
+        "TELEPORT_POINT": 209
+      },
+      "100005": {
+        "QUEST_COMPLETE": 111205,
+        "FAVOR_ITEM1": 411011018,
+        "FAVOR_ITEM2": 411011037,
+        "FAVOR_ITEM3": 411011033,
+        "FAVOR_QUEST_GROUP_ID": 10000501,
+        "TELEPORT_POINT": 211
+      },
+      "100007": {
+        "QUEST_COMPLETE": 111006,
+        "FAVOR_ITEM1": 411011021,
+        "FAVOR_ITEM2": 411011019,
+        "FAVOR_ITEM3": 411011008,
+        "FAVOR_QUEST_GROUP_ID": 10000701,
+        "TELEPORT_POINT": 205
+      },
+      "100008": {
+        "QUEST_COMPLETE": 111008,
+        "FAVOR_ITEM1": 411011046,
+        "FAVOR_ITEM2": 411011030,
+        "FAVOR_ITEM3": 411011028,
+        "FAVOR_QUEST_GROUP_ID": 10001701,
+        "TELEPORT_POINT": 221
+      },
+      "100009": {
+        "QUEST_COMPLETE": 111405,
+        "FAVOR_ITEM1": 411011047,
+        "FAVOR_ITEM2": 411011019,
+        "FAVOR_ITEM3": 411011011,
+        "FAVOR_QUEST_GROUP_ID": 10002801,
+        "TELEPORT_POINT": 247
+      },
+      "100010": {
+        "QUEST_COMPLETE": 111105,
+        "FAVOR_ITEM1": 411011047,
+        "FAVOR_ITEM2": 411011024,
+        "FAVOR_ITEM3": 411011034,
+        "FAVOR_QUEST_GROUP_ID": 10000901,
+        "TELEPORT_POINT": 214
+      },
+      "100011": {
+        "QUEST_COMPLETE": 111105,
+        "FAVOR_ITEM1": 411011038,
+        "FAVOR_ITEM2": 411011036,
+        "FAVOR_ITEM3": 411011031,
+        "FAVOR_QUEST_GROUP_ID": 10001901,
+        "TELEPORT_POINT": 223
+      },
+      "100012": {
+        "QUEST_COMPLETE": 111105,
+        "FAVOR_ITEM1": 411011038,
+        "FAVOR_ITEM2": 411011045,
+        "FAVOR_ITEM3": 411011028,
+        "FAVOR_QUEST_GROUP_ID": 10000601,
+        "TELEPORT_POINT": 212
+      },
+      "100013": {
+        "QUEST_COMPLETE": 111302,
+        "FAVOR_ITEM1": 411011047,
+        "FAVOR_ITEM2": 411011042,
+        "FAVOR_ITEM3": 411011035,
+        "FAVOR_QUEST_GROUP_ID": 10001801,
+        "TELEPORT_POINT": 222
+      },
+      "100014": {
+        "QUEST_COMPLETE": 111103,
+        "FAVOR_ITEM1": 411011006,
+        "FAVOR_ITEM2": 411011048,
+        "FAVOR_ITEM3": 411011010,
+        "FAVOR_QUEST_GROUP_ID": 10001601,
+        "TELEPORT_POINT": 220
+      },
+      "100015": {
+        "QUEST_COMPLETE": 111102,
+        "FAVOR_ITEM1": 411011018,
+        "FAVOR_ITEM2": 411011020,
+        "FAVOR_ITEM3": 411011015,
+        "FAVOR_QUEST_GROUP_ID": 10001501,
+        "TELEPORT_POINT": 208
+      },
+      "100016": {
+        "QUEST_COMPLETE": 111504,
+        "FAVOR_ITEM1": 411011023,
+        "FAVOR_ITEM2": 411011037,
+        "FAVOR_ITEM3": 411011010,
+        "FAVOR_QUEST_GROUP_ID": 10002001,
+        "TELEPORT_POINT": 227
+      },
+      "100017": {
+        "QUEST_COMPLETE": 111205,
+        "FAVOR_ITEM1": 411011022,
+        "FAVOR_ITEM2": 411011044,
+        "FAVOR_ITEM3": 411011043,
+        "FAVOR_QUEST_GROUP_ID": 10001301,
+        "TELEPORT_POINT": 218
+      },
+      "100018": {
+        "QUEST_COMPLETE": 111205,
+        "FAVOR_ITEM1": 411011023,
+        "FAVOR_ITEM2": 411011044,
+        "FAVOR_ITEM3": 411011043,
+        "FAVOR_QUEST_GROUP_ID": 10001401,
+        "TELEPORT_POINT": 219
+      },
+      "100019": {
+        "QUEST_COMPLETE": 111205,
+        "FAVOR_ITEM1": 411011006,
+        "FAVOR_ITEM2": 411011012,
+        "FAVOR_ITEM3": 411011026,
+        "FAVOR_QUEST_GROUP_ID": 10000801,
+        "TELEPORT_POINT": 213
+      },
+      "100020": {
+        "QUEST_COMPLETE": 111305,
+        "FAVOR_ITEM1": 411011039,
+        "FAVOR_ITEM2": 411011032,
+        "FAVOR_ITEM3": 411011013,
+        "FAVOR_QUEST_GROUP_ID": 10001001,
+        "TELEPORT_POINT": 215
+      },
+      "100021": {
+        "QUEST_COMPLETE": 111305,
+        "FAVOR_ITEM1": 411011046,
+        "FAVOR_ITEM2": 411011041,
+        "FAVOR_ITEM3": 411011027,
+        "FAVOR_QUEST_GROUP_ID": 10001101,
+        "TELEPORT_POINT": 216
+      },
+      "100022": {
+        "QUEST_COMPLETE": 111305,
+        "FAVOR_ITEM1": 411011021,
+        "FAVOR_ITEM2": 411011012,
+        "FAVOR_ITEM3": 411011014,
+        "FAVOR_QUEST_GROUP_ID": 10001201,
+        "TELEPORT_POINT": 217
+      },
+      "100023": {
+        "QUEST_COMPLETE": 111504,
+        "FAVOR_ITEM1": 411011022,
+        "FAVOR_ITEM2": 411011032,
+        "FAVOR_ITEM3": 411011016,
+        "FAVOR_QUEST_GROUP_ID": 10002101,
+        "TELEPORT_POINT": 228
+      },
+      "100024": {
+        "QUEST_COMPLETE": 600005,
+        "FAVOR_ITEM1": 411011029,
+        "FAVOR_ITEM2": 411011040,
+        "FAVOR_ITEM3": 411011031,
+        "FAVOR_QUEST_GROUP_ID": 10002201,
+        "TELEPORT_POINT": 229
+      },
+      "100025": {
+        "QUEST_COMPLETE": 600005,
+        "FAVOR_ITEM1": 411011023,
+        "FAVOR_ITEM2": 411011020,
+        "FAVOR_ITEM3": 411011009,
+        "FAVOR_QUEST_GROUP_ID": 10002301,
+        "TELEPORT_POINT": 230
+      },
+      "100026": {
+        "QUEST_COMPLETE": 600015,
+        "FAVOR_ITEM1": 411011021,
+        "FAVOR_ITEM2": 411011037,
+        "FAVOR_ITEM3": 411011016,
+        "FAVOR_QUEST_GROUP_ID": 10002401,
+        "TELEPORT_POINT": 241
+      },
+      "100027": {
+        "QUEST_COMPLETE": 600015,
+        "FAVOR_ITEM1": 411011038,
+        "FAVOR_ITEM2": 411011042,
+        "FAVOR_ITEM3": 411011027,
+        "FAVOR_QUEST_GROUP_ID": 10002501,
+        "TELEPORT_POINT": 242
+      },
+      "100028": {
+        "QUEST_COMPLETE": 111405,
+        "FAVOR_ITEM1": 411011017,
+        "FAVOR_ITEM2": 411011049,
+        "FAVOR_ITEM3": 411011050,
+        "FAVOR_QUEST_GROUP_ID": 10002601,
+        "TELEPORT_POINT": 245
+      },
+      "100029": {
+        "QUEST_COMPLETE": 111405,
+        "FAVOR_ITEM1": 411011006,
+        "FAVOR_ITEM2": 411011024,
+        "FAVOR_ITEM3": 411011027,
+        "FAVOR_QUEST_GROUP_ID": 10002701,
+        "TELEPORT_POINT": 246
+      },
+      "100030": {
+        "QUEST_COMPLETE": 111504,
+        "FAVOR_ITEM1": 411011039,
+        "FAVOR_ITEM2": 411011020,
+        "FAVOR_ITEM3": 411011034,
+        "FAVOR_QUEST_GROUP_ID": 10002901,
+        "TELEPORT_POINT": 248
+      }
+    }
+  }
+]

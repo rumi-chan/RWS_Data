@@ -1,0 +1,71 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "OPTION_CATEGORY",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBOPTION_CATEGORY'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1001": {
+        "Index": 1,
+        "Name": "OPTION_CATEGORY_GRAPHIC",
+        "Icon": "T_UI_OptionGraphic_Base_Sprite",
+        "DISPLAY_PC": 1,
+        "DISPLAY_MOBILE_AOS": 1,
+        "DISPLAY_MOBILE_IOS": 1
+      },
+      "2001": {
+        "Index": 2,
+        "Name": "OPTION_CATEGORY_SOUND",
+        "Icon": "T_UI_OptionSound_Base_Sprite",
+        "DISPLAY_PC": 1,
+        "DISPLAY_MOBILE_AOS": 1,
+        "DISPLAY_MOBILE_IOS": 1
+      },
+      "3001": {
+        "Index": 3,
+        "Name": "OPTION_CATEGORY_ALARM",
+        "Icon": "T_UI_OptionAlarm_Base_Sprite",
+        "DISPLAY_PC": 0,
+        "DISPLAY_MOBILE_AOS": 1,
+        "DISPLAY_MOBILE_IOS": 1
+      },
+      "4001": {
+        "Index": 4,
+        "Name": "OPTION_CATEGORY_LANGUAGE",
+        "Icon": "T_UI_OptionLetter_Base_Sprite",
+        "DISPLAY_PC": 1,
+        "DISPLAY_MOBILE_AOS": 1,
+        "DISPLAY_MOBILE_IOS": 1
+      },
+      "5001": {
+        "Index": 5,
+        "Name": "OPTION_CATEGORY_GAME",
+        "Icon": "T_UI_OptionGame_Base_Sprite",
+        "DISPLAY_PC": 1,
+        "DISPLAY_MOBILE_AOS": 1,
+        "DISPLAY_MOBILE_IOS": 1
+      },
+      "6001": {
+        "Index": 6,
+        "Name": "OPTION_CATEGORY_CONTROLL_KEY",
+        "Icon": "T_UI_Option_Base_Sprite",
+        "DISPLAY_PC": 0,
+        "DISPLAY_MOBILE_AOS": 0,
+        "DISPLAY_MOBILE_IOS": 0
+      },
+      "7001": {
+        "Index": 7,
+        "Name": "OPTION_CATEGORY_CUSTOMER_CENTER",
+        "Icon": "T_UI_OptionCustomerCenter_Base_Sprite",
+        "DISPLAY_PC": 1,
+        "DISPLAY_MOBILE_AOS": 1,
+        "DISPLAY_MOBILE_IOS": 1
+      }
+    }
+  }
+]

@@ -1,0 +1,1050 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "TELEPORT_POINT",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBTELEPORT_POINT'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "101": {
+        "Name": "시작지점",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 133119901
+      },
+      "102": {
+        "Name": "타이게타 유적 다리 위",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 133119903
+      },
+      "103": {
+        "Name": "타이게타 유적 퍼즐 앞",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 133119902
+      },
+      "104": {
+        "Name": "타이게타 유적 일식의 탑",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 133119101
+      },
+      "105": {
+        "Name": "뷰포인트",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 131119902
+      },
+      "106": {
+        "Name": "팀버 밸리 마구간 앞",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 131119904
+      },
+      "107": {
+        "Name": "팀버 밸리 여관 앞",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 131119901
+      },
+      "108": {
+        "Name": "파론산 승강기 앞",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 103119901
+      },
+      "109": {
+        "Name": "파로스 입구",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 103119902
+      },
+      "110": {
+        "Name": "파로스 홀",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101110101
+      },
+      "111": {
+        "Name": "파로스 관장실",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101110102
+      },
+      "112": {
+        "Name": "시나리오 성소 - 에몬",
+        "LEVEL_ID": 2120101,
+        "TELEPORT_POINT_ID": 120110101
+      },
+      "113": {
+        "Name": "불타는 팀버밸리",
+        "LEVEL_ID": 2110301,
+        "TELEPORT_POINT_ID": 130110101
+      },
+      "114": {
+        "Name": "SleepAwake 테스트",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 107119801
+      },
+      "115": {
+        "Name": "누스카 공동 앞",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 103119903
+      },
+      "116": {
+        "Name": "파로스 PVP NPC",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101110106
+      },
+      "117": {
+        "Name": "페레우스성",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 134119901
+      },
+      "118": {
+        "Name": "누스카 공동 내부",
+        "LEVEL_ID": 2110401,
+        "TELEPORT_POINT_ID": 111119101
+      },
+      "119": {
+        "Name": "이사니아 은신처",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 106119101
+      },
+      "120": {
+        "Name": "병사단 대련장",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 134115101
+      },
+      "121": {
+        "Name": "페레우스 왕궁 안",
+        "LEVEL_ID": 2110501,
+        "TELEPORT_POINT_ID": 110115101
+      },
+      "122": {
+        "Name": "루생앤미스테리 ",
+        "LEVEL_ID": 2110701,
+        "TELEPORT_POINT_ID": 113115101
+      },
+      "123": {
+        "Name": "무도회장",
+        "LEVEL_ID": 2111101,
+        "TELEPORT_POINT_ID": 119119901
+      },
+      "124": {
+        "Name": "미혹의 숲",
+        "LEVEL_ID": 2111001,
+        "TELEPORT_POINT_ID": 191119101
+      },
+      "125": {
+        "Name": "Sit 테스트 위치",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 131119903
+      },
+      "126": {
+        "Name": "라피아 신전",
+        "LEVEL_ID": 2111401,
+        "TELEPORT_POINT_ID": 128115101
+      },
+      "127": {
+        "Name": "라피아 신전 입구",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 105115104
+      },
+      "128": {
+        "Name": "룩스 영지 성벽 외곽",
+        "LEVEL_ID": 2111501,
+        "TELEPORT_POINT_ID": 143115101
+      },
+      "129": {
+        "Name": "낚시터 - 상실의 해변",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 106118702
+      },
+      "130": {
+        "Name": "낚시터 - 바위 호수",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 102115102
+      },
+      "131": {
+        "Name": "낚시터 - 외로운 설녀의 강",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 105118703
+      },
+      "132": {
+        "Name": "낚시터 - 파론산 서리 호수",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 103118704
+      },
+      "133": {
+        "Name": "낚시터 - 폐쇄된 낚시터",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 102118701
+      },
+      "134": {
+        "Name": "낚시터 - 골든 리프 브리지 강가",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 106118705
+      },
+      "135": {
+        "Name": "낚시터 - 페레우스강 상류",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 102118706
+      },
+      "137": {
+        "Name": "이벤트 볼륨 이슈 테스트",
+        "LEVEL_ID": 2111001,
+        "TELEPORT_POINT_ID": 191115105
+      },
+      "138": {
+        "Name": "파로스 PvP공간",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101119001
+      },
+      "139": {
+        "Name": "팀버 밸리 여관",
+        "LEVEL_ID": 2110101,
+        "TELEPORT_POINT_ID": 108119001
+      },
+      "140": {
+        "Name": "파로스 누스카 전투",
+        "LEVEL_ID": 1010202,
+        "TELEPORT_POINT_ID": 141110101
+      },
+      "141": {
+        "Name": "붕괴된 파로스 관장실",
+        "LEVEL_ID": 1010203,
+        "TELEPORT_POINT_ID": 132110101
+      },
+      "142": {
+        "Name": "페레우스 여관",
+        "LEVEL_ID": 2110601,
+        "TELEPORT_POINT_ID": 112119001
+      },
+      "143": {
+        "Name": "미혹의 숲 - 입구",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 106118107
+      },
+      "144": {
+        "Name": "[테스트위치]어비스레이크",
+        "LEVEL_ID": 2140101,
+        "TELEPORT_POINT_ID": 701115101
+      },
+      "145": {
+        "Name": "에픽 - 골든우드예배당",
+        "LEVEL_ID": 2111601,
+        "TELEPORT_POINT_ID": 145119901
+      },
+      "146": {
+        "Name": "페레우스성 지하수로",
+        "LEVEL_ID": 2111901,
+        "TELEPORT_POINT_ID": 118110101
+      },
+      "147": {
+        "Name": "페레우스성 지하수로 보스룸",
+        "LEVEL_ID": 2111901,
+        "TELEPORT_POINT_ID": 193110101
+      },
+      "201": {
+        "Name": "보급관",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101110103
+      },
+      "202": {
+        "Name": "캐러맬",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101110104
+      },
+      "203": {
+        "Name": "워테이블",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101110105
+      },
+      "204": {
+        "Name": "스텔라리움 PVP",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101110106
+      },
+      "205": {
+        "Name": "유리 - 인연 퀘스트",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101110107
+      },
+      "206": {
+        "Name": "세리에 - 인연 퀘스트",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101110108
+      },
+      "207": {
+        "Name": "제레미아 - 인연 퀘스트",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101110109
+      },
+      "208": {
+        "Name": "클로에 - 인연 퀘스트",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 134114401
+      },
+      "209": {
+        "Name": "테오도르 - 인연 퀘스트",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101110110
+      },
+      "210": {
+        "Name": "신상",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 134119103
+      },
+      "211": {
+        "Name": "리리아 - 인연 퀘스트",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 136114401
+      },
+      "212": {
+        "Name": "슈테인 - 인연 퀘스트",
+        "LEVEL_ID": 2110801,
+        "TELEPORT_POINT_ID": 140110102
+      },
+      "213": {
+        "Name": "모니카 - 인연 퀘스트",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 106114402
+      },
+      "214": {
+        "Name": "페란시 - 인연 퀘스트",
+        "LEVEL_ID": 2110501,
+        "TELEPORT_POINT_ID": 110114101
+      },
+      "215": {
+        "Name": "램파트 - 인연 퀘스트",
+        "LEVEL_ID": 2111201,
+        "TELEPORT_POINT_ID": 115110501
+      },
+      "216": {
+        "Name": "하진 - 인연 퀘스트",
+        "LEVEL_ID": 2111201,
+        "TELEPORT_POINT_ID": 115110502
+      },
+      "217": {
+        "Name": "사샤 - 인연 퀘스트",
+        "LEVEL_ID": 2111301,
+        "TELEPORT_POINT_ID": 116110501
+      },
+      "218": {
+        "Name": "이사니아 - 인연 퀘스트",
+        "LEVEL_ID": 2110901,
+        "TELEPORT_POINT_ID": 114110501
+      },
+      "219": {
+        "Name": "플루토 - 인연 퀘스트",
+        "LEVEL_ID": 2110901,
+        "TELEPORT_POINT_ID": 114110502
+      },
+      "220": {
+        "Name": "루생 - 인연 퀘스트",
+        "LEVEL_ID": 2110701,
+        "TELEPORT_POINT_ID": 113110501
+      },
+      "221": {
+        "Name": "제온 - 인연 퀘스트",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101110501
+      },
+      "222": {
+        "Name": "아트니스 - 인연 퀘스트",
+        "LEVEL_ID": 2111101,
+        "TELEPORT_POINT_ID": 119110501
+      },
+      "223": {
+        "Name": "버니스 - 인연 퀘스트",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 134114402
+      },
+      "224": {
+        "Name": "칼레이도",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101110102
+      },
+      "225": {
+        "Name": "리틀 마테",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101115102
+      },
+      "226": {
+        "Name": "테라리움",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101115103
+      },
+      "227": {
+        "Name": "루카스 - 인연 퀘스트",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101110112
+      },
+      "228": {
+        "Name": "베아트리스 - 인연 퀘스트",
+        "LEVEL_ID": 2110501,
+        "TELEPORT_POINT_ID": 110114103
+      },
+      "229": {
+        "Name": "디아나 - 인연 퀘스트",
+        "LEVEL_ID": 2111101,
+        "TELEPORT_POINT_ID": 119110502
+      },
+      "230": {
+        "Name": "체샤 - 인연 퀘스트",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 134114406
+      },
+      "231": {
+        "Name": "요리사 - 팀버밸리 여관",
+        "LEVEL_ID": 2110101,
+        "TELEPORT_POINT_ID": 108119105
+      },
+      "232": {
+        "Name": "요리사 - 파로스",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101119006
+      },
+      "233": {
+        "Name": "상점 - 파로스",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101119154
+      },
+      "234": {
+        "Name": "상점 - 팀버밸리",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 131119214
+      },
+      "235": {
+        "Name": "요리사 - 페레우스 여관",
+        "LEVEL_ID": 2110601,
+        "TELEPORT_POINT_ID": 112119101
+      },
+      "236": {
+        "Name": "상점 - 아모네 영지",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 136119164
+      },
+      "237": {
+        "Name": "요리사 - 룩스 여관",
+        "LEVEL_ID": 2111301,
+        "TELEPORT_POINT_ID": 116119106
+      },
+      "238": {
+        "Name": "상점 - 룩스 영지",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 135119106
+      },
+      "239": {
+        "Name": "상점 - 페레우스 성",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 134119591
+      },
+      "240": {
+        "Name": "상점 - 오로르가든",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 104119108
+      },
+      "241": {
+        "Name": "프리실리아 - 인연 퀘스트",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 134114403
+      },
+      "242": {
+        "Name": "라비 - 인연 퀘스트",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101110111
+      },
+      "243": {
+        "Name": "비밀 상점 - 파로스",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101116001
+      },
+      "244": {
+        "Name": "장비제작 - 하가",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101116002
+      },
+      "245": {
+        "Name": "리베르타스 - 인연 퀘스트",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 137114401
+      },
+      "246": {
+        "Name": "에나스 - 인연 퀘스트",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 137114402
+      },
+      "247": {
+        "Name": "카나 - 인연 퀘스트",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 137114403
+      },
+      "248": {
+        "Name": "아이비 - 인연 퀘스트",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 107114401
+      },
+      "249": {
+        "Name": "마키나 - 인연 퀘스트",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 137114404
+      },
+      "301": {
+        "Name": "고요한 폐허",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 102119902
+      },
+      "302": {
+        "Name": "주간보스 - 누스카",
+        "LEVEL_ID": 2110401,
+        "TELEPORT_POINT_ID": 111119101
+      },
+      "303": {
+        "Name": "필드보스 - 에몬",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 102115101
+      },
+      "304": {
+        "Name": "필드보스 - 글라누스",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 103110102
+      },
+      "305": {
+        "Name": "탑 - 심연의 회랑",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 106119801
+      },
+      "306": {
+        "Name": "필드보스 - 시네레",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 104110101
+      },
+      "307": {
+        "Name": "성소 - 투쟁의 길목",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 103110103
+      },
+      "308": {
+        "Name": "성소 - 바람이 뒤엉킨 곳",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 106119001
+      },
+      "309": {
+        "Name": "성소 - 짓밟힌 정원",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 104115110
+      },
+      "311": {
+        "Name": "필드보스 - 투누스전투대장",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 104115102
+      },
+      "312": {
+        "Name": "주간보스 - 사도",
+        "LEVEL_ID": 2111001,
+        "TELEPORT_POINT_ID": 191115101
+      },
+      "313": {
+        "Name": "성소 - 깊게 파묻힌 요새",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 105115101
+      },
+      "314": {
+        "Name": "룩스 저택 앞",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 135115102
+      },
+      "315": {
+        "Name": "룩스 여관 앞",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 135115103
+      },
+      "316": {
+        "Name": "룩스 저택 내부",
+        "LEVEL_ID": 2111201,
+        "TELEPORT_POINT_ID": 115115101
+      },
+      "317": {
+        "Name": "룩스 여관 내부",
+        "LEVEL_ID": 2111301,
+        "TELEPORT_POINT_ID": 116115101
+      },
+      "318": {
+        "Name": "필드보스 - 오라울",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 105119607
+      },
+      "319": {
+        "Name": "이벤트 필드보스 - 특수 마물 토벌",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 103119003
+      },
+      "320": {
+        "Name": "성소 - 죄인의 은신처",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 105119608
+      },
+      "321": {
+        "Name": "성소 - 수호자의 성채",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 107116108
+      },
+      "322": {
+        "Name": "성소 - 길잡이의 그루터기",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 107116109
+      },
+      "323": {
+        "Name": "플로랜스 저택 - 입구",
+        "LEVEL_ID": 2111701,
+        "TELEPORT_POINT_ID": 146116101
+      },
+      "324": {
+        "Name": "플로랜스 저택 - 식당",
+        "LEVEL_ID": 2111701,
+        "TELEPORT_POINT_ID": 146116102
+      },
+      "325": {
+        "Name": "플로랜스 저택 - 지하",
+        "LEVEL_ID": 2111701,
+        "TELEPORT_POINT_ID": 146116103
+      },
+      "326": {
+        "Name": "골든우드 - 2년전",
+        "LEVEL_ID": 2111801,
+        "TELEPORT_POINT_ID": 147110101
+      },
+      "327": {
+        "Name": "성소 - 수호자의 성채_내부",
+        "LEVEL_ID": 2120207,
+        "TELEPORT_POINT_ID": 126116101
+      },
+      "328": {
+        "Name": "성소 - 길잡이의 그루터기_내부",
+        "LEVEL_ID": 2120208,
+        "TELEPORT_POINT_ID": 129116101
+      },
+      "331": {
+        "Name": "뒤엉킨 혼돈_1",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 102115103
+      },
+      "332": {
+        "Name": "뒤엉킨 혼돈_2",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 103115104
+      },
+      "333": {
+        "Name": "뒤엉킨 혼돈_3",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 104115105
+      },
+      "334": {
+        "Name": "뒤엉킨 혼돈_4",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 104115106
+      },
+      "335": {
+        "Name": "뒤엉킨 혼돈_5",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 103115103
+      },
+      "336": {
+        "Name": "뒤엉킨 혼돈_6",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 102115106
+      },
+      "337": {
+        "Name": "뒤엉킨 혼돈_7",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 105119606
+      },
+      "338": {
+        "Name": "뒤엉킨 혼돈_8",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 104115111
+      },
+      "339": {
+        "Name": "뒤엉킨 혼돈_9",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 107116107
+      },
+      "340": {
+        "Name": "디에터스 - 심연의호수 입구",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 104116101
+      },
+      "341": {
+        "Name": "심연의호수 - 디에터스 입구",
+        "LEVEL_ID": 2140101,
+        "TELEPORT_POINT_ID": 701106101
+      },
+      "342": {
+        "Name": "심연의 호수",
+        "LEVEL_ID": 2140101,
+        "TELEPORT_POINT_ID": 701110102
+      },
+      "343": {
+        "Name": "[이벤트]페레우스 섬_해안가",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 601116101
+      },
+      "344": {
+        "Name": "[이벤트]페레우스 섬_건물주변",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 601116102
+      },
+      "345": {
+        "Name": "[퀘스트]백색공간",
+        "LEVEL_ID": 2112101,
+        "TELEPORT_POINT_ID": 148116001
+      },
+      "401": {
+        "Name": "ToE - 타이게타 유적",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 133119101
+      },
+      "402": {
+        "Name": "ToE - 파론산 승강기 앞",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 103119101
+      },
+      "403": {
+        "Name": "ToE - 누스카 공동 앞",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 103119102
+      },
+      "404": {
+        "Name": "ToE - 아모네 마을 방향",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 104118101
+      },
+      "405": {
+        "Name": "ToE - 룩스 영지 방향",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 104119603
+      },
+      "406": {
+        "Name": "ToE - 골든 우드",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 107116101
+      },
+      "501": {
+        "Name": "DoE - 팀버밸리 유적방면",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 131119102
+      },
+      "502": {
+        "Name": "DoE - 팀버밸리 파론산방면",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 131119103
+      },
+      "503": {
+        "Name": "DoE - 파론산 기슭",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 102119101
+      },
+      "504": {
+        "Name": "DoE - 파로스 내부",
+        "LEVEL_ID": 1010201,
+        "TELEPORT_POINT_ID": 101110101
+      },
+      "505": {
+        "Name": "DoE - 페레우스 가는 길",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 102119102
+      },
+      "506": {
+        "Name": "DoE - 페레우스성::정문",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 134119101
+      },
+      "507": {
+        "Name": "DoE - 페레우스성::남문",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 134119102
+      },
+      "508": {
+        "Name": "DoE - 파론산 - 파로스 승강기 앞",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 103119201
+      },
+      "509": {
+        "Name": "DoE - 파론산 - 협곡",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 103119202
+      },
+      "510": {
+        "Name": "DoE - 파론산 - 온천",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 103119203
+      },
+      "511": {
+        "Name": "DoE - 페레우스 필드 - 파론산 방면",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 104119101
+      },
+      "512": {
+        "Name": "DoE - 페레우스 필드 - 농가",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 102119103
+      },
+      "513": {
+        "Name": "DoE - 페레우스 필드 - 오로르 가든",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 104119103
+      },
+      "514": {
+        "Name": "DoE - 아모네 영지 - 사도의 숲 방면",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 106118102
+      },
+      "515": {
+        "Name": "DoE - 아모네 영지 - 농밭",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 106118103
+      },
+      "516": {
+        "Name": "DoE - 아모네 영지 - 아모네 마을",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 136118104
+      },
+      "517": {
+        "Name": "DoE - 아모네 영지 - 해안가",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 106118105
+      },
+      "518": {
+        "Name": "DoE - 아모네 영지 - 골든우드 가는 길",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 106118106
+      },
+      "519": {
+        "Name": "DoE - 룩스 영지 - 룩스 가는길",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 105119601
+      },
+      "520": {
+        "Name": "DoE - 룩스 영지",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 135119602
+      },
+      "521": {
+        "Name": "DoE - 룩스 영지 - 해안가",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 105119604
+      },
+      "522": {
+        "Name": "DoE - 룩스 영지 - 페레우스방면",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 105119605
+      },
+      "523": {
+        "Name": "DoE - 아모네 영지 - 이사니아 서클 앞",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 106118108
+      },
+      "524": {
+        "Name": "DoE - 페레우스 필드 - 해안가",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 104115112
+      },
+      "525": {
+        "Name": "DoE - 파론산 - 누스카 공동",
+        "LEVEL_ID": 2110401,
+        "TELEPORT_POINT_ID": 111119102
+      },
+      "526": {
+        "Name": "DoE - 룩스 영지 - 라피아 신전",
+        "LEVEL_ID": 2111401,
+        "TELEPORT_POINT_ID": 128115102
+      },
+      "527": {
+        "Name": "DoE - 아모네 영지 - 미혹의 숲",
+        "LEVEL_ID": 2111001,
+        "TELEPORT_POINT_ID": 191115103
+      },
+      "528": {
+        "Name": "DoE -  골든 우드 - 공동 묘지",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 107116102
+      },
+      "529": {
+        "Name": "DoE -  골든 우드 - 용병단 캠프",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 137116103
+      },
+      "530": {
+        "Name": "DoE -  골든 우드 - 두개의 탑",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 107116104
+      },
+      "531": {
+        "Name": "DoE -  골든 우드 - 파괴된 마을",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 107116105
+      },
+      "532": {
+        "Name": "DoE -  골든 우드 - 파괴된 골든 우드",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 107116106
+      },
+      "533": {
+        "Name": "DoE -  골든 우드 - 플로랜스 저택",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 107116110
+      },
+      "534": {
+        "Name": "DoE -  골든 우드 - 오염된 부둣가",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 107116111
+      },
+      "535": {
+        "Name": "DoE -  팀버 밸리 - 고요한 폐허 앞",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 102116101
+      },
+      "536": {
+        "Name": "DoE -  페레우스 필드 - 신상으로 가는 길",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 134116101
+      },
+      "537": {
+        "Name": "DoE -  페레우스 필드 - 지하수로",
+        "LEVEL_ID": 2111901,
+        "TELEPORT_POINT_ID": 118116002
+      },
+      "601": {
+        "Name": "인스턴스 던전 - 팀버밸리 여관",
+        "LEVEL_ID": 2110101,
+        "TELEPORT_POINT_ID": 108119001
+      },
+      "602": {
+        "Name": "인스턴스 던전 - 팀버밸리 여관 창고",
+        "LEVEL_ID": 2110201,
+        "TELEPORT_POINT_ID": 109119001
+      },
+      "603": {
+        "Name": "인스턴스 던전 - 페레우스 성",
+        "LEVEL_ID": 2110501,
+        "TELEPORT_POINT_ID": 110115101
+      },
+      "604": {
+        "Name": "인스턴스 던전 - 슈테인 실험실",
+        "LEVEL_ID": 2110801,
+        "TELEPORT_POINT_ID": 140119001
+      },
+      "605": {
+        "Name": "인스턴스 던전 - 루생앤미스터리",
+        "LEVEL_ID": 2110701,
+        "TELEPORT_POINT_ID": 113115101
+      },
+      "606": {
+        "Name": "인스턴스 던전 - 붉은 장미 여관",
+        "LEVEL_ID": 2111101,
+        "TELEPORT_POINT_ID": 119119901
+      },
+      "607": {
+        "Name": "인스턴스 던전 - 무도회장",
+        "LEVEL_ID": 2111101,
+        "TELEPORT_POINT_ID": 119119901
+      },
+      "608": {
+        "Name": "인스턴스 던전 - 이사니아서클",
+        "LEVEL_ID": 2110901,
+        "TELEPORT_POINT_ID": 114119001
+      },
+      "609": {
+        "Name": "인스턴스 던전 - 룩스 저택",
+        "LEVEL_ID": 2111201,
+        "TELEPORT_POINT_ID": 115115101
+      },
+      "610": {
+        "Name": "인스턴스 던전 - 룩스 여관",
+        "LEVEL_ID": 2111301,
+        "TELEPORT_POINT_ID": 116115101
+      },
+      "611": {
+        "Name": "인스턴스 던전 - 플로렌스 저택",
+        "LEVEL_ID": 2111701,
+        "TELEPORT_POINT_ID": 146116101
+      },
+      "701": {
+        "Name": "에몬 성소 전투 패배 시 위치",
+        "LEVEL_ID": 2120101,
+        "TELEPORT_POINT_ID": 120115101
+      },
+      "702": {
+        "Name": "퀘스트_찬란한 봄은 오는가:: 전투 패배 시 위치_1",
+        "LEVEL_ID": 2111501,
+        "TELEPORT_POINT_ID": 143116001
+      },
+      "703": {
+        "Name": "퀘스트_찬란한 봄은 오는가:: 전투 패배 시 위치_2",
+        "LEVEL_ID": 2111501,
+        "TELEPORT_POINT_ID": 143116002
+      },
+      "704": {
+        "Name": "퀘스트_미혹의 숲:: 전투 패배",
+        "LEVEL_ID": 2111001,
+        "TELEPORT_POINT_ID": 191115102
+      },
+      "705": {
+        "Name": "퀘스트_플로렌스 저택 :: 전투 패배",
+        "LEVEL_ID": 2111701,
+        "TELEPORT_POINT_ID": 146116104
+      },
+      "706": {
+        "Name": "퀘스트_지하수로 :: 전투 패배",
+        "LEVEL_ID": 2111901,
+        "TELEPORT_POINT_ID": 118116003
+      },
+      "801": {
+        "Name": "긴급탈출 - 파로스 누스카 전투",
+        "LEVEL_ID": 1010202,
+        "TELEPORT_POINT_ID": 141110101
+      },
+      "802": {
+        "Name": "긴급탈출 - 파로스 오염된 관장실",
+        "LEVEL_ID": 1010203,
+        "TELEPORT_POINT_ID": 132110101
+      },
+      "803": {
+        "Name": "긴급탈출 - 불타는 팀버밸리",
+        "LEVEL_ID": 2110301,
+        "TELEPORT_POINT_ID": 130110101
+      },
+      "804": {
+        "Name": "긴급탈출 - 룩스 성벽 외곽",
+        "LEVEL_ID": 2111501,
+        "TELEPORT_POINT_ID": 143116001
+      },
+      "805": {
+        "Name": "긴급탈출 - 페레우스 에몬 인던",
+        "LEVEL_ID": 2120101,
+        "TELEPORT_POINT_ID": 120110101
+      },
+      "901": {
+        "Name": "PV용 텔레포트 포인트 - 마차",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 102119801
+      },
+      "902": {
+        "Name": "PV용 텔레포트 - 초원",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 104119803
+      },
+      "903": {
+        "Name": "PV용 텔레포트 - 마굿간",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 102119802
+      },
+      "904": {
+        "Name": "PV용 텔레포트 - 투누스 부락",
+        "LEVEL_ID": 1010101,
+        "TELEPORT_POINT_ID": 102119804
+      },
+      "999": {
+        "Name": "테스트 레벨",
+        "LEVEL_ID": 9999901,
+        "TELEPORT_POINT_ID": 999110101
+      }
+    }
+  }
+]

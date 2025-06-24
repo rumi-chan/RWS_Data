@@ -1,0 +1,135 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "SUMMON_LIST",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBSUMMON_LIST'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1": {
+        "MOB_ID": 300606,
+        "Count": 2,
+        "MAX_COUNT": 2,
+        "MAX_SUMMON_TYPE": 1,
+        "LEVEL_TYPE": 0,
+        "Level": 0,
+        "ADJUST_STAT_TYPE": 1,
+        "INHERITANCE_HP": 1,
+        "LIFE_TURN": 0,
+        "DESTROY_TYPE": 1
+      },
+      "10": {
+        "MOB_ID": 302931,
+        "Count": 2,
+        "MAX_COUNT": 3,
+        "MAX_SUMMON_TYPE": 1,
+        "LEVEL_TYPE": 0,
+        "Level": 0,
+        "ADJUST_STAT_TYPE": 1,
+        "INHERITANCE_HP": 1,
+        "LIFE_TURN": 0,
+        "DESTROY_TYPE": 1
+      },
+      "2": {
+        "MOB_ID": 300101,
+        "Count": 1,
+        "MAX_COUNT": 1,
+        "MAX_SUMMON_TYPE": 1,
+        "LEVEL_TYPE": 0,
+        "Level": 0,
+        "ADJUST_STAT_TYPE": 1,
+        "INHERITANCE_HP": 1,
+        "LIFE_TURN": 0,
+        "DESTROY_TYPE": 0
+      },
+      "3": {
+        "MOB_ID": 300102,
+        "Count": 1,
+        "MAX_COUNT": 1,
+        "MAX_SUMMON_TYPE": 1,
+        "LEVEL_TYPE": 0,
+        "Level": 0,
+        "ADJUST_STAT_TYPE": 1,
+        "INHERITANCE_HP": 1,
+        "LIFE_TURN": 0,
+        "DESTROY_TYPE": 0
+      },
+      "4": {
+        "MOB_ID": 300103,
+        "Count": 1,
+        "MAX_COUNT": 1,
+        "MAX_SUMMON_TYPE": 1,
+        "LEVEL_TYPE": 0,
+        "Level": 0,
+        "ADJUST_STAT_TYPE": 1,
+        "INHERITANCE_HP": 1,
+        "LIFE_TURN": 0,
+        "DESTROY_TYPE": 0
+      },
+      "5": {
+        "MOB_ID": 300104,
+        "Count": 1,
+        "MAX_COUNT": 1,
+        "MAX_SUMMON_TYPE": 1,
+        "LEVEL_TYPE": 0,
+        "Level": 0,
+        "ADJUST_STAT_TYPE": 1,
+        "INHERITANCE_HP": 1,
+        "LIFE_TURN": 0,
+        "DESTROY_TYPE": 0
+      },
+      "6": {
+        "MOB_ID": 300105,
+        "Count": 1,
+        "MAX_COUNT": 1,
+        "MAX_SUMMON_TYPE": 1,
+        "LEVEL_TYPE": 0,
+        "Level": 0,
+        "ADJUST_STAT_TYPE": 1,
+        "INHERITANCE_HP": 1,
+        "LIFE_TURN": 0,
+        "DESTROY_TYPE": 0
+      },
+      "7": {
+        "MOB_ID": 302821,
+        "Count": 2,
+        "MAX_COUNT": 3,
+        "MAX_SUMMON_TYPE": 1,
+        "LEVEL_TYPE": 0,
+        "Level": 0,
+        "ADJUST_STAT_TYPE": 1,
+        "INHERITANCE_HP": 1,
+        "LIFE_TURN": 0,
+        "DESTROY_TYPE": 1
+      },
+      "8": {
+        "MOB_ID": 302921,
+        "Count": 2,
+        "MAX_COUNT": 3,
+        "MAX_SUMMON_TYPE": 1,
+        "LEVEL_TYPE": 0,
+        "Level": 0,
+        "ADJUST_STAT_TYPE": 1,
+        "INHERITANCE_HP": 1,
+        "LIFE_TURN": 0,
+        "DESTROY_TYPE": 1
+      },
+      "9": {
+        "MOB_ID": 302831,
+        "Count": 2,
+        "MAX_COUNT": 3,
+        "MAX_SUMMON_TYPE": 1,
+        "LEVEL_TYPE": 0,
+        "Level": 0,
+        "ADJUST_STAT_TYPE": 1,
+        "INHERITANCE_HP": 1,
+        "LIFE_TURN": 0,
+        "DESTROY_TYPE": 1
+      }
+    }
+  }
+]

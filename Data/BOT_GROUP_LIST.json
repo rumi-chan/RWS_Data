@@ -1,0 +1,1015 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "BOT_GROUP_LIST",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBBOT_GROUP_LIST'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "31301001": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 1,
+        "BOT_ID_SLOT1": 100004001,
+        "BOT_ID_SLOT2": 100007001,
+        "BOT_ID_SLOT3": 100016001,
+        "BOT_ID_SLOT4": 100003001,
+        "BADGE_ID": 100004,
+        "Name": "BOT_NAME_100001"
+      },
+      "31301002": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 1,
+        "BOT_ID_SLOT1": 100008001,
+        "BOT_ID_SLOT2": 100021001,
+        "BOT_ID_SLOT3": 100003001,
+        "BOT_ID_SLOT4": 100014001,
+        "BADGE_ID": 100008,
+        "Name": "BOT_NAME_100002"
+      },
+      "31301003": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 1,
+        "BOT_ID_SLOT1": 100010001,
+        "BOT_ID_SLOT2": 100016001,
+        "BOT_ID_SLOT3": 100012001,
+        "BOT_ID_SLOT4": 100014001,
+        "BADGE_ID": 100010,
+        "Name": "BOT_NAME_100003"
+      },
+      "31301004": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 1,
+        "BOT_ID_SLOT1": 100016001,
+        "BOT_ID_SLOT2": 100018001,
+        "BOT_ID_SLOT3": 100019001,
+        "BOT_ID_SLOT4": 100013001,
+        "BADGE_ID": 100016,
+        "Name": "BOT_NAME_100004"
+      },
+      "31301005": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 1,
+        "BOT_ID_SLOT1": 100020001,
+        "BOT_ID_SLOT2": 100021001,
+        "BOT_ID_SLOT3": 100022001,
+        "BOT_ID_SLOT4": 100013001,
+        "BADGE_ID": 100020,
+        "Name": "BOT_NAME_100005"
+      },
+      "31301006": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 1,
+        "BOT_ID_SLOT1": 100013001,
+        "BOT_ID_SLOT2": 100015001,
+        "BOT_ID_SLOT3": 100012001,
+        "BOT_ID_SLOT4": 100003001,
+        "BADGE_ID": 100013,
+        "Name": "BOT_NAME_100006"
+      },
+      "31301007": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 1,
+        "BOT_ID_SLOT1": 100002001,
+        "BOT_ID_SLOT2": 100003001,
+        "BOT_ID_SLOT3": 100013001,
+        "BOT_ID_SLOT4": 100018001,
+        "BADGE_ID": 100002,
+        "Name": "BOT_NAME_100007"
+      },
+      "31301008": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 1,
+        "BOT_ID_SLOT1": 100022001,
+        "BOT_ID_SLOT2": 100016001,
+        "BOT_ID_SLOT3": 100021001,
+        "BOT_ID_SLOT4": 100015001,
+        "BADGE_ID": 100022,
+        "Name": "BOT_NAME_100008"
+      },
+      "31301009": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 1,
+        "BOT_ID_SLOT1": 100005001,
+        "BOT_ID_SLOT2": 100016001,
+        "BOT_ID_SLOT3": 100022001,
+        "BOT_ID_SLOT4": 100010001,
+        "BADGE_ID": 100005,
+        "Name": "BOT_NAME_100009"
+      },
+      "31301010": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 1,
+        "BOT_ID_SLOT1": 100014001,
+        "BOT_ID_SLOT2": 100020001,
+        "BOT_ID_SLOT3": 100010001,
+        "BOT_ID_SLOT4": 100008001,
+        "BADGE_ID": 100014,
+        "Name": "BOT_NAME_100010"
+      },
+      "31302001": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 2,
+        "BOT_ID_SLOT1": 100004010,
+        "BOT_ID_SLOT2": 100007010,
+        "BOT_ID_SLOT3": 100016010,
+        "BOT_ID_SLOT4": 100003010,
+        "BADGE_ID": 100004,
+        "Name": "BOT_NAME_100001"
+      },
+      "31302002": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 2,
+        "BOT_ID_SLOT1": 100008010,
+        "BOT_ID_SLOT2": 100021010,
+        "BOT_ID_SLOT3": 100003010,
+        "BOT_ID_SLOT4": 100011010,
+        "BADGE_ID": 100008,
+        "Name": "BOT_NAME_100002"
+      },
+      "31302003": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 2,
+        "BOT_ID_SLOT1": 100010010,
+        "BOT_ID_SLOT2": 100016010,
+        "BOT_ID_SLOT3": 100012010,
+        "BOT_ID_SLOT4": 100014010,
+        "BADGE_ID": 100010,
+        "Name": "BOT_NAME_100003"
+      },
+      "31302004": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 2,
+        "BOT_ID_SLOT1": 100016010,
+        "BOT_ID_SLOT2": 100018010,
+        "BOT_ID_SLOT3": 100019010,
+        "BOT_ID_SLOT4": 100004010,
+        "BADGE_ID": 100016,
+        "Name": "BOT_NAME_100004"
+      },
+      "31302005": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 2,
+        "BOT_ID_SLOT1": 100020010,
+        "BOT_ID_SLOT2": 100021010,
+        "BOT_ID_SLOT3": 100022010,
+        "BOT_ID_SLOT4": 100013010,
+        "BADGE_ID": 100020,
+        "Name": "BOT_NAME_100005"
+      },
+      "31302006": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 2,
+        "BOT_ID_SLOT1": 100013010,
+        "BOT_ID_SLOT2": 100015010,
+        "BOT_ID_SLOT3": 100012010,
+        "BOT_ID_SLOT4": 100003010,
+        "BADGE_ID": 100013,
+        "Name": "BOT_NAME_100006"
+      },
+      "31302007": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 2,
+        "BOT_ID_SLOT1": 100002010,
+        "BOT_ID_SLOT2": 100003010,
+        "BOT_ID_SLOT3": 100013010,
+        "BOT_ID_SLOT4": 100018010,
+        "BADGE_ID": 100002,
+        "Name": "BOT_NAME_100007"
+      },
+      "31302008": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 2,
+        "BOT_ID_SLOT1": 100022010,
+        "BOT_ID_SLOT2": 100016010,
+        "BOT_ID_SLOT3": 100021010,
+        "BOT_ID_SLOT4": 100015010,
+        "BADGE_ID": 100022,
+        "Name": "BOT_NAME_100008"
+      },
+      "31302009": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 2,
+        "BOT_ID_SLOT1": 100005010,
+        "BOT_ID_SLOT2": 100016010,
+        "BOT_ID_SLOT3": 100022010,
+        "BOT_ID_SLOT4": 100010010,
+        "BADGE_ID": 100005,
+        "Name": "BOT_NAME_100009"
+      },
+      "31302010": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 2,
+        "BOT_ID_SLOT1": 100014010,
+        "BOT_ID_SLOT2": 100020010,
+        "BOT_ID_SLOT3": 100010010,
+        "BOT_ID_SLOT4": 100008010,
+        "BADGE_ID": 100014,
+        "Name": "BOT_NAME_100010"
+      },
+      "31303001": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 3,
+        "BOT_ID_SLOT1": 100004020,
+        "BOT_ID_SLOT2": 100007020,
+        "BOT_ID_SLOT3": 100016020,
+        "BOT_ID_SLOT4": 100003020,
+        "BADGE_ID": 100004,
+        "Name": "BOT_NAME_100001"
+      },
+      "31303002": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 3,
+        "BOT_ID_SLOT1": 100008020,
+        "BOT_ID_SLOT2": 100021020,
+        "BOT_ID_SLOT3": 100003020,
+        "BOT_ID_SLOT4": 100011020,
+        "BADGE_ID": 100008,
+        "Name": "BOT_NAME_100002"
+      },
+      "31303003": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 3,
+        "BOT_ID_SLOT1": 100010020,
+        "BOT_ID_SLOT2": 100016020,
+        "BOT_ID_SLOT3": 100012020,
+        "BOT_ID_SLOT4": 100014020,
+        "BADGE_ID": 100010,
+        "Name": "BOT_NAME_100003"
+      },
+      "31303004": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 3,
+        "BOT_ID_SLOT1": 100016020,
+        "BOT_ID_SLOT2": 100018020,
+        "BOT_ID_SLOT3": 100019020,
+        "BOT_ID_SLOT4": 100004020,
+        "BADGE_ID": 100016,
+        "Name": "BOT_NAME_100004"
+      },
+      "31303005": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 3,
+        "BOT_ID_SLOT1": 100020020,
+        "BOT_ID_SLOT2": 100021020,
+        "BOT_ID_SLOT3": 100022020,
+        "BOT_ID_SLOT4": 100013020,
+        "BADGE_ID": 100020,
+        "Name": "BOT_NAME_100005"
+      },
+      "31303006": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 3,
+        "BOT_ID_SLOT1": 100013020,
+        "BOT_ID_SLOT2": 100015020,
+        "BOT_ID_SLOT3": 100012020,
+        "BOT_ID_SLOT4": 100003020,
+        "BADGE_ID": 100013,
+        "Name": "BOT_NAME_100006"
+      },
+      "31303007": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 3,
+        "BOT_ID_SLOT1": 100002020,
+        "BOT_ID_SLOT2": 100003020,
+        "BOT_ID_SLOT3": 100013020,
+        "BOT_ID_SLOT4": 100018020,
+        "BADGE_ID": 100002,
+        "Name": "BOT_NAME_100007"
+      },
+      "31303008": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 3,
+        "BOT_ID_SLOT1": 100022020,
+        "BOT_ID_SLOT2": 100016020,
+        "BOT_ID_SLOT3": 100021020,
+        "BOT_ID_SLOT4": 100015020,
+        "BADGE_ID": 100022,
+        "Name": "BOT_NAME_100008"
+      },
+      "31303009": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 3,
+        "BOT_ID_SLOT1": 100005020,
+        "BOT_ID_SLOT2": 100016020,
+        "BOT_ID_SLOT3": 100022020,
+        "BOT_ID_SLOT4": 100010020,
+        "BADGE_ID": 100005,
+        "Name": "BOT_NAME_100009"
+      },
+      "31303010": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 3,
+        "BOT_ID_SLOT1": 100014020,
+        "BOT_ID_SLOT2": 100020020,
+        "BOT_ID_SLOT3": 100010020,
+        "BOT_ID_SLOT4": 100008020,
+        "BADGE_ID": 100014,
+        "Name": "BOT_NAME_100010"
+      },
+      "31304001": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 4,
+        "BOT_ID_SLOT1": 100004030,
+        "BOT_ID_SLOT2": 100007030,
+        "BOT_ID_SLOT3": 100016030,
+        "BOT_ID_SLOT4": 100003030,
+        "BADGE_ID": 100004,
+        "Name": "BOT_NAME_100001"
+      },
+      "31304002": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 4,
+        "BOT_ID_SLOT1": 100008030,
+        "BOT_ID_SLOT2": 100021030,
+        "BOT_ID_SLOT3": 100003030,
+        "BOT_ID_SLOT4": 100011030,
+        "BADGE_ID": 100008,
+        "Name": "BOT_NAME_100002"
+      },
+      "31304003": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 4,
+        "BOT_ID_SLOT1": 100010030,
+        "BOT_ID_SLOT2": 100016030,
+        "BOT_ID_SLOT3": 100012030,
+        "BOT_ID_SLOT4": 100014030,
+        "BADGE_ID": 100010,
+        "Name": "BOT_NAME_100003"
+      },
+      "31304004": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 4,
+        "BOT_ID_SLOT1": 100016030,
+        "BOT_ID_SLOT2": 100018030,
+        "BOT_ID_SLOT3": 100019030,
+        "BOT_ID_SLOT4": 100004030,
+        "BADGE_ID": 100016,
+        "Name": "BOT_NAME_100004"
+      },
+      "31304005": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 4,
+        "BOT_ID_SLOT1": 100020030,
+        "BOT_ID_SLOT2": 100021030,
+        "BOT_ID_SLOT3": 100022030,
+        "BOT_ID_SLOT4": 100013030,
+        "BADGE_ID": 100020,
+        "Name": "BOT_NAME_100005"
+      },
+      "31304006": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 4,
+        "BOT_ID_SLOT1": 100013030,
+        "BOT_ID_SLOT2": 100015030,
+        "BOT_ID_SLOT3": 100012030,
+        "BOT_ID_SLOT4": 100003030,
+        "BADGE_ID": 100013,
+        "Name": "BOT_NAME_100006"
+      },
+      "31304007": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 4,
+        "BOT_ID_SLOT1": 100002030,
+        "BOT_ID_SLOT2": 100003030,
+        "BOT_ID_SLOT3": 100013030,
+        "BOT_ID_SLOT4": 100018030,
+        "BADGE_ID": 100002,
+        "Name": "BOT_NAME_100007"
+      },
+      "31304008": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 4,
+        "BOT_ID_SLOT1": 100022030,
+        "BOT_ID_SLOT2": 100016030,
+        "BOT_ID_SLOT3": 100021030,
+        "BOT_ID_SLOT4": 100015030,
+        "BADGE_ID": 100022,
+        "Name": "BOT_NAME_100008"
+      },
+      "31304009": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 4,
+        "BOT_ID_SLOT1": 100005030,
+        "BOT_ID_SLOT2": 100016030,
+        "BOT_ID_SLOT3": 100022030,
+        "BOT_ID_SLOT4": 100010030,
+        "BADGE_ID": 100005,
+        "Name": "BOT_NAME_100009"
+      },
+      "31304010": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 4,
+        "BOT_ID_SLOT1": 100014030,
+        "BOT_ID_SLOT2": 100020030,
+        "BOT_ID_SLOT3": 100010030,
+        "BOT_ID_SLOT4": 100008030,
+        "BADGE_ID": 100014,
+        "Name": "BOT_NAME_100010"
+      },
+      "31305001": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 5,
+        "BOT_ID_SLOT1": 100004040,
+        "BOT_ID_SLOT2": 100007040,
+        "BOT_ID_SLOT3": 100016040,
+        "BOT_ID_SLOT4": 100003040,
+        "BADGE_ID": 100004,
+        "Name": "BOT_NAME_100001"
+      },
+      "31305002": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 5,
+        "BOT_ID_SLOT1": 100008040,
+        "BOT_ID_SLOT2": 100021040,
+        "BOT_ID_SLOT3": 100003040,
+        "BOT_ID_SLOT4": 100011040,
+        "BADGE_ID": 100008,
+        "Name": "BOT_NAME_100002"
+      },
+      "31305003": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 5,
+        "BOT_ID_SLOT1": 100010040,
+        "BOT_ID_SLOT2": 100016040,
+        "BOT_ID_SLOT3": 100012040,
+        "BOT_ID_SLOT4": 100014040,
+        "BADGE_ID": 100010,
+        "Name": "BOT_NAME_100003"
+      },
+      "31305004": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 5,
+        "BOT_ID_SLOT1": 100016040,
+        "BOT_ID_SLOT2": 100018040,
+        "BOT_ID_SLOT3": 100019040,
+        "BOT_ID_SLOT4": 100004040,
+        "BADGE_ID": 100016,
+        "Name": "BOT_NAME_100004"
+      },
+      "31305005": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 5,
+        "BOT_ID_SLOT1": 100020040,
+        "BOT_ID_SLOT2": 100021040,
+        "BOT_ID_SLOT3": 100022040,
+        "BOT_ID_SLOT4": 100013040,
+        "BADGE_ID": 100020,
+        "Name": "BOT_NAME_100005"
+      },
+      "31305006": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 5,
+        "BOT_ID_SLOT1": 100013040,
+        "BOT_ID_SLOT2": 100015040,
+        "BOT_ID_SLOT3": 100012040,
+        "BOT_ID_SLOT4": 100003040,
+        "BADGE_ID": 100013,
+        "Name": "BOT_NAME_100006"
+      },
+      "31305007": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 5,
+        "BOT_ID_SLOT1": 100002040,
+        "BOT_ID_SLOT2": 100003040,
+        "BOT_ID_SLOT3": 100013040,
+        "BOT_ID_SLOT4": 100018040,
+        "BADGE_ID": 100002,
+        "Name": "BOT_NAME_100007"
+      },
+      "31305008": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 5,
+        "BOT_ID_SLOT1": 100022040,
+        "BOT_ID_SLOT2": 100016040,
+        "BOT_ID_SLOT3": 100021040,
+        "BOT_ID_SLOT4": 100015040,
+        "BADGE_ID": 100022,
+        "Name": "BOT_NAME_100008"
+      },
+      "31305009": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 5,
+        "BOT_ID_SLOT1": 100005040,
+        "BOT_ID_SLOT2": 100016040,
+        "BOT_ID_SLOT3": 100022040,
+        "BOT_ID_SLOT4": 100010040,
+        "BADGE_ID": 100005,
+        "Name": "BOT_NAME_100009"
+      },
+      "31305010": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 5,
+        "BOT_ID_SLOT1": 100014040,
+        "BOT_ID_SLOT2": 100020040,
+        "BOT_ID_SLOT3": 100010040,
+        "BOT_ID_SLOT4": 100008040,
+        "BADGE_ID": 100014,
+        "Name": "BOT_NAME_100010"
+      },
+      "31306001": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 6,
+        "BOT_ID_SLOT1": 100004050,
+        "BOT_ID_SLOT2": 100007050,
+        "BOT_ID_SLOT3": 100016050,
+        "BOT_ID_SLOT4": 100003050,
+        "BADGE_ID": 100004,
+        "Name": "BOT_NAME_100001"
+      },
+      "31306002": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 6,
+        "BOT_ID_SLOT1": 100008050,
+        "BOT_ID_SLOT2": 100021050,
+        "BOT_ID_SLOT3": 100003050,
+        "BOT_ID_SLOT4": 100011050,
+        "BADGE_ID": 100008,
+        "Name": "BOT_NAME_100002"
+      },
+      "31306003": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 6,
+        "BOT_ID_SLOT1": 100010050,
+        "BOT_ID_SLOT2": 100016050,
+        "BOT_ID_SLOT3": 100012050,
+        "BOT_ID_SLOT4": 100014050,
+        "BADGE_ID": 100010,
+        "Name": "BOT_NAME_100003"
+      },
+      "31306004": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 6,
+        "BOT_ID_SLOT1": 100016050,
+        "BOT_ID_SLOT2": 100018050,
+        "BOT_ID_SLOT3": 100019050,
+        "BOT_ID_SLOT4": 100004050,
+        "BADGE_ID": 100016,
+        "Name": "BOT_NAME_100004"
+      },
+      "31306005": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 6,
+        "BOT_ID_SLOT1": 100020050,
+        "BOT_ID_SLOT2": 100021050,
+        "BOT_ID_SLOT3": 100022050,
+        "BOT_ID_SLOT4": 100013050,
+        "BADGE_ID": 100020,
+        "Name": "BOT_NAME_100005"
+      },
+      "31306006": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 6,
+        "BOT_ID_SLOT1": 100013050,
+        "BOT_ID_SLOT2": 100015050,
+        "BOT_ID_SLOT3": 100012050,
+        "BOT_ID_SLOT4": 100003050,
+        "BADGE_ID": 100013,
+        "Name": "BOT_NAME_100006"
+      },
+      "31306007": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 6,
+        "BOT_ID_SLOT1": 100002050,
+        "BOT_ID_SLOT2": 100003050,
+        "BOT_ID_SLOT3": 100013050,
+        "BOT_ID_SLOT4": 100018050,
+        "BADGE_ID": 100002,
+        "Name": "BOT_NAME_100007"
+      },
+      "31306008": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 6,
+        "BOT_ID_SLOT1": 100022050,
+        "BOT_ID_SLOT2": 100016050,
+        "BOT_ID_SLOT3": 100021050,
+        "BOT_ID_SLOT4": 100015050,
+        "BADGE_ID": 100022,
+        "Name": "BOT_NAME_100008"
+      },
+      "31306009": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 6,
+        "BOT_ID_SLOT1": 100005050,
+        "BOT_ID_SLOT2": 100016050,
+        "BOT_ID_SLOT3": 100022050,
+        "BOT_ID_SLOT4": 100010050,
+        "BADGE_ID": 100005,
+        "Name": "BOT_NAME_100009"
+      },
+      "31306010": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 6,
+        "BOT_ID_SLOT1": 100014050,
+        "BOT_ID_SLOT2": 100020050,
+        "BOT_ID_SLOT3": 100010050,
+        "BOT_ID_SLOT4": 100008050,
+        "BADGE_ID": 100014,
+        "Name": "BOT_NAME_100010"
+      },
+      "31307001": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 7,
+        "BOT_ID_SLOT1": 100004060,
+        "BOT_ID_SLOT2": 100007060,
+        "BOT_ID_SLOT3": 100016060,
+        "BOT_ID_SLOT4": 100003060,
+        "BADGE_ID": 100004,
+        "Name": "BOT_NAME_100001"
+      },
+      "31307002": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 7,
+        "BOT_ID_SLOT1": 100008060,
+        "BOT_ID_SLOT2": 100021060,
+        "BOT_ID_SLOT3": 100003060,
+        "BOT_ID_SLOT4": 100011060,
+        "BADGE_ID": 100008,
+        "Name": "BOT_NAME_100002"
+      },
+      "31307003": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 7,
+        "BOT_ID_SLOT1": 100010060,
+        "BOT_ID_SLOT2": 100016060,
+        "BOT_ID_SLOT3": 100012060,
+        "BOT_ID_SLOT4": 100014060,
+        "BADGE_ID": 100010,
+        "Name": "BOT_NAME_100003"
+      },
+      "31307004": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 7,
+        "BOT_ID_SLOT1": 100016060,
+        "BOT_ID_SLOT2": 100018060,
+        "BOT_ID_SLOT3": 100019060,
+        "BOT_ID_SLOT4": 100004060,
+        "BADGE_ID": 100016,
+        "Name": "BOT_NAME_100004"
+      },
+      "31307005": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 7,
+        "BOT_ID_SLOT1": 100020060,
+        "BOT_ID_SLOT2": 100021060,
+        "BOT_ID_SLOT3": 100022060,
+        "BOT_ID_SLOT4": 100013060,
+        "BADGE_ID": 100020,
+        "Name": "BOT_NAME_100005"
+      },
+      "31307006": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 7,
+        "BOT_ID_SLOT1": 100013060,
+        "BOT_ID_SLOT2": 100015060,
+        "BOT_ID_SLOT3": 100012060,
+        "BOT_ID_SLOT4": 100003060,
+        "BADGE_ID": 100013,
+        "Name": "BOT_NAME_100006"
+      },
+      "31307007": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 7,
+        "BOT_ID_SLOT1": 100002060,
+        "BOT_ID_SLOT2": 100003060,
+        "BOT_ID_SLOT3": 100013060,
+        "BOT_ID_SLOT4": 100018060,
+        "BADGE_ID": 100002,
+        "Name": "BOT_NAME_100007"
+      },
+      "31307008": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 7,
+        "BOT_ID_SLOT1": 100022060,
+        "BOT_ID_SLOT2": 100016060,
+        "BOT_ID_SLOT3": 100021060,
+        "BOT_ID_SLOT4": 100015060,
+        "BADGE_ID": 100022,
+        "Name": "BOT_NAME_100008"
+      },
+      "31307009": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 7,
+        "BOT_ID_SLOT1": 100005060,
+        "BOT_ID_SLOT2": 100016060,
+        "BOT_ID_SLOT3": 100022060,
+        "BOT_ID_SLOT4": 100010060,
+        "BADGE_ID": 100005,
+        "Name": "BOT_NAME_100009"
+      },
+      "31307010": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 7,
+        "BOT_ID_SLOT1": 100014060,
+        "BOT_ID_SLOT2": 100020060,
+        "BOT_ID_SLOT3": 100010060,
+        "BOT_ID_SLOT4": 100008060,
+        "BADGE_ID": 100014,
+        "Name": "BOT_NAME_100010"
+      },
+      "31308001": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 8,
+        "BOT_ID_SLOT1": 100004070,
+        "BOT_ID_SLOT2": 100007070,
+        "BOT_ID_SLOT3": 100016070,
+        "BOT_ID_SLOT4": 100003070,
+        "BADGE_ID": 100004,
+        "Name": "BOT_NAME_100001"
+      },
+      "31308002": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 8,
+        "BOT_ID_SLOT1": 100008070,
+        "BOT_ID_SLOT2": 100021070,
+        "BOT_ID_SLOT3": 100003070,
+        "BOT_ID_SLOT4": 100011070,
+        "BADGE_ID": 100008,
+        "Name": "BOT_NAME_100002"
+      },
+      "31308003": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 8,
+        "BOT_ID_SLOT1": 100010070,
+        "BOT_ID_SLOT2": 100016070,
+        "BOT_ID_SLOT3": 100012070,
+        "BOT_ID_SLOT4": 100014070,
+        "BADGE_ID": 100010,
+        "Name": "BOT_NAME_100003"
+      },
+      "31308004": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 8,
+        "BOT_ID_SLOT1": 100016070,
+        "BOT_ID_SLOT2": 100018070,
+        "BOT_ID_SLOT3": 100019070,
+        "BOT_ID_SLOT4": 100004070,
+        "BADGE_ID": 100016,
+        "Name": "BOT_NAME_100004"
+      },
+      "31308005": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 8,
+        "BOT_ID_SLOT1": 100020070,
+        "BOT_ID_SLOT2": 100021070,
+        "BOT_ID_SLOT3": 100022070,
+        "BOT_ID_SLOT4": 100013070,
+        "BADGE_ID": 100020,
+        "Name": "BOT_NAME_100005"
+      },
+      "31308006": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 8,
+        "BOT_ID_SLOT1": 100013070,
+        "BOT_ID_SLOT2": 100015070,
+        "BOT_ID_SLOT3": 100012070,
+        "BOT_ID_SLOT4": 100003070,
+        "BADGE_ID": 100013,
+        "Name": "BOT_NAME_100006"
+      },
+      "31308007": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 8,
+        "BOT_ID_SLOT1": 100002070,
+        "BOT_ID_SLOT2": 100003070,
+        "BOT_ID_SLOT3": 100013070,
+        "BOT_ID_SLOT4": 100018070,
+        "BADGE_ID": 100002,
+        "Name": "BOT_NAME_100007"
+      },
+      "31308008": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 8,
+        "BOT_ID_SLOT1": 100022070,
+        "BOT_ID_SLOT2": 100016070,
+        "BOT_ID_SLOT3": 100021070,
+        "BOT_ID_SLOT4": 100015070,
+        "BADGE_ID": 100022,
+        "Name": "BOT_NAME_100008"
+      },
+      "31308009": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 8,
+        "BOT_ID_SLOT1": 100005070,
+        "BOT_ID_SLOT2": 100016070,
+        "BOT_ID_SLOT3": 100022070,
+        "BOT_ID_SLOT4": 100010070,
+        "BADGE_ID": 100005,
+        "Name": "BOT_NAME_100009"
+      },
+      "31308010": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 8,
+        "BOT_ID_SLOT1": 100014070,
+        "BOT_ID_SLOT2": 100020070,
+        "BOT_ID_SLOT3": 100010070,
+        "BOT_ID_SLOT4": 100008070,
+        "BADGE_ID": 100014,
+        "Name": "BOT_NAME_100010"
+      },
+      "31309001": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 9,
+        "BOT_ID_SLOT1": 100004080,
+        "BOT_ID_SLOT2": 100007080,
+        "BOT_ID_SLOT3": 100002080,
+        "BOT_ID_SLOT4": 100003080,
+        "BADGE_ID": 100004,
+        "Name": "BOT_NAME_100001"
+      },
+      "31309002": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 9,
+        "BOT_ID_SLOT1": 100008080,
+        "BOT_ID_SLOT2": 100015080,
+        "BOT_ID_SLOT3": 100003080,
+        "BOT_ID_SLOT4": 100011080,
+        "BADGE_ID": 100008,
+        "Name": "BOT_NAME_100002"
+      },
+      "31309003": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 9,
+        "BOT_ID_SLOT1": 100010080,
+        "BOT_ID_SLOT2": 100016080,
+        "BOT_ID_SLOT3": 100012080,
+        "BOT_ID_SLOT4": 100014080,
+        "BADGE_ID": 100010,
+        "Name": "BOT_NAME_100003"
+      },
+      "31309004": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 9,
+        "BOT_ID_SLOT1": 100016080,
+        "BOT_ID_SLOT2": 100018080,
+        "BOT_ID_SLOT3": 100019080,
+        "BOT_ID_SLOT4": 100005080,
+        "BADGE_ID": 100016,
+        "Name": "BOT_NAME_100004"
+      },
+      "31309005": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 9,
+        "BOT_ID_SLOT1": 100020080,
+        "BOT_ID_SLOT2": 100021080,
+        "BOT_ID_SLOT3": 100022080,
+        "BOT_ID_SLOT4": 100013080,
+        "BADGE_ID": 100020,
+        "Name": "BOT_NAME_100005"
+      },
+      "31309006": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 9,
+        "BOT_ID_SLOT1": 100013080,
+        "BOT_ID_SLOT2": 100015080,
+        "BOT_ID_SLOT3": 100012080,
+        "BOT_ID_SLOT4": 100003080,
+        "BADGE_ID": 100013,
+        "Name": "BOT_NAME_100006"
+      },
+      "31309007": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 9,
+        "BOT_ID_SLOT1": 100002080,
+        "BOT_ID_SLOT2": 100011080,
+        "BOT_ID_SLOT3": 100013080,
+        "BOT_ID_SLOT4": 100018080,
+        "BADGE_ID": 100002,
+        "Name": "BOT_NAME_100007"
+      },
+      "31309008": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 9,
+        "BOT_ID_SLOT1": 100022080,
+        "BOT_ID_SLOT2": 100016080,
+        "BOT_ID_SLOT3": 100021080,
+        "BOT_ID_SLOT4": 100015080,
+        "BADGE_ID": 100022,
+        "Name": "BOT_NAME_100008"
+      },
+      "31309009": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 9,
+        "BOT_ID_SLOT1": 100005080,
+        "BOT_ID_SLOT2": 100016080,
+        "BOT_ID_SLOT3": 100022080,
+        "BOT_ID_SLOT4": 100020080,
+        "BADGE_ID": 100005,
+        "Name": "BOT_NAME_100009"
+      },
+      "31309010": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 9,
+        "BOT_ID_SLOT1": 100014080,
+        "BOT_ID_SLOT2": 100005080,
+        "BOT_ID_SLOT3": 100010080,
+        "BOT_ID_SLOT4": 100008080,
+        "BADGE_ID": 100014,
+        "Name": "BOT_NAME_100010"
+      },
+      "31310001": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 10,
+        "BOT_ID_SLOT1": 100004080,
+        "BOT_ID_SLOT2": 100007080,
+        "BOT_ID_SLOT3": 100002080,
+        "BOT_ID_SLOT4": 100003080,
+        "BADGE_ID": 100004,
+        "Name": "BOT_NAME_100001"
+      },
+      "31310002": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 10,
+        "BOT_ID_SLOT1": 100008080,
+        "BOT_ID_SLOT2": 100015080,
+        "BOT_ID_SLOT3": 100003080,
+        "BOT_ID_SLOT4": 100011080,
+        "BADGE_ID": 100008,
+        "Name": "BOT_NAME_100002"
+      },
+      "31310003": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 10,
+        "BOT_ID_SLOT1": 100010080,
+        "BOT_ID_SLOT2": 100016080,
+        "BOT_ID_SLOT3": 100012080,
+        "BOT_ID_SLOT4": 100014080,
+        "BADGE_ID": 100010,
+        "Name": "BOT_NAME_100003"
+      },
+      "31310004": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 10,
+        "BOT_ID_SLOT1": 100016080,
+        "BOT_ID_SLOT2": 100018080,
+        "BOT_ID_SLOT3": 100019080,
+        "BOT_ID_SLOT4": 100005080,
+        "BADGE_ID": 100016,
+        "Name": "BOT_NAME_100004"
+      },
+      "31310005": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 10,
+        "BOT_ID_SLOT1": 100020080,
+        "BOT_ID_SLOT2": 100021080,
+        "BOT_ID_SLOT3": 100022080,
+        "BOT_ID_SLOT4": 100013080,
+        "BADGE_ID": 100020,
+        "Name": "BOT_NAME_100005"
+      },
+      "31310006": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 10,
+        "BOT_ID_SLOT1": 100013080,
+        "BOT_ID_SLOT2": 100015080,
+        "BOT_ID_SLOT3": 100012080,
+        "BOT_ID_SLOT4": 100003080,
+        "BADGE_ID": 100013,
+        "Name": "BOT_NAME_100006"
+      },
+      "31310007": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 10,
+        "BOT_ID_SLOT1": 100002080,
+        "BOT_ID_SLOT2": 100011080,
+        "BOT_ID_SLOT3": 100013080,
+        "BOT_ID_SLOT4": 100018080,
+        "BADGE_ID": 100002,
+        "Name": "BOT_NAME_100007"
+      },
+      "31310008": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 10,
+        "BOT_ID_SLOT1": 100022080,
+        "BOT_ID_SLOT2": 100016080,
+        "BOT_ID_SLOT3": 100021080,
+        "BOT_ID_SLOT4": 100015080,
+        "BADGE_ID": 100022,
+        "Name": "BOT_NAME_100008"
+      },
+      "31310009": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 10,
+        "BOT_ID_SLOT1": 100005080,
+        "BOT_ID_SLOT2": 100016080,
+        "BOT_ID_SLOT3": 100022080,
+        "BOT_ID_SLOT4": 100020080,
+        "BADGE_ID": 100005,
+        "Name": "BOT_NAME_100009"
+      },
+      "31310010": {
+        "GROUP_ID": 0,
+        "CORE_RANK": 10,
+        "BOT_ID_SLOT1": 100014080,
+        "BOT_ID_SLOT2": 100005080,
+        "BOT_ID_SLOT3": 100010080,
+        "BOT_ID_SLOT4": 100008080,
+        "BADGE_ID": 100014,
+        "Name": "BOT_NAME_100010"
+      }
+    }
+  }
+]

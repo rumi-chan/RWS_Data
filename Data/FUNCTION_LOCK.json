@@ -1,0 +1,250 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "FUNCTION_LOCK",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBFUNCTION_LOCK'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "101101": {
+        "Group": 101,
+        "Function": "ENBContentsMenuType::101",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "101102": {
+        "Group": 101,
+        "Function": "ENBContentsMenuType::102",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "101103": {
+        "Group": 101,
+        "Function": "ENBContentsMenuType::None",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "101104": {
+        "Group": 101,
+        "Function": "ENBContentsMenuType::105",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "101105": {
+        "Group": 101,
+        "Function": "ENBContentsMenuType::106",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "101106": {
+        "Group": 101,
+        "Function": "ENBContentsMenuType::107",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "101107": {
+        "Group": 101,
+        "Function": "ENBContentsMenuType::108",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "101108": {
+        "Group": 101,
+        "Function": "ENBContentsMenuType::109",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "101116": {
+        "Group": 101,
+        "Function": "ENBContentsMenuType::116",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "102101": {
+        "Group": 102,
+        "Function": "ENBContentsMenuType::101",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "102201": {
+        "Group": 102,
+        "Function": "ENBContentsMenuType::201",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "102202": {
+        "Group": 102,
+        "Function": "ENBContentsMenuType::202",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "102203": {
+        "Group": 102,
+        "Function": "ENBContentsMenuType::203",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "102205": {
+        "Group": 102,
+        "Function": "ENBContentsMenuType::102",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "103108": {
+        "Group": 103,
+        "Function": "ENBContentsMenuType::108",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "104202": {
+        "Group": 104,
+        "Function": "ENBContentsMenuType::202",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "301101": {
+        "Group": 301,
+        "Function": "ENBContentsMenuType::101",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "301102": {
+        "Group": 301,
+        "Function": "ENBContentsMenuType::102",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "301103": {
+        "Group": 301,
+        "Function": "ENBContentsMenuType::None",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "301111": {
+        "Group": 301,
+        "Function": "ENBContentsMenuType::111",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "301112": {
+        "Group": 301,
+        "Function": "ENBContentsMenuType::None",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "301113": {
+        "Group": 301,
+        "Function": "ENBContentsMenuType::113",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "301114": {
+        "Group": 301,
+        "Function": "ENBContentsMenuType::114",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "301116": {
+        "Group": 301,
+        "Function": "ENBContentsMenuType::116",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "301118": {
+        "Group": 301,
+        "Function": "ENBContentsMenuType::118",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "301119": {
+        "Group": 301,
+        "Function": "ENBContentsMenuType::119",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "301120": {
+        "Group": 301,
+        "Function": "ENBContentsMenuType::120",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "301122": {
+        "Group": 301,
+        "Function": "ENBContentsMenuType::122",
+        "LOCK_TYPE": "ENBContentsLockType::Unuseable"
+      },
+      "302101": {
+        "Group": 302,
+        "Function": "ENBContentsMenuType::101",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "302102": {
+        "Group": 302,
+        "Function": "ENBContentsMenuType::102",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "302103": {
+        "Group": 302,
+        "Function": "ENBContentsMenuType::None",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "302108": {
+        "Group": 302,
+        "Function": "ENBContentsMenuType::108",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "302111": {
+        "Group": 302,
+        "Function": "ENBContentsMenuType::111",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "302112": {
+        "Group": 302,
+        "Function": "ENBContentsMenuType::None",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "302113": {
+        "Group": 302,
+        "Function": "ENBContentsMenuType::113",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "302114": {
+        "Group": 302,
+        "Function": "ENBContentsMenuType::114",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "302116": {
+        "Group": 302,
+        "Function": "ENBContentsMenuType::116",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "302118": {
+        "Group": 302,
+        "Function": "ENBContentsMenuType::118",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "302119": {
+        "Group": 302,
+        "Function": "ENBContentsMenuType::119",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "302120": {
+        "Group": 302,
+        "Function": "ENBContentsMenuType::120",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "302202": {
+        "Group": 302,
+        "Function": "ENBContentsMenuType::202",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "303116": {
+        "Group": 303,
+        "Function": "ENBContentsMenuType::116",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "303119": {
+        "Group": 303,
+        "Function": "ENBContentsMenuType::119",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "304122": {
+        "Group": 304,
+        "Function": "ENBContentsMenuType::122",
+        "LOCK_TYPE": "ENBContentsLockType::Unuseable"
+      },
+      "305108": {
+        "Group": 305,
+        "Function": "ENBContentsMenuType::108",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      },
+      "305122": {
+        "Group": 305,
+        "Function": "ENBContentsMenuType::122",
+        "LOCK_TYPE": "ENBContentsLockType::Unuseable"
+      },
+      "306113": {
+        "Group": 306,
+        "Function": "ENBContentsMenuType::113",
+        "LOCK_TYPE": "ENBContentsLockType::Lock"
+      }
+    }
+  }
+]

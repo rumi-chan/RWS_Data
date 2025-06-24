@@ -1,0 +1,79 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "LEVEL_CONFIG",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBLEVEL_CONFIG'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "11": {
+        "FIELD_DIE_YN": false,
+        "SURRENDER_TYPE": "ENBSurrenderType::Revive",
+        "REVIVE_TYPE": "ENBReviveType::MoveToNearstEllingway",
+        "SAVE_TRANSFORM": 1,
+        "EXIT_LOCK_YN": 0,
+        "FOOD_ABILITY_YN": 1
+      },
+      "21": {
+        "FIELD_DIE_YN": false,
+        "SURRENDER_TYPE": "ENBSurrenderType::Revive",
+        "REVIVE_TYPE": "ENBReviveType::MoveToNearstEllingway",
+        "SAVE_TRANSFORM": 1,
+        "EXIT_LOCK_YN": 0,
+        "FOOD_ABILITY_YN": 1
+      },
+      "22": {
+        "FIELD_DIE_YN": false,
+        "SURRENDER_TYPE": "ENBSurrenderType::Revive",
+        "REVIVE_TYPE": "ENBReviveType::MoveToNearstEllingway",
+        "SAVE_TRANSFORM": 1,
+        "EXIT_LOCK_YN": 1,
+        "FOOD_ABILITY_YN": 1
+      },
+      "23": {
+        "FIELD_DIE_YN": false,
+        "SURRENDER_TYPE": "ENBSurrenderType::Revive",
+        "REVIVE_TYPE": "ENBReviveType::MoveToNearstEllingway",
+        "SAVE_TRANSFORM": 1,
+        "EXIT_LOCK_YN": 0,
+        "FOOD_ABILITY_YN": 0
+      },
+      "24": {
+        "FIELD_DIE_YN": false,
+        "SURRENDER_TYPE": "ENBSurrenderType::Revive",
+        "REVIVE_TYPE": "ENBReviveType::MoveToNearstEllingway",
+        "SAVE_TRANSFORM": 1,
+        "EXIT_LOCK_YN": 0,
+        "FOOD_ABILITY_YN": 0
+      },
+      "31": {
+        "FIELD_DIE_YN": false,
+        "SURRENDER_TYPE": "ENBSurrenderType::Revive",
+        "REVIVE_TYPE": "ENBReviveType::MoveToNearstEllingway",
+        "SAVE_TRANSFORM": 0,
+        "EXIT_LOCK_YN": 0,
+        "FOOD_ABILITY_YN": 1
+      },
+      "32": {
+        "FIELD_DIE_YN": false,
+        "SURRENDER_TYPE": "ENBSurrenderType::Revive",
+        "REVIVE_TYPE": "ENBReviveType::MoveToNearstEllingway",
+        "SAVE_TRANSFORM": 0,
+        "EXIT_LOCK_YN": 1,
+        "FOOD_ABILITY_YN": 0
+      },
+      "99": {
+        "FIELD_DIE_YN": false,
+        "SURRENDER_TYPE": "ENBSurrenderType::Revive",
+        "REVIVE_TYPE": "ENBReviveType::MoveToNearstEllingway",
+        "SAVE_TRANSFORM": 1,
+        "EXIT_LOCK_YN": 0,
+        "FOOD_ABILITY_YN": 1
+      }
+    }
+  }
+]

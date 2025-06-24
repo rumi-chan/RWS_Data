@@ -1,0 +1,40 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "WORLDMAP_MAIN_OBJECT",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBWORLDMAP_MAIN_OBJECT'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1001": {
+        "OBJECT_ID": 106179801,
+        "Name": "DUNGEON_NAME_4001",
+        "Index": 2
+      },
+      "1002": {
+        "OBJECT_ID": 103179501,
+        "Name": "DUNGEON_NAME_8001",
+        "Index": 3
+      },
+      "1003": {
+        "OBJECT_ID": 134019001,
+        "Name": "UI_ALTAR_TITLE",
+        "Index": 5
+      },
+      "1004": {
+        "OBJECT_ID": 101016110,
+        "Name": "WORK_NPC_20110054",
+        "Index": 1
+      },
+      "1005": {
+        "OBJECT_ID": 701170101,
+        "Name": "DUNGEON_NAME_7001",
+        "Index": 4
+      }
+    }
+  }
+]

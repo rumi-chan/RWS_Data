@@ -1,0 +1,835 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "EXPLORE_CATEGORY",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBEXPLORE_CATEGORY'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "101001": {
+        "DISTRICT_GROUP_ID": 101,
+        "Index": 1,
+        "Icon": "T_UI_Tower_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_TOWER"
+      },
+      "101002": {
+        "DISTRICT_GROUP_ID": 101,
+        "Index": 2,
+        "Icon": "T_UI_Portal_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_WARP"
+      },
+      "101003": {
+        "DISTRICT_GROUP_ID": 101,
+        "Index": 3,
+        "Icon": "T_UI_Ruin_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_DUNGEON"
+      },
+      "101004": {
+        "DISTRICT_GROUP_ID": 101,
+        "Index": 4,
+        "Icon": "T_UI_FieldBoss_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_BOSS"
+      },
+      "101005": {
+        "DISTRICT_GROUP_ID": 101,
+        "Index": 5,
+        "Icon": "T_UI_WeeklyBoss_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_WEEKLYBOSS"
+      },
+      "101006": {
+        "DISTRICT_GROUP_ID": 101,
+        "Index": 6,
+        "Icon": "T_UI_Reward_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_BOX"
+      },
+      "101007": {
+        "DISTRICT_GROUP_ID": 101,
+        "Index": 7,
+        "Icon": "T_UI_Puzzle_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_PUZZLE"
+      },
+      "101008": {
+        "DISTRICT_GROUP_ID": 101,
+        "Index": 8,
+        "Icon": "T_UI_Book_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_SCRIPT"
+      },
+      "101009": {
+        "DISTRICT_GROUP_ID": 101,
+        "Index": 9,
+        "Icon": "T_UI_DungeonTower_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_DUNGEONTOWER"
+      },
+      "101010": {
+        "DISTRICT_GROUP_ID": 101,
+        "Index": 10,
+        "Icon": "T_UI_TangledChaos_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_STELLANOTE_TANGLEDCHAOS_TITLE"
+      },
+      "102001": {
+        "DISTRICT_GROUP_ID": 102,
+        "Index": 1,
+        "Icon": "T_UI_Tower_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_TOWER"
+      },
+      "102002": {
+        "DISTRICT_GROUP_ID": 102,
+        "Index": 2,
+        "Icon": "T_UI_Portal_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_WARP"
+      },
+      "102003": {
+        "DISTRICT_GROUP_ID": 102,
+        "Index": 3,
+        "Icon": "T_UI_Ruin_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_DUNGEON"
+      },
+      "102004": {
+        "DISTRICT_GROUP_ID": 102,
+        "Index": 4,
+        "Icon": "T_UI_FieldBoss_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_BOSS"
+      },
+      "102005": {
+        "DISTRICT_GROUP_ID": 102,
+        "Index": 5,
+        "Icon": "T_UI_WeeklyBoss_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_WEEKLYBOSS"
+      },
+      "102006": {
+        "DISTRICT_GROUP_ID": 102,
+        "Index": 6,
+        "Icon": "T_UI_Reward_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_BOX"
+      },
+      "102007": {
+        "DISTRICT_GROUP_ID": 102,
+        "Index": 7,
+        "Icon": "T_UI_Puzzle_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_PUZZLE"
+      },
+      "102008": {
+        "DISTRICT_GROUP_ID": 102,
+        "Index": 8,
+        "Icon": "T_UI_Book_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_SCRIPT"
+      },
+      "102009": {
+        "DISTRICT_GROUP_ID": 102,
+        "Index": 9,
+        "Icon": "T_UI_DungeonTower_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_DUNGEONTOWER"
+      },
+      "102010": {
+        "DISTRICT_GROUP_ID": 102,
+        "Index": 10,
+        "Icon": "T_UI_TangledChaos_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_STELLANOTE_TANGLEDCHAOS_TITLE"
+      },
+      "102011": {
+        "DISTRICT_GROUP_ID": 102,
+        "Index": 11,
+        "Icon": "T_UI_Fishing_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_STELLANOTE_TANGLEDCHAOS_TITLE"
+      },
+      "102012": {
+        "DISTRICT_GROUP_ID": 102,
+        "Index": 12,
+        "Icon": "T_UI_RemnantsOfDawn_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "ITEM_NAME_701015001"
+      },
+      "103001": {
+        "DISTRICT_GROUP_ID": 103,
+        "Index": 1,
+        "Icon": "T_UI_Tower_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_TOWER"
+      },
+      "103002": {
+        "DISTRICT_GROUP_ID": 103,
+        "Index": 2,
+        "Icon": "T_UI_Portal_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_WARP"
+      },
+      "103003": {
+        "DISTRICT_GROUP_ID": 103,
+        "Index": 3,
+        "Icon": "T_UI_Ruin_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_DUNGEON"
+      },
+      "103004": {
+        "DISTRICT_GROUP_ID": 103,
+        "Index": 4,
+        "Icon": "T_UI_FieldBoss_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_BOSS"
+      },
+      "103005": {
+        "DISTRICT_GROUP_ID": 103,
+        "Index": 5,
+        "Icon": "T_UI_WeeklyBoss_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_WEEKLYBOSS"
+      },
+      "103006": {
+        "DISTRICT_GROUP_ID": 103,
+        "Index": 6,
+        "Icon": "T_UI_Reward_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_BOX"
+      },
+      "103007": {
+        "DISTRICT_GROUP_ID": 103,
+        "Index": 7,
+        "Icon": "T_UI_Puzzle_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_PUZZLE"
+      },
+      "103008": {
+        "DISTRICT_GROUP_ID": 103,
+        "Index": 8,
+        "Icon": "T_UI_Book_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_SCRIPT"
+      },
+      "103009": {
+        "DISTRICT_GROUP_ID": 103,
+        "Index": 9,
+        "Icon": "T_UI_DungeonTower_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_DUNGEONTOWER"
+      },
+      "103010": {
+        "DISTRICT_GROUP_ID": 103,
+        "Index": 10,
+        "Icon": "T_UI_TangledChaos_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_STELLANOTE_TANGLEDCHAOS_TITLE"
+      },
+      "103011": {
+        "DISTRICT_GROUP_ID": 103,
+        "Index": 11,
+        "Icon": "T_UI_Fishing_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_STELLANOTE_TANGLEDCHAOS_TITLE"
+      },
+      "103012": {
+        "DISTRICT_GROUP_ID": 103,
+        "Index": 12,
+        "Icon": "T_UI_RemnantsOfDawn_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "ITEM_NAME_701015001"
+      },
+      "104001": {
+        "DISTRICT_GROUP_ID": 104,
+        "Index": 1,
+        "Icon": "T_UI_Tower_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_TOWER"
+      },
+      "104002": {
+        "DISTRICT_GROUP_ID": 104,
+        "Index": 2,
+        "Icon": "T_UI_Portal_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_WARP"
+      },
+      "104003": {
+        "DISTRICT_GROUP_ID": 104,
+        "Index": 3,
+        "Icon": "T_UI_Ruin_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_DUNGEON"
+      },
+      "104004": {
+        "DISTRICT_GROUP_ID": 104,
+        "Index": 4,
+        "Icon": "T_UI_FieldBoss_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_BOSS"
+      },
+      "104005": {
+        "DISTRICT_GROUP_ID": 104,
+        "Index": 5,
+        "Icon": "T_UI_WeeklyBoss_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_WEEKLYBOSS"
+      },
+      "104006": {
+        "DISTRICT_GROUP_ID": 104,
+        "Index": 6,
+        "Icon": "T_UI_Reward_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_BOX"
+      },
+      "104007": {
+        "DISTRICT_GROUP_ID": 104,
+        "Index": 7,
+        "Icon": "T_UI_Puzzle_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_PUZZLE"
+      },
+      "104008": {
+        "DISTRICT_GROUP_ID": 104,
+        "Index": 8,
+        "Icon": "T_UI_Book_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_SCRIPT"
+      },
+      "104009": {
+        "DISTRICT_GROUP_ID": 104,
+        "Index": 9,
+        "Icon": "T_UI_DungeonTower_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_DUNGEONTOWER"
+      },
+      "104010": {
+        "DISTRICT_GROUP_ID": 104,
+        "Index": 10,
+        "Icon": "T_UI_TangledChaos_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_STELLANOTE_TANGLEDCHAOS_TITLE"
+      },
+      "104011": {
+        "DISTRICT_GROUP_ID": 104,
+        "Index": 11,
+        "Icon": "T_UI_Fishing_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_STELLANOTE_TANGLEDCHAOS_TITLE"
+      },
+      "104012": {
+        "DISTRICT_GROUP_ID": 104,
+        "Index": 12,
+        "Icon": "T_UI_RemnantsOfDawn_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "ITEM_NAME_701015001"
+      },
+      "105001": {
+        "DISTRICT_GROUP_ID": 105,
+        "Index": 1,
+        "Icon": "T_UI_Tower_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_TOWER"
+      },
+      "105002": {
+        "DISTRICT_GROUP_ID": 105,
+        "Index": 2,
+        "Icon": "T_UI_Portal_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_WARP"
+      },
+      "105003": {
+        "DISTRICT_GROUP_ID": 105,
+        "Index": 3,
+        "Icon": "T_UI_Ruin_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_DUNGEON"
+      },
+      "105004": {
+        "DISTRICT_GROUP_ID": 105,
+        "Index": 4,
+        "Icon": "T_UI_FieldBoss_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_BOSS"
+      },
+      "105005": {
+        "DISTRICT_GROUP_ID": 105,
+        "Index": 5,
+        "Icon": "T_UI_WeeklyBoss_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_WEEKLYBOSS"
+      },
+      "105006": {
+        "DISTRICT_GROUP_ID": 105,
+        "Index": 6,
+        "Icon": "T_UI_Reward_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_BOX"
+      },
+      "105007": {
+        "DISTRICT_GROUP_ID": 105,
+        "Index": 7,
+        "Icon": "T_UI_Puzzle_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_PUZZLE"
+      },
+      "105008": {
+        "DISTRICT_GROUP_ID": 105,
+        "Index": 8,
+        "Icon": "T_UI_Book_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_SCRIPT"
+      },
+      "105009": {
+        "DISTRICT_GROUP_ID": 105,
+        "Index": 9,
+        "Icon": "T_UI_DungeonTower_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_DUNGEONTOWER"
+      },
+      "105010": {
+        "DISTRICT_GROUP_ID": 105,
+        "Index": 10,
+        "Icon": "T_UI_TangledChaos_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_STELLANOTE_TANGLEDCHAOS_TITLE"
+      },
+      "105011": {
+        "DISTRICT_GROUP_ID": 105,
+        "Index": 11,
+        "Icon": "T_UI_Fishing_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_STELLANOTE_TANGLEDCHAOS_TITLE"
+      },
+      "105012": {
+        "DISTRICT_GROUP_ID": 105,
+        "Index": 12,
+        "Icon": "T_UI_RemnantsOfDawn_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "ITEM_NAME_701015001"
+      },
+      "106001": {
+        "DISTRICT_GROUP_ID": 106,
+        "Index": 1,
+        "Icon": "T_UI_Tower_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_TOWER"
+      },
+      "106002": {
+        "DISTRICT_GROUP_ID": 106,
+        "Index": 2,
+        "Icon": "T_UI_Portal_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_WARP"
+      },
+      "106003": {
+        "DISTRICT_GROUP_ID": 106,
+        "Index": 3,
+        "Icon": "T_UI_Ruin_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_DUNGEON"
+      },
+      "106004": {
+        "DISTRICT_GROUP_ID": 106,
+        "Index": 4,
+        "Icon": "T_UI_FieldBoss_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_BOSS"
+      },
+      "106005": {
+        "DISTRICT_GROUP_ID": 106,
+        "Index": 5,
+        "Icon": "T_UI_WeeklyBoss_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_WEEKLYBOSS"
+      },
+      "106006": {
+        "DISTRICT_GROUP_ID": 106,
+        "Index": 6,
+        "Icon": "T_UI_Reward_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_BOX"
+      },
+      "106007": {
+        "DISTRICT_GROUP_ID": 106,
+        "Index": 7,
+        "Icon": "T_UI_Puzzle_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_PUZZLE"
+      },
+      "106008": {
+        "DISTRICT_GROUP_ID": 106,
+        "Index": 8,
+        "Icon": "T_UI_Book_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_SCRIPT"
+      },
+      "106009": {
+        "DISTRICT_GROUP_ID": 106,
+        "Index": 9,
+        "Icon": "T_UI_DungeonTower_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_DUNGEONTOWER"
+      },
+      "106010": {
+        "DISTRICT_GROUP_ID": 106,
+        "Index": 10,
+        "Icon": "T_UI_TangledChaos_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_STELLANOTE_TANGLEDCHAOS_TITLE"
+      },
+      "106011": {
+        "DISTRICT_GROUP_ID": 106,
+        "Index": 11,
+        "Icon": "T_UI_Fishing_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_STELLANOTE_TANGLEDCHAOS_TITLE"
+      },
+      "106012": {
+        "DISTRICT_GROUP_ID": 106,
+        "Index": 12,
+        "Icon": "T_UI_RemnantsOfDawn_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "ITEM_NAME_701015001"
+      },
+      "107001": {
+        "DISTRICT_GROUP_ID": 107,
+        "Index": 1,
+        "Icon": "T_UI_Tower_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_TOWER"
+      },
+      "107002": {
+        "DISTRICT_GROUP_ID": 107,
+        "Index": 2,
+        "Icon": "T_UI_Portal_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_WARP"
+      },
+      "107003": {
+        "DISTRICT_GROUP_ID": 107,
+        "Index": 3,
+        "Icon": "T_UI_Ruin_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_DUNGEON"
+      },
+      "107004": {
+        "DISTRICT_GROUP_ID": 107,
+        "Index": 4,
+        "Icon": "T_UI_FieldBoss_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_BOSS"
+      },
+      "107005": {
+        "DISTRICT_GROUP_ID": 107,
+        "Index": 5,
+        "Icon": "T_UI_WeeklyBoss_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_WEEKLYBOSS"
+      },
+      "107006": {
+        "DISTRICT_GROUP_ID": 107,
+        "Index": 6,
+        "Icon": "T_UI_Reward_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_BOX"
+      },
+      "107007": {
+        "DISTRICT_GROUP_ID": 107,
+        "Index": 7,
+        "Icon": "T_UI_Puzzle_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_PUZZLE"
+      },
+      "107008": {
+        "DISTRICT_GROUP_ID": 107,
+        "Index": 8,
+        "Icon": "T_UI_Book_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_SCRIPT"
+      },
+      "107009": {
+        "DISTRICT_GROUP_ID": 107,
+        "Index": 9,
+        "Icon": "T_UI_DungeonTower_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_WORLDMAP_LB_EXPLORE_DUNGEONTOWER"
+      },
+      "107010": {
+        "DISTRICT_GROUP_ID": 107,
+        "Index": 10,
+        "Icon": "T_UI_TangledChaos_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_STELLANOTE_TANGLEDCHAOS_TITLE"
+      },
+      "107011": {
+        "DISTRICT_GROUP_ID": 107,
+        "Index": 11,
+        "Icon": "T_UI_Fishing_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "UI_STELLANOTE_TANGLEDCHAOS_TITLE"
+      },
+      "107012": {
+        "DISTRICT_GROUP_ID": 107,
+        "Index": 12,
+        "Icon": "T_UI_RemnantsOfDawn_Minimap_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "Name": "ITEM_NAME_701015001"
+      }
+    }
+  }
+]

@@ -1,0 +1,615 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "OPERATION_REWARD",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBOPERATION_REWARD'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "10101": {
+        "OPERATION_ID": 101,
+        "CORE_RANK": 1,
+        "REWARD_1": 710020101,
+        "REWARD_2": 710020101
+      },
+      "10102": {
+        "OPERATION_ID": 101,
+        "CORE_RANK": 2,
+        "REWARD_1": 710020102,
+        "REWARD_2": 710020102
+      },
+      "10103": {
+        "OPERATION_ID": 101,
+        "CORE_RANK": 3,
+        "REWARD_1": 710020103,
+        "REWARD_2": 710020103
+      },
+      "10104": {
+        "OPERATION_ID": 101,
+        "CORE_RANK": 4,
+        "REWARD_1": 710020104,
+        "REWARD_2": 710020104
+      },
+      "10105": {
+        "OPERATION_ID": 101,
+        "CORE_RANK": 5,
+        "REWARD_1": 710020105,
+        "REWARD_2": 710020105
+      },
+      "10106": {
+        "OPERATION_ID": 101,
+        "CORE_RANK": 6,
+        "REWARD_1": 710020106,
+        "REWARD_2": 710020106
+      },
+      "10107": {
+        "OPERATION_ID": 101,
+        "CORE_RANK": 7,
+        "REWARD_1": 710020107,
+        "REWARD_2": 710020107
+      },
+      "10108": {
+        "OPERATION_ID": 101,
+        "CORE_RANK": 8,
+        "REWARD_1": 710020108,
+        "REWARD_2": 710020108
+      },
+      "10109": {
+        "OPERATION_ID": 101,
+        "CORE_RANK": 9,
+        "REWARD_1": 710020109,
+        "REWARD_2": 710020109
+      },
+      "10110": {
+        "OPERATION_ID": 101,
+        "CORE_RANK": 10,
+        "REWARD_1": 710020110,
+        "REWARD_2": 710020110
+      },
+      "10201": {
+        "OPERATION_ID": 102,
+        "CORE_RANK": 1,
+        "REWARD_1": 710020201,
+        "REWARD_2": 710020201
+      },
+      "10202": {
+        "OPERATION_ID": 102,
+        "CORE_RANK": 2,
+        "REWARD_1": 710020202,
+        "REWARD_2": 710020202
+      },
+      "10203": {
+        "OPERATION_ID": 102,
+        "CORE_RANK": 3,
+        "REWARD_1": 710020203,
+        "REWARD_2": 710020203
+      },
+      "10204": {
+        "OPERATION_ID": 102,
+        "CORE_RANK": 4,
+        "REWARD_1": 710020204,
+        "REWARD_2": 710020204
+      },
+      "10205": {
+        "OPERATION_ID": 102,
+        "CORE_RANK": 5,
+        "REWARD_1": 710020205,
+        "REWARD_2": 710020205
+      },
+      "10206": {
+        "OPERATION_ID": 102,
+        "CORE_RANK": 6,
+        "REWARD_1": 710020206,
+        "REWARD_2": 710020206
+      },
+      "10207": {
+        "OPERATION_ID": 102,
+        "CORE_RANK": 7,
+        "REWARD_1": 710020207,
+        "REWARD_2": 710020207
+      },
+      "10208": {
+        "OPERATION_ID": 102,
+        "CORE_RANK": 8,
+        "REWARD_1": 710020208,
+        "REWARD_2": 710020208
+      },
+      "10209": {
+        "OPERATION_ID": 102,
+        "CORE_RANK": 9,
+        "REWARD_1": 710020209,
+        "REWARD_2": 710020209
+      },
+      "10210": {
+        "OPERATION_ID": 102,
+        "CORE_RANK": 10,
+        "REWARD_1": 710020210,
+        "REWARD_2": 710020210
+      },
+      "10301": {
+        "OPERATION_ID": 103,
+        "CORE_RANK": 1,
+        "REWARD_1": 710020301,
+        "REWARD_2": 710020301
+      },
+      "10302": {
+        "OPERATION_ID": 103,
+        "CORE_RANK": 2,
+        "REWARD_1": 710020302,
+        "REWARD_2": 710020302
+      },
+      "10303": {
+        "OPERATION_ID": 103,
+        "CORE_RANK": 3,
+        "REWARD_1": 710020303,
+        "REWARD_2": 710020303
+      },
+      "10304": {
+        "OPERATION_ID": 103,
+        "CORE_RANK": 4,
+        "REWARD_1": 710020304,
+        "REWARD_2": 710020304
+      },
+      "10305": {
+        "OPERATION_ID": 103,
+        "CORE_RANK": 5,
+        "REWARD_1": 710020305,
+        "REWARD_2": 710020305
+      },
+      "10306": {
+        "OPERATION_ID": 103,
+        "CORE_RANK": 6,
+        "REWARD_1": 710020306,
+        "REWARD_2": 710020306
+      },
+      "10307": {
+        "OPERATION_ID": 103,
+        "CORE_RANK": 7,
+        "REWARD_1": 710020307,
+        "REWARD_2": 710020307
+      },
+      "10308": {
+        "OPERATION_ID": 103,
+        "CORE_RANK": 8,
+        "REWARD_1": 710020308,
+        "REWARD_2": 710020308
+      },
+      "10309": {
+        "OPERATION_ID": 103,
+        "CORE_RANK": 9,
+        "REWARD_1": 710020309,
+        "REWARD_2": 710020309
+      },
+      "10310": {
+        "OPERATION_ID": 103,
+        "CORE_RANK": 10,
+        "REWARD_1": 710020310,
+        "REWARD_2": 710020310
+      },
+      "10401": {
+        "OPERATION_ID": 104,
+        "CORE_RANK": 1,
+        "REWARD_1": 710020401,
+        "REWARD_2": 710020401
+      },
+      "10402": {
+        "OPERATION_ID": 104,
+        "CORE_RANK": 2,
+        "REWARD_1": 710020402,
+        "REWARD_2": 710020402
+      },
+      "10403": {
+        "OPERATION_ID": 104,
+        "CORE_RANK": 3,
+        "REWARD_1": 710020403,
+        "REWARD_2": 710020403
+      },
+      "10404": {
+        "OPERATION_ID": 104,
+        "CORE_RANK": 4,
+        "REWARD_1": 710020404,
+        "REWARD_2": 710020404
+      },
+      "10405": {
+        "OPERATION_ID": 104,
+        "CORE_RANK": 5,
+        "REWARD_1": 710020405,
+        "REWARD_2": 710020405
+      },
+      "10406": {
+        "OPERATION_ID": 104,
+        "CORE_RANK": 6,
+        "REWARD_1": 710020406,
+        "REWARD_2": 710020406
+      },
+      "10407": {
+        "OPERATION_ID": 104,
+        "CORE_RANK": 7,
+        "REWARD_1": 710020407,
+        "REWARD_2": 710020407
+      },
+      "10408": {
+        "OPERATION_ID": 104,
+        "CORE_RANK": 8,
+        "REWARD_1": 710020408,
+        "REWARD_2": 710020408
+      },
+      "10409": {
+        "OPERATION_ID": 104,
+        "CORE_RANK": 9,
+        "REWARD_1": 710020409,
+        "REWARD_2": 710020409
+      },
+      "10410": {
+        "OPERATION_ID": 104,
+        "CORE_RANK": 10,
+        "REWARD_1": 710020410,
+        "REWARD_2": 710020410
+      },
+      "10501": {
+        "OPERATION_ID": 105,
+        "CORE_RANK": 1,
+        "REWARD_1": 710020501,
+        "REWARD_2": 710020501
+      },
+      "10502": {
+        "OPERATION_ID": 105,
+        "CORE_RANK": 2,
+        "REWARD_1": 710020502,
+        "REWARD_2": 710020502
+      },
+      "10503": {
+        "OPERATION_ID": 105,
+        "CORE_RANK": 3,
+        "REWARD_1": 710020503,
+        "REWARD_2": 710020503
+      },
+      "10504": {
+        "OPERATION_ID": 105,
+        "CORE_RANK": 4,
+        "REWARD_1": 710020504,
+        "REWARD_2": 710020504
+      },
+      "10505": {
+        "OPERATION_ID": 105,
+        "CORE_RANK": 5,
+        "REWARD_1": 710020505,
+        "REWARD_2": 710020505
+      },
+      "10506": {
+        "OPERATION_ID": 105,
+        "CORE_RANK": 6,
+        "REWARD_1": 710020506,
+        "REWARD_2": 710020506
+      },
+      "10507": {
+        "OPERATION_ID": 105,
+        "CORE_RANK": 7,
+        "REWARD_1": 710020507,
+        "REWARD_2": 710020507
+      },
+      "10508": {
+        "OPERATION_ID": 105,
+        "CORE_RANK": 8,
+        "REWARD_1": 710020508,
+        "REWARD_2": 710020508
+      },
+      "10509": {
+        "OPERATION_ID": 105,
+        "CORE_RANK": 9,
+        "REWARD_1": 710020509,
+        "REWARD_2": 710020509
+      },
+      "10510": {
+        "OPERATION_ID": 105,
+        "CORE_RANK": 10,
+        "REWARD_1": 710020510,
+        "REWARD_2": 710020510
+      },
+      "10601": {
+        "OPERATION_ID": 106,
+        "CORE_RANK": 1,
+        "REWARD_1": 710020601,
+        "REWARD_2": 710020601
+      },
+      "10602": {
+        "OPERATION_ID": 106,
+        "CORE_RANK": 2,
+        "REWARD_1": 710020602,
+        "REWARD_2": 710020602
+      },
+      "10603": {
+        "OPERATION_ID": 106,
+        "CORE_RANK": 3,
+        "REWARD_1": 710020603,
+        "REWARD_2": 710020603
+      },
+      "10604": {
+        "OPERATION_ID": 106,
+        "CORE_RANK": 4,
+        "REWARD_1": 710020604,
+        "REWARD_2": 710020604
+      },
+      "10605": {
+        "OPERATION_ID": 106,
+        "CORE_RANK": 5,
+        "REWARD_1": 710020605,
+        "REWARD_2": 710020605
+      },
+      "10606": {
+        "OPERATION_ID": 106,
+        "CORE_RANK": 6,
+        "REWARD_1": 710020606,
+        "REWARD_2": 710020606
+      },
+      "10607": {
+        "OPERATION_ID": 106,
+        "CORE_RANK": 7,
+        "REWARD_1": 710020607,
+        "REWARD_2": 710020607
+      },
+      "10608": {
+        "OPERATION_ID": 106,
+        "CORE_RANK": 8,
+        "REWARD_1": 710020608,
+        "REWARD_2": 710020608
+      },
+      "10609": {
+        "OPERATION_ID": 106,
+        "CORE_RANK": 9,
+        "REWARD_1": 710020609,
+        "REWARD_2": 710020609
+      },
+      "10610": {
+        "OPERATION_ID": 106,
+        "CORE_RANK": 10,
+        "REWARD_1": 710020610,
+        "REWARD_2": 710020610
+      },
+      "10701": {
+        "OPERATION_ID": 107,
+        "CORE_RANK": 1,
+        "REWARD_1": 710020701,
+        "REWARD_2": 710020701
+      },
+      "10702": {
+        "OPERATION_ID": 107,
+        "CORE_RANK": 2,
+        "REWARD_1": 710020702,
+        "REWARD_2": 710020702
+      },
+      "10703": {
+        "OPERATION_ID": 107,
+        "CORE_RANK": 3,
+        "REWARD_1": 710020703,
+        "REWARD_2": 710020703
+      },
+      "10704": {
+        "OPERATION_ID": 107,
+        "CORE_RANK": 4,
+        "REWARD_1": 710020704,
+        "REWARD_2": 710020704
+      },
+      "10705": {
+        "OPERATION_ID": 107,
+        "CORE_RANK": 5,
+        "REWARD_1": 710020705,
+        "REWARD_2": 710020705
+      },
+      "10706": {
+        "OPERATION_ID": 107,
+        "CORE_RANK": 6,
+        "REWARD_1": 710020706,
+        "REWARD_2": 710020706
+      },
+      "10707": {
+        "OPERATION_ID": 107,
+        "CORE_RANK": 7,
+        "REWARD_1": 710020707,
+        "REWARD_2": 710020707
+      },
+      "10708": {
+        "OPERATION_ID": 107,
+        "CORE_RANK": 8,
+        "REWARD_1": 710020708,
+        "REWARD_2": 710020708
+      },
+      "10709": {
+        "OPERATION_ID": 107,
+        "CORE_RANK": 9,
+        "REWARD_1": 710020709,
+        "REWARD_2": 710020709
+      },
+      "10710": {
+        "OPERATION_ID": 107,
+        "CORE_RANK": 10,
+        "REWARD_1": 710020710,
+        "REWARD_2": 710020710
+      },
+      "10801": {
+        "OPERATION_ID": 108,
+        "CORE_RANK": 1,
+        "REWARD_1": 710020801,
+        "REWARD_2": 710020801
+      },
+      "10802": {
+        "OPERATION_ID": 108,
+        "CORE_RANK": 2,
+        "REWARD_1": 710020802,
+        "REWARD_2": 710020802
+      },
+      "10803": {
+        "OPERATION_ID": 108,
+        "CORE_RANK": 3,
+        "REWARD_1": 710020803,
+        "REWARD_2": 710020803
+      },
+      "10804": {
+        "OPERATION_ID": 108,
+        "CORE_RANK": 4,
+        "REWARD_1": 710020804,
+        "REWARD_2": 710020804
+      },
+      "10805": {
+        "OPERATION_ID": 108,
+        "CORE_RANK": 5,
+        "REWARD_1": 710020805,
+        "REWARD_2": 710020805
+      },
+      "10806": {
+        "OPERATION_ID": 108,
+        "CORE_RANK": 6,
+        "REWARD_1": 710020806,
+        "REWARD_2": 710020806
+      },
+      "10807": {
+        "OPERATION_ID": 108,
+        "CORE_RANK": 7,
+        "REWARD_1": 710020807,
+        "REWARD_2": 710020807
+      },
+      "10808": {
+        "OPERATION_ID": 108,
+        "CORE_RANK": 8,
+        "REWARD_1": 710020808,
+        "REWARD_2": 710020808
+      },
+      "10809": {
+        "OPERATION_ID": 108,
+        "CORE_RANK": 9,
+        "REWARD_1": 710020809,
+        "REWARD_2": 710020809
+      },
+      "10810": {
+        "OPERATION_ID": 108,
+        "CORE_RANK": 10,
+        "REWARD_1": 710020810,
+        "REWARD_2": 710020810
+      },
+      "10901": {
+        "OPERATION_ID": 109,
+        "CORE_RANK": 1,
+        "REWARD_1": 710020901,
+        "REWARD_2": 710020901
+      },
+      "10902": {
+        "OPERATION_ID": 109,
+        "CORE_RANK": 2,
+        "REWARD_1": 710020902,
+        "REWARD_2": 710020902
+      },
+      "10903": {
+        "OPERATION_ID": 109,
+        "CORE_RANK": 3,
+        "REWARD_1": 710020903,
+        "REWARD_2": 710020903
+      },
+      "10904": {
+        "OPERATION_ID": 109,
+        "CORE_RANK": 4,
+        "REWARD_1": 710020904,
+        "REWARD_2": 710020904
+      },
+      "10905": {
+        "OPERATION_ID": 109,
+        "CORE_RANK": 5,
+        "REWARD_1": 710020905,
+        "REWARD_2": 710020905
+      },
+      "10906": {
+        "OPERATION_ID": 109,
+        "CORE_RANK": 6,
+        "REWARD_1": 710020906,
+        "REWARD_2": 710020906
+      },
+      "10907": {
+        "OPERATION_ID": 109,
+        "CORE_RANK": 7,
+        "REWARD_1": 710020907,
+        "REWARD_2": 710020907
+      },
+      "10908": {
+        "OPERATION_ID": 109,
+        "CORE_RANK": 8,
+        "REWARD_1": 710020908,
+        "REWARD_2": 710020908
+      },
+      "10909": {
+        "OPERATION_ID": 109,
+        "CORE_RANK": 9,
+        "REWARD_1": 710020909,
+        "REWARD_2": 710020909
+      },
+      "10910": {
+        "OPERATION_ID": 109,
+        "CORE_RANK": 10,
+        "REWARD_1": 710020910,
+        "REWARD_2": 710020910
+      },
+      "11001": {
+        "OPERATION_ID": 110,
+        "CORE_RANK": 1,
+        "REWARD_1": 710021001,
+        "REWARD_2": 710021001
+      },
+      "11002": {
+        "OPERATION_ID": 110,
+        "CORE_RANK": 2,
+        "REWARD_1": 710021002,
+        "REWARD_2": 710021002
+      },
+      "11003": {
+        "OPERATION_ID": 110,
+        "CORE_RANK": 3,
+        "REWARD_1": 710021003,
+        "REWARD_2": 710021003
+      },
+      "11004": {
+        "OPERATION_ID": 110,
+        "CORE_RANK": 4,
+        "REWARD_1": 710021004,
+        "REWARD_2": 710021004
+      },
+      "11005": {
+        "OPERATION_ID": 110,
+        "CORE_RANK": 5,
+        "REWARD_1": 710021005,
+        "REWARD_2": 710021005
+      },
+      "11006": {
+        "OPERATION_ID": 110,
+        "CORE_RANK": 6,
+        "REWARD_1": 710021006,
+        "REWARD_2": 710021006
+      },
+      "11007": {
+        "OPERATION_ID": 110,
+        "CORE_RANK": 7,
+        "REWARD_1": 710021007,
+        "REWARD_2": 710021007
+      },
+      "11008": {
+        "OPERATION_ID": 110,
+        "CORE_RANK": 8,
+        "REWARD_1": 710021008,
+        "REWARD_2": 710021008
+      },
+      "11009": {
+        "OPERATION_ID": 110,
+        "CORE_RANK": 9,
+        "REWARD_1": 710021009,
+        "REWARD_2": 710021009
+      },
+      "11010": {
+        "OPERATION_ID": 110,
+        "CORE_RANK": 10,
+        "REWARD_1": 710021010,
+        "REWARD_2": 710021010
+      }
+    }
+  }
+]

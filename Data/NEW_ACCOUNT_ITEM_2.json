@@ -1,0 +1,40 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "NEW_ACCOUNT_ITEM_2",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBNEW_ACCOUNT_ITEM_2'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1": {
+        "Type": "ENBRewardType::102",
+        "TYPE_VALUE": 100006,
+        "QTY": 1
+      },
+      "2": {
+        "Type": "ENBRewardType::102",
+        "TYPE_VALUE": 100002,
+        "QTY": 1
+      },
+      "3": {
+        "Type": "ENBRewardType::102",
+        "TYPE_VALUE": 100003,
+        "QTY": 1
+      },
+      "4": {
+        "Type": "ENBRewardType::102",
+        "TYPE_VALUE": 100004,
+        "QTY": 1
+      },
+      "5": {
+        "Type": "ENBRewardType::100",
+        "TYPE_VALUE": 106,
+        "QTY": 200
+      }
+    }
+  }
+]

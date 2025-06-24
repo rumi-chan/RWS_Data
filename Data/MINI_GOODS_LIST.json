@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "MINI_GOODS_LIST",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBMINI_GOODS_LIST'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1005001": {
+        "MINI_GOODS_GROUP_ID": 500101,
+        "Index": 1
+      },
+      "1005002": {
+        "MINI_GOODS_GROUP_ID": 500101,
+        "Index": 2
+      },
+      "1005003": {
+        "MINI_GOODS_GROUP_ID": 300101,
+        "Index": 1
+      },
+      "1005004": {
+        "MINI_GOODS_GROUP_ID": 700101,
+        "Index": 1
+      },
+      "1007002": {
+        "MINI_GOODS_GROUP_ID": 300101,
+        "Index": 2
+      }
+    }
+  }
+]

@@ -1,0 +1,509 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "PVP_TIER",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBPVP_TIER'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "11": {
+        "Index": 1,
+        "TIER": 1,
+        "SUB_TIER": 5,
+        "Name": "UI_RANK_NAME_BRONZE",
+        "Icon": "T_UI_PVP_Tier1_Sprite",
+        "RATING_MIN": 0,
+        "RATING_MAX": 99,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 0,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier1_Sprite.T_UI_PVP_Tier1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "12": {
+        "Index": 2,
+        "TIER": 1,
+        "SUB_TIER": 4,
+        "Name": "UI_RANK_NAME_BRONZE",
+        "Icon": "T_UI_PVP_Tier1_Sprite",
+        "RATING_MIN": 100,
+        "RATING_MAX": 199,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 0,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier1_Sprite.T_UI_PVP_Tier1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "13": {
+        "Index": 3,
+        "TIER": 1,
+        "SUB_TIER": 3,
+        "Name": "UI_RANK_NAME_BRONZE",
+        "Icon": "T_UI_PVP_Tier1_Sprite",
+        "RATING_MIN": 200,
+        "RATING_MAX": 299,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 0,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier1_Sprite.T_UI_PVP_Tier1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "14": {
+        "Index": 4,
+        "TIER": 1,
+        "SUB_TIER": 2,
+        "Name": "UI_RANK_NAME_BRONZE",
+        "Icon": "T_UI_PVP_Tier1_Sprite",
+        "RATING_MIN": 300,
+        "RATING_MAX": 399,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 0,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier1_Sprite.T_UI_PVP_Tier1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "15": {
+        "Index": 5,
+        "TIER": 1,
+        "SUB_TIER": 1,
+        "Name": "UI_RANK_NAME_BRONZE",
+        "Icon": "T_UI_PVP_Tier1_Sprite",
+        "RATING_MIN": 400,
+        "RATING_MAX": 499,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 0,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier1_Sprite.T_UI_PVP_Tier1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "21": {
+        "Index": 6,
+        "TIER": 2,
+        "SUB_TIER": 5,
+        "Name": "UI_RANK_NAME_SILVER",
+        "Icon": "T_UI_PVP_Tier2_Sprite",
+        "RATING_MIN": 500,
+        "RATING_MAX": 599,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 1,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier2_Sprite.T_UI_PVP_Tier2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "22": {
+        "Index": 7,
+        "TIER": 2,
+        "SUB_TIER": 4,
+        "Name": "UI_RANK_NAME_SILVER",
+        "Icon": "T_UI_PVP_Tier2_Sprite",
+        "RATING_MIN": 600,
+        "RATING_MAX": 699,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 1,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier2_Sprite.T_UI_PVP_Tier2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "23": {
+        "Index": 8,
+        "TIER": 2,
+        "SUB_TIER": 3,
+        "Name": "UI_RANK_NAME_SILVER",
+        "Icon": "T_UI_PVP_Tier2_Sprite",
+        "RATING_MIN": 700,
+        "RATING_MAX": 799,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 1,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier2_Sprite.T_UI_PVP_Tier2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "24": {
+        "Index": 9,
+        "TIER": 2,
+        "SUB_TIER": 2,
+        "Name": "UI_RANK_NAME_SILVER",
+        "Icon": "T_UI_PVP_Tier2_Sprite",
+        "RATING_MIN": 800,
+        "RATING_MAX": 899,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 1,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier2_Sprite.T_UI_PVP_Tier2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "25": {
+        "Index": 10,
+        "TIER": 2,
+        "SUB_TIER": 1,
+        "Name": "UI_RANK_NAME_SILVER",
+        "Icon": "T_UI_PVP_Tier2_Sprite",
+        "RATING_MIN": 900,
+        "RATING_MAX": 999,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 1,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier2_Sprite.T_UI_PVP_Tier2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "31": {
+        "Index": 11,
+        "TIER": 3,
+        "SUB_TIER": 5,
+        "Name": "UI_RANK_NAME_GOLD",
+        "Icon": "T_UI_PVP_Tier3_Sprite",
+        "RATING_MIN": 1000,
+        "RATING_MAX": 1099,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 2,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier3_Sprite.T_UI_PVP_Tier3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "32": {
+        "Index": 12,
+        "TIER": 3,
+        "SUB_TIER": 4,
+        "Name": "UI_RANK_NAME_GOLD",
+        "Icon": "T_UI_PVP_Tier3_Sprite",
+        "RATING_MIN": 1100,
+        "RATING_MAX": 1199,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 2,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier3_Sprite.T_UI_PVP_Tier3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "33": {
+        "Index": 13,
+        "TIER": 3,
+        "SUB_TIER": 3,
+        "Name": "UI_RANK_NAME_GOLD",
+        "Icon": "T_UI_PVP_Tier3_Sprite",
+        "RATING_MIN": 1200,
+        "RATING_MAX": 1299,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 2,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier3_Sprite.T_UI_PVP_Tier3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "34": {
+        "Index": 14,
+        "TIER": 3,
+        "SUB_TIER": 2,
+        "Name": "UI_RANK_NAME_GOLD",
+        "Icon": "T_UI_PVP_Tier3_Sprite",
+        "RATING_MIN": 1300,
+        "RATING_MAX": 1399,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 2,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier3_Sprite.T_UI_PVP_Tier3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "35": {
+        "Index": 15,
+        "TIER": 3,
+        "SUB_TIER": 1,
+        "Name": "UI_RANK_NAME_GOLD",
+        "Icon": "T_UI_PVP_Tier3_Sprite",
+        "RATING_MIN": 1400,
+        "RATING_MAX": 1499,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 2,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier3_Sprite.T_UI_PVP_Tier3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "41": {
+        "Index": 16,
+        "TIER": 4,
+        "SUB_TIER": 5,
+        "Name": "UI_RANK_NAME_PLATINUM",
+        "Icon": "T_UI_PVP_Tier4_Sprite",
+        "RATING_MIN": 1500,
+        "RATING_MAX": 1599,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 3,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier4_Sprite.T_UI_PVP_Tier4_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "42": {
+        "Index": 17,
+        "TIER": 4,
+        "SUB_TIER": 4,
+        "Name": "UI_RANK_NAME_PLATINUM",
+        "Icon": "T_UI_PVP_Tier4_Sprite",
+        "RATING_MIN": 1600,
+        "RATING_MAX": 1699,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 3,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier4_Sprite.T_UI_PVP_Tier4_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "43": {
+        "Index": 18,
+        "TIER": 4,
+        "SUB_TIER": 3,
+        "Name": "UI_RANK_NAME_PLATINUM",
+        "Icon": "T_UI_PVP_Tier4_Sprite",
+        "RATING_MIN": 1700,
+        "RATING_MAX": 1799,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 3,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier4_Sprite.T_UI_PVP_Tier4_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "44": {
+        "Index": 19,
+        "TIER": 4,
+        "SUB_TIER": 2,
+        "Name": "UI_RANK_NAME_PLATINUM",
+        "Icon": "T_UI_PVP_Tier4_Sprite",
+        "RATING_MIN": 1800,
+        "RATING_MAX": 1899,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 3,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier4_Sprite.T_UI_PVP_Tier4_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "45": {
+        "Index": 20,
+        "TIER": 4,
+        "SUB_TIER": 1,
+        "Name": "UI_RANK_NAME_PLATINUM",
+        "Icon": "T_UI_PVP_Tier4_Sprite",
+        "RATING_MIN": 1900,
+        "RATING_MAX": 1999,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 3,
+        "Point": 0,
+        "BLIND_SLOT": 0,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier4_Sprite.T_UI_PVP_Tier4_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "51": {
+        "Index": 21,
+        "TIER": 5,
+        "SUB_TIER": 5,
+        "Name": "UI_RANK_NAME_DIAMOND",
+        "Icon": "T_UI_PVP_Tier5_Sprite",
+        "RATING_MIN": 2000,
+        "RATING_MAX": 2099,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 4,
+        "Point": 0,
+        "BLIND_SLOT": 2,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier5_Sprite.T_UI_PVP_Tier5_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "52": {
+        "Index": 22,
+        "TIER": 5,
+        "SUB_TIER": 4,
+        "Name": "UI_RANK_NAME_DIAMOND",
+        "Icon": "T_UI_PVP_Tier5_Sprite",
+        "RATING_MIN": 2100,
+        "RATING_MAX": 2199,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 4,
+        "Point": 0,
+        "BLIND_SLOT": 2,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier5_Sprite.T_UI_PVP_Tier5_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "53": {
+        "Index": 23,
+        "TIER": 5,
+        "SUB_TIER": 3,
+        "Name": "UI_RANK_NAME_DIAMOND",
+        "Icon": "T_UI_PVP_Tier5_Sprite",
+        "RATING_MIN": 2200,
+        "RATING_MAX": 2299,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 4,
+        "Point": 0,
+        "BLIND_SLOT": 2,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier5_Sprite.T_UI_PVP_Tier5_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "54": {
+        "Index": 24,
+        "TIER": 5,
+        "SUB_TIER": 2,
+        "Name": "UI_RANK_NAME_DIAMOND",
+        "Icon": "T_UI_PVP_Tier5_Sprite",
+        "RATING_MIN": 2300,
+        "RATING_MAX": 2399,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 4,
+        "Point": 0,
+        "BLIND_SLOT": 2,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier5_Sprite.T_UI_PVP_Tier5_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "55": {
+        "Index": 25,
+        "TIER": 5,
+        "SUB_TIER": 1,
+        "Name": "UI_RANK_NAME_DIAMOND",
+        "Icon": "T_UI_PVP_Tier5_Sprite",
+        "RATING_MIN": 2400,
+        "RATING_MAX": 999999,
+        "Count": 0,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 4,
+        "Point": 0,
+        "BLIND_SLOT": 2,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier5_Sprite.T_UI_PVP_Tier5_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "61": {
+        "Index": 26,
+        "TIER": 6,
+        "SUB_TIER": 1,
+        "Name": "UI_RANK_NAME_CHALLENGER",
+        "Icon": "T_UI_PVP_Tier6_Sprite",
+        "RATING_MIN": 2400,
+        "RATING_MAX": 999999,
+        "Count": 100,
+        "MATCHING_LOWEST": 5,
+        "MATCHING_HIGHEST": 0,
+        "RESET_TIER": 5,
+        "Point": 0,
+        "BLIND_SLOT": 2,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier6_Sprite.T_UI_PVP_Tier6_Sprite",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

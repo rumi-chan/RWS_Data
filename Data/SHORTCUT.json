@@ -1,0 +1,2635 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "SHORTCUT",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBSHORTCUT'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1000001": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 46,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000002": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 47,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0002",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000003": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 48,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0003",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000004": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 49,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0004",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000005": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 50,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0005",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000006": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 51,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0006",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000007": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 52,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0007",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000008": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 53,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0008",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000009": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 54,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0009",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000010": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 55,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0010",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000011": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 56,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0011",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000012": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 57,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0012",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000013": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 58,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0013",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000014": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 59,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0014",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000015": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 60,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0015",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000016": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 61,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0016",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000017": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 62,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0017",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000018": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 63,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0018",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000019": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 64,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0019",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000020": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 65,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0020",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000021": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 66,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0021",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000022": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 67,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0022",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000023": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 71,
+        "Type": 1,
+        "TYPE_VALUE_01": 102017002,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0023",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1000108": {
+        "SHORTCUT_GROUP_ID": 10006,
+        "Index": 10,
+        "Type": 1,
+        "TYPE_VALUE_01": 104175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1103",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001001": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 102170104,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001002": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 103170103,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1002",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001003": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 3,
+        "Type": 1,
+        "TYPE_VALUE_01": 104170104,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1003",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001004": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 4,
+        "Type": 1,
+        "TYPE_VALUE_01": 106170103,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1004",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001005": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 5,
+        "Type": 1,
+        "TYPE_VALUE_01": 105179001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1005",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001006": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 6,
+        "Type": 1,
+        "TYPE_VALUE_01": 102175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1101",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001007": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 7,
+        "Type": 1,
+        "TYPE_VALUE_01": 103175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1102",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001008": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 8,
+        "Type": 1,
+        "TYPE_VALUE_01": 104175102,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1103",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001009": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 9,
+        "Type": 1,
+        "TYPE_VALUE_01": 104175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1104",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001010": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 10,
+        "Type": 1,
+        "TYPE_VALUE_01": 103175102,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1105",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001011": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 11,
+        "Type": 1,
+        "TYPE_VALUE_01": 102175103,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1106",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001012": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 10,
+        "Type": 1,
+        "TYPE_VALUE_01": 105175102,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1107",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001013": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 11,
+        "Type": 1,
+        "TYPE_VALUE_01": 104175103,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1108",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001014": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 12,
+        "Type": 1,
+        "TYPE_VALUE_01": 102170101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1201",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001015": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 13,
+        "Type": 1,
+        "TYPE_VALUE_01": 105175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1202",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001016": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 14,
+        "Type": 1,
+        "TYPE_VALUE_01": 103170201,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1203",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001017": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 15,
+        "Type": 1,
+        "TYPE_VALUE_01": 104170201,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1204",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001018": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 16,
+        "Type": 1,
+        "TYPE_VALUE_01": 104170101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1205",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001019": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 17,
+        "Type": 1,
+        "TYPE_VALUE_01": 111175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1301",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001020": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 18,
+        "Type": 1,
+        "TYPE_VALUE_01": 191175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1302",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001021": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 19,
+        "Type": 1,
+        "TYPE_VALUE_01": 106179801,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1401",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001022": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 20,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019002,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1402",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001023": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 21,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019004,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1403",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001024": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 22,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019005,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1404",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001025": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 23,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019006,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1405",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001026": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 24,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1001027": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 25,
+        "Type": 1,
+        "TYPE_VALUE_01": 101012128,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1407",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1002001": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 26,
+        "Type": 2,
+        "TYPE_VALUE_01": 5001001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_2001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1002002": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 27,
+        "Type": 2,
+        "TYPE_VALUE_01": 4001001,
+        "TYPE_VALUE_02": 3001,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_2002",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1002003": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 28,
+        "Type": 2,
+        "TYPE_VALUE_01": 4001001,
+        "TYPE_VALUE_02": 4001,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_2003",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1002004": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 29,
+        "Type": 2,
+        "TYPE_VALUE_01": 4001001,
+        "TYPE_VALUE_02": 4001,
+        "TYPE_VALUE_03": 1004001,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_2004",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1002005": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 30,
+        "Type": 2,
+        "TYPE_VALUE_01": 6001001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 1006001,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_2005",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1003001": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 31,
+        "Type": 3,
+        "TYPE_VALUE_01": 111103,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_3001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004001": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 32,
+        "Type": 4,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_4001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004002": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 33,
+        "Type": 4,
+        "TYPE_VALUE_01": 1,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 104,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_4002",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004003": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 34,
+        "Type": 4,
+        "TYPE_VALUE_01": 2,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 1,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_4003",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004004": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 35,
+        "Type": 4,
+        "TYPE_VALUE_01": 2,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 1,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_4004",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004005": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 36,
+        "Type": 4,
+        "TYPE_VALUE_01": 2,
+        "TYPE_VALUE_02": 1,
+        "TYPE_VALUE_03": 3,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_4005",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004006": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 37,
+        "Type": 4,
+        "TYPE_VALUE_01": 2,
+        "TYPE_VALUE_02": 2,
+        "TYPE_VALUE_03": 2,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_4006",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004007": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 38,
+        "Type": 4,
+        "TYPE_VALUE_01": 2,
+        "TYPE_VALUE_02": 3,
+        "TYPE_VALUE_03": 4,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_4007",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004008": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 39,
+        "Type": 4,
+        "TYPE_VALUE_01": 3,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 9,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_4008",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004009": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 40,
+        "Type": 4,
+        "TYPE_VALUE_01": 4,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 107,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_4009",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004010": {
+        "SHORTCUT_GROUP_ID": 10002,
+        "Index": 1,
+        "Type": 4,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004011": {
+        "SHORTCUT_GROUP_ID": 10002,
+        "Index": 2,
+        "Type": 4,
+        "TYPE_VALUE_01": 1,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 104,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004012": {
+        "SHORTCUT_GROUP_ID": 10002,
+        "Index": 3,
+        "Type": 4,
+        "TYPE_VALUE_01": 2,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 1,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004013": {
+        "SHORTCUT_GROUP_ID": 10002,
+        "Index": 4,
+        "Type": 4,
+        "TYPE_VALUE_01": 2,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 1,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004014": {
+        "SHORTCUT_GROUP_ID": 10002,
+        "Index": 5,
+        "Type": 4,
+        "TYPE_VALUE_01": 2,
+        "TYPE_VALUE_02": 1,
+        "TYPE_VALUE_03": 3,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004015": {
+        "SHORTCUT_GROUP_ID": 10002,
+        "Index": 6,
+        "Type": 4,
+        "TYPE_VALUE_01": 2,
+        "TYPE_VALUE_02": 2,
+        "TYPE_VALUE_03": 2,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004016": {
+        "SHORTCUT_GROUP_ID": 10003,
+        "Index": 7,
+        "Type": 4,
+        "TYPE_VALUE_01": 2,
+        "TYPE_VALUE_02": 3,
+        "TYPE_VALUE_03": 4,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004017": {
+        "SHORTCUT_GROUP_ID": 10004,
+        "Index": 8,
+        "Type": 4,
+        "TYPE_VALUE_01": 3,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 9,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004018": {
+        "SHORTCUT_GROUP_ID": 10005,
+        "Index": 9,
+        "Type": 4,
+        "TYPE_VALUE_01": 4,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 107,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1004019": {
+        "SHORTCUT_GROUP_ID": 10002,
+        "Index": 11,
+        "Type": 4,
+        "TYPE_VALUE_01": 1,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1005001": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 41,
+        "Type": 5,
+        "TYPE_VALUE_01": 71301002,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_5001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1006001": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 42,
+        "Type": 6,
+        "TYPE_VALUE_01": 300001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_6001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1006002": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 43,
+        "Type": 6,
+        "TYPE_VALUE_01": 400001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_6002",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1006003": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 68,
+        "Type": 6,
+        "TYPE_VALUE_01": 900001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1006004": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 69,
+        "Type": 6,
+        "TYPE_VALUE_01": 1000001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_6001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1006005": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 70,
+        "Type": 6,
+        "TYPE_VALUE_01": 1100001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_6001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1006006": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 71,
+        "Type": 6,
+        "TYPE_VALUE_01": 1200001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_6001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1006007": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 72,
+        "Type": 6,
+        "TYPE_VALUE_01": 1300001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_6001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1006008": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 73,
+        "Type": 6,
+        "TYPE_VALUE_01": 1400001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_6001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1006009": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 74,
+        "Type": 6,
+        "TYPE_VALUE_01": 1500001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_6001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1006010": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 75,
+        "Type": 6,
+        "TYPE_VALUE_01": 1600001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_6001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1007001": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 44,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601017,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_7001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "1007002": {
+        "SHORTCUT_GROUP_ID": 10001,
+        "Index": 45,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602009,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_7002",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "101010001": {
+        "SHORTCUT_GROUP_ID": 1010100,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019004,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1403",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "101010002": {
+        "SHORTCUT_GROUP_ID": 1010100,
+        "Index": 2,
+        "Type": 4,
+        "TYPE_VALUE_01": 2,
+        "TYPE_VALUE_02": 3,
+        "TYPE_VALUE_03": 4,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_4007",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "10101001": {
+        "SHORTCUT_GROUP_ID": 101010,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 102170104,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "10101002": {
+        "SHORTCUT_GROUP_ID": 101010,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 111175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1301",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "10102001": {
+        "SHORTCUT_GROUP_ID": 101020,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 103170103,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1002",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "10102002": {
+        "SHORTCUT_GROUP_ID": 101020,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 111175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1301",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "10103001": {
+        "SHORTCUT_GROUP_ID": 101030,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 104170104,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1003",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "10103002": {
+        "SHORTCUT_GROUP_ID": 101030,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 191175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1302",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "10104001": {
+        "SHORTCUT_GROUP_ID": 101040,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 106170103,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1004",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "10104002": {
+        "SHORTCUT_GROUP_ID": 101040,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 191175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1302",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "10105001": {
+        "SHORTCUT_GROUP_ID": 101050,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 105179001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1005",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "10105002": {
+        "SHORTCUT_GROUP_ID": 101050,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 191175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1302",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "10106001": {
+        "SHORTCUT_GROUP_ID": 101060,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 105179002,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1006",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "10106002": {
+        "SHORTCUT_GROUP_ID": 101060,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 111175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1301",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "10107001": {
+        "SHORTCUT_GROUP_ID": 101070,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 107176102,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1007",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "10107002": {
+        "SHORTCUT_GROUP_ID": 101070,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 191175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1302",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "10108001": {
+        "SHORTCUT_GROUP_ID": 101080,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 107176103,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1008",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "10108002": {
+        "SHORTCUT_GROUP_ID": 101080,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 111175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1301",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "102010001": {
+        "SHORTCUT_GROUP_ID": 1020100,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 103170201,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1203",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "102010002": {
+        "SHORTCUT_GROUP_ID": 1020100,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "102020001": {
+        "SHORTCUT_GROUP_ID": 1020200,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 104170201,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1204",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "102020002": {
+        "SHORTCUT_GROUP_ID": 1020200,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "102030001": {
+        "SHORTCUT_GROUP_ID": 1020300,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 102170101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1201",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "102030002": {
+        "SHORTCUT_GROUP_ID": 1020300,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "102040001": {
+        "SHORTCUT_GROUP_ID": 1020400,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 105175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1202",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "102040002": {
+        "SHORTCUT_GROUP_ID": 1020400,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "102050001": {
+        "SHORTCUT_GROUP_ID": 1020500,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 104170101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1205",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "102050002": {
+        "SHORTCUT_GROUP_ID": 1020500,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "103010001": {
+        "SHORTCUT_GROUP_ID": 1030100,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019004,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1403",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "103010002": {
+        "SHORTCUT_GROUP_ID": 1030100,
+        "Index": 2,
+        "Type": 4,
+        "TYPE_VALUE_01": 2,
+        "TYPE_VALUE_02": 3,
+        "TYPE_VALUE_03": 4,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_4007",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "103010012": {
+        "SHORTCUT_GROUP_ID": 1030100,
+        "Index": 12,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0019",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "105010000": {
+        "SHORTCUT_GROUP_ID": 1050100,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 101012128,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1407",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "105010001": {
+        "SHORTCUT_GROUP_ID": 1050150,
+        "Index": 1,
+        "Type": 2,
+        "TYPE_VALUE_01": 4001001,
+        "TYPE_VALUE_02": 3001,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_2002",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "105010002": {
+        "SHORTCUT_GROUP_ID": 1050150,
+        "Index": 2,
+        "Type": 6,
+        "TYPE_VALUE_01": 100001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_6001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "105010003": {
+        "SHORTCUT_GROUP_ID": 1050140,
+        "Index": 1,
+        "Type": 2,
+        "TYPE_VALUE_01": 4001001,
+        "TYPE_VALUE_02": 4001,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_2003",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "105010004": {
+        "SHORTCUT_GROUP_ID": 1050140,
+        "Index": 2,
+        "Type": 6,
+        "TYPE_VALUE_01": 100001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_6001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "201010101": {
+        "SHORTCUT_GROUP_ID": 2010101,
+        "Index": 1,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "201010102": {
+        "SHORTCUT_GROUP_ID": 2010102,
+        "Index": 1,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0002",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "201010103": {
+        "SHORTCUT_GROUP_ID": 2010103,
+        "Index": 1,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0003",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "201010104": {
+        "SHORTCUT_GROUP_ID": 2010104,
+        "Index": 1,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0004",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "201010105": {
+        "SHORTCUT_GROUP_ID": 2010105,
+        "Index": 1,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0005",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "201010106": {
+        "SHORTCUT_GROUP_ID": 2010106,
+        "Index": 1,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0006",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "201010107": {
+        "SHORTCUT_GROUP_ID": 2010107,
+        "Index": 1,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0020",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "201010108": {
+        "SHORTCUT_GROUP_ID": 2010108,
+        "Index": 1,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0021",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "201010109": {
+        "SHORTCUT_GROUP_ID": 2010109,
+        "Index": 1,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0022",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "201010110": {
+        "SHORTCUT_GROUP_ID": 2010110,
+        "Index": 1,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0007",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "201010111": {
+        "SHORTCUT_GROUP_ID": 2010111,
+        "Index": 1,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0008",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "201010112": {
+        "SHORTCUT_GROUP_ID": 201010112,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0024",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "201010113": {
+        "SHORTCUT_GROUP_ID": 201010113,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0024",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "201010114": {
+        "SHORTCUT_GROUP_ID": 201010114,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 701170101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1409",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "201010115": {
+        "SHORTCUT_GROUP_ID": 201010115,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 701170101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1409",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "204010001": {
+        "SHORTCUT_GROUP_ID": 2040100,
+        "Index": 1,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0018",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010101": {
+        "SHORTCUT_GROUP_ID": 2120101,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 102175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1101",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010102": {
+        "SHORTCUT_GROUP_ID": 2120101,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010103": {
+        "SHORTCUT_GROUP_ID": 2120101,
+        "Index": 3,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0009",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010201": {
+        "SHORTCUT_GROUP_ID": 2120102,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 103175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1102",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010202": {
+        "SHORTCUT_GROUP_ID": 2120102,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010203": {
+        "SHORTCUT_GROUP_ID": 2120102,
+        "Index": 3,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0010",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010301": {
+        "SHORTCUT_GROUP_ID": 2120103,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 104175102,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1103",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010302": {
+        "SHORTCUT_GROUP_ID": 2120103,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010303": {
+        "SHORTCUT_GROUP_ID": 2120103,
+        "Index": 3,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0011",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010401": {
+        "SHORTCUT_GROUP_ID": 2120104,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 104175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1104",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010402": {
+        "SHORTCUT_GROUP_ID": 2120104,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010403": {
+        "SHORTCUT_GROUP_ID": 2120104,
+        "Index": 3,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0012",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010501": {
+        "SHORTCUT_GROUP_ID": 2120105,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 103175102,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1105",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010502": {
+        "SHORTCUT_GROUP_ID": 2120105,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010503": {
+        "SHORTCUT_GROUP_ID": 2120105,
+        "Index": 3,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0013",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010601": {
+        "SHORTCUT_GROUP_ID": 2120106,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 102175103,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1106",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010602": {
+        "SHORTCUT_GROUP_ID": 2120106,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010603": {
+        "SHORTCUT_GROUP_ID": 2120106,
+        "Index": 3,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0014",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010701": {
+        "SHORTCUT_GROUP_ID": 2120107,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 104175103,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1108",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010702": {
+        "SHORTCUT_GROUP_ID": 2120107,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010703": {
+        "SHORTCUT_GROUP_ID": 2120107,
+        "Index": 3,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0015",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010801": {
+        "SHORTCUT_GROUP_ID": 2120108,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 107176101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1109",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010802": {
+        "SHORTCUT_GROUP_ID": 2120108,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010803": {
+        "SHORTCUT_GROUP_ID": 2120108,
+        "Index": 3,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0016",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010901": {
+        "SHORTCUT_GROUP_ID": 2120109,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 105175102,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1107",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010902": {
+        "SHORTCUT_GROUP_ID": 2120109,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "212010903": {
+        "SHORTCUT_GROUP_ID": 2120109,
+        "Index": 3,
+        "Type": 0,
+        "TYPE_VALUE_01": 0,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0017",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "215010101": {
+        "SHORTCUT_GROUP_ID": 2150101,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 102170104,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "215010102": {
+        "SHORTCUT_GROUP_ID": 2150101,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "215010103": {
+        "SHORTCUT_GROUP_ID": 2150102,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 103170103,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1002",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "215010104": {
+        "SHORTCUT_GROUP_ID": 2150102,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "215010105": {
+        "SHORTCUT_GROUP_ID": 2150103,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 105179001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1005",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "215010106": {
+        "SHORTCUT_GROUP_ID": 2150103,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "215010107": {
+        "SHORTCUT_GROUP_ID": 2150104,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 104170104,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1003",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "215010108": {
+        "SHORTCUT_GROUP_ID": 2150104,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "215010109": {
+        "SHORTCUT_GROUP_ID": 2150105,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 106170103,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1004",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "215010110": {
+        "SHORTCUT_GROUP_ID": 2150105,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1406",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "215010111": {
+        "SHORTCUT_GROUP_ID": 2150100,
+        "Index": 2,
+        "Type": 4,
+        "TYPE_VALUE_01": 2,
+        "TYPE_VALUE_02": 3,
+        "TYPE_VALUE_03": 4,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_4007",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "215010112": {
+        "SHORTCUT_GROUP_ID": 2150100,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 111175101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1301",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "215010113": {
+        "SHORTCUT_GROUP_ID": 2150101,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 105179002,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1006",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "411020001": {
+        "SHORTCUT_GROUP_ID": 4110200,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 101019006,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1405",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "411020002": {
+        "SHORTCUT_GROUP_ID": 4110200,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 101013154,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_1408",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "600001": {
+        "SHORTCUT_GROUP_ID": 60001,
+        "Index": 1,
+        "Type": 6,
+        "TYPE_VALUE_01": 600001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_6001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611010201": {
+        "SHORTCUT_GROUP_ID": 611010201,
+        "Index": 1,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601011,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611010202": {
+        "SHORTCUT_GROUP_ID": 611010201,
+        "Index": 2,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601013,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611010203": {
+        "SHORTCUT_GROUP_ID": 611010201,
+        "Index": 3,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601015,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611010204": {
+        "SHORTCUT_GROUP_ID": 611010201,
+        "Index": 4,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601019,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611010205": {
+        "SHORTCUT_GROUP_ID": 611010201,
+        "Index": 5,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601017,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611010206": {
+        "SHORTCUT_GROUP_ID": 611010201,
+        "Index": 6,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611010207": {
+        "SHORTCUT_GROUP_ID": 611010201,
+        "Index": 7,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601010,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611010208": {
+        "SHORTCUT_GROUP_ID": 611010201,
+        "Index": 8,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601023,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611010209": {
+        "SHORTCUT_GROUP_ID": 611010201,
+        "Index": 9,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601024,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611010210": {
+        "SHORTCUT_GROUP_ID": 611010201,
+        "Index": 10,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601025,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611010211": {
+        "SHORTCUT_GROUP_ID": 611010201,
+        "Index": 11,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601026,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611010212": {
+        "SHORTCUT_GROUP_ID": 611010201,
+        "Index": 12,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601027,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611010213": {
+        "SHORTCUT_GROUP_ID": 611010201,
+        "Index": 13,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601028,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611010214": {
+        "SHORTCUT_GROUP_ID": 611010201,
+        "Index": 14,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601029,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611030101": {
+        "SHORTCUT_GROUP_ID": 611030101,
+        "Index": 1,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601002,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611030102": {
+        "SHORTCUT_GROUP_ID": 611030101,
+        "Index": 2,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601003,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611030103": {
+        "SHORTCUT_GROUP_ID": 611030101,
+        "Index": 3,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601004,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611030104": {
+        "SHORTCUT_GROUP_ID": 611030101,
+        "Index": 4,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601005,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611030105": {
+        "SHORTCUT_GROUP_ID": 611030101,
+        "Index": 5,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601007,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611030106": {
+        "SHORTCUT_GROUP_ID": 611030101,
+        "Index": 6,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601012,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611030107": {
+        "SHORTCUT_GROUP_ID": 611030101,
+        "Index": 7,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601014,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611030108": {
+        "SHORTCUT_GROUP_ID": 611030101,
+        "Index": 8,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601016,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611030109": {
+        "SHORTCUT_GROUP_ID": 611030101,
+        "Index": 9,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601018,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611030110": {
+        "SHORTCUT_GROUP_ID": 611030101,
+        "Index": 10,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601020,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611030111": {
+        "SHORTCUT_GROUP_ID": 611030101,
+        "Index": 11,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601021,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611030112": {
+        "SHORTCUT_GROUP_ID": 611030101,
+        "Index": 12,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601022,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "611030113": {
+        "SHORTCUT_GROUP_ID": 611030101,
+        "Index": 13,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601030,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010101": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 1,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602007,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010102": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 2,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602008,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010103": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 3,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602009,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010104": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 4,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602011,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010105": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 5,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602012,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010106": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 6,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602018,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010107": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 7,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602019,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010108": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 8,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602024,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010109": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 9,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602025,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010110": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 10,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602031,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010111": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 11,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602036,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010112": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 12,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602037,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010113": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 13,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602010,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010114": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 14,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602030,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010115": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 15,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602038,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010116": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 16,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602039,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010117": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 17,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602040,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010118": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 18,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602041,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010119": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 19,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602042,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010120": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 20,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602043,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612010121": {
+        "SHORTCUT_GROUP_ID": 612010101,
+        "Index": 21,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602044,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612030101": {
+        "SHORTCUT_GROUP_ID": 612030101,
+        "Index": 1,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602003,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612030102": {
+        "SHORTCUT_GROUP_ID": 612030101,
+        "Index": 2,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602004,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612030103": {
+        "SHORTCUT_GROUP_ID": 612030101,
+        "Index": 3,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602005,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612030104": {
+        "SHORTCUT_GROUP_ID": 612030101,
+        "Index": 4,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602006,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612030105": {
+        "SHORTCUT_GROUP_ID": 612030101,
+        "Index": 5,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602016,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612030106": {
+        "SHORTCUT_GROUP_ID": 612030101,
+        "Index": 6,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602017,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612030107": {
+        "SHORTCUT_GROUP_ID": 612030101,
+        "Index": 7,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602022,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612030108": {
+        "SHORTCUT_GROUP_ID": 612030101,
+        "Index": 8,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602023,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612030109": {
+        "SHORTCUT_GROUP_ID": 612030101,
+        "Index": 9,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602028,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612030110": {
+        "SHORTCUT_GROUP_ID": 612030101,
+        "Index": 10,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602029,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612030111": {
+        "SHORTCUT_GROUP_ID": 612030101,
+        "Index": 11,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602034,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612030112": {
+        "SHORTCUT_GROUP_ID": 612030101,
+        "Index": 12,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602035,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "612030113": {
+        "SHORTCUT_GROUP_ID": 612030101,
+        "Index": 13,
+        "Type": 7,
+        "TYPE_VALUE_01": 71602045,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "7130501": {
+        "SHORTCUT_GROUP_ID": 713050,
+        "Index": 1,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601011,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_7001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "7130502": {
+        "SHORTCUT_GROUP_ID": 713050,
+        "Index": 2,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601013,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_7001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "7130503": {
+        "SHORTCUT_GROUP_ID": 713050,
+        "Index": 3,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601015,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_7001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "7130504": {
+        "SHORTCUT_GROUP_ID": 713050,
+        "Index": 4,
+        "Type": 7,
+        "TYPE_VALUE_01": 71601019,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_7001",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "7130801": {
+        "SHORTCUT_GROUP_ID": 7130801,
+        "Index": 1,
+        "Type": 8,
+        "TYPE_VALUE_01": 1,
+        "TYPE_VALUE_02": 600001,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "7130802": {
+        "SHORTCUT_GROUP_ID": 7130802,
+        "Index": 1,
+        "Type": 5,
+        "TYPE_VALUE_01": 71308001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "7130803": {
+        "SHORTCUT_GROUP_ID": 7130803,
+        "Index": 1,
+        "Type": 8,
+        "TYPE_VALUE_01": 1,
+        "TYPE_VALUE_02": 600010,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "7130804": {
+        "SHORTCUT_GROUP_ID": 7130804,
+        "Index": 1,
+        "Type": 5,
+        "TYPE_VALUE_01": 71308002,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "7130805": {
+        "SHORTCUT_GROUP_ID": 7130805,
+        "Index": 1,
+        "Type": 9,
+        "TYPE_VALUE_01": 11140101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "7130806": {
+        "SHORTCUT_GROUP_ID": 7130805,
+        "Index": 1,
+        "Type": 9,
+        "TYPE_VALUE_01": 11150101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "7130807": {
+        "SHORTCUT_GROUP_ID": 7130806,
+        "Index": 1,
+        "Type": 5,
+        "TYPE_VALUE_01": 71308004,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "71309001": {
+        "SHORTCUT_GROUP_ID": 71309001,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 103179501,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "71309002": {
+        "SHORTCUT_GROUP_ID": 71309002,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 103179501,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "71309003": {
+        "SHORTCUT_GROUP_ID": 71309003,
+        "Index": 2,
+        "Type": 1,
+        "TYPE_VALUE_01": 103179501,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "71309004": {
+        "SHORTCUT_GROUP_ID": 71309003,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 701170101,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "71309021": {
+        "SHORTCUT_GROUP_ID": 71309021,
+        "Index": 1,
+        "Type": 1,
+        "TYPE_VALUE_01": 104109001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      },
+      "71316001": {
+        "SHORTCUT_GROUP_ID": 71316001,
+        "Index": 1,
+        "Type": 2,
+        "TYPE_VALUE_01": 6001001,
+        "TYPE_VALUE_02": 0,
+        "TYPE_VALUE_03": 0,
+        "SHORTCUT_DESC": "SHORTCUT_DESC_0000",
+        "FUNCTION_OPEN_ID": 0
+      }
+    }
+  }
+]

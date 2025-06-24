@@ -1,0 +1,717 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "PVP_REWARD",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBPVP_REWARD'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "200101": {
+        "Name": "UI_TIER_NAME_1",
+        "Icon": "T_UI_PVP_Tier1_Sprite",
+        "SEASON_REWARD": 709010101,
+        "MATCH_REWARD": 709020101,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 1,
+        "PVP_SEASON_ID": 2001,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier1_Sprite.T_UI_PVP_Tier1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200102": {
+        "Name": "UI_TIER_NAME_2",
+        "Icon": "T_UI_PVP_Tier2_Sprite",
+        "SEASON_REWARD": 709010102,
+        "MATCH_REWARD": 709020102,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 2,
+        "PVP_SEASON_ID": 2001,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier2_Sprite.T_UI_PVP_Tier2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200103": {
+        "Name": "UI_TIER_NAME_3",
+        "Icon": "T_UI_PVP_Tier3_Sprite",
+        "SEASON_REWARD": 709010103,
+        "MATCH_REWARD": 709020103,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 3,
+        "PVP_SEASON_ID": 2001,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier3_Sprite.T_UI_PVP_Tier3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200104": {
+        "Name": "UI_TIER_NAME_4",
+        "Icon": "T_UI_PVP_Tier4_Sprite",
+        "SEASON_REWARD": 709010104,
+        "MATCH_REWARD": 709020104,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 4,
+        "PVP_SEASON_ID": 2001,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier4_Sprite.T_UI_PVP_Tier4_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200105": {
+        "Name": "UI_TIER_NAME_5",
+        "Icon": "T_UI_PVP_Tier5_Sprite",
+        "SEASON_REWARD": 709010105,
+        "MATCH_REWARD": 709020105,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 5,
+        "PVP_SEASON_ID": 2001,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier5_Sprite.T_UI_PVP_Tier5_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200106": {
+        "Name": "UI_TIER_NAME_6",
+        "Icon": "T_UI_PVP_Tier6_Sprite",
+        "SEASON_REWARD": 709010106,
+        "MATCH_REWARD": 709020106,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 6,
+        "PVP_SEASON_ID": 2001,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier6_Sprite.T_UI_PVP_Tier6_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200201": {
+        "Name": "UI_TIER_NAME_1",
+        "Icon": "T_UI_PVP_Tier1_Sprite",
+        "SEASON_REWARD": 709010201,
+        "MATCH_REWARD": 709020101,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 1,
+        "PVP_SEASON_ID": 2002,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier1_Sprite.T_UI_PVP_Tier1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200202": {
+        "Name": "UI_TIER_NAME_2",
+        "Icon": "T_UI_PVP_Tier2_Sprite",
+        "SEASON_REWARD": 709010202,
+        "MATCH_REWARD": 709020102,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 2,
+        "PVP_SEASON_ID": 2002,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier2_Sprite.T_UI_PVP_Tier2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200203": {
+        "Name": "UI_TIER_NAME_3",
+        "Icon": "T_UI_PVP_Tier3_Sprite",
+        "SEASON_REWARD": 709010203,
+        "MATCH_REWARD": 709020103,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 3,
+        "PVP_SEASON_ID": 2002,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier3_Sprite.T_UI_PVP_Tier3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200204": {
+        "Name": "UI_TIER_NAME_4",
+        "Icon": "T_UI_PVP_Tier4_Sprite",
+        "SEASON_REWARD": 709010204,
+        "MATCH_REWARD": 709020104,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 4,
+        "PVP_SEASON_ID": 2002,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier4_Sprite.T_UI_PVP_Tier4_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200205": {
+        "Name": "UI_TIER_NAME_5",
+        "Icon": "T_UI_PVP_Tier5_Sprite",
+        "SEASON_REWARD": 709010205,
+        "MATCH_REWARD": 709020105,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 5,
+        "PVP_SEASON_ID": 2002,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier5_Sprite.T_UI_PVP_Tier5_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200206": {
+        "Name": "UI_TIER_NAME_6",
+        "Icon": "T_UI_PVP_Tier6_Sprite",
+        "SEASON_REWARD": 709010206,
+        "MATCH_REWARD": 709020106,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 6,
+        "PVP_SEASON_ID": 2002,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier6_Sprite.T_UI_PVP_Tier6_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200301": {
+        "Name": "UI_TIER_NAME_1",
+        "Icon": "T_UI_PVP_Tier1_Sprite",
+        "SEASON_REWARD": 709010301,
+        "MATCH_REWARD": 709020101,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 1,
+        "PVP_SEASON_ID": 2003,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier1_Sprite.T_UI_PVP_Tier1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200302": {
+        "Name": "UI_TIER_NAME_2",
+        "Icon": "T_UI_PVP_Tier2_Sprite",
+        "SEASON_REWARD": 709010302,
+        "MATCH_REWARD": 709020102,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 2,
+        "PVP_SEASON_ID": 2003,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier2_Sprite.T_UI_PVP_Tier2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200303": {
+        "Name": "UI_TIER_NAME_3",
+        "Icon": "T_UI_PVP_Tier3_Sprite",
+        "SEASON_REWARD": 709010303,
+        "MATCH_REWARD": 709020103,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 3,
+        "PVP_SEASON_ID": 2003,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier3_Sprite.T_UI_PVP_Tier3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200304": {
+        "Name": "UI_TIER_NAME_4",
+        "Icon": "T_UI_PVP_Tier4_Sprite",
+        "SEASON_REWARD": 709010304,
+        "MATCH_REWARD": 709020104,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 4,
+        "PVP_SEASON_ID": 2003,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier4_Sprite.T_UI_PVP_Tier4_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200305": {
+        "Name": "UI_TIER_NAME_5",
+        "Icon": "T_UI_PVP_Tier5_Sprite",
+        "SEASON_REWARD": 709010305,
+        "MATCH_REWARD": 709020105,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 5,
+        "PVP_SEASON_ID": 2003,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier5_Sprite.T_UI_PVP_Tier5_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200306": {
+        "Name": "UI_TIER_NAME_6",
+        "Icon": "T_UI_PVP_Tier6_Sprite",
+        "SEASON_REWARD": 709010306,
+        "MATCH_REWARD": 709020106,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 6,
+        "PVP_SEASON_ID": 2003,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier6_Sprite.T_UI_PVP_Tier6_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200401": {
+        "Name": "UI_TIER_NAME_1",
+        "Icon": "T_UI_PVP_Tier1_Sprite",
+        "SEASON_REWARD": 709010401,
+        "MATCH_REWARD": 709020101,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 1,
+        "PVP_SEASON_ID": 2004,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier1_Sprite.T_UI_PVP_Tier1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200402": {
+        "Name": "UI_TIER_NAME_2",
+        "Icon": "T_UI_PVP_Tier2_Sprite",
+        "SEASON_REWARD": 709010402,
+        "MATCH_REWARD": 709020102,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 2,
+        "PVP_SEASON_ID": 2004,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier2_Sprite.T_UI_PVP_Tier2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200403": {
+        "Name": "UI_TIER_NAME_3",
+        "Icon": "T_UI_PVP_Tier3_Sprite",
+        "SEASON_REWARD": 709010403,
+        "MATCH_REWARD": 709020103,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 3,
+        "PVP_SEASON_ID": 2004,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier3_Sprite.T_UI_PVP_Tier3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200404": {
+        "Name": "UI_TIER_NAME_4",
+        "Icon": "T_UI_PVP_Tier4_Sprite",
+        "SEASON_REWARD": 709010404,
+        "MATCH_REWARD": 709020104,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 4,
+        "PVP_SEASON_ID": 2004,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier4_Sprite.T_UI_PVP_Tier4_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200405": {
+        "Name": "UI_TIER_NAME_5",
+        "Icon": "T_UI_PVP_Tier5_Sprite",
+        "SEASON_REWARD": 709010405,
+        "MATCH_REWARD": 709020105,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 5,
+        "PVP_SEASON_ID": 2004,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier5_Sprite.T_UI_PVP_Tier5_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200406": {
+        "Name": "UI_TIER_NAME_6",
+        "Icon": "T_UI_PVP_Tier6_Sprite",
+        "SEASON_REWARD": 709010406,
+        "MATCH_REWARD": 709020106,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 6,
+        "PVP_SEASON_ID": 2004,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier6_Sprite.T_UI_PVP_Tier6_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200501": {
+        "Name": "UI_TIER_NAME_1",
+        "Icon": "T_UI_PVP_Tier1_Sprite",
+        "SEASON_REWARD": 709010501,
+        "MATCH_REWARD": 709020101,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 1,
+        "PVP_SEASON_ID": 2005,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier1_Sprite.T_UI_PVP_Tier1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200502": {
+        "Name": "UI_TIER_NAME_2",
+        "Icon": "T_UI_PVP_Tier2_Sprite",
+        "SEASON_REWARD": 709010502,
+        "MATCH_REWARD": 709020102,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 2,
+        "PVP_SEASON_ID": 2005,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier2_Sprite.T_UI_PVP_Tier2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200503": {
+        "Name": "UI_TIER_NAME_3",
+        "Icon": "T_UI_PVP_Tier3_Sprite",
+        "SEASON_REWARD": 709010503,
+        "MATCH_REWARD": 709020103,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 3,
+        "PVP_SEASON_ID": 2005,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier3_Sprite.T_UI_PVP_Tier3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200504": {
+        "Name": "UI_TIER_NAME_4",
+        "Icon": "T_UI_PVP_Tier4_Sprite",
+        "SEASON_REWARD": 709010504,
+        "MATCH_REWARD": 709020104,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 4,
+        "PVP_SEASON_ID": 2005,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier4_Sprite.T_UI_PVP_Tier4_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200505": {
+        "Name": "UI_TIER_NAME_5",
+        "Icon": "T_UI_PVP_Tier5_Sprite",
+        "SEASON_REWARD": 709010505,
+        "MATCH_REWARD": 709020105,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 5,
+        "PVP_SEASON_ID": 2005,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier5_Sprite.T_UI_PVP_Tier5_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200506": {
+        "Name": "UI_TIER_NAME_6",
+        "Icon": "T_UI_PVP_Tier6_Sprite",
+        "SEASON_REWARD": 709010506,
+        "MATCH_REWARD": 709020106,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 6,
+        "PVP_SEASON_ID": 2005,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier6_Sprite.T_UI_PVP_Tier6_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200601": {
+        "Name": "UI_TIER_NAME_1",
+        "Icon": "T_UI_PVP_Tier1_Sprite",
+        "SEASON_REWARD": 709010601,
+        "MATCH_REWARD": 709020101,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 1,
+        "PVP_SEASON_ID": 2006,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier1_Sprite.T_UI_PVP_Tier1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200602": {
+        "Name": "UI_TIER_NAME_2",
+        "Icon": "T_UI_PVP_Tier2_Sprite",
+        "SEASON_REWARD": 709010602,
+        "MATCH_REWARD": 709020102,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 2,
+        "PVP_SEASON_ID": 2006,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier2_Sprite.T_UI_PVP_Tier2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200603": {
+        "Name": "UI_TIER_NAME_3",
+        "Icon": "T_UI_PVP_Tier3_Sprite",
+        "SEASON_REWARD": 709010603,
+        "MATCH_REWARD": 709020103,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 3,
+        "PVP_SEASON_ID": 2006,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier3_Sprite.T_UI_PVP_Tier3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200604": {
+        "Name": "UI_TIER_NAME_4",
+        "Icon": "T_UI_PVP_Tier4_Sprite",
+        "SEASON_REWARD": 709010604,
+        "MATCH_REWARD": 709020104,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 4,
+        "PVP_SEASON_ID": 2006,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier4_Sprite.T_UI_PVP_Tier4_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200605": {
+        "Name": "UI_TIER_NAME_5",
+        "Icon": "T_UI_PVP_Tier5_Sprite",
+        "SEASON_REWARD": 709010605,
+        "MATCH_REWARD": 709020105,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 5,
+        "PVP_SEASON_ID": 2006,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier5_Sprite.T_UI_PVP_Tier5_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200606": {
+        "Name": "UI_TIER_NAME_6",
+        "Icon": "T_UI_PVP_Tier6_Sprite",
+        "SEASON_REWARD": 709010606,
+        "MATCH_REWARD": 709020106,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 6,
+        "PVP_SEASON_ID": 2006,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier6_Sprite.T_UI_PVP_Tier6_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200701": {
+        "Name": "UI_TIER_NAME_1",
+        "Icon": "T_UI_PVP_Tier1_Sprite",
+        "SEASON_REWARD": 709010701,
+        "MATCH_REWARD": 709020101,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 1,
+        "PVP_SEASON_ID": 2007,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier1_Sprite.T_UI_PVP_Tier1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200702": {
+        "Name": "UI_TIER_NAME_2",
+        "Icon": "T_UI_PVP_Tier2_Sprite",
+        "SEASON_REWARD": 709010702,
+        "MATCH_REWARD": 709020102,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 2,
+        "PVP_SEASON_ID": 2007,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier2_Sprite.T_UI_PVP_Tier2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200703": {
+        "Name": "UI_TIER_NAME_3",
+        "Icon": "T_UI_PVP_Tier3_Sprite",
+        "SEASON_REWARD": 709010703,
+        "MATCH_REWARD": 709020103,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 3,
+        "PVP_SEASON_ID": 2007,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier3_Sprite.T_UI_PVP_Tier3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200704": {
+        "Name": "UI_TIER_NAME_4",
+        "Icon": "T_UI_PVP_Tier4_Sprite",
+        "SEASON_REWARD": 709010704,
+        "MATCH_REWARD": 709020104,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 4,
+        "PVP_SEASON_ID": 2007,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier4_Sprite.T_UI_PVP_Tier4_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200705": {
+        "Name": "UI_TIER_NAME_5",
+        "Icon": "T_UI_PVP_Tier5_Sprite",
+        "SEASON_REWARD": 709010705,
+        "MATCH_REWARD": 709020105,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 5,
+        "PVP_SEASON_ID": 2007,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier5_Sprite.T_UI_PVP_Tier5_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200706": {
+        "Name": "UI_TIER_NAME_6",
+        "Icon": "T_UI_PVP_Tier6_Sprite",
+        "SEASON_REWARD": 709010706,
+        "MATCH_REWARD": 709020106,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 6,
+        "PVP_SEASON_ID": 2007,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier6_Sprite.T_UI_PVP_Tier6_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200801": {
+        "Name": "UI_TIER_NAME_1",
+        "Icon": "T_UI_PVP_Tier1_Sprite",
+        "SEASON_REWARD": 709010801,
+        "MATCH_REWARD": 709020101,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 1,
+        "PVP_SEASON_ID": 2008,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier1_Sprite.T_UI_PVP_Tier1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200802": {
+        "Name": "UI_TIER_NAME_2",
+        "Icon": "T_UI_PVP_Tier2_Sprite",
+        "SEASON_REWARD": 709010802,
+        "MATCH_REWARD": 709020102,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 2,
+        "PVP_SEASON_ID": 2008,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier2_Sprite.T_UI_PVP_Tier2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200803": {
+        "Name": "UI_TIER_NAME_3",
+        "Icon": "T_UI_PVP_Tier3_Sprite",
+        "SEASON_REWARD": 709010803,
+        "MATCH_REWARD": 709020103,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 3,
+        "PVP_SEASON_ID": 2008,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier3_Sprite.T_UI_PVP_Tier3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200804": {
+        "Name": "UI_TIER_NAME_4",
+        "Icon": "T_UI_PVP_Tier4_Sprite",
+        "SEASON_REWARD": 709010804,
+        "MATCH_REWARD": 709020104,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 4,
+        "PVP_SEASON_ID": 2008,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier4_Sprite.T_UI_PVP_Tier4_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200805": {
+        "Name": "UI_TIER_NAME_5",
+        "Icon": "T_UI_PVP_Tier5_Sprite",
+        "SEASON_REWARD": 709010805,
+        "MATCH_REWARD": 709020105,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 5,
+        "PVP_SEASON_ID": 2008,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier5_Sprite.T_UI_PVP_Tier5_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200806": {
+        "Name": "UI_TIER_NAME_6",
+        "Icon": "T_UI_PVP_Tier6_Sprite",
+        "SEASON_REWARD": 709010806,
+        "MATCH_REWARD": 709020106,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 6,
+        "PVP_SEASON_ID": 2008,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier6_Sprite.T_UI_PVP_Tier6_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200901": {
+        "Name": "UI_TIER_NAME_1",
+        "Icon": "T_UI_PVP_Tier1_Sprite",
+        "SEASON_REWARD": 709010901,
+        "MATCH_REWARD": 709020101,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 1,
+        "PVP_SEASON_ID": 2009,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier1_Sprite.T_UI_PVP_Tier1_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200902": {
+        "Name": "UI_TIER_NAME_2",
+        "Icon": "T_UI_PVP_Tier2_Sprite",
+        "SEASON_REWARD": 709010902,
+        "MATCH_REWARD": 709020102,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 2,
+        "PVP_SEASON_ID": 2009,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier2_Sprite.T_UI_PVP_Tier2_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200903": {
+        "Name": "UI_TIER_NAME_3",
+        "Icon": "T_UI_PVP_Tier3_Sprite",
+        "SEASON_REWARD": 709010903,
+        "MATCH_REWARD": 709020103,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 3,
+        "PVP_SEASON_ID": 2009,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier3_Sprite.T_UI_PVP_Tier3_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200904": {
+        "Name": "UI_TIER_NAME_4",
+        "Icon": "T_UI_PVP_Tier4_Sprite",
+        "SEASON_REWARD": 709010904,
+        "MATCH_REWARD": 709020104,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 4,
+        "PVP_SEASON_ID": 2009,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier4_Sprite.T_UI_PVP_Tier4_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200905": {
+        "Name": "UI_TIER_NAME_5",
+        "Icon": "T_UI_PVP_Tier5_Sprite",
+        "SEASON_REWARD": 709010905,
+        "MATCH_REWARD": 709020105,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 5,
+        "PVP_SEASON_ID": 2009,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier5_Sprite.T_UI_PVP_Tier5_Sprite",
+          "SubPathString": ""
+        }
+      },
+      "200906": {
+        "Name": "UI_TIER_NAME_6",
+        "Icon": "T_UI_PVP_Tier6_Sprite",
+        "SEASON_REWARD": 709010906,
+        "MATCH_REWARD": 709020106,
+        "WEEKLY_REWARD": 709000000,
+        "TIER": 6,
+        "PVP_SEASON_ID": 2009,
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/PVP/T_UI_PVP_Tier6_Sprite.T_UI_PVP_Tier6_Sprite",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

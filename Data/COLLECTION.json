@@ -1,0 +1,590 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "COLLECTION",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBCOLLECTION'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "71601001": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100001,
+        "Index": 1
+      },
+      "71601002": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100002,
+        "Index": 2
+      },
+      "71601003": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100003,
+        "Index": 3
+      },
+      "71601004": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100004,
+        "Index": 4
+      },
+      "71601005": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100005,
+        "Index": 5
+      },
+      "71601007": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100007,
+        "Index": 6
+      },
+      "71601008": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100008,
+        "Index": 7
+      },
+      "71601010": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100010,
+        "Index": 8
+      },
+      "71601011": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100011,
+        "Index": 9
+      },
+      "71601012": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100012,
+        "Index": 10
+      },
+      "71601013": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100013,
+        "Index": 11
+      },
+      "71601014": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100014,
+        "Index": 12
+      },
+      "71601015": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100015,
+        "Index": 13
+      },
+      "71601016": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100016,
+        "Index": 14
+      },
+      "71601017": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100017,
+        "Index": 15
+      },
+      "71601018": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100018,
+        "Index": 16
+      },
+      "71601019": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100019,
+        "Index": 17
+      },
+      "71601020": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100020,
+        "Index": 18
+      },
+      "71601021": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100021,
+        "Index": 19
+      },
+      "71601022": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100022,
+        "Index": 20
+      },
+      "71601023": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100023,
+        "Index": 21
+      },
+      "71601024": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100025,
+        "Index": 22
+      },
+      "71601025": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100024,
+        "Index": 23
+      },
+      "71601026": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100027,
+        "Index": 24
+      },
+      "71601027": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100026,
+        "Index": 25
+      },
+      "71601028": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100028,
+        "Index": 26
+      },
+      "71601029": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100029,
+        "Index": 27
+      },
+      "71601030": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100009,
+        "Index": 28
+      },
+      "71601031": {
+        "Type": "ENBCollectionType::Charactar",
+        "COLLECTION_ID": 100030,
+        "Index": 29
+      },
+      "71602001": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321013001,
+        "Index": 1
+      },
+      "71602002": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321013002,
+        "Index": 2
+      },
+      "71602003": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321014001,
+        "Index": 3
+      },
+      "71602004": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321014002,
+        "Index": 4
+      },
+      "71602005": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321014003,
+        "Index": 5
+      },
+      "71602006": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321014004,
+        "Index": 6
+      },
+      "71602007": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321015001,
+        "Index": 7
+      },
+      "71602008": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321015002,
+        "Index": 8
+      },
+      "71602009": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321015003,
+        "Index": 9
+      },
+      "71602010": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321015004,
+        "Index": 10
+      },
+      "71602011": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321015005,
+        "Index": 11
+      },
+      "71602012": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321015006,
+        "Index": 12
+      },
+      "71602014": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321023001,
+        "Index": 13
+      },
+      "71602015": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321023002,
+        "Index": 14
+      },
+      "71602016": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321024001,
+        "Index": 15
+      },
+      "71602017": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321024003,
+        "Index": 16
+      },
+      "71602018": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321025001,
+        "Index": 17
+      },
+      "71602019": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321025002,
+        "Index": 18
+      },
+      "71602020": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321033001,
+        "Index": 19
+      },
+      "71602021": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321033002,
+        "Index": 20
+      },
+      "71602022": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321034001,
+        "Index": 21
+      },
+      "71602023": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321034002,
+        "Index": 22
+      },
+      "71602024": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321035001,
+        "Index": 23
+      },
+      "71602025": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321035002,
+        "Index": 24
+      },
+      "71602026": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321043001,
+        "Index": 25
+      },
+      "71602027": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321043002,
+        "Index": 26
+      },
+      "71602028": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321044001,
+        "Index": 27
+      },
+      "71602029": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321044002,
+        "Index": 28
+      },
+      "71602030": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321045001,
+        "Index": 29
+      },
+      "71602031": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321045002,
+        "Index": 30
+      },
+      "71602032": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321053001,
+        "Index": 31
+      },
+      "71602033": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321053002,
+        "Index": 32
+      },
+      "71602034": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321054001,
+        "Index": 33
+      },
+      "71602035": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321054002,
+        "Index": 34
+      },
+      "71602036": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321055001,
+        "Index": 35
+      },
+      "71602037": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321055002,
+        "Index": 36
+      },
+      "71602038": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321015007,
+        "Index": 37
+      },
+      "71602039": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321015008,
+        "Index": 38
+      },
+      "71602040": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321045003,
+        "Index": 39
+      },
+      "71602041": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321035003,
+        "Index": 40
+      },
+      "71602042": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321045004,
+        "Index": 41
+      },
+      "71602043": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321025003,
+        "Index": 42
+      },
+      "71602044": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321055003,
+        "Index": 43
+      },
+      "71602045": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321024004,
+        "Index": 44
+      },
+      "71602046": {
+        "Type": "ENBCollectionType::Rememento",
+        "COLLECTION_ID": 321015009,
+        "Index": 45
+      },
+      "71603001": {
+        "Type": "ENBCollectionType::Equip",
+        "COLLECTION_ID": 10101,
+        "Index": 1
+      },
+      "71603002": {
+        "Type": "ENBCollectionType::Equip",
+        "COLLECTION_ID": 10102,
+        "Index": 2
+      },
+      "71603003": {
+        "Type": "ENBCollectionType::Equip",
+        "COLLECTION_ID": 10103,
+        "Index": 3
+      },
+      "71603004": {
+        "Type": "ENBCollectionType::Equip",
+        "COLLECTION_ID": 10104,
+        "Index": 4
+      },
+      "71603005": {
+        "Type": "ENBCollectionType::Equip",
+        "COLLECTION_ID": 10105,
+        "Index": 5
+      },
+      "71603006": {
+        "Type": "ENBCollectionType::Equip",
+        "COLLECTION_ID": 10106,
+        "Index": 6
+      },
+      "71603007": {
+        "Type": "ENBCollectionType::Equip",
+        "COLLECTION_ID": 10107,
+        "Index": 7
+      },
+      "71603008": {
+        "Type": "ENBCollectionType::Equip",
+        "COLLECTION_ID": 10108,
+        "Index": 8
+      },
+      "71604001": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1001,
+        "Index": 1
+      },
+      "71604002": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1002,
+        "Index": 2
+      },
+      "71604003": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1003,
+        "Index": 3
+      },
+      "71604004": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1004,
+        "Index": 4
+      },
+      "71604005": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1005,
+        "Index": 5
+      },
+      "71604006": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1006,
+        "Index": 6
+      },
+      "71604007": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1007,
+        "Index": 7
+      },
+      "71604008": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1008,
+        "Index": 8
+      },
+      "71604009": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1009,
+        "Index": 9
+      },
+      "71604010": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1010,
+        "Index": 10
+      },
+      "71604011": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1011,
+        "Index": 11
+      },
+      "71604012": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1012,
+        "Index": 12
+      },
+      "71604013": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1013,
+        "Index": 13
+      },
+      "71604014": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1014,
+        "Index": 14
+      },
+      "71604015": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1015,
+        "Index": 15
+      },
+      "71604016": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1016,
+        "Index": 16
+      },
+      "71604017": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1017,
+        "Index": 17
+      },
+      "71604018": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1018,
+        "Index": 18
+      },
+      "71604019": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1019,
+        "Index": 19
+      },
+      "71604020": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1020,
+        "Index": 20
+      },
+      "71604021": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1021,
+        "Index": 21
+      },
+      "71604022": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1022,
+        "Index": 22
+      },
+      "71604023": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1023,
+        "Index": 23
+      },
+      "71604024": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1024,
+        "Index": 24
+      },
+      "71604025": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1025,
+        "Index": 25
+      },
+      "71604026": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1026,
+        "Index": 26
+      },
+      "71604027": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1027,
+        "Index": 27
+      },
+      "71604028": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1028,
+        "Index": 28
+      },
+      "71604029": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1029,
+        "Index": 29
+      },
+      "71604030": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1030,
+        "Index": 30
+      },
+      "71604031": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1031,
+        "Index": 31
+      },
+      "71604032": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1032,
+        "Index": 32
+      },
+      "71604033": {
+        "Type": "ENBCollectionType::ProperNoun",
+        "COLLECTION_ID": 1033,
+        "Index": 33
+      }
+    }
+  }
+]

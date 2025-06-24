@@ -1,0 +1,715 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ATTENDANCE_REWARD",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBATTENDANCE_REWARD'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1001": {
+        "GROUP_ID": 71301002,
+        "Count": 1,
+        "REWARD_GROUP_ID": 713010001
+      },
+      "1002": {
+        "GROUP_ID": 71301002,
+        "Count": 2,
+        "REWARD_GROUP_ID": 713010002
+      },
+      "1003": {
+        "GROUP_ID": 71301002,
+        "Count": 3,
+        "REWARD_GROUP_ID": 713010003
+      },
+      "1004": {
+        "GROUP_ID": 71301002,
+        "Count": 4,
+        "REWARD_GROUP_ID": 713010004
+      },
+      "1005": {
+        "GROUP_ID": 71301002,
+        "Count": 5,
+        "REWARD_GROUP_ID": 713010005
+      },
+      "1006": {
+        "GROUP_ID": 71301002,
+        "Count": 6,
+        "REWARD_GROUP_ID": 713010006
+      },
+      "1007": {
+        "GROUP_ID": 71301002,
+        "Count": 7,
+        "REWARD_GROUP_ID": 713010007
+      },
+      "1008": {
+        "GROUP_ID": 71301003,
+        "Count": 1,
+        "REWARD_GROUP_ID": 713010101
+      },
+      "1009": {
+        "GROUP_ID": 71301003,
+        "Count": 2,
+        "REWARD_GROUP_ID": 713010102
+      },
+      "1010": {
+        "GROUP_ID": 71301003,
+        "Count": 3,
+        "REWARD_GROUP_ID": 713010103
+      },
+      "1011": {
+        "GROUP_ID": 71301003,
+        "Count": 4,
+        "REWARD_GROUP_ID": 713010104
+      },
+      "1012": {
+        "GROUP_ID": 71301003,
+        "Count": 5,
+        "REWARD_GROUP_ID": 713010105
+      },
+      "1013": {
+        "GROUP_ID": 71301003,
+        "Count": 6,
+        "REWARD_GROUP_ID": 713010106
+      },
+      "1014": {
+        "GROUP_ID": 71301003,
+        "Count": 7,
+        "REWARD_GROUP_ID": 713010107
+      },
+      "1015": {
+        "GROUP_ID": 71301004,
+        "Count": 1,
+        "REWARD_GROUP_ID": 713010001
+      },
+      "1016": {
+        "GROUP_ID": 71301004,
+        "Count": 2,
+        "REWARD_GROUP_ID": 713010002
+      },
+      "1017": {
+        "GROUP_ID": 71301004,
+        "Count": 3,
+        "REWARD_GROUP_ID": 713010003
+      },
+      "1018": {
+        "GROUP_ID": 71301004,
+        "Count": 4,
+        "REWARD_GROUP_ID": 713010004
+      },
+      "1019": {
+        "GROUP_ID": 71301004,
+        "Count": 5,
+        "REWARD_GROUP_ID": 713010005
+      },
+      "1020": {
+        "GROUP_ID": 71301004,
+        "Count": 6,
+        "REWARD_GROUP_ID": 713010006
+      },
+      "1021": {
+        "GROUP_ID": 71301004,
+        "Count": 7,
+        "REWARD_GROUP_ID": 713010007
+      },
+      "1022": {
+        "GROUP_ID": 71301005,
+        "Count": 1,
+        "REWARD_GROUP_ID": 713010001
+      },
+      "1023": {
+        "GROUP_ID": 71301005,
+        "Count": 2,
+        "REWARD_GROUP_ID": 713010002
+      },
+      "1024": {
+        "GROUP_ID": 71301005,
+        "Count": 3,
+        "REWARD_GROUP_ID": 713010003
+      },
+      "1025": {
+        "GROUP_ID": 71301005,
+        "Count": 4,
+        "REWARD_GROUP_ID": 713010004
+      },
+      "1026": {
+        "GROUP_ID": 71301005,
+        "Count": 5,
+        "REWARD_GROUP_ID": 713010005
+      },
+      "1027": {
+        "GROUP_ID": 71301005,
+        "Count": 6,
+        "REWARD_GROUP_ID": 713010006
+      },
+      "1028": {
+        "GROUP_ID": 71301005,
+        "Count": 7,
+        "REWARD_GROUP_ID": 713010007
+      },
+      "1029": {
+        "GROUP_ID": 71301006,
+        "Count": 1,
+        "REWARD_GROUP_ID": 713010001
+      },
+      "1030": {
+        "GROUP_ID": 71301006,
+        "Count": 2,
+        "REWARD_GROUP_ID": 713010002
+      },
+      "1031": {
+        "GROUP_ID": 71301006,
+        "Count": 3,
+        "REWARD_GROUP_ID": 713010003
+      },
+      "1032": {
+        "GROUP_ID": 71301006,
+        "Count": 4,
+        "REWARD_GROUP_ID": 713010004
+      },
+      "1033": {
+        "GROUP_ID": 71301006,
+        "Count": 5,
+        "REWARD_GROUP_ID": 713010005
+      },
+      "1034": {
+        "GROUP_ID": 71301006,
+        "Count": 6,
+        "REWARD_GROUP_ID": 713010006
+      },
+      "1035": {
+        "GROUP_ID": 71301006,
+        "Count": 7,
+        "REWARD_GROUP_ID": 713010007
+      },
+      "1036": {
+        "GROUP_ID": 71301007,
+        "Count": 1,
+        "REWARD_GROUP_ID": 713010001
+      },
+      "1037": {
+        "GROUP_ID": 71301007,
+        "Count": 2,
+        "REWARD_GROUP_ID": 713010002
+      },
+      "1038": {
+        "GROUP_ID": 71301007,
+        "Count": 3,
+        "REWARD_GROUP_ID": 713010003
+      },
+      "1039": {
+        "GROUP_ID": 71301007,
+        "Count": 4,
+        "REWARD_GROUP_ID": 713010004
+      },
+      "1040": {
+        "GROUP_ID": 71301007,
+        "Count": 5,
+        "REWARD_GROUP_ID": 713010005
+      },
+      "1041": {
+        "GROUP_ID": 71301007,
+        "Count": 6,
+        "REWARD_GROUP_ID": 713010006
+      },
+      "1042": {
+        "GROUP_ID": 71301007,
+        "Count": 7,
+        "REWARD_GROUP_ID": 713010007
+      },
+      "1043": {
+        "GROUP_ID": 71301008,
+        "Count": 1,
+        "REWARD_GROUP_ID": 713010201
+      },
+      "1044": {
+        "GROUP_ID": 71301008,
+        "Count": 2,
+        "REWARD_GROUP_ID": 713010202
+      },
+      "1045": {
+        "GROUP_ID": 71301008,
+        "Count": 3,
+        "REWARD_GROUP_ID": 713010203
+      },
+      "1046": {
+        "GROUP_ID": 71301008,
+        "Count": 4,
+        "REWARD_GROUP_ID": 713010204
+      },
+      "1047": {
+        "GROUP_ID": 71301008,
+        "Count": 5,
+        "REWARD_GROUP_ID": 713010205
+      },
+      "1048": {
+        "GROUP_ID": 71301008,
+        "Count": 6,
+        "REWARD_GROUP_ID": 713010206
+      },
+      "1049": {
+        "GROUP_ID": 71301008,
+        "Count": 7,
+        "REWARD_GROUP_ID": 713010207
+      },
+      "1050": {
+        "GROUP_ID": 71301009,
+        "Count": 1,
+        "REWARD_GROUP_ID": 713010201
+      },
+      "1051": {
+        "GROUP_ID": 71301009,
+        "Count": 2,
+        "REWARD_GROUP_ID": 713010202
+      },
+      "1052": {
+        "GROUP_ID": 71301009,
+        "Count": 3,
+        "REWARD_GROUP_ID": 713010203
+      },
+      "1053": {
+        "GROUP_ID": 71301009,
+        "Count": 4,
+        "REWARD_GROUP_ID": 713010204
+      },
+      "1054": {
+        "GROUP_ID": 71301009,
+        "Count": 5,
+        "REWARD_GROUP_ID": 713010205
+      },
+      "1055": {
+        "GROUP_ID": 71301009,
+        "Count": 6,
+        "REWARD_GROUP_ID": 713010206
+      },
+      "1056": {
+        "GROUP_ID": 71301009,
+        "Count": 7,
+        "REWARD_GROUP_ID": 713010207
+      },
+      "12001": {
+        "GROUP_ID": 71312001,
+        "Count": 1,
+        "REWARD_GROUP_ID": 713012001
+      },
+      "12002": {
+        "GROUP_ID": 71312001,
+        "Count": 2,
+        "REWARD_GROUP_ID": 713012002
+      },
+      "12003": {
+        "GROUP_ID": 71312001,
+        "Count": 3,
+        "REWARD_GROUP_ID": 713012003
+      },
+      "12004": {
+        "GROUP_ID": 71312001,
+        "Count": 4,
+        "REWARD_GROUP_ID": 713012004
+      },
+      "12005": {
+        "GROUP_ID": 71312001,
+        "Count": 5,
+        "REWARD_GROUP_ID": 713012005
+      },
+      "12006": {
+        "GROUP_ID": 71312001,
+        "Count": 6,
+        "REWARD_GROUP_ID": 713012006
+      },
+      "12007": {
+        "GROUP_ID": 71312001,
+        "Count": 7,
+        "REWARD_GROUP_ID": 713012007
+      },
+      "12008": {
+        "GROUP_ID": 71312001,
+        "Count": 8,
+        "REWARD_GROUP_ID": 713012008
+      },
+      "12009": {
+        "GROUP_ID": 71312001,
+        "Count": 9,
+        "REWARD_GROUP_ID": 713012009
+      },
+      "12010": {
+        "GROUP_ID": 71312001,
+        "Count": 10,
+        "REWARD_GROUP_ID": 713012010
+      },
+      "12011": {
+        "GROUP_ID": 71312001,
+        "Count": 11,
+        "REWARD_GROUP_ID": 713012011
+      },
+      "12012": {
+        "GROUP_ID": 71312001,
+        "Count": 12,
+        "REWARD_GROUP_ID": 713012012
+      },
+      "12013": {
+        "GROUP_ID": 71312001,
+        "Count": 13,
+        "REWARD_GROUP_ID": 713012013
+      },
+      "12014": {
+        "GROUP_ID": 71312001,
+        "Count": 14,
+        "REWARD_GROUP_ID": 713012014
+      },
+      "13001": {
+        "GROUP_ID": 71313001,
+        "Count": 1,
+        "REWARD_GROUP_ID": 713013001
+      },
+      "13002": {
+        "GROUP_ID": 71313001,
+        "Count": 2,
+        "REWARD_GROUP_ID": 713013002
+      },
+      "13003": {
+        "GROUP_ID": 71313001,
+        "Count": 3,
+        "REWARD_GROUP_ID": 713013003
+      },
+      "13004": {
+        "GROUP_ID": 71313001,
+        "Count": 4,
+        "REWARD_GROUP_ID": 713013004
+      },
+      "13005": {
+        "GROUP_ID": 71313001,
+        "Count": 5,
+        "REWARD_GROUP_ID": 713013005
+      },
+      "13006": {
+        "GROUP_ID": 71313001,
+        "Count": 6,
+        "REWARD_GROUP_ID": 713013006
+      },
+      "13007": {
+        "GROUP_ID": 71313001,
+        "Count": 7,
+        "REWARD_GROUP_ID": 713013007
+      },
+      "13008": {
+        "GROUP_ID": 71313001,
+        "Count": 8,
+        "REWARD_GROUP_ID": 713013008
+      },
+      "13009": {
+        "GROUP_ID": 71313001,
+        "Count": 9,
+        "REWARD_GROUP_ID": 713013009
+      },
+      "13010": {
+        "GROUP_ID": 71313001,
+        "Count": 10,
+        "REWARD_GROUP_ID": 713013010
+      },
+      "13011": {
+        "GROUP_ID": 71313001,
+        "Count": 11,
+        "REWARD_GROUP_ID": 713013011
+      },
+      "13012": {
+        "GROUP_ID": 71313001,
+        "Count": 12,
+        "REWARD_GROUP_ID": 713013012
+      },
+      "13013": {
+        "GROUP_ID": 71313001,
+        "Count": 13,
+        "REWARD_GROUP_ID": 713013013
+      },
+      "13014": {
+        "GROUP_ID": 71313001,
+        "Count": 14,
+        "REWARD_GROUP_ID": 713013014
+      },
+      "14001": {
+        "GROUP_ID": 71314001,
+        "Count": 1,
+        "REWARD_GROUP_ID": 713014001
+      },
+      "14002": {
+        "GROUP_ID": 71314001,
+        "Count": 2,
+        "REWARD_GROUP_ID": 713014002
+      },
+      "14003": {
+        "GROUP_ID": 71314001,
+        "Count": 3,
+        "REWARD_GROUP_ID": 713014003
+      },
+      "14004": {
+        "GROUP_ID": 71314001,
+        "Count": 4,
+        "REWARD_GROUP_ID": 713014004
+      },
+      "14005": {
+        "GROUP_ID": 71314001,
+        "Count": 5,
+        "REWARD_GROUP_ID": 713014005
+      },
+      "14006": {
+        "GROUP_ID": 71314001,
+        "Count": 6,
+        "REWARD_GROUP_ID": 713014006
+      },
+      "14007": {
+        "GROUP_ID": 71314001,
+        "Count": 7,
+        "REWARD_GROUP_ID": 713014007
+      },
+      "14008": {
+        "GROUP_ID": 71314001,
+        "Count": 8,
+        "REWARD_GROUP_ID": 713014008
+      },
+      "14009": {
+        "GROUP_ID": 71314001,
+        "Count": 9,
+        "REWARD_GROUP_ID": 713014009
+      },
+      "14010": {
+        "GROUP_ID": 71314001,
+        "Count": 10,
+        "REWARD_GROUP_ID": 713014010
+      },
+      "14011": {
+        "GROUP_ID": 71314001,
+        "Count": 11,
+        "REWARD_GROUP_ID": 713014011
+      },
+      "14012": {
+        "GROUP_ID": 71314001,
+        "Count": 12,
+        "REWARD_GROUP_ID": 713014012
+      },
+      "14013": {
+        "GROUP_ID": 71314001,
+        "Count": 13,
+        "REWARD_GROUP_ID": 713014013
+      },
+      "14014": {
+        "GROUP_ID": 71314001,
+        "Count": 14,
+        "REWARD_GROUP_ID": 713014014
+      },
+      "14015": {
+        "GROUP_ID": 71314002,
+        "Count": 1,
+        "REWARD_GROUP_ID": 713014001
+      },
+      "14016": {
+        "GROUP_ID": 71314002,
+        "Count": 2,
+        "REWARD_GROUP_ID": 713014002
+      },
+      "14017": {
+        "GROUP_ID": 71314002,
+        "Count": 3,
+        "REWARD_GROUP_ID": 713014003
+      },
+      "14018": {
+        "GROUP_ID": 71314002,
+        "Count": 4,
+        "REWARD_GROUP_ID": 713014004
+      },
+      "14019": {
+        "GROUP_ID": 71314002,
+        "Count": 5,
+        "REWARD_GROUP_ID": 713014005
+      },
+      "14020": {
+        "GROUP_ID": 71314002,
+        "Count": 6,
+        "REWARD_GROUP_ID": 713014006
+      },
+      "14021": {
+        "GROUP_ID": 71314002,
+        "Count": 7,
+        "REWARD_GROUP_ID": 713014007
+      },
+      "14022": {
+        "GROUP_ID": 71314002,
+        "Count": 8,
+        "REWARD_GROUP_ID": 713014008
+      },
+      "14023": {
+        "GROUP_ID": 71314002,
+        "Count": 9,
+        "REWARD_GROUP_ID": 713014009
+      },
+      "14024": {
+        "GROUP_ID": 71314002,
+        "Count": 10,
+        "REWARD_GROUP_ID": 713014010
+      },
+      "14025": {
+        "GROUP_ID": 71314002,
+        "Count": 11,
+        "REWARD_GROUP_ID": 713014011
+      },
+      "14026": {
+        "GROUP_ID": 71314002,
+        "Count": 12,
+        "REWARD_GROUP_ID": 713014012
+      },
+      "14027": {
+        "GROUP_ID": 71314002,
+        "Count": 13,
+        "REWARD_GROUP_ID": 713014013
+      },
+      "14028": {
+        "GROUP_ID": 71314002,
+        "Count": 14,
+        "REWARD_GROUP_ID": 713014014
+      },
+      "14029": {
+        "GROUP_ID": 71314003,
+        "Count": 1,
+        "REWARD_GROUP_ID": 713014001
+      },
+      "14030": {
+        "GROUP_ID": 71314003,
+        "Count": 2,
+        "REWARD_GROUP_ID": 713014002
+      },
+      "14031": {
+        "GROUP_ID": 71314003,
+        "Count": 3,
+        "REWARD_GROUP_ID": 713014003
+      },
+      "14032": {
+        "GROUP_ID": 71314003,
+        "Count": 4,
+        "REWARD_GROUP_ID": 713014004
+      },
+      "14033": {
+        "GROUP_ID": 71314003,
+        "Count": 5,
+        "REWARD_GROUP_ID": 713014005
+      },
+      "14034": {
+        "GROUP_ID": 71314003,
+        "Count": 6,
+        "REWARD_GROUP_ID": 713014006
+      },
+      "14035": {
+        "GROUP_ID": 71314003,
+        "Count": 7,
+        "REWARD_GROUP_ID": 713014007
+      },
+      "14036": {
+        "GROUP_ID": 71314003,
+        "Count": 8,
+        "REWARD_GROUP_ID": 713014008
+      },
+      "14037": {
+        "GROUP_ID": 71314003,
+        "Count": 9,
+        "REWARD_GROUP_ID": 713014009
+      },
+      "14038": {
+        "GROUP_ID": 71314003,
+        "Count": 10,
+        "REWARD_GROUP_ID": 713014010
+      },
+      "14039": {
+        "GROUP_ID": 71314003,
+        "Count": 11,
+        "REWARD_GROUP_ID": 713014011
+      },
+      "14040": {
+        "GROUP_ID": 71314003,
+        "Count": 12,
+        "REWARD_GROUP_ID": 713014012
+      },
+      "14041": {
+        "GROUP_ID": 71314003,
+        "Count": 13,
+        "REWARD_GROUP_ID": 713014013
+      },
+      "14042": {
+        "GROUP_ID": 71314003,
+        "Count": 14,
+        "REWARD_GROUP_ID": 713014014
+      },
+      "14043": {
+        "GROUP_ID": 71312002,
+        "Count": 1,
+        "REWARD_GROUP_ID": 713120201
+      },
+      "14044": {
+        "GROUP_ID": 71312002,
+        "Count": 2,
+        "REWARD_GROUP_ID": 713120202
+      },
+      "14045": {
+        "GROUP_ID": 71312002,
+        "Count": 3,
+        "REWARD_GROUP_ID": 713120203
+      },
+      "14046": {
+        "GROUP_ID": 71312002,
+        "Count": 4,
+        "REWARD_GROUP_ID": 713120204
+      },
+      "14047": {
+        "GROUP_ID": 71312002,
+        "Count": 5,
+        "REWARD_GROUP_ID": 713120205
+      },
+      "14048": {
+        "GROUP_ID": 71312002,
+        "Count": 6,
+        "REWARD_GROUP_ID": 713120206
+      },
+      "14049": {
+        "GROUP_ID": 71312002,
+        "Count": 7,
+        "REWARD_GROUP_ID": 713120207
+      },
+      "14050": {
+        "GROUP_ID": 71313002,
+        "Count": 1,
+        "REWARD_GROUP_ID": 713130201
+      },
+      "14051": {
+        "GROUP_ID": 71313002,
+        "Count": 2,
+        "REWARD_GROUP_ID": 713130202
+      },
+      "14052": {
+        "GROUP_ID": 71313002,
+        "Count": 3,
+        "REWARD_GROUP_ID": 713130203
+      },
+      "14053": {
+        "GROUP_ID": 71313002,
+        "Count": 4,
+        "REWARD_GROUP_ID": 713130204
+      },
+      "14054": {
+        "GROUP_ID": 71313002,
+        "Count": 5,
+        "REWARD_GROUP_ID": 713130205
+      },
+      "14055": {
+        "GROUP_ID": 71313002,
+        "Count": 6,
+        "REWARD_GROUP_ID": 713130206
+      },
+      "14056": {
+        "GROUP_ID": 71313002,
+        "Count": 7,
+        "REWARD_GROUP_ID": 713130207
+      }
+    }
+  }
+]

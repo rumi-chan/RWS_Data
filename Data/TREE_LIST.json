@@ -1,0 +1,32 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "TREE_LIST",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBTREE_LIST'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "410101": {
+        "GRADE": 1,
+        "HP": 5,
+        "REWARD_COUNT": 5,
+        "REWARD_GROUP_ID": 0,
+        "DIE_TIME": 3000,
+        "QUEST_COMPLETE": 0,
+        "QUEST_STEP": 0,
+        "Respawn": 104,
+        "CACHING_TYPE": 0,
+        "Name": "PC_JEREMIAH",
+        "SUBNAME": "PC_JEREMIAH",
+        "Scale": 10000,
+        "RECOGNITION_TYPE": 1,
+        "DESC_LOCAL": "",
+        "RESOURCE": "TREE_LoggingTree01"
+      }
+    }
+  }
+]

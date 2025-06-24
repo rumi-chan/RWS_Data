@@ -1,0 +1,255 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "FAME_LEVEL",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBFAME_LEVEL'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1": {
+        "REQ_LEVEL_EXP": 0,
+        "QUEST_ID": 0
+      },
+      "10": {
+        "REQ_LEVEL_EXP": 650,
+        "QUEST_ID": 0
+      },
+      "11": {
+        "REQ_LEVEL_EXP": 750,
+        "QUEST_ID": 0
+      },
+      "12": {
+        "REQ_LEVEL_EXP": 850,
+        "QUEST_ID": 0
+      },
+      "13": {
+        "REQ_LEVEL_EXP": 950,
+        "QUEST_ID": 0
+      },
+      "14": {
+        "REQ_LEVEL_EXP": 1050,
+        "QUEST_ID": 0
+      },
+      "15": {
+        "REQ_LEVEL_EXP": 1150,
+        "QUEST_ID": 0
+      },
+      "16": {
+        "REQ_LEVEL_EXP": 1300,
+        "QUEST_ID": 0
+      },
+      "17": {
+        "REQ_LEVEL_EXP": 1450,
+        "QUEST_ID": 0
+      },
+      "18": {
+        "REQ_LEVEL_EXP": 1600,
+        "QUEST_ID": 0
+      },
+      "19": {
+        "REQ_LEVEL_EXP": 1750,
+        "QUEST_ID": 0
+      },
+      "2": {
+        "REQ_LEVEL_EXP": 250,
+        "QUEST_ID": 0
+      },
+      "20": {
+        "REQ_LEVEL_EXP": 1900,
+        "QUEST_ID": 0
+      },
+      "21": {
+        "REQ_LEVEL_EXP": 2100,
+        "QUEST_ID": 0
+      },
+      "22": {
+        "REQ_LEVEL_EXP": 2300,
+        "QUEST_ID": 0
+      },
+      "23": {
+        "REQ_LEVEL_EXP": 2500,
+        "QUEST_ID": 0
+      },
+      "24": {
+        "REQ_LEVEL_EXP": 2700,
+        "QUEST_ID": 0
+      },
+      "25": {
+        "REQ_LEVEL_EXP": 2900,
+        "QUEST_ID": 0
+      },
+      "26": {
+        "REQ_LEVEL_EXP": 3150,
+        "QUEST_ID": 0
+      },
+      "27": {
+        "REQ_LEVEL_EXP": 3400,
+        "QUEST_ID": 0
+      },
+      "28": {
+        "REQ_LEVEL_EXP": 3650,
+        "QUEST_ID": 0
+      },
+      "29": {
+        "REQ_LEVEL_EXP": 3900,
+        "QUEST_ID": 0
+      },
+      "3": {
+        "REQ_LEVEL_EXP": 300,
+        "QUEST_ID": 0
+      },
+      "30": {
+        "REQ_LEVEL_EXP": 4150,
+        "QUEST_ID": 0
+      },
+      "31": {
+        "REQ_LEVEL_EXP": 4450,
+        "QUEST_ID": 0
+      },
+      "32": {
+        "REQ_LEVEL_EXP": 4750,
+        "QUEST_ID": 0
+      },
+      "33": {
+        "REQ_LEVEL_EXP": 5050,
+        "QUEST_ID": 0
+      },
+      "34": {
+        "REQ_LEVEL_EXP": 5350,
+        "QUEST_ID": 0
+      },
+      "35": {
+        "REQ_LEVEL_EXP": 5650,
+        "QUEST_ID": 0
+      },
+      "36": {
+        "REQ_LEVEL_EXP": 6000,
+        "QUEST_ID": 0
+      },
+      "37": {
+        "REQ_LEVEL_EXP": 6350,
+        "QUEST_ID": 0
+      },
+      "38": {
+        "REQ_LEVEL_EXP": 6700,
+        "QUEST_ID": 0
+      },
+      "39": {
+        "REQ_LEVEL_EXP": 7050,
+        "QUEST_ID": 0
+      },
+      "4": {
+        "REQ_LEVEL_EXP": 350,
+        "QUEST_ID": 0
+      },
+      "40": {
+        "REQ_LEVEL_EXP": 7400,
+        "QUEST_ID": 0
+      },
+      "41": {
+        "REQ_LEVEL_EXP": 7800,
+        "QUEST_ID": 0
+      },
+      "42": {
+        "REQ_LEVEL_EXP": 8200,
+        "QUEST_ID": 0
+      },
+      "43": {
+        "REQ_LEVEL_EXP": 8600,
+        "QUEST_ID": 0
+      },
+      "44": {
+        "REQ_LEVEL_EXP": 9000,
+        "QUEST_ID": 0
+      },
+      "45": {
+        "REQ_LEVEL_EXP": 9400,
+        "QUEST_ID": 0
+      },
+      "46": {
+        "REQ_LEVEL_EXP": 9850,
+        "QUEST_ID": 0
+      },
+      "47": {
+        "REQ_LEVEL_EXP": 10300,
+        "QUEST_ID": 0
+      },
+      "48": {
+        "REQ_LEVEL_EXP": 10750,
+        "QUEST_ID": 0
+      },
+      "49": {
+        "REQ_LEVEL_EXP": 11200,
+        "QUEST_ID": 0
+      },
+      "5": {
+        "REQ_LEVEL_EXP": 400,
+        "QUEST_ID": 0
+      },
+      "50": {
+        "REQ_LEVEL_EXP": 11650,
+        "QUEST_ID": 0
+      },
+      "51": {
+        "REQ_LEVEL_EXP": 15600,
+        "QUEST_ID": 0
+      },
+      "52": {
+        "REQ_LEVEL_EXP": 16400,
+        "QUEST_ID": 0
+      },
+      "53": {
+        "REQ_LEVEL_EXP": 17200,
+        "QUEST_ID": 0
+      },
+      "54": {
+        "REQ_LEVEL_EXP": 18000,
+        "QUEST_ID": 0
+      },
+      "55": {
+        "REQ_LEVEL_EXP": 18800,
+        "QUEST_ID": 0
+      },
+      "56": {
+        "REQ_LEVEL_EXP": 19700,
+        "QUEST_ID": 0
+      },
+      "57": {
+        "REQ_LEVEL_EXP": 20600,
+        "QUEST_ID": 0
+      },
+      "58": {
+        "REQ_LEVEL_EXP": 21500,
+        "QUEST_ID": 0
+      },
+      "59": {
+        "REQ_LEVEL_EXP": 22400,
+        "QUEST_ID": 0
+      },
+      "6": {
+        "REQ_LEVEL_EXP": 450,
+        "QUEST_ID": 0
+      },
+      "60": {
+        "REQ_LEVEL_EXP": 23300,
+        "QUEST_ID": 0
+      },
+      "7": {
+        "REQ_LEVEL_EXP": 500,
+        "QUEST_ID": 0
+      },
+      "8": {
+        "REQ_LEVEL_EXP": 550,
+        "QUEST_ID": 0
+      },
+      "9": {
+        "REQ_LEVEL_EXP": 600,
+        "QUEST_ID": 0
+      }
+    }
+  }
+]

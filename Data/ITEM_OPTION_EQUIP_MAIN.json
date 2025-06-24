@@ -1,0 +1,1445 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ITEM_OPTION_EQUIP_MAIN",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBITEM_OPTION_EQUIP_MAIN'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "101000": {
+        "Level": 0,
+        "Type": 101,
+        "GRADE_1_VALUE": 15,
+        "GRADE_2_VALUE": 23,
+        "GRADE_3_VALUE": 30,
+        "GRADE_4_VALUE": 38,
+        "GRADE_5_VALUE": 45,
+        "GRADE_6_VALUE": 53
+      },
+      "101001": {
+        "Level": 1,
+        "Type": 101,
+        "GRADE_1_VALUE": 17,
+        "GRADE_2_VALUE": 26,
+        "GRADE_3_VALUE": 34,
+        "GRADE_4_VALUE": 43,
+        "GRADE_5_VALUE": 51,
+        "GRADE_6_VALUE": 60
+      },
+      "101002": {
+        "Level": 2,
+        "Type": 101,
+        "GRADE_1_VALUE": 19,
+        "GRADE_2_VALUE": 29,
+        "GRADE_3_VALUE": 39,
+        "GRADE_4_VALUE": 49,
+        "GRADE_5_VALUE": 58,
+        "GRADE_6_VALUE": 68
+      },
+      "101003": {
+        "Level": 3,
+        "Type": 101,
+        "GRADE_1_VALUE": 21,
+        "GRADE_2_VALUE": 33,
+        "GRADE_3_VALUE": 43,
+        "GRADE_4_VALUE": 55,
+        "GRADE_5_VALUE": 65,
+        "GRADE_6_VALUE": 76
+      },
+      "101004": {
+        "Level": 4,
+        "Type": 101,
+        "GRADE_1_VALUE": 24,
+        "GRADE_2_VALUE": 36,
+        "GRADE_3_VALUE": 48,
+        "GRADE_4_VALUE": 60,
+        "GRADE_5_VALUE": 72,
+        "GRADE_6_VALUE": 84
+      },
+      "101005": {
+        "Level": 5,
+        "Type": 101,
+        "GRADE_1_VALUE": 26,
+        "GRADE_2_VALUE": 40,
+        "GRADE_3_VALUE": 52,
+        "GRADE_4_VALUE": 66,
+        "GRADE_5_VALUE": 78,
+        "GRADE_6_VALUE": 92
+      },
+      "101006": {
+        "Level": 6,
+        "Type": 101,
+        "GRADE_1_VALUE": 28,
+        "GRADE_2_VALUE": 43,
+        "GRADE_3_VALUE": 57,
+        "GRADE_4_VALUE": 72,
+        "GRADE_5_VALUE": 85,
+        "GRADE_6_VALUE": 100
+      },
+      "101007": {
+        "Level": 7,
+        "Type": 101,
+        "GRADE_1_VALUE": 30,
+        "GRADE_2_VALUE": 47,
+        "GRADE_3_VALUE": 61,
+        "GRADE_4_VALUE": 77,
+        "GRADE_5_VALUE": 92,
+        "GRADE_6_VALUE": 108
+      },
+      "101008": {
+        "Level": 8,
+        "Type": 101,
+        "GRADE_1_VALUE": 33,
+        "GRADE_2_VALUE": 50,
+        "GRADE_3_VALUE": 66,
+        "GRADE_4_VALUE": 83,
+        "GRADE_5_VALUE": 99,
+        "GRADE_6_VALUE": 116
+      },
+      "101009": {
+        "Level": 9,
+        "Type": 101,
+        "GRADE_1_VALUE": 35,
+        "GRADE_2_VALUE": 54,
+        "GRADE_3_VALUE": 70,
+        "GRADE_4_VALUE": 89,
+        "GRADE_5_VALUE": 105,
+        "GRADE_6_VALUE": 124
+      },
+      "101010": {
+        "Level": 10,
+        "Type": 101,
+        "GRADE_1_VALUE": 37,
+        "GRADE_2_VALUE": 57,
+        "GRADE_3_VALUE": 75,
+        "GRADE_4_VALUE": 95,
+        "GRADE_5_VALUE": 112,
+        "GRADE_6_VALUE": 132
+      },
+      "101011": {
+        "Level": 11,
+        "Type": 101,
+        "GRADE_1_VALUE": 39,
+        "GRADE_2_VALUE": 60,
+        "GRADE_3_VALUE": 79,
+        "GRADE_4_VALUE": 100,
+        "GRADE_5_VALUE": 119,
+        "GRADE_6_VALUE": 140
+      },
+      "101012": {
+        "Level": 12,
+        "Type": 101,
+        "GRADE_1_VALUE": 45,
+        "GRADE_2_VALUE": 69,
+        "GRADE_3_VALUE": 90,
+        "GRADE_4_VALUE": 114,
+        "GRADE_5_VALUE": 135,
+        "GRADE_6_VALUE": 159
+      },
+      "102000": {
+        "Level": 0,
+        "Type": 102,
+        "GRADE_1_VALUE": 15,
+        "GRADE_2_VALUE": 23,
+        "GRADE_3_VALUE": 30,
+        "GRADE_4_VALUE": 38,
+        "GRADE_5_VALUE": 45,
+        "GRADE_6_VALUE": 53
+      },
+      "102001": {
+        "Level": 1,
+        "Type": 102,
+        "GRADE_1_VALUE": 17,
+        "GRADE_2_VALUE": 26,
+        "GRADE_3_VALUE": 34,
+        "GRADE_4_VALUE": 43,
+        "GRADE_5_VALUE": 51,
+        "GRADE_6_VALUE": 60
+      },
+      "102002": {
+        "Level": 2,
+        "Type": 102,
+        "GRADE_1_VALUE": 19,
+        "GRADE_2_VALUE": 29,
+        "GRADE_3_VALUE": 39,
+        "GRADE_4_VALUE": 49,
+        "GRADE_5_VALUE": 58,
+        "GRADE_6_VALUE": 68
+      },
+      "102003": {
+        "Level": 3,
+        "Type": 102,
+        "GRADE_1_VALUE": 21,
+        "GRADE_2_VALUE": 33,
+        "GRADE_3_VALUE": 43,
+        "GRADE_4_VALUE": 55,
+        "GRADE_5_VALUE": 65,
+        "GRADE_6_VALUE": 76
+      },
+      "102004": {
+        "Level": 4,
+        "Type": 102,
+        "GRADE_1_VALUE": 24,
+        "GRADE_2_VALUE": 36,
+        "GRADE_3_VALUE": 48,
+        "GRADE_4_VALUE": 60,
+        "GRADE_5_VALUE": 72,
+        "GRADE_6_VALUE": 84
+      },
+      "102005": {
+        "Level": 5,
+        "Type": 102,
+        "GRADE_1_VALUE": 26,
+        "GRADE_2_VALUE": 40,
+        "GRADE_3_VALUE": 52,
+        "GRADE_4_VALUE": 66,
+        "GRADE_5_VALUE": 78,
+        "GRADE_6_VALUE": 92
+      },
+      "102006": {
+        "Level": 6,
+        "Type": 102,
+        "GRADE_1_VALUE": 28,
+        "GRADE_2_VALUE": 43,
+        "GRADE_3_VALUE": 57,
+        "GRADE_4_VALUE": 72,
+        "GRADE_5_VALUE": 85,
+        "GRADE_6_VALUE": 100
+      },
+      "102007": {
+        "Level": 7,
+        "Type": 102,
+        "GRADE_1_VALUE": 30,
+        "GRADE_2_VALUE": 47,
+        "GRADE_3_VALUE": 61,
+        "GRADE_4_VALUE": 77,
+        "GRADE_5_VALUE": 92,
+        "GRADE_6_VALUE": 108
+      },
+      "102008": {
+        "Level": 8,
+        "Type": 102,
+        "GRADE_1_VALUE": 33,
+        "GRADE_2_VALUE": 50,
+        "GRADE_3_VALUE": 66,
+        "GRADE_4_VALUE": 83,
+        "GRADE_5_VALUE": 99,
+        "GRADE_6_VALUE": 116
+      },
+      "102009": {
+        "Level": 9,
+        "Type": 102,
+        "GRADE_1_VALUE": 35,
+        "GRADE_2_VALUE": 54,
+        "GRADE_3_VALUE": 70,
+        "GRADE_4_VALUE": 89,
+        "GRADE_5_VALUE": 105,
+        "GRADE_6_VALUE": 124
+      },
+      "102010": {
+        "Level": 10,
+        "Type": 102,
+        "GRADE_1_VALUE": 37,
+        "GRADE_2_VALUE": 57,
+        "GRADE_3_VALUE": 75,
+        "GRADE_4_VALUE": 95,
+        "GRADE_5_VALUE": 112,
+        "GRADE_6_VALUE": 132
+      },
+      "102011": {
+        "Level": 11,
+        "Type": 102,
+        "GRADE_1_VALUE": 39,
+        "GRADE_2_VALUE": 60,
+        "GRADE_3_VALUE": 79,
+        "GRADE_4_VALUE": 100,
+        "GRADE_5_VALUE": 119,
+        "GRADE_6_VALUE": 140
+      },
+      "102012": {
+        "Level": 12,
+        "Type": 102,
+        "GRADE_1_VALUE": 45,
+        "GRADE_2_VALUE": 69,
+        "GRADE_3_VALUE": 90,
+        "GRADE_4_VALUE": 114,
+        "GRADE_5_VALUE": 135,
+        "GRADE_6_VALUE": 159
+      },
+      "103000": {
+        "Level": 0,
+        "Type": 103,
+        "GRADE_1_VALUE": 150,
+        "GRADE_2_VALUE": 230,
+        "GRADE_3_VALUE": 300,
+        "GRADE_4_VALUE": 380,
+        "GRADE_5_VALUE": 450,
+        "GRADE_6_VALUE": 530
+      },
+      "103001": {
+        "Level": 1,
+        "Type": 103,
+        "GRADE_1_VALUE": 172,
+        "GRADE_2_VALUE": 264,
+        "GRADE_3_VALUE": 345,
+        "GRADE_4_VALUE": 437,
+        "GRADE_5_VALUE": 517,
+        "GRADE_6_VALUE": 609
+      },
+      "103002": {
+        "Level": 2,
+        "Type": 103,
+        "GRADE_1_VALUE": 195,
+        "GRADE_2_VALUE": 299,
+        "GRADE_3_VALUE": 390,
+        "GRADE_4_VALUE": 494,
+        "GRADE_5_VALUE": 585,
+        "GRADE_6_VALUE": 689
+      },
+      "103003": {
+        "Level": 3,
+        "Type": 103,
+        "GRADE_1_VALUE": 217,
+        "GRADE_2_VALUE": 333,
+        "GRADE_3_VALUE": 435,
+        "GRADE_4_VALUE": 551,
+        "GRADE_5_VALUE": 652,
+        "GRADE_6_VALUE": 768
+      },
+      "103004": {
+        "Level": 4,
+        "Type": 103,
+        "GRADE_1_VALUE": 240,
+        "GRADE_2_VALUE": 368,
+        "GRADE_3_VALUE": 480,
+        "GRADE_4_VALUE": 608,
+        "GRADE_5_VALUE": 720,
+        "GRADE_6_VALUE": 848
+      },
+      "103005": {
+        "Level": 5,
+        "Type": 103,
+        "GRADE_1_VALUE": 262,
+        "GRADE_2_VALUE": 402,
+        "GRADE_3_VALUE": 525,
+        "GRADE_4_VALUE": 665,
+        "GRADE_5_VALUE": 787,
+        "GRADE_6_VALUE": 927
+      },
+      "103006": {
+        "Level": 6,
+        "Type": 103,
+        "GRADE_1_VALUE": 285,
+        "GRADE_2_VALUE": 437,
+        "GRADE_3_VALUE": 570,
+        "GRADE_4_VALUE": 722,
+        "GRADE_5_VALUE": 855,
+        "GRADE_6_VALUE": 1007
+      },
+      "103007": {
+        "Level": 7,
+        "Type": 103,
+        "GRADE_1_VALUE": 307,
+        "GRADE_2_VALUE": 471,
+        "GRADE_3_VALUE": 615,
+        "GRADE_4_VALUE": 779,
+        "GRADE_5_VALUE": 922,
+        "GRADE_6_VALUE": 1086
+      },
+      "103008": {
+        "Level": 8,
+        "Type": 103,
+        "GRADE_1_VALUE": 330,
+        "GRADE_2_VALUE": 506,
+        "GRADE_3_VALUE": 660,
+        "GRADE_4_VALUE": 836,
+        "GRADE_5_VALUE": 990,
+        "GRADE_6_VALUE": 1166
+      },
+      "103009": {
+        "Level": 9,
+        "Type": 103,
+        "GRADE_1_VALUE": 352,
+        "GRADE_2_VALUE": 540,
+        "GRADE_3_VALUE": 705,
+        "GRADE_4_VALUE": 893,
+        "GRADE_5_VALUE": 1057,
+        "GRADE_6_VALUE": 1245
+      },
+      "103010": {
+        "Level": 10,
+        "Type": 103,
+        "GRADE_1_VALUE": 375,
+        "GRADE_2_VALUE": 575,
+        "GRADE_3_VALUE": 750,
+        "GRADE_4_VALUE": 950,
+        "GRADE_5_VALUE": 1125,
+        "GRADE_6_VALUE": 1325
+      },
+      "103011": {
+        "Level": 11,
+        "Type": 103,
+        "GRADE_1_VALUE": 397,
+        "GRADE_2_VALUE": 609,
+        "GRADE_3_VALUE": 795,
+        "GRADE_4_VALUE": 1007,
+        "GRADE_5_VALUE": 1192,
+        "GRADE_6_VALUE": 1404
+      },
+      "103012": {
+        "Level": 12,
+        "Type": 103,
+        "GRADE_1_VALUE": 450,
+        "GRADE_2_VALUE": 690,
+        "GRADE_3_VALUE": 900,
+        "GRADE_4_VALUE": 1140,
+        "GRADE_5_VALUE": 1350,
+        "GRADE_6_VALUE": 1590
+      },
+      "104000": {
+        "Level": 0,
+        "Type": 104,
+        "GRADE_1_VALUE": 3,
+        "GRADE_2_VALUE": 4,
+        "GRADE_3_VALUE": 5,
+        "GRADE_4_VALUE": 7,
+        "GRADE_5_VALUE": 10,
+        "GRADE_6_VALUE": 12
+      },
+      "104001": {
+        "Level": 1,
+        "Type": 104,
+        "GRADE_1_VALUE": 3,
+        "GRADE_2_VALUE": 4,
+        "GRADE_3_VALUE": 5,
+        "GRADE_4_VALUE": 8,
+        "GRADE_5_VALUE": 11,
+        "GRADE_6_VALUE": 13
+      },
+      "104002": {
+        "Level": 2,
+        "Type": 104,
+        "GRADE_1_VALUE": 3,
+        "GRADE_2_VALUE": 5,
+        "GRADE_3_VALUE": 6,
+        "GRADE_4_VALUE": 9,
+        "GRADE_5_VALUE": 13,
+        "GRADE_6_VALUE": 15
+      },
+      "104003": {
+        "Level": 3,
+        "Type": 104,
+        "GRADE_1_VALUE": 4,
+        "GRADE_2_VALUE": 5,
+        "GRADE_3_VALUE": 7,
+        "GRADE_4_VALUE": 10,
+        "GRADE_5_VALUE": 14,
+        "GRADE_6_VALUE": 17
+      },
+      "104004": {
+        "Level": 4,
+        "Type": 104,
+        "GRADE_1_VALUE": 4,
+        "GRADE_2_VALUE": 6,
+        "GRADE_3_VALUE": 8,
+        "GRADE_4_VALUE": 11,
+        "GRADE_5_VALUE": 16,
+        "GRADE_6_VALUE": 19
+      },
+      "104005": {
+        "Level": 5,
+        "Type": 104,
+        "GRADE_1_VALUE": 5,
+        "GRADE_2_VALUE": 7,
+        "GRADE_3_VALUE": 8,
+        "GRADE_4_VALUE": 12,
+        "GRADE_5_VALUE": 17,
+        "GRADE_6_VALUE": 21
+      },
+      "104006": {
+        "Level": 6,
+        "Type": 104,
+        "GRADE_1_VALUE": 5,
+        "GRADE_2_VALUE": 7,
+        "GRADE_3_VALUE": 9,
+        "GRADE_4_VALUE": 13,
+        "GRADE_5_VALUE": 19,
+        "GRADE_6_VALUE": 22
+      },
+      "104007": {
+        "Level": 7,
+        "Type": 104,
+        "GRADE_1_VALUE": 6,
+        "GRADE_2_VALUE": 8,
+        "GRADE_3_VALUE": 10,
+        "GRADE_4_VALUE": 14,
+        "GRADE_5_VALUE": 20,
+        "GRADE_6_VALUE": 24
+      },
+      "104008": {
+        "Level": 8,
+        "Type": 104,
+        "GRADE_1_VALUE": 6,
+        "GRADE_2_VALUE": 8,
+        "GRADE_3_VALUE": 11,
+        "GRADE_4_VALUE": 15,
+        "GRADE_5_VALUE": 22,
+        "GRADE_6_VALUE": 26
+      },
+      "104009": {
+        "Level": 9,
+        "Type": 104,
+        "GRADE_1_VALUE": 7,
+        "GRADE_2_VALUE": 9,
+        "GRADE_3_VALUE": 11,
+        "GRADE_4_VALUE": 16,
+        "GRADE_5_VALUE": 23,
+        "GRADE_6_VALUE": 28
+      },
+      "104010": {
+        "Level": 10,
+        "Type": 104,
+        "GRADE_1_VALUE": 7,
+        "GRADE_2_VALUE": 10,
+        "GRADE_3_VALUE": 12,
+        "GRADE_4_VALUE": 17,
+        "GRADE_5_VALUE": 25,
+        "GRADE_6_VALUE": 30
+      },
+      "104011": {
+        "Level": 11,
+        "Type": 104,
+        "GRADE_1_VALUE": 7,
+        "GRADE_2_VALUE": 10,
+        "GRADE_3_VALUE": 13,
+        "GRADE_4_VALUE": 18,
+        "GRADE_5_VALUE": 26,
+        "GRADE_6_VALUE": 31
+      },
+      "104012": {
+        "Level": 12,
+        "Type": 104,
+        "GRADE_1_VALUE": 9,
+        "GRADE_2_VALUE": 12,
+        "GRADE_3_VALUE": 15,
+        "GRADE_4_VALUE": 21,
+        "GRADE_5_VALUE": 30,
+        "GRADE_6_VALUE": 36
+      },
+      "201000": {
+        "Level": 0,
+        "Type": 201,
+        "GRADE_1_VALUE": 500,
+        "GRADE_2_VALUE": 750,
+        "GRADE_3_VALUE": 1000,
+        "GRADE_4_VALUE": 1250,
+        "GRADE_5_VALUE": 1500,
+        "GRADE_6_VALUE": 1750
+      },
+      "201001": {
+        "Level": 1,
+        "Type": 201,
+        "GRADE_1_VALUE": 575,
+        "GRADE_2_VALUE": 862,
+        "GRADE_3_VALUE": 1150,
+        "GRADE_4_VALUE": 1437,
+        "GRADE_5_VALUE": 1725,
+        "GRADE_6_VALUE": 2012
+      },
+      "201002": {
+        "Level": 2,
+        "Type": 201,
+        "GRADE_1_VALUE": 650,
+        "GRADE_2_VALUE": 975,
+        "GRADE_3_VALUE": 1300,
+        "GRADE_4_VALUE": 1625,
+        "GRADE_5_VALUE": 1950,
+        "GRADE_6_VALUE": 2275
+      },
+      "201003": {
+        "Level": 3,
+        "Type": 201,
+        "GRADE_1_VALUE": 725,
+        "GRADE_2_VALUE": 1087,
+        "GRADE_3_VALUE": 1450,
+        "GRADE_4_VALUE": 1812,
+        "GRADE_5_VALUE": 2175,
+        "GRADE_6_VALUE": 2537
+      },
+      "201004": {
+        "Level": 4,
+        "Type": 201,
+        "GRADE_1_VALUE": 800,
+        "GRADE_2_VALUE": 1200,
+        "GRADE_3_VALUE": 1600,
+        "GRADE_4_VALUE": 2000,
+        "GRADE_5_VALUE": 2400,
+        "GRADE_6_VALUE": 2800
+      },
+      "201005": {
+        "Level": 5,
+        "Type": 201,
+        "GRADE_1_VALUE": 875,
+        "GRADE_2_VALUE": 1312,
+        "GRADE_3_VALUE": 1750,
+        "GRADE_4_VALUE": 2187,
+        "GRADE_5_VALUE": 2625,
+        "GRADE_6_VALUE": 3062
+      },
+      "201006": {
+        "Level": 6,
+        "Type": 201,
+        "GRADE_1_VALUE": 950,
+        "GRADE_2_VALUE": 1425,
+        "GRADE_3_VALUE": 1900,
+        "GRADE_4_VALUE": 2375,
+        "GRADE_5_VALUE": 2850,
+        "GRADE_6_VALUE": 3325
+      },
+      "201007": {
+        "Level": 7,
+        "Type": 201,
+        "GRADE_1_VALUE": 1025,
+        "GRADE_2_VALUE": 1537,
+        "GRADE_3_VALUE": 2050,
+        "GRADE_4_VALUE": 2562,
+        "GRADE_5_VALUE": 3075,
+        "GRADE_6_VALUE": 3587
+      },
+      "201008": {
+        "Level": 8,
+        "Type": 201,
+        "GRADE_1_VALUE": 1100,
+        "GRADE_2_VALUE": 1650,
+        "GRADE_3_VALUE": 2200,
+        "GRADE_4_VALUE": 2750,
+        "GRADE_5_VALUE": 3300,
+        "GRADE_6_VALUE": 3850
+      },
+      "201009": {
+        "Level": 9,
+        "Type": 201,
+        "GRADE_1_VALUE": 1175,
+        "GRADE_2_VALUE": 1762,
+        "GRADE_3_VALUE": 2350,
+        "GRADE_4_VALUE": 2937,
+        "GRADE_5_VALUE": 3525,
+        "GRADE_6_VALUE": 4112
+      },
+      "201010": {
+        "Level": 10,
+        "Type": 201,
+        "GRADE_1_VALUE": 1250,
+        "GRADE_2_VALUE": 1875,
+        "GRADE_3_VALUE": 2500,
+        "GRADE_4_VALUE": 3125,
+        "GRADE_5_VALUE": 3750,
+        "GRADE_6_VALUE": 4375
+      },
+      "201011": {
+        "Level": 11,
+        "Type": 201,
+        "GRADE_1_VALUE": 1325,
+        "GRADE_2_VALUE": 1987,
+        "GRADE_3_VALUE": 2650,
+        "GRADE_4_VALUE": 3312,
+        "GRADE_5_VALUE": 3975,
+        "GRADE_6_VALUE": 4637
+      },
+      "201012": {
+        "Level": 12,
+        "Type": 201,
+        "GRADE_1_VALUE": 1500,
+        "GRADE_2_VALUE": 2250,
+        "GRADE_3_VALUE": 3000,
+        "GRADE_4_VALUE": 3750,
+        "GRADE_5_VALUE": 4500,
+        "GRADE_6_VALUE": 5250
+      },
+      "202000": {
+        "Level": 0,
+        "Type": 202,
+        "GRADE_1_VALUE": 500,
+        "GRADE_2_VALUE": 750,
+        "GRADE_3_VALUE": 1000,
+        "GRADE_4_VALUE": 1250,
+        "GRADE_5_VALUE": 1500,
+        "GRADE_6_VALUE": 1750
+      },
+      "202001": {
+        "Level": 1,
+        "Type": 202,
+        "GRADE_1_VALUE": 575,
+        "GRADE_2_VALUE": 862,
+        "GRADE_3_VALUE": 1150,
+        "GRADE_4_VALUE": 1437,
+        "GRADE_5_VALUE": 1725,
+        "GRADE_6_VALUE": 2012
+      },
+      "202002": {
+        "Level": 2,
+        "Type": 202,
+        "GRADE_1_VALUE": 650,
+        "GRADE_2_VALUE": 975,
+        "GRADE_3_VALUE": 1300,
+        "GRADE_4_VALUE": 1625,
+        "GRADE_5_VALUE": 1950,
+        "GRADE_6_VALUE": 2275
+      },
+      "202003": {
+        "Level": 3,
+        "Type": 202,
+        "GRADE_1_VALUE": 725,
+        "GRADE_2_VALUE": 1087,
+        "GRADE_3_VALUE": 1450,
+        "GRADE_4_VALUE": 1812,
+        "GRADE_5_VALUE": 2175,
+        "GRADE_6_VALUE": 2537
+      },
+      "202004": {
+        "Level": 4,
+        "Type": 202,
+        "GRADE_1_VALUE": 800,
+        "GRADE_2_VALUE": 1200,
+        "GRADE_3_VALUE": 1600,
+        "GRADE_4_VALUE": 2000,
+        "GRADE_5_VALUE": 2400,
+        "GRADE_6_VALUE": 2800
+      },
+      "202005": {
+        "Level": 5,
+        "Type": 202,
+        "GRADE_1_VALUE": 875,
+        "GRADE_2_VALUE": 1312,
+        "GRADE_3_VALUE": 1750,
+        "GRADE_4_VALUE": 2187,
+        "GRADE_5_VALUE": 2625,
+        "GRADE_6_VALUE": 3062
+      },
+      "202006": {
+        "Level": 6,
+        "Type": 202,
+        "GRADE_1_VALUE": 950,
+        "GRADE_2_VALUE": 1425,
+        "GRADE_3_VALUE": 1900,
+        "GRADE_4_VALUE": 2375,
+        "GRADE_5_VALUE": 2850,
+        "GRADE_6_VALUE": 3325
+      },
+      "202007": {
+        "Level": 7,
+        "Type": 202,
+        "GRADE_1_VALUE": 1025,
+        "GRADE_2_VALUE": 1537,
+        "GRADE_3_VALUE": 2050,
+        "GRADE_4_VALUE": 2562,
+        "GRADE_5_VALUE": 3075,
+        "GRADE_6_VALUE": 3587
+      },
+      "202008": {
+        "Level": 8,
+        "Type": 202,
+        "GRADE_1_VALUE": 1100,
+        "GRADE_2_VALUE": 1650,
+        "GRADE_3_VALUE": 2200,
+        "GRADE_4_VALUE": 2750,
+        "GRADE_5_VALUE": 3300,
+        "GRADE_6_VALUE": 3850
+      },
+      "202009": {
+        "Level": 9,
+        "Type": 202,
+        "GRADE_1_VALUE": 1175,
+        "GRADE_2_VALUE": 1762,
+        "GRADE_3_VALUE": 2350,
+        "GRADE_4_VALUE": 2937,
+        "GRADE_5_VALUE": 3525,
+        "GRADE_6_VALUE": 4112
+      },
+      "202010": {
+        "Level": 10,
+        "Type": 202,
+        "GRADE_1_VALUE": 1250,
+        "GRADE_2_VALUE": 1875,
+        "GRADE_3_VALUE": 2500,
+        "GRADE_4_VALUE": 3125,
+        "GRADE_5_VALUE": 3750,
+        "GRADE_6_VALUE": 4375
+      },
+      "202011": {
+        "Level": 11,
+        "Type": 202,
+        "GRADE_1_VALUE": 1325,
+        "GRADE_2_VALUE": 1987,
+        "GRADE_3_VALUE": 2650,
+        "GRADE_4_VALUE": 3312,
+        "GRADE_5_VALUE": 3975,
+        "GRADE_6_VALUE": 4637
+      },
+      "202012": {
+        "Level": 12,
+        "Type": 202,
+        "GRADE_1_VALUE": 1500,
+        "GRADE_2_VALUE": 2250,
+        "GRADE_3_VALUE": 3000,
+        "GRADE_4_VALUE": 3750,
+        "GRADE_5_VALUE": 4500,
+        "GRADE_6_VALUE": 5250
+      },
+      "203000": {
+        "Level": 0,
+        "Type": 203,
+        "GRADE_1_VALUE": 500,
+        "GRADE_2_VALUE": 750,
+        "GRADE_3_VALUE": 1000,
+        "GRADE_4_VALUE": 1250,
+        "GRADE_5_VALUE": 1500,
+        "GRADE_6_VALUE": 1750
+      },
+      "203001": {
+        "Level": 1,
+        "Type": 203,
+        "GRADE_1_VALUE": 575,
+        "GRADE_2_VALUE": 862,
+        "GRADE_3_VALUE": 1150,
+        "GRADE_4_VALUE": 1437,
+        "GRADE_5_VALUE": 1725,
+        "GRADE_6_VALUE": 2012
+      },
+      "203002": {
+        "Level": 2,
+        "Type": 203,
+        "GRADE_1_VALUE": 650,
+        "GRADE_2_VALUE": 975,
+        "GRADE_3_VALUE": 1300,
+        "GRADE_4_VALUE": 1625,
+        "GRADE_5_VALUE": 1950,
+        "GRADE_6_VALUE": 2275
+      },
+      "203003": {
+        "Level": 3,
+        "Type": 203,
+        "GRADE_1_VALUE": 725,
+        "GRADE_2_VALUE": 1087,
+        "GRADE_3_VALUE": 1450,
+        "GRADE_4_VALUE": 1812,
+        "GRADE_5_VALUE": 2175,
+        "GRADE_6_VALUE": 2537
+      },
+      "203004": {
+        "Level": 4,
+        "Type": 203,
+        "GRADE_1_VALUE": 800,
+        "GRADE_2_VALUE": 1200,
+        "GRADE_3_VALUE": 1600,
+        "GRADE_4_VALUE": 2000,
+        "GRADE_5_VALUE": 2400,
+        "GRADE_6_VALUE": 2800
+      },
+      "203005": {
+        "Level": 5,
+        "Type": 203,
+        "GRADE_1_VALUE": 875,
+        "GRADE_2_VALUE": 1312,
+        "GRADE_3_VALUE": 1750,
+        "GRADE_4_VALUE": 2187,
+        "GRADE_5_VALUE": 2625,
+        "GRADE_6_VALUE": 3062
+      },
+      "203006": {
+        "Level": 6,
+        "Type": 203,
+        "GRADE_1_VALUE": 950,
+        "GRADE_2_VALUE": 1425,
+        "GRADE_3_VALUE": 1900,
+        "GRADE_4_VALUE": 2375,
+        "GRADE_5_VALUE": 2850,
+        "GRADE_6_VALUE": 3325
+      },
+      "203007": {
+        "Level": 7,
+        "Type": 203,
+        "GRADE_1_VALUE": 1025,
+        "GRADE_2_VALUE": 1537,
+        "GRADE_3_VALUE": 2050,
+        "GRADE_4_VALUE": 2562,
+        "GRADE_5_VALUE": 3075,
+        "GRADE_6_VALUE": 3587
+      },
+      "203008": {
+        "Level": 8,
+        "Type": 203,
+        "GRADE_1_VALUE": 1100,
+        "GRADE_2_VALUE": 1650,
+        "GRADE_3_VALUE": 2200,
+        "GRADE_4_VALUE": 2750,
+        "GRADE_5_VALUE": 3300,
+        "GRADE_6_VALUE": 3850
+      },
+      "203009": {
+        "Level": 9,
+        "Type": 203,
+        "GRADE_1_VALUE": 1175,
+        "GRADE_2_VALUE": 1762,
+        "GRADE_3_VALUE": 2350,
+        "GRADE_4_VALUE": 2937,
+        "GRADE_5_VALUE": 3525,
+        "GRADE_6_VALUE": 4112
+      },
+      "203010": {
+        "Level": 10,
+        "Type": 203,
+        "GRADE_1_VALUE": 1250,
+        "GRADE_2_VALUE": 1875,
+        "GRADE_3_VALUE": 2500,
+        "GRADE_4_VALUE": 3125,
+        "GRADE_5_VALUE": 3750,
+        "GRADE_6_VALUE": 4375
+      },
+      "203011": {
+        "Level": 11,
+        "Type": 203,
+        "GRADE_1_VALUE": 1325,
+        "GRADE_2_VALUE": 1987,
+        "GRADE_3_VALUE": 2650,
+        "GRADE_4_VALUE": 3312,
+        "GRADE_5_VALUE": 3975,
+        "GRADE_6_VALUE": 4637
+      },
+      "203012": {
+        "Level": 12,
+        "Type": 203,
+        "GRADE_1_VALUE": 1500,
+        "GRADE_2_VALUE": 2250,
+        "GRADE_3_VALUE": 3000,
+        "GRADE_4_VALUE": 3750,
+        "GRADE_5_VALUE": 4500,
+        "GRADE_6_VALUE": 5250
+      },
+      "207000": {
+        "Level": 0,
+        "Type": 207,
+        "GRADE_1_VALUE": 380,
+        "GRADE_2_VALUE": 570,
+        "GRADE_3_VALUE": 750,
+        "GRADE_4_VALUE": 940,
+        "GRADE_5_VALUE": 1120,
+        "GRADE_6_VALUE": 1320
+      },
+      "207001": {
+        "Level": 1,
+        "Type": 207,
+        "GRADE_1_VALUE": 430,
+        "GRADE_2_VALUE": 650,
+        "GRADE_3_VALUE": 860,
+        "GRADE_4_VALUE": 1080,
+        "GRADE_5_VALUE": 1280,
+        "GRADE_6_VALUE": 1510
+      },
+      "207002": {
+        "Level": 2,
+        "Type": 207,
+        "GRADE_1_VALUE": 490,
+        "GRADE_2_VALUE": 740,
+        "GRADE_3_VALUE": 970,
+        "GRADE_4_VALUE": 1220,
+        "GRADE_5_VALUE": 1450,
+        "GRADE_6_VALUE": 1710
+      },
+      "207003": {
+        "Level": 3,
+        "Type": 207,
+        "GRADE_1_VALUE": 550,
+        "GRADE_2_VALUE": 820,
+        "GRADE_3_VALUE": 1080,
+        "GRADE_4_VALUE": 1360,
+        "GRADE_5_VALUE": 1620,
+        "GRADE_6_VALUE": 1910
+      },
+      "207004": {
+        "Level": 4,
+        "Type": 207,
+        "GRADE_1_VALUE": 600,
+        "GRADE_2_VALUE": 910,
+        "GRADE_3_VALUE": 1200,
+        "GRADE_4_VALUE": 1500,
+        "GRADE_5_VALUE": 1790,
+        "GRADE_6_VALUE": 2110
+      },
+      "207005": {
+        "Level": 5,
+        "Type": 207,
+        "GRADE_1_VALUE": 660,
+        "GRADE_2_VALUE": 990,
+        "GRADE_3_VALUE": 1310,
+        "GRADE_4_VALUE": 1640,
+        "GRADE_5_VALUE": 1960,
+        "GRADE_6_VALUE": 2310
+      },
+      "207006": {
+        "Level": 6,
+        "Type": 207,
+        "GRADE_1_VALUE": 720,
+        "GRADE_2_VALUE": 1080,
+        "GRADE_3_VALUE": 1420,
+        "GRADE_4_VALUE": 1780,
+        "GRADE_5_VALUE": 2120,
+        "GRADE_6_VALUE": 2500
+      },
+      "207007": {
+        "Level": 7,
+        "Type": 207,
+        "GRADE_1_VALUE": 770,
+        "GRADE_2_VALUE": 1160,
+        "GRADE_3_VALUE": 1530,
+        "GRADE_4_VALUE": 1920,
+        "GRADE_5_VALUE": 2290,
+        "GRADE_6_VALUE": 2700
+      },
+      "207008": {
+        "Level": 8,
+        "Type": 207,
+        "GRADE_1_VALUE": 830,
+        "GRADE_2_VALUE": 1250,
+        "GRADE_3_VALUE": 1650,
+        "GRADE_4_VALUE": 2060,
+        "GRADE_5_VALUE": 2460,
+        "GRADE_6_VALUE": 2900
+      },
+      "207009": {
+        "Level": 9,
+        "Type": 207,
+        "GRADE_1_VALUE": 890,
+        "GRADE_2_VALUE": 1330,
+        "GRADE_3_VALUE": 1760,
+        "GRADE_4_VALUE": 2200,
+        "GRADE_5_VALUE": 2630,
+        "GRADE_6_VALUE": 3100
+      },
+      "207010": {
+        "Level": 10,
+        "Type": 207,
+        "GRADE_1_VALUE": 950,
+        "GRADE_2_VALUE": 1420,
+        "GRADE_3_VALUE": 1870,
+        "GRADE_4_VALUE": 2350,
+        "GRADE_5_VALUE": 2800,
+        "GRADE_6_VALUE": 3300
+      },
+      "207011": {
+        "Level": 11,
+        "Type": 207,
+        "GRADE_1_VALUE": 1000,
+        "GRADE_2_VALUE": 1510,
+        "GRADE_3_VALUE": 1980,
+        "GRADE_4_VALUE": 2490,
+        "GRADE_5_VALUE": 2960,
+        "GRADE_6_VALUE": 3490
+      },
+      "207012": {
+        "Level": 12,
+        "Type": 207,
+        "GRADE_1_VALUE": 1140,
+        "GRADE_2_VALUE": 1710,
+        "GRADE_3_VALUE": 2250,
+        "GRADE_4_VALUE": 2820,
+        "GRADE_5_VALUE": 3360,
+        "GRADE_6_VALUE": 3960
+      },
+      "208000": {
+        "Level": 0,
+        "Type": 208,
+        "GRADE_1_VALUE": 630,
+        "GRADE_2_VALUE": 940,
+        "GRADE_3_VALUE": 1250,
+        "GRADE_4_VALUE": 1570,
+        "GRADE_5_VALUE": 1880,
+        "GRADE_6_VALUE": 2190
+      },
+      "208001": {
+        "Level": 1,
+        "Type": 208,
+        "GRADE_1_VALUE": 720,
+        "GRADE_2_VALUE": 1080,
+        "GRADE_3_VALUE": 1430,
+        "GRADE_4_VALUE": 1800,
+        "GRADE_5_VALUE": 2160,
+        "GRADE_6_VALUE": 2510
+      },
+      "208002": {
+        "Level": 2,
+        "Type": 208,
+        "GRADE_1_VALUE": 810,
+        "GRADE_2_VALUE": 1220,
+        "GRADE_3_VALUE": 1620,
+        "GRADE_4_VALUE": 2040,
+        "GRADE_5_VALUE": 2440,
+        "GRADE_6_VALUE": 2840
+      },
+      "208003": {
+        "Level": 3,
+        "Type": 208,
+        "GRADE_1_VALUE": 910,
+        "GRADE_2_VALUE": 1360,
+        "GRADE_3_VALUE": 1810,
+        "GRADE_4_VALUE": 2270,
+        "GRADE_5_VALUE": 2720,
+        "GRADE_6_VALUE": 3170
+      },
+      "208004": {
+        "Level": 4,
+        "Type": 208,
+        "GRADE_1_VALUE": 1000,
+        "GRADE_2_VALUE": 1500,
+        "GRADE_3_VALUE": 2000,
+        "GRADE_4_VALUE": 2510,
+        "GRADE_5_VALUE": 3000,
+        "GRADE_6_VALUE": 3500
+      },
+      "208005": {
+        "Level": 5,
+        "Type": 208,
+        "GRADE_1_VALUE": 1100,
+        "GRADE_2_VALUE": 1640,
+        "GRADE_3_VALUE": 2180,
+        "GRADE_4_VALUE": 2740,
+        "GRADE_5_VALUE": 3290,
+        "GRADE_6_VALUE": 3830
+      },
+      "208006": {
+        "Level": 6,
+        "Type": 208,
+        "GRADE_1_VALUE": 1190,
+        "GRADE_2_VALUE": 1780,
+        "GRADE_3_VALUE": 2370,
+        "GRADE_4_VALUE": 2980,
+        "GRADE_5_VALUE": 3570,
+        "GRADE_6_VALUE": 4160
+      },
+      "208007": {
+        "Level": 7,
+        "Type": 208,
+        "GRADE_1_VALUE": 1290,
+        "GRADE_2_VALUE": 1920,
+        "GRADE_3_VALUE": 2560,
+        "GRADE_4_VALUE": 3210,
+        "GRADE_5_VALUE": 3850,
+        "GRADE_6_VALUE": 4480
+      },
+      "208008": {
+        "Level": 8,
+        "Type": 208,
+        "GRADE_1_VALUE": 1380,
+        "GRADE_2_VALUE": 2060,
+        "GRADE_3_VALUE": 2750,
+        "GRADE_4_VALUE": 3450,
+        "GRADE_5_VALUE": 4130,
+        "GRADE_6_VALUE": 4810
+      },
+      "208009": {
+        "Level": 9,
+        "Type": 208,
+        "GRADE_1_VALUE": 1480,
+        "GRADE_2_VALUE": 2200,
+        "GRADE_3_VALUE": 2930,
+        "GRADE_4_VALUE": 3680,
+        "GRADE_5_VALUE": 4410,
+        "GRADE_6_VALUE": 5140
+      },
+      "208010": {
+        "Level": 10,
+        "Type": 208,
+        "GRADE_1_VALUE": 1570,
+        "GRADE_2_VALUE": 2350,
+        "GRADE_3_VALUE": 3120,
+        "GRADE_4_VALUE": 3920,
+        "GRADE_5_VALUE": 4700,
+        "GRADE_6_VALUE": 5470
+      },
+      "208011": {
+        "Level": 11,
+        "Type": 208,
+        "GRADE_1_VALUE": 1660,
+        "GRADE_2_VALUE": 2490,
+        "GRADE_3_VALUE": 3310,
+        "GRADE_4_VALUE": 4160,
+        "GRADE_5_VALUE": 4980,
+        "GRADE_6_VALUE": 5800
+      },
+      "208012": {
+        "Level": 12,
+        "Type": 208,
+        "GRADE_1_VALUE": 1890,
+        "GRADE_2_VALUE": 2820,
+        "GRADE_3_VALUE": 3750,
+        "GRADE_4_VALUE": 4710,
+        "GRADE_5_VALUE": 5640,
+        "GRADE_6_VALUE": 6570
+      },
+      "209000": {
+        "Level": 0,
+        "Type": 209,
+        "GRADE_1_VALUE": 500,
+        "GRADE_2_VALUE": 750,
+        "GRADE_3_VALUE": 1000,
+        "GRADE_4_VALUE": 1250,
+        "GRADE_5_VALUE": 1500,
+        "GRADE_6_VALUE": 1750
+      },
+      "209001": {
+        "Level": 1,
+        "Type": 209,
+        "GRADE_1_VALUE": 570,
+        "GRADE_2_VALUE": 860,
+        "GRADE_3_VALUE": 1150,
+        "GRADE_4_VALUE": 1430,
+        "GRADE_5_VALUE": 1720,
+        "GRADE_6_VALUE": 2010
+      },
+      "209002": {
+        "Level": 2,
+        "Type": 209,
+        "GRADE_1_VALUE": 650,
+        "GRADE_2_VALUE": 970,
+        "GRADE_3_VALUE": 1300,
+        "GRADE_4_VALUE": 1620,
+        "GRADE_5_VALUE": 1950,
+        "GRADE_6_VALUE": 2270
+      },
+      "209003": {
+        "Level": 3,
+        "Type": 209,
+        "GRADE_1_VALUE": 720,
+        "GRADE_2_VALUE": 1080,
+        "GRADE_3_VALUE": 1450,
+        "GRADE_4_VALUE": 1810,
+        "GRADE_5_VALUE": 2170,
+        "GRADE_6_VALUE": 2530
+      },
+      "209004": {
+        "Level": 4,
+        "Type": 209,
+        "GRADE_1_VALUE": 800,
+        "GRADE_2_VALUE": 1200,
+        "GRADE_3_VALUE": 1600,
+        "GRADE_4_VALUE": 2000,
+        "GRADE_5_VALUE": 2400,
+        "GRADE_6_VALUE": 2800
+      },
+      "209005": {
+        "Level": 5,
+        "Type": 209,
+        "GRADE_1_VALUE": 870,
+        "GRADE_2_VALUE": 1310,
+        "GRADE_3_VALUE": 1750,
+        "GRADE_4_VALUE": 2180,
+        "GRADE_5_VALUE": 2620,
+        "GRADE_6_VALUE": 3060
+      },
+      "209006": {
+        "Level": 6,
+        "Type": 209,
+        "GRADE_1_VALUE": 950,
+        "GRADE_2_VALUE": 1420,
+        "GRADE_3_VALUE": 1900,
+        "GRADE_4_VALUE": 2370,
+        "GRADE_5_VALUE": 2850,
+        "GRADE_6_VALUE": 3320
+      },
+      "209007": {
+        "Level": 7,
+        "Type": 209,
+        "GRADE_1_VALUE": 1020,
+        "GRADE_2_VALUE": 1530,
+        "GRADE_3_VALUE": 2050,
+        "GRADE_4_VALUE": 2560,
+        "GRADE_5_VALUE": 3070,
+        "GRADE_6_VALUE": 3580
+      },
+      "209008": {
+        "Level": 8,
+        "Type": 209,
+        "GRADE_1_VALUE": 1100,
+        "GRADE_2_VALUE": 1650,
+        "GRADE_3_VALUE": 2200,
+        "GRADE_4_VALUE": 2750,
+        "GRADE_5_VALUE": 3300,
+        "GRADE_6_VALUE": 3850
+      },
+      "209009": {
+        "Level": 9,
+        "Type": 209,
+        "GRADE_1_VALUE": 1170,
+        "GRADE_2_VALUE": 1760,
+        "GRADE_3_VALUE": 2350,
+        "GRADE_4_VALUE": 2930,
+        "GRADE_5_VALUE": 3520,
+        "GRADE_6_VALUE": 4110
+      },
+      "209010": {
+        "Level": 10,
+        "Type": 209,
+        "GRADE_1_VALUE": 1250,
+        "GRADE_2_VALUE": 1870,
+        "GRADE_3_VALUE": 2500,
+        "GRADE_4_VALUE": 3120,
+        "GRADE_5_VALUE": 3750,
+        "GRADE_6_VALUE": 4370
+      },
+      "209011": {
+        "Level": 11,
+        "Type": 209,
+        "GRADE_1_VALUE": 1320,
+        "GRADE_2_VALUE": 1980,
+        "GRADE_3_VALUE": 2650,
+        "GRADE_4_VALUE": 3310,
+        "GRADE_5_VALUE": 3970,
+        "GRADE_6_VALUE": 4630
+      },
+      "209012": {
+        "Level": 12,
+        "Type": 209,
+        "GRADE_1_VALUE": 1500,
+        "GRADE_2_VALUE": 2250,
+        "GRADE_3_VALUE": 3000,
+        "GRADE_4_VALUE": 3750,
+        "GRADE_5_VALUE": 4500,
+        "GRADE_6_VALUE": 5250
+      },
+      "210000": {
+        "Level": 0,
+        "Type": 210,
+        "GRADE_1_VALUE": 500,
+        "GRADE_2_VALUE": 750,
+        "GRADE_3_VALUE": 1000,
+        "GRADE_4_VALUE": 1250,
+        "GRADE_5_VALUE": 1500,
+        "GRADE_6_VALUE": 1750
+      },
+      "210001": {
+        "Level": 1,
+        "Type": 210,
+        "GRADE_1_VALUE": 570,
+        "GRADE_2_VALUE": 860,
+        "GRADE_3_VALUE": 1150,
+        "GRADE_4_VALUE": 1430,
+        "GRADE_5_VALUE": 1720,
+        "GRADE_6_VALUE": 2010
+      },
+      "210002": {
+        "Level": 2,
+        "Type": 210,
+        "GRADE_1_VALUE": 650,
+        "GRADE_2_VALUE": 970,
+        "GRADE_3_VALUE": 1300,
+        "GRADE_4_VALUE": 1620,
+        "GRADE_5_VALUE": 1950,
+        "GRADE_6_VALUE": 2270
+      },
+      "210003": {
+        "Level": 3,
+        "Type": 210,
+        "GRADE_1_VALUE": 720,
+        "GRADE_2_VALUE": 1080,
+        "GRADE_3_VALUE": 1450,
+        "GRADE_4_VALUE": 1810,
+        "GRADE_5_VALUE": 2170,
+        "GRADE_6_VALUE": 2530
+      },
+      "210004": {
+        "Level": 4,
+        "Type": 210,
+        "GRADE_1_VALUE": 800,
+        "GRADE_2_VALUE": 1200,
+        "GRADE_3_VALUE": 1600,
+        "GRADE_4_VALUE": 2000,
+        "GRADE_5_VALUE": 2400,
+        "GRADE_6_VALUE": 2800
+      },
+      "210005": {
+        "Level": 5,
+        "Type": 210,
+        "GRADE_1_VALUE": 870,
+        "GRADE_2_VALUE": 1310,
+        "GRADE_3_VALUE": 1750,
+        "GRADE_4_VALUE": 2180,
+        "GRADE_5_VALUE": 2620,
+        "GRADE_6_VALUE": 3060
+      },
+      "210006": {
+        "Level": 6,
+        "Type": 210,
+        "GRADE_1_VALUE": 950,
+        "GRADE_2_VALUE": 1420,
+        "GRADE_3_VALUE": 1900,
+        "GRADE_4_VALUE": 2370,
+        "GRADE_5_VALUE": 2850,
+        "GRADE_6_VALUE": 3320
+      },
+      "210007": {
+        "Level": 7,
+        "Type": 210,
+        "GRADE_1_VALUE": 1020,
+        "GRADE_2_VALUE": 1530,
+        "GRADE_3_VALUE": 2050,
+        "GRADE_4_VALUE": 2560,
+        "GRADE_5_VALUE": 3070,
+        "GRADE_6_VALUE": 3580
+      },
+      "210008": {
+        "Level": 8,
+        "Type": 210,
+        "GRADE_1_VALUE": 1100,
+        "GRADE_2_VALUE": 1650,
+        "GRADE_3_VALUE": 2200,
+        "GRADE_4_VALUE": 2750,
+        "GRADE_5_VALUE": 3300,
+        "GRADE_6_VALUE": 3850
+      },
+      "210009": {
+        "Level": 9,
+        "Type": 210,
+        "GRADE_1_VALUE": 1170,
+        "GRADE_2_VALUE": 1760,
+        "GRADE_3_VALUE": 2350,
+        "GRADE_4_VALUE": 2930,
+        "GRADE_5_VALUE": 3520,
+        "GRADE_6_VALUE": 4110
+      },
+      "210010": {
+        "Level": 10,
+        "Type": 210,
+        "GRADE_1_VALUE": 1250,
+        "GRADE_2_VALUE": 1870,
+        "GRADE_3_VALUE": 2500,
+        "GRADE_4_VALUE": 3120,
+        "GRADE_5_VALUE": 3750,
+        "GRADE_6_VALUE": 4370
+      },
+      "210011": {
+        "Level": 11,
+        "Type": 210,
+        "GRADE_1_VALUE": 1320,
+        "GRADE_2_VALUE": 1980,
+        "GRADE_3_VALUE": 2650,
+        "GRADE_4_VALUE": 3310,
+        "GRADE_5_VALUE": 3970,
+        "GRADE_6_VALUE": 4630
+      },
+      "210012": {
+        "Level": 12,
+        "Type": 210,
+        "GRADE_1_VALUE": 1500,
+        "GRADE_2_VALUE": 2250,
+        "GRADE_3_VALUE": 3000,
+        "GRADE_4_VALUE": 3750,
+        "GRADE_5_VALUE": 4500,
+        "GRADE_6_VALUE": 5250
+      }
+    }
+  }
+]

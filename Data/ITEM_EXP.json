@@ -1,0 +1,3487 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ITEM_EXP",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBITEM_EXP'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "11000": {
+        "Type": 1,
+        "GRADE": 1,
+        "Level": 0,
+        "REQUIREMENT_EXP": 0,
+        "INGREDIENT_EXP": 300
+      },
+      "11001": {
+        "Type": 1,
+        "GRADE": 1,
+        "Level": 1,
+        "REQUIREMENT_EXP": 30,
+        "INGREDIENT_EXP": 330
+      },
+      "11002": {
+        "Type": 1,
+        "GRADE": 1,
+        "Level": 2,
+        "REQUIREMENT_EXP": 45,
+        "INGREDIENT_EXP": 350
+      },
+      "11003": {
+        "Type": 1,
+        "GRADE": 1,
+        "Level": 3,
+        "REQUIREMENT_EXP": 55,
+        "INGREDIENT_EXP": 375
+      },
+      "11004": {
+        "Type": 1,
+        "GRADE": 1,
+        "Level": 4,
+        "REQUIREMENT_EXP": 70,
+        "INGREDIENT_EXP": 400
+      },
+      "11005": {
+        "Type": 1,
+        "GRADE": 1,
+        "Level": 5,
+        "REQUIREMENT_EXP": 85,
+        "INGREDIENT_EXP": 435
+      },
+      "11006": {
+        "Type": 1,
+        "GRADE": 1,
+        "Level": 6,
+        "REQUIREMENT_EXP": 100,
+        "INGREDIENT_EXP": 460
+      },
+      "11007": {
+        "Type": 1,
+        "GRADE": 1,
+        "Level": 7,
+        "REQUIREMENT_EXP": 115,
+        "INGREDIENT_EXP": 500
+      },
+      "11008": {
+        "Type": 1,
+        "GRADE": 1,
+        "Level": 8,
+        "REQUIREMENT_EXP": 125,
+        "INGREDIENT_EXP": 560
+      },
+      "11009": {
+        "Type": 1,
+        "GRADE": 1,
+        "Level": 9,
+        "REQUIREMENT_EXP": 140,
+        "INGREDIENT_EXP": 680
+      },
+      "11010": {
+        "Type": 1,
+        "GRADE": 1,
+        "Level": 10,
+        "REQUIREMENT_EXP": 155,
+        "INGREDIENT_EXP": 850
+      },
+      "11011": {
+        "Type": 1,
+        "GRADE": 1,
+        "Level": 11,
+        "REQUIREMENT_EXP": 160,
+        "INGREDIENT_EXP": 975
+      },
+      "11012": {
+        "Type": 1,
+        "GRADE": 1,
+        "Level": 12,
+        "REQUIREMENT_EXP": 180,
+        "INGREDIENT_EXP": 1135
+      },
+      "11013": {
+        "Type": 1,
+        "GRADE": 1,
+        "Level": 13,
+        "REQUIREMENT_EXP": 195,
+        "INGREDIENT_EXP": 1310
+      },
+      "11014": {
+        "Type": 1,
+        "GRADE": 1,
+        "Level": 14,
+        "REQUIREMENT_EXP": 210,
+        "INGREDIENT_EXP": 1500
+      },
+      "11015": {
+        "Type": 1,
+        "GRADE": 1,
+        "Level": 15,
+        "REQUIREMENT_EXP": 225,
+        "INGREDIENT_EXP": 1700
+      },
+      "12000": {
+        "Type": 1,
+        "GRADE": 2,
+        "Level": 0,
+        "REQUIREMENT_EXP": 0,
+        "INGREDIENT_EXP": 500
+      },
+      "12001": {
+        "Type": 1,
+        "GRADE": 2,
+        "Level": 1,
+        "REQUIREMENT_EXP": 120,
+        "INGREDIENT_EXP": 610
+      },
+      "12002": {
+        "Type": 1,
+        "GRADE": 2,
+        "Level": 2,
+        "REQUIREMENT_EXP": 145,
+        "INGREDIENT_EXP": 720
+      },
+      "12003": {
+        "Type": 1,
+        "GRADE": 2,
+        "Level": 3,
+        "REQUIREMENT_EXP": 170,
+        "INGREDIENT_EXP": 830
+      },
+      "12004": {
+        "Type": 1,
+        "GRADE": 2,
+        "Level": 4,
+        "REQUIREMENT_EXP": 200,
+        "INGREDIENT_EXP": 900
+      },
+      "12005": {
+        "Type": 1,
+        "GRADE": 2,
+        "Level": 5,
+        "REQUIREMENT_EXP": 230,
+        "INGREDIENT_EXP": 950
+      },
+      "12006": {
+        "Type": 1,
+        "GRADE": 2,
+        "Level": 6,
+        "REQUIREMENT_EXP": 260,
+        "INGREDIENT_EXP": 1010
+      },
+      "12007": {
+        "Type": 1,
+        "GRADE": 2,
+        "Level": 7,
+        "REQUIREMENT_EXP": 285,
+        "INGREDIENT_EXP": 1265
+      },
+      "12008": {
+        "Type": 1,
+        "GRADE": 2,
+        "Level": 8,
+        "REQUIREMENT_EXP": 315,
+        "INGREDIENT_EXP": 1550
+      },
+      "12009": {
+        "Type": 1,
+        "GRADE": 2,
+        "Level": 9,
+        "REQUIREMENT_EXP": 340,
+        "INGREDIENT_EXP": 1850
+      },
+      "12010": {
+        "Type": 1,
+        "GRADE": 2,
+        "Level": 10,
+        "REQUIREMENT_EXP": 360,
+        "INGREDIENT_EXP": 2180
+      },
+      "12011": {
+        "Type": 1,
+        "GRADE": 2,
+        "Level": 11,
+        "REQUIREMENT_EXP": 395,
+        "INGREDIENT_EXP": 2538
+      },
+      "12012": {
+        "Type": 1,
+        "GRADE": 2,
+        "Level": 12,
+        "REQUIREMENT_EXP": 425,
+        "INGREDIENT_EXP": 2920
+      },
+      "12013": {
+        "Type": 1,
+        "GRADE": 2,
+        "Level": 13,
+        "REQUIREMENT_EXP": 450,
+        "INGREDIENT_EXP": 3325
+      },
+      "12014": {
+        "Type": 1,
+        "GRADE": 2,
+        "Level": 14,
+        "REQUIREMENT_EXP": 480,
+        "INGREDIENT_EXP": 3755
+      },
+      "12015": {
+        "Type": 1,
+        "GRADE": 2,
+        "Level": 15,
+        "REQUIREMENT_EXP": 505,
+        "INGREDIENT_EXP": 4210
+      },
+      "13000": {
+        "Type": 1,
+        "GRADE": 3,
+        "Level": 0,
+        "REQUIREMENT_EXP": 0,
+        "INGREDIENT_EXP": 1000
+      },
+      "13001": {
+        "Type": 1,
+        "GRADE": 3,
+        "Level": 1,
+        "REQUIREMENT_EXP": 180,
+        "INGREDIENT_EXP": 1180
+      },
+      "13002": {
+        "Type": 1,
+        "GRADE": 3,
+        "Level": 2,
+        "REQUIREMENT_EXP": 265,
+        "INGREDIENT_EXP": 1360
+      },
+      "13003": {
+        "Type": 1,
+        "GRADE": 3,
+        "Level": 3,
+        "REQUIREMENT_EXP": 350,
+        "INGREDIENT_EXP": 1400
+      },
+      "13004": {
+        "Type": 1,
+        "GRADE": 3,
+        "Level": 4,
+        "REQUIREMENT_EXP": 435,
+        "INGREDIENT_EXP": 1575
+      },
+      "13005": {
+        "Type": 1,
+        "GRADE": 3,
+        "Level": 5,
+        "REQUIREMENT_EXP": 520,
+        "INGREDIENT_EXP": 1850
+      },
+      "13006": {
+        "Type": 1,
+        "GRADE": 3,
+        "Level": 6,
+        "REQUIREMENT_EXP": 605,
+        "INGREDIENT_EXP": 2120
+      },
+      "13007": {
+        "Type": 1,
+        "GRADE": 3,
+        "Level": 7,
+        "REQUIREMENT_EXP": 690,
+        "INGREDIENT_EXP": 2740
+      },
+      "13008": {
+        "Type": 1,
+        "GRADE": 3,
+        "Level": 8,
+        "REQUIREMENT_EXP": 775,
+        "INGREDIENT_EXP": 3438
+      },
+      "13009": {
+        "Type": 1,
+        "GRADE": 3,
+        "Level": 9,
+        "REQUIREMENT_EXP": 860,
+        "INGREDIENT_EXP": 4212
+      },
+      "13010": {
+        "Type": 1,
+        "GRADE": 3,
+        "Level": 10,
+        "REQUIREMENT_EXP": 945,
+        "INGREDIENT_EXP": 5062
+      },
+      "13011": {
+        "Type": 1,
+        "GRADE": 3,
+        "Level": 11,
+        "REQUIREMENT_EXP": 1030,
+        "INGREDIENT_EXP": 5980
+      },
+      "13012": {
+        "Type": 1,
+        "GRADE": 3,
+        "Level": 12,
+        "REQUIREMENT_EXP": 1115,
+        "INGREDIENT_EXP": 6995
+      },
+      "13013": {
+        "Type": 1,
+        "GRADE": 3,
+        "Level": 13,
+        "REQUIREMENT_EXP": 1200,
+        "INGREDIENT_EXP": 8075
+      },
+      "13014": {
+        "Type": 1,
+        "GRADE": 3,
+        "Level": 14,
+        "REQUIREMENT_EXP": 1285,
+        "INGREDIENT_EXP": 9230
+      },
+      "13015": {
+        "Type": 1,
+        "GRADE": 3,
+        "Level": 15,
+        "REQUIREMENT_EXP": 1370,
+        "INGREDIENT_EXP": 10465
+      },
+      "14000": {
+        "Type": 1,
+        "GRADE": 4,
+        "Level": 0,
+        "REQUIREMENT_EXP": 0,
+        "INGREDIENT_EXP": 1000
+      },
+      "14001": {
+        "Type": 1,
+        "GRADE": 4,
+        "Level": 1,
+        "REQUIREMENT_EXP": 160,
+        "INGREDIENT_EXP": 1100
+      },
+      "14002": {
+        "Type": 1,
+        "GRADE": 4,
+        "Level": 2,
+        "REQUIREMENT_EXP": 325,
+        "INGREDIENT_EXP": 1250
+      },
+      "14003": {
+        "Type": 1,
+        "GRADE": 4,
+        "Level": 3,
+        "REQUIREMENT_EXP": 486,
+        "INGREDIENT_EXP": 1350
+      },
+      "14004": {
+        "Type": 1,
+        "GRADE": 4,
+        "Level": 4,
+        "REQUIREMENT_EXP": 650,
+        "INGREDIENT_EXP": 1450
+      },
+      "14005": {
+        "Type": 1,
+        "GRADE": 4,
+        "Level": 5,
+        "REQUIREMENT_EXP": 820,
+        "INGREDIENT_EXP": 2195
+      },
+      "14006": {
+        "Type": 1,
+        "GRADE": 4,
+        "Level": 6,
+        "REQUIREMENT_EXP": 990,
+        "INGREDIENT_EXP": 3085
+      },
+      "14007": {
+        "Type": 1,
+        "GRADE": 4,
+        "Level": 7,
+        "REQUIREMENT_EXP": 1155,
+        "INGREDIENT_EXP": 4125
+      },
+      "14008": {
+        "Type": 1,
+        "GRADE": 4,
+        "Level": 8,
+        "REQUIREMENT_EXP": 1325,
+        "INGREDIENT_EXP": 5320
+      },
+      "14009": {
+        "Type": 1,
+        "GRADE": 4,
+        "Level": 9,
+        "REQUIREMENT_EXP": 1485,
+        "INGREDIENT_EXP": 6655
+      },
+      "14010": {
+        "Type": 1,
+        "GRADE": 4,
+        "Level": 10,
+        "REQUIREMENT_EXP": 1655,
+        "INGREDIENT_EXP": 8145
+      },
+      "14011": {
+        "Type": 1,
+        "GRADE": 4,
+        "Level": 11,
+        "REQUIREMENT_EXP": 1825,
+        "INGREDIENT_EXP": 9785
+      },
+      "14012": {
+        "Type": 1,
+        "GRADE": 4,
+        "Level": 12,
+        "REQUIREMENT_EXP": 1985,
+        "INGREDIENT_EXP": 11570
+      },
+      "14013": {
+        "Type": 1,
+        "GRADE": 4,
+        "Level": 13,
+        "REQUIREMENT_EXP": 2150,
+        "INGREDIENT_EXP": 13500
+      },
+      "14014": {
+        "Type": 1,
+        "GRADE": 4,
+        "Level": 14,
+        "REQUIREMENT_EXP": 2320,
+        "INGREDIENT_EXP": 15595
+      },
+      "14015": {
+        "Type": 1,
+        "GRADE": 4,
+        "Level": 15,
+        "REQUIREMENT_EXP": 2465,
+        "INGREDIENT_EXP": 17815
+      },
+      "15000": {
+        "Type": 1,
+        "GRADE": 5,
+        "Level": 0,
+        "REQUIREMENT_EXP": 0,
+        "INGREDIENT_EXP": 1500
+      },
+      "15001": {
+        "Type": 1,
+        "GRADE": 5,
+        "Level": 1,
+        "REQUIREMENT_EXP": 325,
+        "INGREDIENT_EXP": 1800
+      },
+      "15002": {
+        "Type": 1,
+        "GRADE": 5,
+        "Level": 2,
+        "REQUIREMENT_EXP": 650,
+        "INGREDIENT_EXP": 1950
+      },
+      "15003": {
+        "Type": 1,
+        "GRADE": 5,
+        "Level": 3,
+        "REQUIREMENT_EXP": 975,
+        "INGREDIENT_EXP": 2200
+      },
+      "15004": {
+        "Type": 1,
+        "GRADE": 5,
+        "Level": 4,
+        "REQUIREMENT_EXP": 1305,
+        "INGREDIENT_EXP": 2925
+      },
+      "15005": {
+        "Type": 1,
+        "GRADE": 5,
+        "Level": 5,
+        "REQUIREMENT_EXP": 1645,
+        "INGREDIENT_EXP": 4410
+      },
+      "15006": {
+        "Type": 1,
+        "GRADE": 5,
+        "Level": 6,
+        "REQUIREMENT_EXP": 1980,
+        "INGREDIENT_EXP": 6192
+      },
+      "15007": {
+        "Type": 1,
+        "GRADE": 5,
+        "Level": 7,
+        "REQUIREMENT_EXP": 2315,
+        "INGREDIENT_EXP": 8275
+      },
+      "15008": {
+        "Type": 1,
+        "GRADE": 5,
+        "Level": 8,
+        "REQUIREMENT_EXP": 2645,
+        "INGREDIENT_EXP": 10656
+      },
+      "15009": {
+        "Type": 1,
+        "GRADE": 5,
+        "Level": 9,
+        "REQUIREMENT_EXP": 2975,
+        "INGREDIENT_EXP": 13335
+      },
+      "15010": {
+        "Type": 1,
+        "GRADE": 5,
+        "Level": 10,
+        "REQUIREMENT_EXP": 3310,
+        "INGREDIENT_EXP": 16310
+      },
+      "15011": {
+        "Type": 1,
+        "GRADE": 5,
+        "Level": 11,
+        "REQUIREMENT_EXP": 3645,
+        "INGREDIENT_EXP": 19595
+      },
+      "15012": {
+        "Type": 1,
+        "GRADE": 5,
+        "Level": 12,
+        "REQUIREMENT_EXP": 3975,
+        "INGREDIENT_EXP": 23170
+      },
+      "15013": {
+        "Type": 1,
+        "GRADE": 5,
+        "Level": 13,
+        "REQUIREMENT_EXP": 4300,
+        "INGREDIENT_EXP": 27040
+      },
+      "15014": {
+        "Type": 1,
+        "GRADE": 5,
+        "Level": 14,
+        "REQUIREMENT_EXP": 4640,
+        "INGREDIENT_EXP": 31215
+      },
+      "15015": {
+        "Type": 1,
+        "GRADE": 5,
+        "Level": 15,
+        "REQUIREMENT_EXP": 4930,
+        "INGREDIENT_EXP": 35650
+      },
+      "16000": {
+        "Type": 1,
+        "GRADE": 6,
+        "Level": 0,
+        "REQUIREMENT_EXP": 0,
+        "INGREDIENT_EXP": 2000
+      },
+      "16001": {
+        "Type": 1,
+        "GRADE": 6,
+        "Level": 1,
+        "REQUIREMENT_EXP": 650,
+        "INGREDIENT_EXP": 2450
+      },
+      "16002": {
+        "Type": 1,
+        "GRADE": 6,
+        "Level": 2,
+        "REQUIREMENT_EXP": 1305,
+        "INGREDIENT_EXP": 2700
+      },
+      "16003": {
+        "Type": 1,
+        "GRADE": 6,
+        "Level": 3,
+        "REQUIREMENT_EXP": 1955,
+        "INGREDIENT_EXP": 3520
+      },
+      "16004": {
+        "Type": 1,
+        "GRADE": 6,
+        "Level": 4,
+        "REQUIREMENT_EXP": 2610,
+        "INGREDIENT_EXP": 5870
+      },
+      "16005": {
+        "Type": 1,
+        "GRADE": 6,
+        "Level": 5,
+        "REQUIREMENT_EXP": 3290,
+        "INGREDIENT_EXP": 8830
+      },
+      "16006": {
+        "Type": 1,
+        "GRADE": 6,
+        "Level": 6,
+        "REQUIREMENT_EXP": 3965,
+        "INGREDIENT_EXP": 12390
+      },
+      "16007": {
+        "Type": 1,
+        "GRADE": 6,
+        "Level": 7,
+        "REQUIREMENT_EXP": 4632,
+        "INGREDIENT_EXP": 16565
+      },
+      "16008": {
+        "Type": 1,
+        "GRADE": 6,
+        "Level": 8,
+        "REQUIREMENT_EXP": 5290,
+        "INGREDIENT_EXP": 21320
+      },
+      "16009": {
+        "Type": 1,
+        "GRADE": 6,
+        "Level": 9,
+        "REQUIREMENT_EXP": 5950,
+        "INGREDIENT_EXP": 26680
+      },
+      "16010": {
+        "Type": 1,
+        "GRADE": 6,
+        "Level": 10,
+        "REQUIREMENT_EXP": 6625,
+        "INGREDIENT_EXP": 32645
+      },
+      "16011": {
+        "Type": 1,
+        "GRADE": 6,
+        "Level": 11,
+        "REQUIREMENT_EXP": 7290,
+        "INGREDIENT_EXP": 39205
+      },
+      "16012": {
+        "Type": 1,
+        "GRADE": 6,
+        "Level": 12,
+        "REQUIREMENT_EXP": 7950,
+        "INGREDIENT_EXP": 46360
+      },
+      "16013": {
+        "Type": 1,
+        "GRADE": 6,
+        "Level": 13,
+        "REQUIREMENT_EXP": 8600,
+        "INGREDIENT_EXP": 54100
+      },
+      "16014": {
+        "Type": 1,
+        "GRADE": 6,
+        "Level": 14,
+        "REQUIREMENT_EXP": 9280,
+        "INGREDIENT_EXP": 62452
+      },
+      "16015": {
+        "Type": 1,
+        "GRADE": 6,
+        "Level": 15,
+        "REQUIREMENT_EXP": 9860,
+        "INGREDIENT_EXP": 71326
+      },
+      "21001": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 1,
+        "REQUIREMENT_EXP": 0,
+        "INGREDIENT_EXP": 700
+      },
+      "21002": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 2,
+        "REQUIREMENT_EXP": 200,
+        "INGREDIENT_EXP": 900
+      },
+      "21003": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 3,
+        "REQUIREMENT_EXP": 240,
+        "INGREDIENT_EXP": 1100
+      },
+      "21004": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 4,
+        "REQUIREMENT_EXP": 300,
+        "INGREDIENT_EXP": 1300
+      },
+      "21005": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 5,
+        "REQUIREMENT_EXP": 370,
+        "INGREDIENT_EXP": 1600
+      },
+      "21006": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 6,
+        "REQUIREMENT_EXP": 460,
+        "INGREDIENT_EXP": 2000
+      },
+      "21007": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 7,
+        "REQUIREMENT_EXP": 570,
+        "INGREDIENT_EXP": 2400
+      },
+      "21008": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 8,
+        "REQUIREMENT_EXP": 700,
+        "INGREDIENT_EXP": 3000
+      },
+      "21009": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 9,
+        "REQUIREMENT_EXP": 840,
+        "INGREDIENT_EXP": 3700
+      },
+      "21010": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 10,
+        "REQUIREMENT_EXP": 1000,
+        "INGREDIENT_EXP": 4500
+      },
+      "21011": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 11,
+        "REQUIREMENT_EXP": 1180,
+        "INGREDIENT_EXP": 5400
+      },
+      "21012": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 12,
+        "REQUIREMENT_EXP": 1370,
+        "INGREDIENT_EXP": 6500
+      },
+      "21013": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 13,
+        "REQUIREMENT_EXP": 1580,
+        "INGREDIENT_EXP": 7800
+      },
+      "21014": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 14,
+        "REQUIREMENT_EXP": 1810,
+        "INGREDIENT_EXP": 9200
+      },
+      "21015": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 15,
+        "REQUIREMENT_EXP": 2060,
+        "INGREDIENT_EXP": 10900
+      },
+      "21016": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 16,
+        "REQUIREMENT_EXP": 2320,
+        "INGREDIENT_EXP": 12700
+      },
+      "21017": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 17,
+        "REQUIREMENT_EXP": 2600,
+        "INGREDIENT_EXP": 14800
+      },
+      "21018": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 18,
+        "REQUIREMENT_EXP": 2900,
+        "INGREDIENT_EXP": 17100
+      },
+      "21019": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 19,
+        "REQUIREMENT_EXP": 3220,
+        "INGREDIENT_EXP": 19700
+      },
+      "21020": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 20,
+        "REQUIREMENT_EXP": 3550,
+        "INGREDIENT_EXP": 22500
+      },
+      "21021": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 21,
+        "REQUIREMENT_EXP": 3900,
+        "INGREDIENT_EXP": 25600
+      },
+      "21022": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 22,
+        "REQUIREMENT_EXP": 4270,
+        "INGREDIENT_EXP": 29100
+      },
+      "21023": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 23,
+        "REQUIREMENT_EXP": 4650,
+        "INGREDIENT_EXP": 32800
+      },
+      "21024": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 24,
+        "REQUIREMENT_EXP": 5050,
+        "INGREDIENT_EXP": 36800
+      },
+      "21025": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 25,
+        "REQUIREMENT_EXP": 5470,
+        "INGREDIENT_EXP": 41200
+      },
+      "21026": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 26,
+        "REQUIREMENT_EXP": 5910,
+        "INGREDIENT_EXP": 45900
+      },
+      "21027": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 27,
+        "REQUIREMENT_EXP": 6360,
+        "INGREDIENT_EXP": 51000
+      },
+      "21028": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 28,
+        "REQUIREMENT_EXP": 6830,
+        "INGREDIENT_EXP": 56500
+      },
+      "21029": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 29,
+        "REQUIREMENT_EXP": 7320,
+        "INGREDIENT_EXP": 62300
+      },
+      "21030": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 30,
+        "REQUIREMENT_EXP": 7830,
+        "INGREDIENT_EXP": 68600
+      },
+      "21031": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 31,
+        "REQUIREMENT_EXP": 8350,
+        "INGREDIENT_EXP": 75300
+      },
+      "21032": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 32,
+        "REQUIREMENT_EXP": 8890,
+        "INGREDIENT_EXP": 82400
+      },
+      "21033": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 33,
+        "REQUIREMENT_EXP": 9450,
+        "INGREDIENT_EXP": 90000
+      },
+      "21034": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 34,
+        "REQUIREMENT_EXP": 10020,
+        "INGREDIENT_EXP": 98000
+      },
+      "21035": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 35,
+        "REQUIREMENT_EXP": 10610,
+        "INGREDIENT_EXP": 106500
+      },
+      "21036": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 36,
+        "REQUIREMENT_EXP": 11220,
+        "INGREDIENT_EXP": 115400
+      },
+      "21037": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 37,
+        "REQUIREMENT_EXP": 11850,
+        "INGREDIENT_EXP": 124900
+      },
+      "21038": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 38,
+        "REQUIREMENT_EXP": 12490,
+        "INGREDIENT_EXP": 134900
+      },
+      "21039": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 39,
+        "REQUIREMENT_EXP": 13150,
+        "INGREDIENT_EXP": 145400
+      },
+      "21040": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 40,
+        "REQUIREMENT_EXP": 13830,
+        "INGREDIENT_EXP": 156500
+      },
+      "21041": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 41,
+        "REQUIREMENT_EXP": 14520,
+        "INGREDIENT_EXP": 168100
+      },
+      "21042": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 42,
+        "REQUIREMENT_EXP": 15230,
+        "INGREDIENT_EXP": 180300
+      },
+      "21043": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 43,
+        "REQUIREMENT_EXP": 15960,
+        "INGREDIENT_EXP": 193100
+      },
+      "21044": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 44,
+        "REQUIREMENT_EXP": 16710,
+        "INGREDIENT_EXP": 206400
+      },
+      "21045": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 45,
+        "REQUIREMENT_EXP": 17470,
+        "INGREDIENT_EXP": 220400
+      },
+      "21046": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 46,
+        "REQUIREMENT_EXP": 18250,
+        "INGREDIENT_EXP": 235000
+      },
+      "21047": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 47,
+        "REQUIREMENT_EXP": 19050,
+        "INGREDIENT_EXP": 250200
+      },
+      "21048": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 48,
+        "REQUIREMENT_EXP": 19870,
+        "INGREDIENT_EXP": 266100
+      },
+      "21049": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 49,
+        "REQUIREMENT_EXP": 20700,
+        "INGREDIENT_EXP": 282700
+      },
+      "21050": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 50,
+        "REQUIREMENT_EXP": 21550,
+        "INGREDIENT_EXP": 299900
+      },
+      "21051": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 51,
+        "REQUIREMENT_EXP": 22420,
+        "INGREDIENT_EXP": 317900
+      },
+      "21052": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 52,
+        "REQUIREMENT_EXP": 23300,
+        "INGREDIENT_EXP": 336500
+      },
+      "21053": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 53,
+        "REQUIREMENT_EXP": 24200,
+        "INGREDIENT_EXP": 355900
+      },
+      "21054": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 54,
+        "REQUIREMENT_EXP": 25120,
+        "INGREDIENT_EXP": 376000
+      },
+      "21055": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 55,
+        "REQUIREMENT_EXP": 26060,
+        "INGREDIENT_EXP": 396800
+      },
+      "21056": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 56,
+        "REQUIREMENT_EXP": 27010,
+        "INGREDIENT_EXP": 418400
+      },
+      "21057": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 57,
+        "REQUIREMENT_EXP": 27980,
+        "INGREDIENT_EXP": 440800
+      },
+      "21058": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 58,
+        "REQUIREMENT_EXP": 28970,
+        "INGREDIENT_EXP": 464000
+      },
+      "21059": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 59,
+        "REQUIREMENT_EXP": 29980,
+        "INGREDIENT_EXP": 488000
+      },
+      "21060": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 60,
+        "REQUIREMENT_EXP": 31000,
+        "INGREDIENT_EXP": 512800
+      },
+      "21061": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 61,
+        "REQUIREMENT_EXP": 32040,
+        "INGREDIENT_EXP": 538400
+      },
+      "21062": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 62,
+        "REQUIREMENT_EXP": 33100,
+        "INGREDIENT_EXP": 564900
+      },
+      "21063": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 63,
+        "REQUIREMENT_EXP": 34170,
+        "INGREDIENT_EXP": 592200
+      },
+      "21064": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 64,
+        "REQUIREMENT_EXP": 35260,
+        "INGREDIENT_EXP": 620400
+      },
+      "21065": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 65,
+        "REQUIREMENT_EXP": 36370,
+        "INGREDIENT_EXP": 649500
+      },
+      "21066": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 66,
+        "REQUIREMENT_EXP": 37500,
+        "INGREDIENT_EXP": 679500
+      },
+      "21067": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 67,
+        "REQUIREMENT_EXP": 38640,
+        "INGREDIENT_EXP": 710400
+      },
+      "21068": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 68,
+        "REQUIREMENT_EXP": 39800,
+        "INGREDIENT_EXP": 742300
+      },
+      "21069": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 69,
+        "REQUIREMENT_EXP": 40980,
+        "INGREDIENT_EXP": 775100
+      },
+      "21070": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 70,
+        "REQUIREMENT_EXP": 42180,
+        "INGREDIENT_EXP": 808800
+      },
+      "21071": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 71,
+        "REQUIREMENT_EXP": 43390,
+        "INGREDIENT_EXP": 843500
+      },
+      "21072": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 72,
+        "REQUIREMENT_EXP": 44620,
+        "INGREDIENT_EXP": 879200
+      },
+      "21073": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 73,
+        "REQUIREMENT_EXP": 45870,
+        "INGREDIENT_EXP": 915900
+      },
+      "21074": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 74,
+        "REQUIREMENT_EXP": 47130,
+        "INGREDIENT_EXP": 953600
+      },
+      "21075": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 75,
+        "REQUIREMENT_EXP": 48410,
+        "INGREDIENT_EXP": 992300
+      },
+      "21076": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 76,
+        "REQUIREMENT_EXP": 49710,
+        "INGREDIENT_EXP": 1032100
+      },
+      "21077": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 77,
+        "REQUIREMENT_EXP": 51030,
+        "INGREDIENT_EXP": 1072900
+      },
+      "21078": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 78,
+        "REQUIREMENT_EXP": 52360,
+        "INGREDIENT_EXP": 1114800
+      },
+      "21079": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 79,
+        "REQUIREMENT_EXP": 53710,
+        "INGREDIENT_EXP": 1157800
+      },
+      "21080": {
+        "Type": 2,
+        "GRADE": 1,
+        "Level": 80,
+        "REQUIREMENT_EXP": 55080,
+        "INGREDIENT_EXP": 1201800
+      },
+      "22001": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 1,
+        "REQUIREMENT_EXP": 0,
+        "INGREDIENT_EXP": 1300
+      },
+      "22002": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 2,
+        "REQUIREMENT_EXP": 200,
+        "INGREDIENT_EXP": 1500
+      },
+      "22003": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 3,
+        "REQUIREMENT_EXP": 240,
+        "INGREDIENT_EXP": 1700
+      },
+      "22004": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 4,
+        "REQUIREMENT_EXP": 300,
+        "INGREDIENT_EXP": 1900
+      },
+      "22005": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 5,
+        "REQUIREMENT_EXP": 370,
+        "INGREDIENT_EXP": 2200
+      },
+      "22006": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 6,
+        "REQUIREMENT_EXP": 460,
+        "INGREDIENT_EXP": 2600
+      },
+      "22007": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 7,
+        "REQUIREMENT_EXP": 570,
+        "INGREDIENT_EXP": 3000
+      },
+      "22008": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 8,
+        "REQUIREMENT_EXP": 700,
+        "INGREDIENT_EXP": 3600
+      },
+      "22009": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 9,
+        "REQUIREMENT_EXP": 840,
+        "INGREDIENT_EXP": 4300
+      },
+      "22010": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 10,
+        "REQUIREMENT_EXP": 1000,
+        "INGREDIENT_EXP": 5100
+      },
+      "22011": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 11,
+        "REQUIREMENT_EXP": 1180,
+        "INGREDIENT_EXP": 6000
+      },
+      "22012": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 12,
+        "REQUIREMENT_EXP": 1370,
+        "INGREDIENT_EXP": 7100
+      },
+      "22013": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 13,
+        "REQUIREMENT_EXP": 1580,
+        "INGREDIENT_EXP": 8400
+      },
+      "22014": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 14,
+        "REQUIREMENT_EXP": 1810,
+        "INGREDIENT_EXP": 9800
+      },
+      "22015": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 15,
+        "REQUIREMENT_EXP": 2060,
+        "INGREDIENT_EXP": 11500
+      },
+      "22016": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 16,
+        "REQUIREMENT_EXP": 2320,
+        "INGREDIENT_EXP": 13300
+      },
+      "22017": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 17,
+        "REQUIREMENT_EXP": 2600,
+        "INGREDIENT_EXP": 15400
+      },
+      "22018": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 18,
+        "REQUIREMENT_EXP": 2900,
+        "INGREDIENT_EXP": 17700
+      },
+      "22019": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 19,
+        "REQUIREMENT_EXP": 3220,
+        "INGREDIENT_EXP": 20300
+      },
+      "22020": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 20,
+        "REQUIREMENT_EXP": 3550,
+        "INGREDIENT_EXP": 23100
+      },
+      "22021": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 21,
+        "REQUIREMENT_EXP": 3900,
+        "INGREDIENT_EXP": 26200
+      },
+      "22022": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 22,
+        "REQUIREMENT_EXP": 4270,
+        "INGREDIENT_EXP": 29700
+      },
+      "22023": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 23,
+        "REQUIREMENT_EXP": 4650,
+        "INGREDIENT_EXP": 33400
+      },
+      "22024": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 24,
+        "REQUIREMENT_EXP": 5050,
+        "INGREDIENT_EXP": 37400
+      },
+      "22025": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 25,
+        "REQUIREMENT_EXP": 5470,
+        "INGREDIENT_EXP": 41800
+      },
+      "22026": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 26,
+        "REQUIREMENT_EXP": 5910,
+        "INGREDIENT_EXP": 46500
+      },
+      "22027": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 27,
+        "REQUIREMENT_EXP": 6360,
+        "INGREDIENT_EXP": 51600
+      },
+      "22028": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 28,
+        "REQUIREMENT_EXP": 6830,
+        "INGREDIENT_EXP": 57100
+      },
+      "22029": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 29,
+        "REQUIREMENT_EXP": 7320,
+        "INGREDIENT_EXP": 62900
+      },
+      "22030": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 30,
+        "REQUIREMENT_EXP": 7830,
+        "INGREDIENT_EXP": 69200
+      },
+      "22031": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 31,
+        "REQUIREMENT_EXP": 8350,
+        "INGREDIENT_EXP": 75900
+      },
+      "22032": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 32,
+        "REQUIREMENT_EXP": 8890,
+        "INGREDIENT_EXP": 83000
+      },
+      "22033": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 33,
+        "REQUIREMENT_EXP": 9450,
+        "INGREDIENT_EXP": 90600
+      },
+      "22034": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 34,
+        "REQUIREMENT_EXP": 10020,
+        "INGREDIENT_EXP": 98600
+      },
+      "22035": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 35,
+        "REQUIREMENT_EXP": 10610,
+        "INGREDIENT_EXP": 107100
+      },
+      "22036": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 36,
+        "REQUIREMENT_EXP": 11220,
+        "INGREDIENT_EXP": 116000
+      },
+      "22037": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 37,
+        "REQUIREMENT_EXP": 11850,
+        "INGREDIENT_EXP": 125500
+      },
+      "22038": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 38,
+        "REQUIREMENT_EXP": 12490,
+        "INGREDIENT_EXP": 135500
+      },
+      "22039": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 39,
+        "REQUIREMENT_EXP": 13150,
+        "INGREDIENT_EXP": 146000
+      },
+      "22040": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 40,
+        "REQUIREMENT_EXP": 13830,
+        "INGREDIENT_EXP": 157100
+      },
+      "22041": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 41,
+        "REQUIREMENT_EXP": 14520,
+        "INGREDIENT_EXP": 168700
+      },
+      "22042": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 42,
+        "REQUIREMENT_EXP": 15230,
+        "INGREDIENT_EXP": 180900
+      },
+      "22043": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 43,
+        "REQUIREMENT_EXP": 15960,
+        "INGREDIENT_EXP": 193700
+      },
+      "22044": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 44,
+        "REQUIREMENT_EXP": 16710,
+        "INGREDIENT_EXP": 207000
+      },
+      "22045": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 45,
+        "REQUIREMENT_EXP": 17470,
+        "INGREDIENT_EXP": 221000
+      },
+      "22046": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 46,
+        "REQUIREMENT_EXP": 18250,
+        "INGREDIENT_EXP": 235600
+      },
+      "22047": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 47,
+        "REQUIREMENT_EXP": 19050,
+        "INGREDIENT_EXP": 250800
+      },
+      "22048": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 48,
+        "REQUIREMENT_EXP": 19870,
+        "INGREDIENT_EXP": 266700
+      },
+      "22049": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 49,
+        "REQUIREMENT_EXP": 20700,
+        "INGREDIENT_EXP": 283300
+      },
+      "22050": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 50,
+        "REQUIREMENT_EXP": 21550,
+        "INGREDIENT_EXP": 300500
+      },
+      "22051": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 51,
+        "REQUIREMENT_EXP": 22420,
+        "INGREDIENT_EXP": 318500
+      },
+      "22052": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 52,
+        "REQUIREMENT_EXP": 23300,
+        "INGREDIENT_EXP": 337100
+      },
+      "22053": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 53,
+        "REQUIREMENT_EXP": 24200,
+        "INGREDIENT_EXP": 356500
+      },
+      "22054": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 54,
+        "REQUIREMENT_EXP": 25120,
+        "INGREDIENT_EXP": 376600
+      },
+      "22055": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 55,
+        "REQUIREMENT_EXP": 26060,
+        "INGREDIENT_EXP": 397400
+      },
+      "22056": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 56,
+        "REQUIREMENT_EXP": 27010,
+        "INGREDIENT_EXP": 419000
+      },
+      "22057": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 57,
+        "REQUIREMENT_EXP": 27980,
+        "INGREDIENT_EXP": 441400
+      },
+      "22058": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 58,
+        "REQUIREMENT_EXP": 28970,
+        "INGREDIENT_EXP": 464600
+      },
+      "22059": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 59,
+        "REQUIREMENT_EXP": 29980,
+        "INGREDIENT_EXP": 488600
+      },
+      "22060": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 60,
+        "REQUIREMENT_EXP": 31000,
+        "INGREDIENT_EXP": 513400
+      },
+      "22061": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 61,
+        "REQUIREMENT_EXP": 32040,
+        "INGREDIENT_EXP": 539000
+      },
+      "22062": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 62,
+        "REQUIREMENT_EXP": 33100,
+        "INGREDIENT_EXP": 565500
+      },
+      "22063": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 63,
+        "REQUIREMENT_EXP": 34170,
+        "INGREDIENT_EXP": 592800
+      },
+      "22064": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 64,
+        "REQUIREMENT_EXP": 35260,
+        "INGREDIENT_EXP": 621000
+      },
+      "22065": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 65,
+        "REQUIREMENT_EXP": 36370,
+        "INGREDIENT_EXP": 650100
+      },
+      "22066": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 66,
+        "REQUIREMENT_EXP": 37500,
+        "INGREDIENT_EXP": 680100
+      },
+      "22067": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 67,
+        "REQUIREMENT_EXP": 38640,
+        "INGREDIENT_EXP": 711000
+      },
+      "22068": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 68,
+        "REQUIREMENT_EXP": 39800,
+        "INGREDIENT_EXP": 742900
+      },
+      "22069": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 69,
+        "REQUIREMENT_EXP": 40980,
+        "INGREDIENT_EXP": 775700
+      },
+      "22070": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 70,
+        "REQUIREMENT_EXP": 42180,
+        "INGREDIENT_EXP": 809400
+      },
+      "22071": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 71,
+        "REQUIREMENT_EXP": 43390,
+        "INGREDIENT_EXP": 844100
+      },
+      "22072": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 72,
+        "REQUIREMENT_EXP": 44620,
+        "INGREDIENT_EXP": 879800
+      },
+      "22073": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 73,
+        "REQUIREMENT_EXP": 45870,
+        "INGREDIENT_EXP": 916500
+      },
+      "22074": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 74,
+        "REQUIREMENT_EXP": 47130,
+        "INGREDIENT_EXP": 954200
+      },
+      "22075": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 75,
+        "REQUIREMENT_EXP": 48410,
+        "INGREDIENT_EXP": 992900
+      },
+      "22076": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 76,
+        "REQUIREMENT_EXP": 49710,
+        "INGREDIENT_EXP": 1032700
+      },
+      "22077": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 77,
+        "REQUIREMENT_EXP": 51030,
+        "INGREDIENT_EXP": 1073500
+      },
+      "22078": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 78,
+        "REQUIREMENT_EXP": 52360,
+        "INGREDIENT_EXP": 1115400
+      },
+      "22079": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 79,
+        "REQUIREMENT_EXP": 53710,
+        "INGREDIENT_EXP": 1158400
+      },
+      "22080": {
+        "Type": 2,
+        "GRADE": 2,
+        "Level": 80,
+        "REQUIREMENT_EXP": 55080,
+        "INGREDIENT_EXP": 1202400
+      },
+      "23001": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 1,
+        "REQUIREMENT_EXP": 0,
+        "INGREDIENT_EXP": 1900
+      },
+      "23002": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 2,
+        "REQUIREMENT_EXP": 200,
+        "INGREDIENT_EXP": 2100
+      },
+      "23003": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 3,
+        "REQUIREMENT_EXP": 240,
+        "INGREDIENT_EXP": 2300
+      },
+      "23004": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 4,
+        "REQUIREMENT_EXP": 300,
+        "INGREDIENT_EXP": 2500
+      },
+      "23005": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 5,
+        "REQUIREMENT_EXP": 370,
+        "INGREDIENT_EXP": 2800
+      },
+      "23006": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 6,
+        "REQUIREMENT_EXP": 460,
+        "INGREDIENT_EXP": 3200
+      },
+      "23007": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 7,
+        "REQUIREMENT_EXP": 570,
+        "INGREDIENT_EXP": 3600
+      },
+      "23008": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 8,
+        "REQUIREMENT_EXP": 700,
+        "INGREDIENT_EXP": 4200
+      },
+      "23009": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 9,
+        "REQUIREMENT_EXP": 840,
+        "INGREDIENT_EXP": 4900
+      },
+      "23010": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 10,
+        "REQUIREMENT_EXP": 1000,
+        "INGREDIENT_EXP": 5700
+      },
+      "23011": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 11,
+        "REQUIREMENT_EXP": 1180,
+        "INGREDIENT_EXP": 6600
+      },
+      "23012": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 12,
+        "REQUIREMENT_EXP": 1370,
+        "INGREDIENT_EXP": 7700
+      },
+      "23013": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 13,
+        "REQUIREMENT_EXP": 1580,
+        "INGREDIENT_EXP": 9000
+      },
+      "23014": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 14,
+        "REQUIREMENT_EXP": 1810,
+        "INGREDIENT_EXP": 10400
+      },
+      "23015": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 15,
+        "REQUIREMENT_EXP": 2060,
+        "INGREDIENT_EXP": 12100
+      },
+      "23016": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 16,
+        "REQUIREMENT_EXP": 2320,
+        "INGREDIENT_EXP": 13900
+      },
+      "23017": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 17,
+        "REQUIREMENT_EXP": 2600,
+        "INGREDIENT_EXP": 16000
+      },
+      "23018": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 18,
+        "REQUIREMENT_EXP": 2900,
+        "INGREDIENT_EXP": 18300
+      },
+      "23019": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 19,
+        "REQUIREMENT_EXP": 3220,
+        "INGREDIENT_EXP": 20900
+      },
+      "23020": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 20,
+        "REQUIREMENT_EXP": 3550,
+        "INGREDIENT_EXP": 23700
+      },
+      "23021": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 21,
+        "REQUIREMENT_EXP": 3900,
+        "INGREDIENT_EXP": 26800
+      },
+      "23022": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 22,
+        "REQUIREMENT_EXP": 4270,
+        "INGREDIENT_EXP": 30300
+      },
+      "23023": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 23,
+        "REQUIREMENT_EXP": 4650,
+        "INGREDIENT_EXP": 34000
+      },
+      "23024": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 24,
+        "REQUIREMENT_EXP": 5050,
+        "INGREDIENT_EXP": 38000
+      },
+      "23025": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 25,
+        "REQUIREMENT_EXP": 5470,
+        "INGREDIENT_EXP": 42400
+      },
+      "23026": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 26,
+        "REQUIREMENT_EXP": 5910,
+        "INGREDIENT_EXP": 47100
+      },
+      "23027": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 27,
+        "REQUIREMENT_EXP": 6360,
+        "INGREDIENT_EXP": 52200
+      },
+      "23028": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 28,
+        "REQUIREMENT_EXP": 6830,
+        "INGREDIENT_EXP": 57700
+      },
+      "23029": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 29,
+        "REQUIREMENT_EXP": 7320,
+        "INGREDIENT_EXP": 63500
+      },
+      "23030": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 30,
+        "REQUIREMENT_EXP": 7830,
+        "INGREDIENT_EXP": 69800
+      },
+      "23031": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 31,
+        "REQUIREMENT_EXP": 8350,
+        "INGREDIENT_EXP": 76500
+      },
+      "23032": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 32,
+        "REQUIREMENT_EXP": 8890,
+        "INGREDIENT_EXP": 83600
+      },
+      "23033": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 33,
+        "REQUIREMENT_EXP": 9450,
+        "INGREDIENT_EXP": 91200
+      },
+      "23034": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 34,
+        "REQUIREMENT_EXP": 10020,
+        "INGREDIENT_EXP": 99200
+      },
+      "23035": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 35,
+        "REQUIREMENT_EXP": 10610,
+        "INGREDIENT_EXP": 107700
+      },
+      "23036": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 36,
+        "REQUIREMENT_EXP": 11220,
+        "INGREDIENT_EXP": 116600
+      },
+      "23037": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 37,
+        "REQUIREMENT_EXP": 11850,
+        "INGREDIENT_EXP": 126100
+      },
+      "23038": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 38,
+        "REQUIREMENT_EXP": 12490,
+        "INGREDIENT_EXP": 136100
+      },
+      "23039": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 39,
+        "REQUIREMENT_EXP": 13150,
+        "INGREDIENT_EXP": 146600
+      },
+      "23040": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 40,
+        "REQUIREMENT_EXP": 13830,
+        "INGREDIENT_EXP": 157700
+      },
+      "23041": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 41,
+        "REQUIREMENT_EXP": 14520,
+        "INGREDIENT_EXP": 169300
+      },
+      "23042": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 42,
+        "REQUIREMENT_EXP": 15230,
+        "INGREDIENT_EXP": 181500
+      },
+      "23043": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 43,
+        "REQUIREMENT_EXP": 15960,
+        "INGREDIENT_EXP": 194300
+      },
+      "23044": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 44,
+        "REQUIREMENT_EXP": 16710,
+        "INGREDIENT_EXP": 207600
+      },
+      "23045": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 45,
+        "REQUIREMENT_EXP": 17470,
+        "INGREDIENT_EXP": 221600
+      },
+      "23046": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 46,
+        "REQUIREMENT_EXP": 18250,
+        "INGREDIENT_EXP": 236200
+      },
+      "23047": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 47,
+        "REQUIREMENT_EXP": 19050,
+        "INGREDIENT_EXP": 251400
+      },
+      "23048": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 48,
+        "REQUIREMENT_EXP": 19870,
+        "INGREDIENT_EXP": 267300
+      },
+      "23049": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 49,
+        "REQUIREMENT_EXP": 20700,
+        "INGREDIENT_EXP": 283900
+      },
+      "23050": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 50,
+        "REQUIREMENT_EXP": 21550,
+        "INGREDIENT_EXP": 301100
+      },
+      "23051": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 51,
+        "REQUIREMENT_EXP": 22420,
+        "INGREDIENT_EXP": 319100
+      },
+      "23052": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 52,
+        "REQUIREMENT_EXP": 23300,
+        "INGREDIENT_EXP": 337700
+      },
+      "23053": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 53,
+        "REQUIREMENT_EXP": 24200,
+        "INGREDIENT_EXP": 357100
+      },
+      "23054": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 54,
+        "REQUIREMENT_EXP": 25120,
+        "INGREDIENT_EXP": 377200
+      },
+      "23055": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 55,
+        "REQUIREMENT_EXP": 26060,
+        "INGREDIENT_EXP": 398000
+      },
+      "23056": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 56,
+        "REQUIREMENT_EXP": 27010,
+        "INGREDIENT_EXP": 419600
+      },
+      "23057": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 57,
+        "REQUIREMENT_EXP": 27980,
+        "INGREDIENT_EXP": 442000
+      },
+      "23058": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 58,
+        "REQUIREMENT_EXP": 28970,
+        "INGREDIENT_EXP": 465200
+      },
+      "23059": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 59,
+        "REQUIREMENT_EXP": 29980,
+        "INGREDIENT_EXP": 489200
+      },
+      "23060": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 60,
+        "REQUIREMENT_EXP": 31000,
+        "INGREDIENT_EXP": 514000
+      },
+      "23061": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 61,
+        "REQUIREMENT_EXP": 32040,
+        "INGREDIENT_EXP": 539600
+      },
+      "23062": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 62,
+        "REQUIREMENT_EXP": 33100,
+        "INGREDIENT_EXP": 566100
+      },
+      "23063": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 63,
+        "REQUIREMENT_EXP": 34170,
+        "INGREDIENT_EXP": 593400
+      },
+      "23064": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 64,
+        "REQUIREMENT_EXP": 35260,
+        "INGREDIENT_EXP": 621600
+      },
+      "23065": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 65,
+        "REQUIREMENT_EXP": 36370,
+        "INGREDIENT_EXP": 650700
+      },
+      "23066": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 66,
+        "REQUIREMENT_EXP": 37500,
+        "INGREDIENT_EXP": 680700
+      },
+      "23067": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 67,
+        "REQUIREMENT_EXP": 38640,
+        "INGREDIENT_EXP": 711600
+      },
+      "23068": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 68,
+        "REQUIREMENT_EXP": 39800,
+        "INGREDIENT_EXP": 743500
+      },
+      "23069": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 69,
+        "REQUIREMENT_EXP": 40980,
+        "INGREDIENT_EXP": 776300
+      },
+      "23070": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 70,
+        "REQUIREMENT_EXP": 42180,
+        "INGREDIENT_EXP": 810000
+      },
+      "23071": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 71,
+        "REQUIREMENT_EXP": 43390,
+        "INGREDIENT_EXP": 844700
+      },
+      "23072": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 72,
+        "REQUIREMENT_EXP": 44620,
+        "INGREDIENT_EXP": 880400
+      },
+      "23073": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 73,
+        "REQUIREMENT_EXP": 45870,
+        "INGREDIENT_EXP": 917100
+      },
+      "23074": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 74,
+        "REQUIREMENT_EXP": 47130,
+        "INGREDIENT_EXP": 954800
+      },
+      "23075": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 75,
+        "REQUIREMENT_EXP": 48410,
+        "INGREDIENT_EXP": 993500
+      },
+      "23076": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 76,
+        "REQUIREMENT_EXP": 49710,
+        "INGREDIENT_EXP": 1033300
+      },
+      "23077": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 77,
+        "REQUIREMENT_EXP": 51030,
+        "INGREDIENT_EXP": 1074100
+      },
+      "23078": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 78,
+        "REQUIREMENT_EXP": 52360,
+        "INGREDIENT_EXP": 1116000
+      },
+      "23079": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 79,
+        "REQUIREMENT_EXP": 53710,
+        "INGREDIENT_EXP": 1159000
+      },
+      "23080": {
+        "Type": 2,
+        "GRADE": 3,
+        "Level": 80,
+        "REQUIREMENT_EXP": 55080,
+        "INGREDIENT_EXP": 1203000
+      },
+      "24001": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 1,
+        "REQUIREMENT_EXP": 0,
+        "INGREDIENT_EXP": 2500
+      },
+      "24002": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 2,
+        "REQUIREMENT_EXP": 200,
+        "INGREDIENT_EXP": 2700
+      },
+      "24003": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 3,
+        "REQUIREMENT_EXP": 240,
+        "INGREDIENT_EXP": 2900
+      },
+      "24004": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 4,
+        "REQUIREMENT_EXP": 300,
+        "INGREDIENT_EXP": 3100
+      },
+      "24005": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 5,
+        "REQUIREMENT_EXP": 370,
+        "INGREDIENT_EXP": 3400
+      },
+      "24006": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 6,
+        "REQUIREMENT_EXP": 460,
+        "INGREDIENT_EXP": 3800
+      },
+      "24007": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 7,
+        "REQUIREMENT_EXP": 570,
+        "INGREDIENT_EXP": 4200
+      },
+      "24008": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 8,
+        "REQUIREMENT_EXP": 700,
+        "INGREDIENT_EXP": 4800
+      },
+      "24009": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 9,
+        "REQUIREMENT_EXP": 840,
+        "INGREDIENT_EXP": 5500
+      },
+      "24010": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 10,
+        "REQUIREMENT_EXP": 1000,
+        "INGREDIENT_EXP": 6300
+      },
+      "24011": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 11,
+        "REQUIREMENT_EXP": 1180,
+        "INGREDIENT_EXP": 7200
+      },
+      "24012": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 12,
+        "REQUIREMENT_EXP": 1370,
+        "INGREDIENT_EXP": 8300
+      },
+      "24013": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 13,
+        "REQUIREMENT_EXP": 1580,
+        "INGREDIENT_EXP": 9600
+      },
+      "24014": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 14,
+        "REQUIREMENT_EXP": 1810,
+        "INGREDIENT_EXP": 11000
+      },
+      "24015": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 15,
+        "REQUIREMENT_EXP": 2060,
+        "INGREDIENT_EXP": 12700
+      },
+      "24016": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 16,
+        "REQUIREMENT_EXP": 2320,
+        "INGREDIENT_EXP": 14500
+      },
+      "24017": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 17,
+        "REQUIREMENT_EXP": 2600,
+        "INGREDIENT_EXP": 16600
+      },
+      "24018": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 18,
+        "REQUIREMENT_EXP": 2900,
+        "INGREDIENT_EXP": 18900
+      },
+      "24019": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 19,
+        "REQUIREMENT_EXP": 3220,
+        "INGREDIENT_EXP": 21500
+      },
+      "24020": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 20,
+        "REQUIREMENT_EXP": 3550,
+        "INGREDIENT_EXP": 24300
+      },
+      "24021": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 21,
+        "REQUIREMENT_EXP": 3900,
+        "INGREDIENT_EXP": 27400
+      },
+      "24022": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 22,
+        "REQUIREMENT_EXP": 4270,
+        "INGREDIENT_EXP": 30900
+      },
+      "24023": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 23,
+        "REQUIREMENT_EXP": 4650,
+        "INGREDIENT_EXP": 34600
+      },
+      "24024": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 24,
+        "REQUIREMENT_EXP": 5050,
+        "INGREDIENT_EXP": 38600
+      },
+      "24025": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 25,
+        "REQUIREMENT_EXP": 5470,
+        "INGREDIENT_EXP": 43000
+      },
+      "24026": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 26,
+        "REQUIREMENT_EXP": 5910,
+        "INGREDIENT_EXP": 47700
+      },
+      "24027": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 27,
+        "REQUIREMENT_EXP": 6360,
+        "INGREDIENT_EXP": 52800
+      },
+      "24028": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 28,
+        "REQUIREMENT_EXP": 6830,
+        "INGREDIENT_EXP": 58300
+      },
+      "24029": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 29,
+        "REQUIREMENT_EXP": 7320,
+        "INGREDIENT_EXP": 64100
+      },
+      "24030": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 30,
+        "REQUIREMENT_EXP": 7830,
+        "INGREDIENT_EXP": 70400
+      },
+      "24031": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 31,
+        "REQUIREMENT_EXP": 8350,
+        "INGREDIENT_EXP": 77100
+      },
+      "24032": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 32,
+        "REQUIREMENT_EXP": 8890,
+        "INGREDIENT_EXP": 84200
+      },
+      "24033": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 33,
+        "REQUIREMENT_EXP": 9450,
+        "INGREDIENT_EXP": 91800
+      },
+      "24034": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 34,
+        "REQUIREMENT_EXP": 10020,
+        "INGREDIENT_EXP": 99800
+      },
+      "24035": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 35,
+        "REQUIREMENT_EXP": 10610,
+        "INGREDIENT_EXP": 108300
+      },
+      "24036": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 36,
+        "REQUIREMENT_EXP": 11220,
+        "INGREDIENT_EXP": 117200
+      },
+      "24037": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 37,
+        "REQUIREMENT_EXP": 11850,
+        "INGREDIENT_EXP": 126700
+      },
+      "24038": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 38,
+        "REQUIREMENT_EXP": 12490,
+        "INGREDIENT_EXP": 136700
+      },
+      "24039": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 39,
+        "REQUIREMENT_EXP": 13150,
+        "INGREDIENT_EXP": 147200
+      },
+      "24040": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 40,
+        "REQUIREMENT_EXP": 13830,
+        "INGREDIENT_EXP": 158300
+      },
+      "24041": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 41,
+        "REQUIREMENT_EXP": 14520,
+        "INGREDIENT_EXP": 169900
+      },
+      "24042": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 42,
+        "REQUIREMENT_EXP": 15230,
+        "INGREDIENT_EXP": 182100
+      },
+      "24043": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 43,
+        "REQUIREMENT_EXP": 15960,
+        "INGREDIENT_EXP": 194900
+      },
+      "24044": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 44,
+        "REQUIREMENT_EXP": 16710,
+        "INGREDIENT_EXP": 208200
+      },
+      "24045": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 45,
+        "REQUIREMENT_EXP": 17470,
+        "INGREDIENT_EXP": 222200
+      },
+      "24046": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 46,
+        "REQUIREMENT_EXP": 18250,
+        "INGREDIENT_EXP": 236800
+      },
+      "24047": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 47,
+        "REQUIREMENT_EXP": 19050,
+        "INGREDIENT_EXP": 252000
+      },
+      "24048": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 48,
+        "REQUIREMENT_EXP": 19870,
+        "INGREDIENT_EXP": 267900
+      },
+      "24049": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 49,
+        "REQUIREMENT_EXP": 20700,
+        "INGREDIENT_EXP": 284500
+      },
+      "24050": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 50,
+        "REQUIREMENT_EXP": 21550,
+        "INGREDIENT_EXP": 301700
+      },
+      "24051": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 51,
+        "REQUIREMENT_EXP": 22420,
+        "INGREDIENT_EXP": 319700
+      },
+      "24052": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 52,
+        "REQUIREMENT_EXP": 23300,
+        "INGREDIENT_EXP": 338300
+      },
+      "24053": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 53,
+        "REQUIREMENT_EXP": 24200,
+        "INGREDIENT_EXP": 357700
+      },
+      "24054": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 54,
+        "REQUIREMENT_EXP": 25120,
+        "INGREDIENT_EXP": 377800
+      },
+      "24055": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 55,
+        "REQUIREMENT_EXP": 26060,
+        "INGREDIENT_EXP": 398600
+      },
+      "24056": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 56,
+        "REQUIREMENT_EXP": 27010,
+        "INGREDIENT_EXP": 420200
+      },
+      "24057": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 57,
+        "REQUIREMENT_EXP": 27980,
+        "INGREDIENT_EXP": 442600
+      },
+      "24058": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 58,
+        "REQUIREMENT_EXP": 28970,
+        "INGREDIENT_EXP": 465800
+      },
+      "24059": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 59,
+        "REQUIREMENT_EXP": 29980,
+        "INGREDIENT_EXP": 489800
+      },
+      "24060": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 60,
+        "REQUIREMENT_EXP": 31000,
+        "INGREDIENT_EXP": 514600
+      },
+      "24061": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 61,
+        "REQUIREMENT_EXP": 32040,
+        "INGREDIENT_EXP": 540200
+      },
+      "24062": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 62,
+        "REQUIREMENT_EXP": 33100,
+        "INGREDIENT_EXP": 566700
+      },
+      "24063": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 63,
+        "REQUIREMENT_EXP": 34170,
+        "INGREDIENT_EXP": 594000
+      },
+      "24064": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 64,
+        "REQUIREMENT_EXP": 35260,
+        "INGREDIENT_EXP": 622200
+      },
+      "24065": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 65,
+        "REQUIREMENT_EXP": 36370,
+        "INGREDIENT_EXP": 651300
+      },
+      "24066": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 66,
+        "REQUIREMENT_EXP": 37500,
+        "INGREDIENT_EXP": 681300
+      },
+      "24067": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 67,
+        "REQUIREMENT_EXP": 38640,
+        "INGREDIENT_EXP": 712200
+      },
+      "24068": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 68,
+        "REQUIREMENT_EXP": 39800,
+        "INGREDIENT_EXP": 744100
+      },
+      "24069": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 69,
+        "REQUIREMENT_EXP": 40980,
+        "INGREDIENT_EXP": 776900
+      },
+      "24070": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 70,
+        "REQUIREMENT_EXP": 42180,
+        "INGREDIENT_EXP": 810600
+      },
+      "24071": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 71,
+        "REQUIREMENT_EXP": 43390,
+        "INGREDIENT_EXP": 845300
+      },
+      "24072": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 72,
+        "REQUIREMENT_EXP": 44620,
+        "INGREDIENT_EXP": 881000
+      },
+      "24073": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 73,
+        "REQUIREMENT_EXP": 45870,
+        "INGREDIENT_EXP": 917700
+      },
+      "24074": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 74,
+        "REQUIREMENT_EXP": 47130,
+        "INGREDIENT_EXP": 955400
+      },
+      "24075": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 75,
+        "REQUIREMENT_EXP": 48410,
+        "INGREDIENT_EXP": 994100
+      },
+      "24076": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 76,
+        "REQUIREMENT_EXP": 49710,
+        "INGREDIENT_EXP": 1033900
+      },
+      "24077": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 77,
+        "REQUIREMENT_EXP": 51030,
+        "INGREDIENT_EXP": 1074700
+      },
+      "24078": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 78,
+        "REQUIREMENT_EXP": 52360,
+        "INGREDIENT_EXP": 1116600
+      },
+      "24079": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 79,
+        "REQUIREMENT_EXP": 53710,
+        "INGREDIENT_EXP": 1159600
+      },
+      "24080": {
+        "Type": 2,
+        "GRADE": 4,
+        "Level": 80,
+        "REQUIREMENT_EXP": 55080,
+        "INGREDIENT_EXP": 1203600
+      },
+      "25001": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 1,
+        "REQUIREMENT_EXP": 0,
+        "INGREDIENT_EXP": 3100
+      },
+      "25002": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 2,
+        "REQUIREMENT_EXP": 200,
+        "INGREDIENT_EXP": 3300
+      },
+      "25003": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 3,
+        "REQUIREMENT_EXP": 240,
+        "INGREDIENT_EXP": 3500
+      },
+      "25004": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 4,
+        "REQUIREMENT_EXP": 300,
+        "INGREDIENT_EXP": 3700
+      },
+      "25005": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 5,
+        "REQUIREMENT_EXP": 370,
+        "INGREDIENT_EXP": 4000
+      },
+      "25006": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 6,
+        "REQUIREMENT_EXP": 460,
+        "INGREDIENT_EXP": 4400
+      },
+      "25007": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 7,
+        "REQUIREMENT_EXP": 570,
+        "INGREDIENT_EXP": 4800
+      },
+      "25008": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 8,
+        "REQUIREMENT_EXP": 700,
+        "INGREDIENT_EXP": 5400
+      },
+      "25009": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 9,
+        "REQUIREMENT_EXP": 840,
+        "INGREDIENT_EXP": 6100
+      },
+      "25010": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 10,
+        "REQUIREMENT_EXP": 1000,
+        "INGREDIENT_EXP": 6900
+      },
+      "25011": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 11,
+        "REQUIREMENT_EXP": 1180,
+        "INGREDIENT_EXP": 7800
+      },
+      "25012": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 12,
+        "REQUIREMENT_EXP": 1370,
+        "INGREDIENT_EXP": 8900
+      },
+      "25013": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 13,
+        "REQUIREMENT_EXP": 1580,
+        "INGREDIENT_EXP": 10200
+      },
+      "25014": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 14,
+        "REQUIREMENT_EXP": 1810,
+        "INGREDIENT_EXP": 11600
+      },
+      "25015": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 15,
+        "REQUIREMENT_EXP": 2060,
+        "INGREDIENT_EXP": 13300
+      },
+      "25016": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 16,
+        "REQUIREMENT_EXP": 2320,
+        "INGREDIENT_EXP": 15100
+      },
+      "25017": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 17,
+        "REQUIREMENT_EXP": 2600,
+        "INGREDIENT_EXP": 17200
+      },
+      "25018": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 18,
+        "REQUIREMENT_EXP": 2900,
+        "INGREDIENT_EXP": 19500
+      },
+      "25019": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 19,
+        "REQUIREMENT_EXP": 3220,
+        "INGREDIENT_EXP": 22100
+      },
+      "25020": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 20,
+        "REQUIREMENT_EXP": 3550,
+        "INGREDIENT_EXP": 24900
+      },
+      "25021": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 21,
+        "REQUIREMENT_EXP": 3900,
+        "INGREDIENT_EXP": 28000
+      },
+      "25022": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 22,
+        "REQUIREMENT_EXP": 4270,
+        "INGREDIENT_EXP": 31500
+      },
+      "25023": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 23,
+        "REQUIREMENT_EXP": 4650,
+        "INGREDIENT_EXP": 35200
+      },
+      "25024": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 24,
+        "REQUIREMENT_EXP": 5050,
+        "INGREDIENT_EXP": 39200
+      },
+      "25025": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 25,
+        "REQUIREMENT_EXP": 5470,
+        "INGREDIENT_EXP": 43600
+      },
+      "25026": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 26,
+        "REQUIREMENT_EXP": 5910,
+        "INGREDIENT_EXP": 48300
+      },
+      "25027": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 27,
+        "REQUIREMENT_EXP": 6360,
+        "INGREDIENT_EXP": 53400
+      },
+      "25028": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 28,
+        "REQUIREMENT_EXP": 6830,
+        "INGREDIENT_EXP": 58900
+      },
+      "25029": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 29,
+        "REQUIREMENT_EXP": 7320,
+        "INGREDIENT_EXP": 64700
+      },
+      "25030": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 30,
+        "REQUIREMENT_EXP": 7830,
+        "INGREDIENT_EXP": 71000
+      },
+      "25031": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 31,
+        "REQUIREMENT_EXP": 8350,
+        "INGREDIENT_EXP": 77700
+      },
+      "25032": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 32,
+        "REQUIREMENT_EXP": 8890,
+        "INGREDIENT_EXP": 84800
+      },
+      "25033": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 33,
+        "REQUIREMENT_EXP": 9450,
+        "INGREDIENT_EXP": 92400
+      },
+      "25034": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 34,
+        "REQUIREMENT_EXP": 10020,
+        "INGREDIENT_EXP": 100400
+      },
+      "25035": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 35,
+        "REQUIREMENT_EXP": 10610,
+        "INGREDIENT_EXP": 108900
+      },
+      "25036": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 36,
+        "REQUIREMENT_EXP": 11220,
+        "INGREDIENT_EXP": 117800
+      },
+      "25037": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 37,
+        "REQUIREMENT_EXP": 11850,
+        "INGREDIENT_EXP": 127300
+      },
+      "25038": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 38,
+        "REQUIREMENT_EXP": 12490,
+        "INGREDIENT_EXP": 137300
+      },
+      "25039": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 39,
+        "REQUIREMENT_EXP": 13150,
+        "INGREDIENT_EXP": 147800
+      },
+      "25040": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 40,
+        "REQUIREMENT_EXP": 13830,
+        "INGREDIENT_EXP": 158900
+      },
+      "25041": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 41,
+        "REQUIREMENT_EXP": 14520,
+        "INGREDIENT_EXP": 170500
+      },
+      "25042": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 42,
+        "REQUIREMENT_EXP": 15230,
+        "INGREDIENT_EXP": 182700
+      },
+      "25043": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 43,
+        "REQUIREMENT_EXP": 15960,
+        "INGREDIENT_EXP": 195500
+      },
+      "25044": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 44,
+        "REQUIREMENT_EXP": 16710,
+        "INGREDIENT_EXP": 208800
+      },
+      "25045": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 45,
+        "REQUIREMENT_EXP": 17470,
+        "INGREDIENT_EXP": 222800
+      },
+      "25046": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 46,
+        "REQUIREMENT_EXP": 18250,
+        "INGREDIENT_EXP": 237400
+      },
+      "25047": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 47,
+        "REQUIREMENT_EXP": 19050,
+        "INGREDIENT_EXP": 252600
+      },
+      "25048": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 48,
+        "REQUIREMENT_EXP": 19870,
+        "INGREDIENT_EXP": 268500
+      },
+      "25049": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 49,
+        "REQUIREMENT_EXP": 20700,
+        "INGREDIENT_EXP": 285100
+      },
+      "25050": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 50,
+        "REQUIREMENT_EXP": 21550,
+        "INGREDIENT_EXP": 302300
+      },
+      "25051": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 51,
+        "REQUIREMENT_EXP": 22420,
+        "INGREDIENT_EXP": 320300
+      },
+      "25052": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 52,
+        "REQUIREMENT_EXP": 23300,
+        "INGREDIENT_EXP": 338900
+      },
+      "25053": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 53,
+        "REQUIREMENT_EXP": 24200,
+        "INGREDIENT_EXP": 358300
+      },
+      "25054": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 54,
+        "REQUIREMENT_EXP": 25120,
+        "INGREDIENT_EXP": 378400
+      },
+      "25055": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 55,
+        "REQUIREMENT_EXP": 26060,
+        "INGREDIENT_EXP": 399200
+      },
+      "25056": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 56,
+        "REQUIREMENT_EXP": 27010,
+        "INGREDIENT_EXP": 420800
+      },
+      "25057": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 57,
+        "REQUIREMENT_EXP": 27980,
+        "INGREDIENT_EXP": 443200
+      },
+      "25058": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 58,
+        "REQUIREMENT_EXP": 28970,
+        "INGREDIENT_EXP": 466400
+      },
+      "25059": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 59,
+        "REQUIREMENT_EXP": 29980,
+        "INGREDIENT_EXP": 490400
+      },
+      "25060": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 60,
+        "REQUIREMENT_EXP": 31000,
+        "INGREDIENT_EXP": 515200
+      },
+      "25061": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 61,
+        "REQUIREMENT_EXP": 32040,
+        "INGREDIENT_EXP": 540800
+      },
+      "25062": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 62,
+        "REQUIREMENT_EXP": 33100,
+        "INGREDIENT_EXP": 567300
+      },
+      "25063": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 63,
+        "REQUIREMENT_EXP": 34170,
+        "INGREDIENT_EXP": 594600
+      },
+      "25064": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 64,
+        "REQUIREMENT_EXP": 35260,
+        "INGREDIENT_EXP": 622800
+      },
+      "25065": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 65,
+        "REQUIREMENT_EXP": 36370,
+        "INGREDIENT_EXP": 651900
+      },
+      "25066": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 66,
+        "REQUIREMENT_EXP": 37500,
+        "INGREDIENT_EXP": 681900
+      },
+      "25067": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 67,
+        "REQUIREMENT_EXP": 38640,
+        "INGREDIENT_EXP": 712800
+      },
+      "25068": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 68,
+        "REQUIREMENT_EXP": 39800,
+        "INGREDIENT_EXP": 744700
+      },
+      "25069": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 69,
+        "REQUIREMENT_EXP": 40980,
+        "INGREDIENT_EXP": 777500
+      },
+      "25070": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 70,
+        "REQUIREMENT_EXP": 42180,
+        "INGREDIENT_EXP": 811200
+      },
+      "25071": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 71,
+        "REQUIREMENT_EXP": 43390,
+        "INGREDIENT_EXP": 845900
+      },
+      "25072": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 72,
+        "REQUIREMENT_EXP": 44620,
+        "INGREDIENT_EXP": 881600
+      },
+      "25073": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 73,
+        "REQUIREMENT_EXP": 45870,
+        "INGREDIENT_EXP": 918300
+      },
+      "25074": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 74,
+        "REQUIREMENT_EXP": 47130,
+        "INGREDIENT_EXP": 956000
+      },
+      "25075": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 75,
+        "REQUIREMENT_EXP": 48410,
+        "INGREDIENT_EXP": 994700
+      },
+      "25076": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 76,
+        "REQUIREMENT_EXP": 49710,
+        "INGREDIENT_EXP": 1034500
+      },
+      "25077": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 77,
+        "REQUIREMENT_EXP": 51030,
+        "INGREDIENT_EXP": 1075300
+      },
+      "25078": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 78,
+        "REQUIREMENT_EXP": 52360,
+        "INGREDIENT_EXP": 1117200
+      },
+      "25079": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 79,
+        "REQUIREMENT_EXP": 53710,
+        "INGREDIENT_EXP": 1160200
+      },
+      "25080": {
+        "Type": 2,
+        "GRADE": 5,
+        "Level": 80,
+        "REQUIREMENT_EXP": 55080,
+        "INGREDIENT_EXP": 1204200
+      }
+    }
+  }
+]

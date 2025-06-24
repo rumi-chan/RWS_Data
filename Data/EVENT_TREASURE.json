@@ -1,0 +1,50 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "EVENT_TREASURE",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBEVENT_TREASURE'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "10001": {
+        "GROUP_ID": 1001,
+        "Index": 1,
+        "COMPLETE_COUNT": 1,
+        "COMPLETE_REWARD": 810000001,
+        "Desc": "TREASURE_DESC_01"
+      },
+      "10002": {
+        "GROUP_ID": 1001,
+        "Index": 2,
+        "COMPLETE_COUNT": 2,
+        "COMPLETE_REWARD": 810000002,
+        "Desc": "TREASURE_DESC_02"
+      },
+      "10003": {
+        "GROUP_ID": 1001,
+        "Index": 3,
+        "COMPLETE_COUNT": 3,
+        "COMPLETE_REWARD": 810000003,
+        "Desc": "TREASURE_DESC_03"
+      },
+      "10004": {
+        "GROUP_ID": 1001,
+        "Index": 4,
+        "COMPLETE_COUNT": 5,
+        "COMPLETE_REWARD": 810000004,
+        "Desc": "TREASURE_DESC_04"
+      },
+      "10005": {
+        "GROUP_ID": 1001,
+        "Index": 5,
+        "COMPLETE_COUNT": 7,
+        "COMPLETE_REWARD": 810000005,
+        "Desc": "TREASURE_DESC_05"
+      }
+    }
+  }
+]

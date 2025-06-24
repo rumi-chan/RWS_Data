@@ -1,0 +1,120 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ITEM_MAKING",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBITEM_MAKING'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "10101": {
+        "MAKE_TYPE": 1,
+        "GROUP_ID": 101,
+        "CORE_RANK": 1,
+        "MAKE_GROUP_ID": 10101,
+        "Slot": 3
+      },
+      "10201": {
+        "MAKE_TYPE": 1,
+        "GROUP_ID": 102,
+        "CORE_RANK": 1,
+        "MAKE_GROUP_ID": 10101,
+        "Slot": 3
+      },
+      "10301": {
+        "MAKE_TYPE": 1,
+        "GROUP_ID": 103,
+        "CORE_RANK": 1,
+        "MAKE_GROUP_ID": 10101,
+        "Slot": 3
+      },
+      "20101": {
+        "MAKE_TYPE": 2,
+        "GROUP_ID": 201,
+        "CORE_RANK": 1,
+        "MAKE_GROUP_ID": 20101,
+        "Slot": 3
+      },
+      "20201": {
+        "MAKE_TYPE": 2,
+        "GROUP_ID": 202,
+        "CORE_RANK": 1,
+        "MAKE_GROUP_ID": 20101,
+        "Slot": 3
+      },
+      "30101": {
+        "MAKE_TYPE": 3,
+        "GROUP_ID": 301,
+        "CORE_RANK": 1,
+        "MAKE_GROUP_ID": 30101,
+        "Slot": 1
+      },
+      "30102": {
+        "MAKE_TYPE": 3,
+        "GROUP_ID": 301,
+        "CORE_RANK": 2,
+        "MAKE_GROUP_ID": 30101,
+        "Slot": 1
+      },
+      "30103": {
+        "MAKE_TYPE": 3,
+        "GROUP_ID": 301,
+        "CORE_RANK": 3,
+        "MAKE_GROUP_ID": 30101,
+        "Slot": 1
+      },
+      "30104": {
+        "MAKE_TYPE": 3,
+        "GROUP_ID": 301,
+        "CORE_RANK": 4,
+        "MAKE_GROUP_ID": 30101,
+        "Slot": 1
+      },
+      "30105": {
+        "MAKE_TYPE": 3,
+        "GROUP_ID": 301,
+        "CORE_RANK": 5,
+        "MAKE_GROUP_ID": 30101,
+        "Slot": 2
+      },
+      "30106": {
+        "MAKE_TYPE": 3,
+        "GROUP_ID": 301,
+        "CORE_RANK": 6,
+        "MAKE_GROUP_ID": 30101,
+        "Slot": 2
+      },
+      "30107": {
+        "MAKE_TYPE": 3,
+        "GROUP_ID": 301,
+        "CORE_RANK": 7,
+        "MAKE_GROUP_ID": 30101,
+        "Slot": 3
+      },
+      "30108": {
+        "MAKE_TYPE": 3,
+        "GROUP_ID": 301,
+        "CORE_RANK": 8,
+        "MAKE_GROUP_ID": 30101,
+        "Slot": 3
+      },
+      "30109": {
+        "MAKE_TYPE": 3,
+        "GROUP_ID": 301,
+        "CORE_RANK": 9,
+        "MAKE_GROUP_ID": 30101,
+        "Slot": 3
+      },
+      "30110": {
+        "MAKE_TYPE": 3,
+        "GROUP_ID": 301,
+        "CORE_RANK": 10,
+        "MAKE_GROUP_ID": 30101,
+        "Slot": 3
+      }
+    }
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "BATTLEPASS",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBBATTLEPASS'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "10": {
+        "ID": 0,
+        "GROUP_ID": 1104,
+        "Name": "BATTLEPASS_NAME_2",
+        "Desc": "BATTLEPASS_DESC_4",
+        "BANNER": "BattlePass_Banner_2",
+        "MISSION_GROUP_ID": 10203,
+        "PREMIUM1_NAME": "BATTLEPASS_PREMIUM_NAME_01",
+        "PREMIUM1_DESC": "BATTLEPASS_PREMIUM_DESC_01",
+        "PREMIUM1_GOODS_ID": 1022007,
+        "PREMIUM2_NAME": "BATTLEPASS_PREMIUM_NANE_02",
+        "PREMIUM2_DESC": "BATTLEPASS_PREMIUM_DESC_02",
+        "PREMIUM2_GOODS_ID": 1022008,
+        "PREMIUM3_GOODS_ID": 1022009,
+        "START_DATE": "2025-04-01 06:00:00",
+        "END_DATE": "2025-05-12 05:59:59"
+      },
+      "11": {
+        "ID": 0,
+        "GROUP_ID": 1105,
+        "Name": "BATTLEPASS_NAME_2",
+        "Desc": "BATTLEPASS_DESC_5",
+        "BANNER": "BattlePass_Banner_2",
+        "MISSION_GROUP_ID": 10204,
+        "PREMIUM1_NAME": "BATTLEPASS_PREMIUM_NAME_01",
+        "PREMIUM1_DESC": "BATTLEPASS_PREMIUM_DESC_01",
+        "PREMIUM1_GOODS_ID": 1022010,
+        "PREMIUM2_NAME": "BATTLEPASS_PREMIUM_NANE_02",
+        "PREMIUM2_DESC": "BATTLEPASS_PREMIUM_DESC_02",
+        "PREMIUM2_GOODS_ID": 1022011,
+        "PREMIUM3_GOODS_ID": 1022012,
+        "START_DATE": "2025-05-12 06:00:00",
+        "END_DATE": "2025-07-09 11:59:59"
+      },
+      "7": {
+        "ID": 0,
+        "GROUP_ID": 1101,
+        "Name": "BATTLEPASS_NAME_2",
+        "Desc": "BATTLEPASS_DESC_2",
+        "BANNER": "BattlePass_Banner_1",
+        "MISSION_GROUP_ID": 10101,
+        "PREMIUM1_NAME": "BATTLEPASS_PREMIUM_NAME_01",
+        "PREMIUM1_DESC": "BATTLEPASS_PREMIUM_DESC_01",
+        "PREMIUM1_GOODS_ID": 1012001,
+        "PREMIUM2_NAME": "BATTLEPASS_PREMIUM_NANE_02",
+        "PREMIUM2_DESC": "BATTLEPASS_PREMIUM_DESC_02",
+        "PREMIUM2_GOODS_ID": 0,
+        "PREMIUM3_GOODS_ID": 0,
+        "START_DATE": "2024-12-01 06:00:00",
+        "END_DATE": "2025-01-14 05:59:59"
+      },
+      "8": {
+        "ID": 0,
+        "GROUP_ID": 1102,
+        "Name": "BATTLEPASS_NAME_2",
+        "Desc": "BATTLEPASS_DESC_2",
+        "BANNER": "BattlePass_Banner_2",
+        "MISSION_GROUP_ID": 10201,
+        "PREMIUM1_NAME": "BATTLEPASS_PREMIUM_NAME_01",
+        "PREMIUM1_DESC": "BATTLEPASS_PREMIUM_DESC_01",
+        "PREMIUM1_GOODS_ID": 1022001,
+        "PREMIUM2_NAME": "BATTLEPASS_PREMIUM_NANE_02",
+        "PREMIUM2_DESC": "BATTLEPASS_PREMIUM_DESC_02",
+        "PREMIUM2_GOODS_ID": 1022002,
+        "PREMIUM3_GOODS_ID": 1022003,
+        "START_DATE": "2025-01-14 06:00:00",
+        "END_DATE": "2025-02-20 05:59:59"
+      },
+      "9": {
+        "ID": 0,
+        "GROUP_ID": 1103,
+        "Name": "BATTLEPASS_NAME_2",
+        "Desc": "BATTLEPASS_DESC_3",
+        "BANNER": "BattlePass_Banner_2",
+        "MISSION_GROUP_ID": 10202,
+        "PREMIUM1_NAME": "BATTLEPASS_PREMIUM_NAME_01",
+        "PREMIUM1_DESC": "BATTLEPASS_PREMIUM_DESC_01",
+        "PREMIUM1_GOODS_ID": 1022004,
+        "PREMIUM2_NAME": "BATTLEPASS_PREMIUM_NANE_02",
+        "PREMIUM2_DESC": "BATTLEPASS_PREMIUM_DESC_02",
+        "PREMIUM2_GOODS_ID": 1022005,
+        "PREMIUM3_GOODS_ID": 1022006,
+        "START_DATE": "2025-02-20 06:00:00",
+        "END_DATE": "2025-04-01 05:59:59"
+      }
+    }
+  }
+]

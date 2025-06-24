@@ -1,0 +1,235 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "SHOP_POINT",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBSHOP_POINT'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1001": {
+        "GOODS_GROUP_ID": 9001,
+        "Name": "SHOP_POINT_NAME_:1001",
+        "SUB_NAME": "SHOP_POINT_NAME_:1001",
+        "Desc": "SHOP_POINT_DESC_1001",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "",
+        "SHOP_TYPE": "ENBGachaPointShopType::PointShop",
+        "CURRENCY_ID1": 117
+      },
+      "1002": {
+        "GOODS_GROUP_ID": 10001,
+        "Name": "SHOP_POINT_NAME_:1002",
+        "SUB_NAME": "SHOP_POINT_NAME_:1002",
+        "Desc": "SHOP_POINT_DESC_1002",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "",
+        "SHOP_TYPE": "ENBGachaPointShopType::PointShop",
+        "CURRENCY_ID1": 117
+      },
+      "2001": {
+        "GOODS_GROUP_ID": 15001,
+        "Name": "SHOP_POINT_NAME_:2001",
+        "SUB_NAME": "SHOP_POINT_NAME_:2001",
+        "Desc": "SHOP_POINT_DESC_2001",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_600001",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "2002": {
+        "GOODS_GROUP_ID": 16001,
+        "Name": "SHOP_POINT_NAME_:2002",
+        "SUB_NAME": "SHOP_POINT_NAME_:2002",
+        "Desc": "SHOP_POINT_DESC_2002",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_600002",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3001": {
+        "GOODS_GROUP_ID": 18001,
+        "Name": "SHOP_POINT_NAME_:3001",
+        "SUB_NAME": "SHOP_POINT_NAME_:3001",
+        "Desc": "SHOP_POINT_DESC_3001",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_300001",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3002": {
+        "GOODS_GROUP_ID": 19001,
+        "Name": "SHOP_POINT_NAME_:3002",
+        "SUB_NAME": "SHOP_POINT_NAME_:3002",
+        "Desc": "SHOP_POINT_DESC_3002",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_400001",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3003": {
+        "GOODS_GROUP_ID": 21001,
+        "Name": "SHOP_POINT_NAME_:3003",
+        "SUB_NAME": "SHOP_POINT_NAME_:3003",
+        "Desc": "SHOP_POINT_DESC_3003",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_700001",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3004": {
+        "GOODS_GROUP_ID": 21002,
+        "Name": "SHOP_POINT_NAME_:3004",
+        "SUB_NAME": "SHOP_POINT_NAME_:3004",
+        "Desc": "SHOP_POINT_DESC_3004",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_700002",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3005": {
+        "GOODS_GROUP_ID": 21003,
+        "Name": "SHOP_POINT_NAME_3005",
+        "SUB_NAME": "SHOP_POINT_NAME_3005",
+        "Desc": "SHOP_POINT_DESC_3005",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_1000001",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3006": {
+        "GOODS_GROUP_ID": 21004,
+        "Name": "SHOP_POINT_NAME_3006",
+        "SUB_NAME": "SHOP_POINT_NAME_3006",
+        "Desc": "SHOP_POINT_DESC_3006",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_1000002",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3007": {
+        "GOODS_GROUP_ID": 21005,
+        "Name": "SHOP_POINT_NAME_3007",
+        "SUB_NAME": "SHOP_POINT_NAME_3007",
+        "Desc": "SHOP_POINT_DESC_3007",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_1100001",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3008": {
+        "GOODS_GROUP_ID": 21006,
+        "Name": "SHOP_POINT_NAME_3008",
+        "SUB_NAME": "SHOP_POINT_NAME_3008",
+        "Desc": "SHOP_POINT_DESC_3008",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_1100002",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3009": {
+        "GOODS_GROUP_ID": 21007,
+        "Name": "SHOP_POINT_NAME_3009",
+        "SUB_NAME": "SHOP_POINT_NAME_3009",
+        "Desc": "SHOP_POINT_DESC_3009",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_1200001",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3010": {
+        "GOODS_GROUP_ID": 21008,
+        "Name": "SHOP_POINT_NAME_3010",
+        "SUB_NAME": "SHOP_POINT_NAME_3010",
+        "Desc": "SHOP_POINT_DESC_3010",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_1200002",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3011": {
+        "GOODS_GROUP_ID": 21009,
+        "Name": "SHOP_POINT_NAME_3011",
+        "SUB_NAME": "SHOP_POINT_NAME_3011",
+        "Desc": "SHOP_POINT_DESC_3011",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_1300001",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3012": {
+        "GOODS_GROUP_ID": 21010,
+        "Name": "SHOP_POINT_NAME_3012",
+        "SUB_NAME": "SHOP_POINT_NAME_3012",
+        "Desc": "SHOP_POINT_DESC_3012",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_1300002",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3013": {
+        "GOODS_GROUP_ID": 21011,
+        "Name": "SHOP_POINT_NAME_3013",
+        "SUB_NAME": "SHOP_POINT_NAME_3013",
+        "Desc": "SHOP_POINT_DESC_3013",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_1400001",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3014": {
+        "GOODS_GROUP_ID": 21012,
+        "Name": "SHOP_POINT_NAME_3014",
+        "SUB_NAME": "SHOP_POINT_NAME_3014",
+        "Desc": "SHOP_POINT_DESC_3014",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_1400002",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3015": {
+        "GOODS_GROUP_ID": 21013,
+        "Name": "SHOP_POINT_NAME_3015",
+        "SUB_NAME": "SHOP_POINT_NAME_3015",
+        "Desc": "SHOP_POINT_DESC_3015",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_1500001",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3016": {
+        "GOODS_GROUP_ID": 21014,
+        "Name": "SHOP_POINT_NAME_3016",
+        "SUB_NAME": "SHOP_POINT_NAME_3016",
+        "Desc": "SHOP_POINT_DESC_3016",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_1500002",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3017": {
+        "GOODS_GROUP_ID": 21015,
+        "Name": "SHOP_POINT_NAME_3017",
+        "SUB_NAME": "SHOP_POINT_NAME_3017",
+        "Desc": "SHOP_POINT_DESC_3017",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_1600001",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      },
+      "3018": {
+        "GOODS_GROUP_ID": 21016,
+        "Name": "SHOP_POINT_NAME_3018",
+        "SUB_NAME": "SHOP_POINT_NAME_3018",
+        "Desc": "SHOP_POINT_DESC_3018",
+        "Icon": "T_UI_Shop_AfterglowShard_Base_Sprite",
+        "Image": "Gacha_Image_1600002",
+        "SHOP_TYPE": "ENBGachaPointShopType::ENBGachaPointShopType_MAX",
+        "CURRENCY_ID1": 116
+      }
+    }
+  }
+]

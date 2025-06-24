@@ -1,0 +1,115 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "OPERATION_LIST",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBOPERATION_LIST'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "101": {
+        "CORE_RANK": 1,
+        "OPER_TIME": 72000000,
+        "ELEMENT_BONUS_1": 1,
+        "ELEMENT_BONUS_2": 2,
+        "LOCAL_TITLE": "OPERATION_TITLE_101",
+        "LOCAL_DESC": "OPERATION_DESC_101",
+        "AXIS_X": 406,
+        "AXIS_Y": 456
+      },
+      "102": {
+        "CORE_RANK": 1,
+        "OPER_TIME": 72000000,
+        "ELEMENT_BONUS_1": 2,
+        "ELEMENT_BONUS_2": 3,
+        "LOCAL_TITLE": "OPERATION_TITLE_102",
+        "LOCAL_DESC": "OPERATION_DESC_102",
+        "AXIS_X": 332,
+        "AXIS_Y": 1236
+      },
+      "103": {
+        "CORE_RANK": 1,
+        "OPER_TIME": 72000000,
+        "ELEMENT_BONUS_1": 3,
+        "ELEMENT_BONUS_2": 4,
+        "LOCAL_TITLE": "OPERATION_TITLE_103",
+        "LOCAL_DESC": "OPERATION_DESC_103",
+        "AXIS_X": 0,
+        "AXIS_Y": 930
+      },
+      "104": {
+        "CORE_RANK": 1,
+        "OPER_TIME": 72000000,
+        "ELEMENT_BONUS_1": 2,
+        "ELEMENT_BONUS_2": 3,
+        "LOCAL_TITLE": "OPERATION_TITLE_104",
+        "LOCAL_DESC": "OPERATION_DESC_104",
+        "AXIS_X": 562,
+        "AXIS_Y": 776
+      },
+      "105": {
+        "CORE_RANK": 1,
+        "OPER_TIME": 72000000,
+        "ELEMENT_BONUS_1": 5,
+        "ELEMENT_BONUS_2": 1,
+        "LOCAL_TITLE": "OPERATION_TITLE_105",
+        "LOCAL_DESC": "OPERATION_DESC_105",
+        "AXIS_X": 1211,
+        "AXIS_Y": 814
+      },
+      "106": {
+        "CORE_RANK": 1,
+        "OPER_TIME": 72000000,
+        "ELEMENT_BONUS_1": 1,
+        "ELEMENT_BONUS_2": 2,
+        "LOCAL_TITLE": "OPERATION_TITLE_106",
+        "LOCAL_DESC": "OPERATION_DESC_106",
+        "AXIS_X": 1432,
+        "AXIS_Y": 1186
+      },
+      "107": {
+        "CORE_RANK": 1,
+        "OPER_TIME": 72000000,
+        "ELEMENT_BONUS_1": 4,
+        "ELEMENT_BONUS_2": 5,
+        "LOCAL_TITLE": "OPERATION_TITLE_107",
+        "LOCAL_DESC": "OPERATION_DESC_107",
+        "AXIS_X": 862,
+        "AXIS_Y": 1072
+      },
+      "108": {
+        "CORE_RANK": 1,
+        "OPER_TIME": 72000000,
+        "ELEMENT_BONUS_1": 3,
+        "ELEMENT_BONUS_2": 4,
+        "LOCAL_TITLE": "OPERATION_TITLE_108",
+        "LOCAL_DESC": "OPERATION_DESC_108",
+        "AXIS_X": 722,
+        "AXIS_Y": 1386
+      },
+      "109": {
+        "CORE_RANK": 1,
+        "OPER_TIME": 72000000,
+        "ELEMENT_BONUS_1": 4,
+        "ELEMENT_BONUS_2": 5,
+        "LOCAL_TITLE": "OPERATION_TITLE_109",
+        "LOCAL_DESC": "OPERATION_DESC_109",
+        "AXIS_X": 933,
+        "AXIS_Y": 366
+      },
+      "110": {
+        "CORE_RANK": 1,
+        "OPER_TIME": 72000000,
+        "ELEMENT_BONUS_1": 5,
+        "ELEMENT_BONUS_2": 1,
+        "LOCAL_TITLE": "OPERATION_TITLE_110",
+        "LOCAL_DESC": "OPERATION_DESC_110",
+        "AXIS_X": 1268,
+        "AXIS_Y": 362
+      }
+    }
+  }
+]

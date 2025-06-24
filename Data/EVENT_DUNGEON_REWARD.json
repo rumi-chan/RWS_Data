@@ -1,0 +1,1415 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "EVENT_DUNGEON_REWARD",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBEVENT_DUNGEON_REWARD'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "10001": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000001,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000101
+      },
+      "10002": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000002,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000102
+      },
+      "10003": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000003,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000103
+      },
+      "10004": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000004,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000104
+      },
+      "10005": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000005,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000105
+      },
+      "10006": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000006,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000106
+      },
+      "10007": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000007,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000107
+      },
+      "10008": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000008,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000108
+      },
+      "10009": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000009,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000109
+      },
+      "10010": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000010,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000110
+      },
+      "10011": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000011,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000201
+      },
+      "10012": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000012,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000202
+      },
+      "10013": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000013,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000203
+      },
+      "10014": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000014,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000204
+      },
+      "10015": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000015,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000205
+      },
+      "10016": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000016,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000206
+      },
+      "10017": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000017,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000207
+      },
+      "10018": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000018,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000208
+      },
+      "10019": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000019,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000209
+      },
+      "10020": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000020,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000210
+      },
+      "10021": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000021,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000301
+      },
+      "10022": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000022,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000302
+      },
+      "10023": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000023,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000303
+      },
+      "10024": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000024,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000304
+      },
+      "10025": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000025,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000305
+      },
+      "10026": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000026,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000306
+      },
+      "10027": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000027,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000307
+      },
+      "10028": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000028,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000308
+      },
+      "10029": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000029,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000309
+      },
+      "10030": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000030,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000310
+      },
+      "10031": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000031,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000401
+      },
+      "10032": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000032,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000402
+      },
+      "10033": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000033,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000403
+      },
+      "10034": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000034,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000404
+      },
+      "10035": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000035,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000405
+      },
+      "10036": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000036,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000406
+      },
+      "10037": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000037,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000407
+      },
+      "10038": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000038,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000408
+      },
+      "10039": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000039,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000409
+      },
+      "10040": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000040,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000410
+      },
+      "10041": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000041,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000501
+      },
+      "10042": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000042,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000502
+      },
+      "10043": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000043,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000503
+      },
+      "10044": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000044,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000504
+      },
+      "10045": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000045,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000505
+      },
+      "10046": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000046,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000506
+      },
+      "10047": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000047,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000507
+      },
+      "10048": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000048,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000508
+      },
+      "10049": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000049,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000509
+      },
+      "10050": {
+        "GROUP_ID": 8001,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000050,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000510
+      },
+      "10051": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000051,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000101
+      },
+      "10052": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000052,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000102
+      },
+      "10053": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000053,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000103
+      },
+      "10054": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000054,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000104
+      },
+      "10055": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000055,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000105
+      },
+      "10056": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000056,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000106
+      },
+      "10057": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000057,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000107
+      },
+      "10058": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000058,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000108
+      },
+      "10059": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000059,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000109
+      },
+      "10060": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000060,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000110
+      },
+      "10061": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000061,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000201
+      },
+      "10062": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000062,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000202
+      },
+      "10063": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000063,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000203
+      },
+      "10064": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000064,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000204
+      },
+      "10065": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000065,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000205
+      },
+      "10066": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000066,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000206
+      },
+      "10067": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000067,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000207
+      },
+      "10068": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000068,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000208
+      },
+      "10069": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000069,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000209
+      },
+      "10070": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000070,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000210
+      },
+      "10071": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000071,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000301
+      },
+      "10072": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000072,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000302
+      },
+      "10073": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000073,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000303
+      },
+      "10074": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000074,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000304
+      },
+      "10075": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000075,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000305
+      },
+      "10076": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000076,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000306
+      },
+      "10077": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000077,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000307
+      },
+      "10078": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000078,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000308
+      },
+      "10079": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000079,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000309
+      },
+      "10080": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000080,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000310
+      },
+      "10081": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000081,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000401
+      },
+      "10082": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000082,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000402
+      },
+      "10083": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000083,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000403
+      },
+      "10084": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000084,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000404
+      },
+      "10085": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000085,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000405
+      },
+      "10086": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000086,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000406
+      },
+      "10087": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000087,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000407
+      },
+      "10088": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000088,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000408
+      },
+      "10089": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000089,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000409
+      },
+      "10090": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000090,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000410
+      },
+      "10091": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000091,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000501
+      },
+      "10092": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000092,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000502
+      },
+      "10093": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000093,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000503
+      },
+      "10094": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000094,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000504
+      },
+      "10095": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000095,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000505
+      },
+      "10096": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000096,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000506
+      },
+      "10097": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000097,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000507
+      },
+      "10098": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000098,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000508
+      },
+      "10099": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000099,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000509
+      },
+      "10100": {
+        "GROUP_ID": 8002,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000100,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000510
+      },
+      "10101": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000101,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000101
+      },
+      "10102": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000102,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000102
+      },
+      "10103": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000103,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000103
+      },
+      "10104": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000104,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000104
+      },
+      "10105": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000105,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000105
+      },
+      "10106": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000106,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000106
+      },
+      "10107": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000107,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000107
+      },
+      "10108": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000108,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000108
+      },
+      "10109": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000109,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000109
+      },
+      "10110": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000110,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000110
+      },
+      "10111": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000111,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000201
+      },
+      "10112": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000112,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000202
+      },
+      "10113": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000113,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000203
+      },
+      "10114": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000114,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000204
+      },
+      "10115": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000115,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000205
+      },
+      "10116": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000116,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000206
+      },
+      "10117": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000117,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000207
+      },
+      "10118": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000118,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000208
+      },
+      "10119": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000119,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000209
+      },
+      "10120": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000120,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000210
+      },
+      "10121": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000121,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000301
+      },
+      "10122": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000122,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000302
+      },
+      "10123": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000123,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000303
+      },
+      "10124": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000124,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000304
+      },
+      "10125": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000125,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000305
+      },
+      "10126": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000126,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000306
+      },
+      "10127": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000127,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000307
+      },
+      "10128": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000128,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000308
+      },
+      "10129": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000129,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000309
+      },
+      "10130": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000130,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000310
+      },
+      "10131": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000131,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000401
+      },
+      "10132": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000132,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000402
+      },
+      "10133": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000133,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000403
+      },
+      "10134": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000134,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000404
+      },
+      "10135": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000135,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000405
+      },
+      "10136": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000136,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000406
+      },
+      "10137": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000137,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000407
+      },
+      "10138": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000138,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000408
+      },
+      "10139": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000139,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000409
+      },
+      "10140": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000140,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000410
+      },
+      "10141": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000141,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000501
+      },
+      "10142": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000142,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000502
+      },
+      "10143": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000143,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000503
+      },
+      "10144": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000144,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000504
+      },
+      "10145": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000145,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000505
+      },
+      "10146": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000146,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000506
+      },
+      "10147": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000147,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000507
+      },
+      "10148": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000148,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000508
+      },
+      "10149": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000149,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000509
+      },
+      "10150": {
+        "GROUP_ID": 8003,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000150,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000510
+      },
+      "10151": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000151,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000101
+      },
+      "10152": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000152,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000102
+      },
+      "10153": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000153,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000103
+      },
+      "10154": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000154,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000104
+      },
+      "10155": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000155,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000105
+      },
+      "10156": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000156,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000106
+      },
+      "10157": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000157,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000107
+      },
+      "10158": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000158,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000108
+      },
+      "10159": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000159,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000109
+      },
+      "10160": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000160,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000110
+      },
+      "10161": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000161,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000201
+      },
+      "10162": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000162,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000202
+      },
+      "10163": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000163,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000203
+      },
+      "10164": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000164,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000204
+      },
+      "10165": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000165,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000205
+      },
+      "10166": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000166,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000206
+      },
+      "10167": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000167,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000207
+      },
+      "10168": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000168,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000208
+      },
+      "10169": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000169,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000209
+      },
+      "10170": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000170,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000210
+      },
+      "10171": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000171,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000301
+      },
+      "10172": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000172,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000302
+      },
+      "10173": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000173,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000303
+      },
+      "10174": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000174,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000304
+      },
+      "10175": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000175,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000305
+      },
+      "10176": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000176,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000306
+      },
+      "10177": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000177,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000307
+      },
+      "10178": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000178,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000308
+      },
+      "10179": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000179,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000309
+      },
+      "10180": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000180,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000310
+      },
+      "10181": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000181,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000401
+      },
+      "10182": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000182,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000402
+      },
+      "10183": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000183,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000403
+      },
+      "10184": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000184,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000404
+      },
+      "10185": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000185,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000405
+      },
+      "10186": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000186,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000406
+      },
+      "10187": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000187,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000407
+      },
+      "10188": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000188,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000408
+      },
+      "10189": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000189,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000409
+      },
+      "10190": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000190,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000410
+      },
+      "10191": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000191,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10001",
+        "REWARD_GROUP_ID": 809000501
+      },
+      "10192": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000192,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10002",
+        "REWARD_GROUP_ID": 809000502
+      },
+      "10193": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000193,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10003",
+        "REWARD_GROUP_ID": 809000503
+      },
+      "10194": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000194,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10004",
+        "REWARD_GROUP_ID": 809000504
+      },
+      "10195": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000195,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10005",
+        "REWARD_GROUP_ID": 809000505
+      },
+      "10196": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000196,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10006",
+        "REWARD_GROUP_ID": 809000506
+      },
+      "10197": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000197,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10007",
+        "REWARD_GROUP_ID": 809000507
+      },
+      "10198": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000198,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10008",
+        "REWARD_GROUP_ID": 809000508
+      },
+      "10199": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000199,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10009",
+        "REWARD_GROUP_ID": 809000509
+      },
+      "10200": {
+        "GROUP_ID": 8004,
+        "DUNGEON_GROUP_LIST_ID": 0,
+        "TRIGGER_GROUP_ID": 709000200,
+        "Desc": "EVENT_DUNGEON_MISSION_DESC_10010",
+        "REWARD_GROUP_ID": 809000510
+      }
+    }
+  }
+]

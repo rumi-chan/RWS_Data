@@ -1,0 +1,2139 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "SYSTEM_DATA",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBSYSTEM_DATA'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "AUTO_ULTIMATE_BANNER_TIME": {
+        "Type": "int32",
+        "Value": "1250",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "AWAKEN_4_REPLACE_ID": {
+        "Type": "int32",
+        "Value": "106014001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "AWAKEN_5_REPLACE_ID": {
+        "Type": "int32",
+        "Value": "106015001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "AWAKEN_MAX_COUNT": {
+        "Type": "int32",
+        "Value": "6",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "AWAKEN_REPLACE_ID": {
+        "Type": "int32",
+        "Value": "106015001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTERY_CONDITION_NOTENOUGH": {
+        "Type": "int32",
+        "Value": "1000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLE_BAR_HOLDING_TIME": {
+        "Type": "int32",
+        "Value": "500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLE_BAR_PROGRESS_TIME": {
+        "Type": "int32",
+        "Value": "300",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLE_DEFEAT_SCRREN_TIME": {
+        "Type": "int32",
+        "Value": "2000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLE_END_TIME": {
+        "Type": "int32",
+        "Value": "1250",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLE_HIDE_OCLUDE_OBJECT_UPDATE_INTERVAL": {
+        "Type": "int32",
+        "Value": "33",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLE_SPEED_DOUBLE_RATIO": {
+        "Type": "int32",
+        "Value": "15500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLE_SPEED_RATIO": {
+        "Type": "int32",
+        "Value": "15500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLE_SPEED_TRIPLE_RATIO": {
+        "Type": "int32",
+        "Value": "17000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLE_START_TIME": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLE_START_TIME2": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLE_ULT_SPEED_DOUBLE_RATIO": {
+        "Type": "int32",
+        "Value": "15500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLE_ULT_SPEED_TRIPLE_RATIO": {
+        "Type": "int32",
+        "Value": "17000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLE_VOICE_LOWHP_RATIO": {
+        "Type": "int32",
+        "Value": "3000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLE_WAIT_DIE_TIME": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLEPASS_CURRENCY_ID": {
+        "Type": "int32",
+        "Value": "102",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLEPASS_LVUP_QTY": {
+        "Type": "int32",
+        "Value": "200",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLEPASS_MAX_LV": {
+        "Type": "int32",
+        "Value": "40",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLEPASS_MISSION_DAILY_RESET_TIME": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLEPASS_MISSION_EXP_ICON": {
+        "Type": "string",
+        "Value": "Icon_Currency_BattlePassEXP_Sprite",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLEPASS_PREMIUM2_REWARD_LVUP_EXP": {
+        "Type": "int32",
+        "Value": "15500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BATTLEPASS_PREMIUM3_REWARD_LVUP_EXP": {
+        "Type": "int32",
+        "Value": "15500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BERSERK_MODE_SPEED_RATIO": {
+        "Type": "int32",
+        "Value": "300000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BREAK_ABILITY": {
+        "Type": "int32",
+        "Value": "710000011",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BREAK_DAMAGE_OFFSET": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BREAK_TURN": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BUBBLE_SIGHT": {
+        "Type": "int32",
+        "Value": "300",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "BUFF_MAX_LV": {
+        "Type": "int32",
+        "Value": "5",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "CAMERA_DEFAULT_DIALOG_DISTANCE": {
+        "Type": "int32",
+        "Value": "200",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "CASH_SUBSCRIPTION_MAX_VALUE": {
+        "Type": "int32",
+        "Value": "330",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "CHARACTER_LEVEL_MAX": {
+        "Type": "int32",
+        "Value": "80",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "CHARACTER_PLAYER_ID": {
+        "Type": "int32",
+        "Value": "100001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "CHARACTER_PLAYER_NPC_ID": {
+        "Type": "int32",
+        "Value": "20101004",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "CHARACTER_RANK_MAX": {
+        "Type": "int32",
+        "Value": "7",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "CHARACTERWIDGET_RATIO": {
+        "Type": "int32",
+        "Value": "2500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "COMMON_GOLD_ID": {
+        "Type": "int32",
+        "Value": "101",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "CORE_RANK_MAX": {
+        "Type": "int32",
+        "Value": "10",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DAMAGE_RANDOM_CALIBRATE_RANGE_MAX": {
+        "Type": "int32",
+        "Value": "10500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DAMAGE_RANDOM_CALIBRATE_RANGE_MIN": {
+        "Type": "int32",
+        "Value": "9500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DASH_MAINTAIN_TIME": {
+        "Type": "int32",
+        "Value": "70",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DASH_START_STAMINA": {
+        "Type": "int32",
+        "Value": "250",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DASH_TURN_ROTATE_TIME": {
+        "Type": "int32",
+        "Value": "180",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DASH_TURN_TIME": {
+        "Type": "int32",
+        "Value": "280",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DEFAULT_ABIL_PROB_FACTOR_RATIO": {
+        "Type": "int32",
+        "Value": "10000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DEFAULT_DAMAGE_FACTOR_RATIO": {
+        "Type": "int32",
+        "Value": "10000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DEFAULT_LANGUAGE": {
+        "Type": "string",
+        "Value": "ko",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DEFAULT_SKILL_GAUGE": {
+        "Type": "int32",
+        "Value": "4",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DEFENSIVE_POWER_FORMULA_FACTOR": {
+        "Type": "int32",
+        "Value": "500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DELIVERY_CAM_PRESET": {
+        "Type": "int32",
+        "Value": "8001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DETAILEDMAP_SCALE_MAX": {
+        "Type": "int32",
+        "Value": "20000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DIALOG_AUTO_PALY_DELAYTIME": {
+        "Type": "int32",
+        "Value": "1000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DIALOG_FADE_TIME": {
+        "Type": "int32",
+        "Value": "1000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DIALOG_TEXT_SPEED": {
+        "Type": "int32",
+        "Value": "30",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DIE_TURN_REMAIN_TIME": {
+        "Type": "int32",
+        "Value": "500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DUNGEON_AUTO_MAX_COUNT": {
+        "Type": "int32",
+        "Value": "300",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DUNGEON_REWARD_CURRENCY_ID": {
+        "Type": "int64",
+        "Value": "106",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DUNGEON_REWARD_CURRENCY_QTY1": {
+        "Type": "int32",
+        "Value": "20",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DUNGEON_REWARD_CURRENCY_QTY2": {
+        "Type": "int32",
+        "Value": "30",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DUNGEON_REWARD_CURRENCY_QTY3": {
+        "Type": "int32",
+        "Value": "20",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DUNGEON_REWARD_CURRENCY_QTY4": {
+        "Type": "int32",
+        "Value": "10",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DUNGEON_REWARD_MAX_COUNT": {
+        "Type": "int32",
+        "Value": "120",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DUNGEON_RUIN_OUT_TIME": {
+        "Type": "int32",
+        "Value": "600000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DUNGEON_TOWER_NEXT_YN": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DUNGEON_WEEKLY_RESET_DAY": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DUNGEON_WEEKLY_RESET_TIME": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "DUNGEON_WEEKLY_REWARD_COUNT": {
+        "Type": "int32",
+        "Value": "5",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "ELLINGWAY_RECOVERY_ABILITY": {
+        "Type": "int32",
+        "Value": "110120107",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "ELLINGWAY_RECOVERY_DISTANCE": {
+        "Type": "int32",
+        "Value": "1000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "ENABLE_BATTLEPASS": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "ENCOUNT_DELAY": {
+        "Type": "int32",
+        "Value": "10",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "ENCOUNT_GLOBAL_SLOMO_RATIO": {
+        "Type": "int32",
+        "Value": "2500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "ENCOUNT_GROUP_DISTANCE": {
+        "Type": "int32",
+        "Value": "1000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "EQUIP_RANDOM_OPTION_ADD_1": {
+        "Type": "int32",
+        "Value": "3",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "EQUIP_RANDOM_OPTION_ADD_2": {
+        "Type": "int32",
+        "Value": "6",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "EQUIP_RANDOM_OPTION_ADD_3": {
+        "Type": "int32",
+        "Value": "9",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "EQUIP_RANDOM_OPTION_ADD_4": {
+        "Type": "int32",
+        "Value": "12",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "EQUIP_RANDOM_OPTION_ADD_5": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "EQUIP_RANDOM_OPTION_MAX_TYPE_QTY": {
+        "Type": "int32",
+        "Value": "4",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "EQUIPMENT_INGREDIENT_COUNT_MAX": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "EQUIPMENT_MAX_LEVEL": {
+        "Type": "int32",
+        "Value": "12",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "EQUIPMENT_RANDOM_VALUE_RANGE_MAX": {
+        "Type": "int32",
+        "Value": "10000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "EQUIPMENT_RANDOM_VALUE_RANGE_MIN": {
+        "Type": "int32",
+        "Value": "10000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "EQUIPOPTION_ENHANCE_MAT_ITEM_ID": {
+        "Type": "int32",
+        "Value": "313016001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "EQUIPOPTION_ENHANCE_MAT_ITEM_QTY": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "EQUIPOPTION_ITEM_GRADE": {
+        "Type": "int32",
+        "Value": "6",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "EQUIPOPTION_ITEM_TYPE": {
+        "Type": "int32",
+        "Value": "311",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "EQUIPOPTION_REQUIRED_LEVEL": {
+        "Type": "int32",
+        "Value": "12",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "EQUIPOPTION_REROLL_MAT_ITEM_ID": {
+        "Type": "int32",
+        "Value": "312016001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "EQUIPOPTION_REROLL_MAT_ITEM_QTY": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FAINTING_PRODUCTION_TIME": {
+        "Type": "int32",
+        "Value": "750",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FAME_LEVEL_MAX": {
+        "Type": "int32",
+        "Value": "60",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FAME_LEVEL_MAX_RATIO": {
+        "Type": "int32",
+        "Value": "10000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FAVOR_EXP_ITEM_OTHER": {
+        "Type": "int32",
+        "Value": "50",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FAVOR_EXP_ITEM1": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FAVOR_EXP_ITEM2": {
+        "Type": "int32",
+        "Value": "300",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FAVOR_EXP_ITEM3": {
+        "Type": "int32",
+        "Value": "500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FAVOR_GIFT_DAILY_COUNT": {
+        "Type": "int32",
+        "Value": "5",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FAVOR_GIFT_DAILY_COUNT_RESET_TIME": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FAVOR_GIFT_ITEM_TYPE": {
+        "Type": "int32",
+        "Value": "411",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FAVORABLE_ABIL_PROB_FACTOR_RATIO": {
+        "Type": "int32",
+        "Value": "10000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FAVORABLE_DAMAGE_FACTOR_RATIO": {
+        "Type": "int32",
+        "Value": "10000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FEMALE_PLAYER_BODY_TYPE": {
+        "Type": "int32",
+        "Value": "2",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FEMALE_PLAYER_VOICE_INFO_PATH": {
+        "Type": "String",
+        "Value": "Character/PC_Player_W/",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FIELDBOSS_CAMERA__PRESET": {
+        "Type": "int32",
+        "Value": "1001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FIELDBOSS_REWARD_TIME": {
+        "Type": "int32",
+        "Value": "300000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FIELDENTRYLOCAL_REINDICATE_TIME": {
+        "Type": "int32",
+        "Value": "5000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FIRST_ENTRY_LEVEL": {
+        "Type": "int32",
+        "Value": "1010301",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FIRST_SPAWNPOINT": {
+        "Type": "int32",
+        "Value": "133020101",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FISHING_ACTIVE_BUTTON_TOUCH_TIME": {
+        "Type": "int32",
+        "Value": "2000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FISHING_TAKE_BAIT_MAX_TIME": {
+        "Type": "int32",
+        "Value": "5000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FISHING_TAKE_BAIT_MIN_TIME": {
+        "Type": "int32",
+        "Value": "2000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FORTUNA_INGREDIENT_COUNT_MAX": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FORTUNA_MAX_LEVEL": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FORTUNA_MAX_RANK": {
+        "Type": "int32",
+        "Value": "7",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FORTUNA_MAX_SYNTHESIS": {
+        "Type": "int32",
+        "Value": "6",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FORTUNA_RANDOM_VALUE_RANGE_MAX": {
+        "Type": "int32",
+        "Value": "10000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FORTUNA_RANDOM_VALUE_RANGE_MIN": {
+        "Type": "int32",
+        "Value": "10000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FRIEND_ACCESS_TIME": {
+        "Type": "int32",
+        "Value": "60000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FRIEND_CURRENCY_ID": {
+        "Type": "int32",
+        "Value": "106",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FRIEND_CURRENCY_MAX_COUNT": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FRIEND_CURRENCY_QTY": {
+        "Type": "int32",
+        "Value": "2",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FRIEND_JUST_TIME": {
+        "Type": "int32",
+        "Value": "600000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FRIEND_LEVEL_QTY": {
+        "Type": "int32",
+        "Value": "5",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FRIEND_LIST_RECOMMEND_TIME": {
+        "Type": "int32",
+        "Value": "600000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FRIEND_QTY": {
+        "Type": "int32",
+        "Value": "30",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FRIEND_RECEIVE_DAY": {
+        "Type": "int32",
+        "Value": "7",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FRIEND_RECEIVE_QTY": {
+        "Type": "int32",
+        "Value": "30",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FRIEND_RECOMMEND_COOLTIME": {
+        "Type": "int32",
+        "Value": "10000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "FRIEND_RECOMMEND_QTY": {
+        "Type": "int32",
+        "Value": "10",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GACHA_1_CURRENCY_BEFORE_QTY": {
+        "Type": "int32",
+        "Value": "160",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GACHA_4_MILEAGE_REWARD_ID": {
+        "Type": "int64",
+        "Value": "605990105",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GACHA_5_MILEAGE_REWARD_ID": {
+        "Type": "int64",
+        "Value": "605990106",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GACHA_CHANGE_CURRENCY": {
+        "Type": "int32",
+        "Value": "112",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GACHA_CUTSCENE_MULTI_1": {
+        "Type": "int32",
+        "Value": "800003",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GACHA_CUTSCENE_MULTI_2": {
+        "Type": "int32",
+        "Value": "800004",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GACHA_CUTSCENE_SINGLE_1": {
+        "Type": "int32",
+        "Value": "800001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GACHA_CUTSCENE_SINGLE_2": {
+        "Type": "int32",
+        "Value": "800002",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GACHA_GRADE_SPECIAL_DIRECT": {
+        "Type": "int32",
+        "Value": "5",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GACHA_LIMIT_PC_GET_MAX_COUNT": {
+        "Type": "int32",
+        "Value": "14",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GACHA_POINT_CHANGE": {
+        "Type": "int32",
+        "Value": "5",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GACHA_SHOP_CATEGORY_MOVE": {
+        "Type": "int32",
+        "Value": "5001001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GAIN_SKILL_GAUGE_PER_ALLY_TURN": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GAIN_SKILL_GAUGE_PER_ENEMY_GUARDBREAK": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GAIN_SKILL_GAUGE_PER_ENEMY_KILL": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GAIN_SKILL_GAUGE_PER_TURN": {
+        "Type": "float",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GUARD_ABILITY": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GUEST_LOGIN_YN": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GUIDE_INFO_NOTICE_TIME": {
+        "Type": "int32",
+        "Value": "4000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "GUIDE_INFO_NOTICE_TIME_ICON": {
+        "Type": "int32",
+        "Value": "4000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "HEAD_TRACKING_ANGLE": {
+        "Type": "int32",
+        "Value": "55",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "HEAD_TRACKING_SPEED": {
+        "Type": "int32",
+        "Value": "15",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "HEAD_TRACKING_SPEED_DIALOG": {
+        "Type": "int32",
+        "Value": "3",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "HEAD_TRACKING_SPEED_DIALOG_TYPE": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "HEAD_TRACKING_SPEED_TYPE": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "HUD_QUEST_MARK_DISTANCE": {
+        "Type": "int32",
+        "Value": "10000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "IGNORE_SKILL_CAM": {
+        "Type": "String",
+        "Value": "NBBattleCameraBoss",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "INVEN_DELETE_MAX_QTY": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "ITEM_GET_AUTO_LOCK_GRADE": {
+        "Type": "int32",
+        "Value": "4",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "ITEM_MAKING_CAM_PRESET": {
+        "Type": "int32",
+        "Value": "9000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "ITEM_MIX_COMPOSITION_MAX": {
+        "Type": "int32",
+        "Value": "20",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "ITEM_MIX_DECOMPOSITION_MAX": {
+        "Type": "int32",
+        "Value": "20",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "ITEM_MIX_MAX_COUNT": {
+        "Type": "int32",
+        "Value": "999",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "JUMP_GRAVITY_SCALE": {
+        "Type": "int32",
+        "Value": "1900",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "JUMP_Z_VELOCITY": {
+        "Type": "int32",
+        "Value": "800",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "JUST_ATK_BONUS_DAMAGE_RATIO": {
+        "Type": "int32",
+        "Value": "15000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "JUST_ATK_MAX_SCALE": {
+        "Type": "int32",
+        "Value": "12000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "JUST_ATK_MIN_SCALE": {
+        "Type": "int32",
+        "Value": "8000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "JUST_ATK_ON": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "LOADING_MIN_TIME": {
+        "Type": "int32",
+        "Value": "500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "LOCALIZE_VOICE_JP_PATH": {
+        "Type": "string",
+        "Value": "Voice_Global/Japan/",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "LOCALIZE_VOICE_KR_PATH": {
+        "Type": "string",
+        "Value": "",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "LOCALIZE_VOICE_OPTION_ID": {
+        "Type": "int32",
+        "Value": "40010201",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "LOCALIZING_NOT_OS": {
+        "Type": "int32",
+        "Value": "40102",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "LONGIDLE_TRANSITION_TIME": {
+        "Type": "int32",
+        "Value": "30000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "LUMENCORE_SUBSCRIPTION_MAX_VALUE": {
+        "Type": "int32",
+        "Value": "330",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "MARKER_TARGET_DISTANCE": {
+        "Type": "int32",
+        "Value": "3000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "MARKER_TARGET_VISIBLE_TIME": {
+        "Type": "int32",
+        "Value": "500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "MAXIMUM_SKILL_GAUGE": {
+        "Type": "int32",
+        "Value": "10",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "MINIGAME_RANGE_MAXIMUM_VALUE": {
+        "Type": "int32",
+        "Value": "116",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "MINIMAP_HUD_DISTANCE": {
+        "Type": "int32",
+        "Value": "2500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "MINIMAP_SCALE_DEFAULT": {
+        "Type": "int32",
+        "Value": "10",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "MISSION_MAX_CLEAR_POINT": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "MONTH_MAX_VALUE": {
+        "Type": "int32",
+        "Value": "330",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "MOUNT_COOLTIME": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "MOVEMENT_INTERP_ACCELERATION": {
+        "Type": "int32",
+        "Value": "300",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "MOVEMENT_INTERP_DECELERATION": {
+        "Type": "int32",
+        "Value": "1000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "MOVEMENT_INTERP_UPANDDOWN": {
+        "Type": "float",
+        "Value": "10",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "MOVEMENT_INTERP_UPANDDOWN_MAXFRAME": {
+        "Type": "float",
+        "Value": "5",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "NAMEPLATE_CULLING_DISTANCE": {
+        "Type": "int32",
+        "Value": "3500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "NAMEPLATE_ICON_CULLING_DISTANCE": {
+        "Type": "int32",
+        "Value": "3500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "NETWORK_CONDITION_DISCONNECT": {
+        "Type": "int32",
+        "Value": "999",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "NETWORK_CONDITION_HIGH": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "NETWORK_CONDITION_LOW": {
+        "Type": "int32",
+        "Value": "300",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "NETWORK_CONDITION_MIDDLE": {
+        "Type": "int32",
+        "Value": "200",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "NETWORK_MIN_TIME": {
+        "Type": "int32",
+        "Value": "300",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "NETWORK_POPUP_OPEN_TIME": {
+        "Type": "int32",
+        "Value": "30000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "NETWORK_POPUP_WAIT_TIME": {
+        "Type": "int32",
+        "Value": "15000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "NEW_ATTENDANCE_END_DATE": {
+        "Type": "int32",
+        "Value": "21",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "NEW_PERIOD": {
+        "Type": "date",
+        "Value": "2024-12-12 0:00",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "NEW_WEEK_ATTENDANCE_END_DATE": {
+        "Type": "int32",
+        "Value": "21",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "NPC_SIGHT": {
+        "Type": "int32",
+        "Value": "500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "OPTION_GAME_ALARM": {
+        "Type": "int64",
+        "Value": "30010101",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "OPTION_NIGHT_ALARM": {
+        "Type": "int64",
+        "Value": "30010103",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "OPTION_NOTICE_ALARM": {
+        "Type": "int64",
+        "Value": "30010102",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "OPTION_REDEEM_CODE_ID": {
+        "Type": "int32",
+        "Value": "70010101",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "PATH_VFX_DISPLAY_TIME": {
+        "Type": "int32",
+        "Value": "22500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "PATH_VFX_DISTANCE": {
+        "Type": "int32",
+        "Value": "25600",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "PATH_VFX_DISTANCE_MIN": {
+        "Type": "int32",
+        "Value": "500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "PATH_VFX_HEIGHT": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "PATH_VFX_UPDATE": {
+        "Type": "int32",
+        "Value": "7500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "PC_ADJUST_ANGLE_L": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "PC_ADJUST_ANGLE_OFFSET": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "PC_ADJUST_ANGLE_R": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "PC_ADJUST_INTERVAL_L": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "PC_ADJUST_INTERVAL_R": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "PLAY_TIME_LOCAL": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "POST_LIST_MAX_NUM": {
+        "Type": "int32",
+        "Value": "1000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "PRESET_DEFAULT": {
+        "Type": "int32",
+        "Value": "1000001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "PRESET_DEMO": {
+        "Type": "int32",
+        "Value": "9900001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "PRESET_MAX_COUNT": {
+        "Type": "int32",
+        "Value": "8",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "PRESET_MAX_MEMBER_COUNT": {
+        "Type": "int32",
+        "Value": "4",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "PROFILE_BANNER_SCROLL_TIME": {
+        "Type": "int32",
+        "Value": "3000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "QUEST_DAILY_RESET_TIME": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "QUEST_MAIN_FIRST_QUEST": {
+        "Type": "int32",
+        "Value": "111001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "QUEST_MARK_VIEW_DISTANCE": {
+        "Type": "int32",
+        "Value": "5000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "QUEST_TRACKING_INPUT_TIME": {
+        "Type": "int32",
+        "Value": "7500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_CHARACTER_EXP_1_ID": {
+        "Type": "int32",
+        "Value": "101012001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_CHARACTER_EXP_1_QTY": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_CHARACTER_EXP_2_ID": {
+        "Type": "int32",
+        "Value": "101013002",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_CHARACTER_EXP_2_QTY": {
+        "Type": "int32",
+        "Value": "1000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_CHARACTER_EXP_3_ID": {
+        "Type": "int32",
+        "Value": "101015003",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_CHARACTER_EXP_3_QTY": {
+        "Type": "int32",
+        "Value": "5000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_EQUIP_EXP_1_ID": {
+        "Type": "int32",
+        "Value": "203011002",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_EQUIP_EXP_1_QTY": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_EQUIP_EXP_2_ID": {
+        "Type": "int32",
+        "Value": "204013001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_EQUIP_EXP_2_QTY": {
+        "Type": "int32",
+        "Value": "1000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_EQUIP_EXP_3_ID": {
+        "Type": "int32",
+        "Value": "204015001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_EQUIP_EXP_3_QTY": {
+        "Type": "int32",
+        "Value": "5000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_EQUIP_LEVEL": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_MAX_QTY": {
+        "Type": "int32",
+        "Value": "99",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_REMEMENTO_EXP_1_ID": {
+        "Type": "int32",
+        "Value": "103011001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_REMEMENTO_EXP_1_QTY": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_REMEMENTO_EXP_2_ID": {
+        "Type": "int32",
+        "Value": "103012002",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_REMEMENTO_EXP_2_QTY": {
+        "Type": "int32",
+        "Value": "1000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_REMEMENTO_EXP_3_ID": {
+        "Type": "int32",
+        "Value": "103013003",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_REMEMENTO_EXP_3_QTY": {
+        "Type": "int32",
+        "Value": "5000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RECYCLE_REMEMENTO_LEVEL": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "REDEEM_CODE_INPUT_MIN": {
+        "Type": "int32",
+        "Value": "6",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RESET_TIME": {
+        "Type": "int32",
+        "Value": "1200",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RESURRECTION_END_BATTLE_LIFE_FORCE_RATIO": {
+        "Type": "int32",
+        "Value": "10000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RETURN_ATTENDANCE_END_DATE": {
+        "Type": "int32",
+        "Value": "21",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RETURN_PERIOD": {
+        "Type": "int32",
+        "Value": "21",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RETURN_WEEK_ATTENDANCE_END_DATE": {
+        "Type": "int32",
+        "Value": "21",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "REVERSE_DIRECTION_RANGE": {
+        "Type": "int32",
+        "Value": "15",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RT_PVP_AMPLIFY_ABIL": {
+        "Type": "int32",
+        "Value": "770901011",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RT_PVP_AMPLIFY_TURN": {
+        "Type": "int32",
+        "Value": "12",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RT_PVP_BAN_PICK_TIME_LIMIT": {
+        "Type": "int32",
+        "Value": "30",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RT_PVP_BATTLE_READY_TIME_LIMIT": {
+        "Type": "int32",
+        "Value": "10",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RT_PVP_BATTLE_TURN_TIME_LIMIT": {
+        "Type": "int32",
+        "Value": "15",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RT_PVP_BATTLEPOINT": {
+        "Type": "int32",
+        "Value": "101070101",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RT_PVP_BLIND_PICK_TIME_LIMIT": {
+        "Type": "int32",
+        "Value": "60",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RT_PVP_CAMERA": {
+        "Type": "String",
+        "Value": "NBBattleCameraActor",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RT_PVP_FORMATION": {
+        "Type": "int32",
+        "Value": "103",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RT_PVP_MATCHING_TIME_LIMIT": {
+        "Type": "int32",
+        "Value": "10",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RT_PVP_PC_MIN_COUNT": {
+        "Type": "int32",
+        "Value": "4",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "RT_PVP_PC_MIN_LV": {
+        "Type": "int32",
+        "Value": "5",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SHOP_MAX_PURCHASE_LIMIT": {
+        "Type": "int32",
+        "Value": "999",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SHOP_RESET_TIME": {
+        "Type": "int32",
+        "Value": "1000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SIGNIFICANCE_DISTANCE": {
+        "Type": "int32",
+        "Value": "3500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SIGNIFICANCE_DISTANCE_MAJOR": {
+        "Type": "int32",
+        "Value": "6000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SINGLEPVP_AMPLIFY_ABIL": {
+        "Type": "int32",
+        "Value": "770901011",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SINGLEPVP_AMPLIFY_TURN": {
+        "Type": "int32",
+        "Value": "12",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SINGLEPVP_BATTLE_LIST_COOLTIME": {
+        "Type": "int32",
+        "Value": "10000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SINGLEPVP_BATTLEPOINT": {
+        "Type": "int32",
+        "Value": "101070101",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SINGLEPVP_BOT_RANDOM_COUNT": {
+        "Type": "int32",
+        "Value": "10",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SINGLEPVP_CAMERA": {
+        "Type": "String",
+        "Value": "NBBattleCameraActor",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SINGLEPVP_CURRENCY_ID": {
+        "Type": "int32",
+        "Value": "108",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SINGLEPVP_ELEMENT_DROP_ID": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SINGLEPVP_FORMATION": {
+        "Type": "int32",
+        "Value": "103",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SINGLEPVP_LOSE_REWARD_COUNT": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SINGLEPVP_REWARD_COUNT": {
+        "Type": "int32",
+        "Value": "10",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SINGLEPVP_REWARD_CURRENCY_QTY": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SINGLEPVP_WEEKLY_PLAY_COUNT": {
+        "Type": "int32",
+        "Value": "15",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SINGLEPVP_WEEKLY_REWARD_RESET_DAY": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SINGLEPVP_WIN_REWARD_COUNT": {
+        "Type": "int32",
+        "Value": "2",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SKILL_INFO_PREESTIME": {
+        "Type": "int32",
+        "Value": "500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SOCKET_HEAD_TRACKING": {
+        "Type": "string",
+        "Value": "SOCKET_LOOKAT",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "STAMINA_DASH_DEFAULT": {
+        "Type": "int32",
+        "Value": "1200",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "STAMINA_DASH_PROGRESS": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "STAMINA_DASH_PROGRESS_SPEED_RATE": {
+        "Type": "int32",
+        "Value": "13000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "STAMINA_DASH_RECHARGE": {
+        "Type": "int32",
+        "Value": "200",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "STAMINA_DASH_START": {
+        "Type": "int32",
+        "Value": "200",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "STAMINA_DASH_START_COOLTIME": {
+        "Type": "int32",
+        "Value": "1000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "STAMINA_DASH_START_SPEED_RATE": {
+        "Type": "int32",
+        "Value": "15000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "STAMINA_DASH_START_TIME": {
+        "Type": "int32",
+        "Value": "1000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "STANDARD_FIELD_DAMAGE": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SUB_OPTION_OFFSET": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SUPPLY_ADD_COUNT": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SUPPLY_DAILY_RESET_TIME": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SUPPLY_FREE_COUNT": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SUPPLY_MAX_LV": {
+        "Type": "int32",
+        "Value": "10",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SYNTHESIS_4_REPLACE_ID": {
+        "Type": "int32",
+        "Value": "107014001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SYNTHESIS_5_REPLACE_ID": {
+        "Type": "int32",
+        "Value": "107015001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "SYNTHESIS_REPLACE_ID": {
+        "Type": "int32",
+        "Value": "107015001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TAG_COOLTIME": {
+        "Type": "int32",
+        "Value": "1000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TARGET_BOX_RANGE_DISTANCE": {
+        "Type": "int32",
+        "Value": "1300",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TARGET_BOX_RANGE_HEIGHT": {
+        "Type": "int32",
+        "Value": "300",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TARGET_BOX_RANGE_WIDTH": {
+        "Type": "int32",
+        "Value": "800",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TARGET_CYLINDER_RANGE_DISTANCE": {
+        "Type": "int32",
+        "Value": "800",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TARGET_CYLINDER_RANGE_HEIGHT": {
+        "Type": "int32",
+        "Value": "300",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TARGET_HOLDING_TIME": {
+        "Type": "int32",
+        "Value": "70",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TARGET_UPDATE_TICK": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TEST_BATTLE_MOB_DEFAULT": {
+        "Type": "int32",
+        "Value": "300001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TEST_BATTLE_MOBGROUP_DEFAULT": {
+        "Type": "int32",
+        "Value": "30000101",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TEST_BATTLE_PC_DEFAULT": {
+        "Type": "int32",
+        "Value": "100001",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TEST_DIALOG_GROUP_ID": {
+        "Type": "int32",
+        "Value": "211539",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TEST_LEVEL_ID": {
+        "Type": "int32",
+        "Value": "9999901",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TEST_MOB_GROUP1": {
+        "Type": "int32",
+        "Value": "30000101",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TEST_MOB_GROUP2": {
+        "Type": "int32",
+        "Value": "30000201",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TEST_MOB_GROUP3": {
+        "Type": "int32",
+        "Value": "30000301",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TIME_OFFSET": {
+        "Type": "int32",
+        "Value": "9",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TOD_DEFAULT_TIME": {
+        "Type": "int32",
+        "Value": "1700",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TOD_TIME_BASE": {
+        "Type": "int32",
+        "Value": "60000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TURN_MAX": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TURN_MIN": {
+        "Type": "int32",
+        "Value": "-100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "TURN_REMAIN_TIME": {
+        "Type": "int32",
+        "Value": "0",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "UI_BUTTON_PRESS_TIME_INTERVAL": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "UNFAVORABLE_ABIL_PROB_FACTOR_RATIO": {
+        "Type": "int32",
+        "Value": "10000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "UNFAVORABLE_DAMAGE_FACTOR_RATIO": {
+        "Type": "int32",
+        "Value": "10000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "UNFAVORABLE_MISS_RATE": {
+        "Type": "int32",
+        "Value": "5000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "USER_BIRTH_CHANGE_DAY": {
+        "Type": "int32",
+        "Value": "365",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "USER_GENDER_CHANGE_DAY": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "USER_NAME_CHANGE_DAY": {
+        "Type": "int32",
+        "Value": "90",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "USER_NAME_TEXT_COUNT_MAX": {
+        "Type": "int32",
+        "Value": "16",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "USER_NAME_TEXT_COUNT_MIN": {
+        "Type": "int32",
+        "Value": "2",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "USER_NICKNAME_INPUT_COUNT": {
+        "Type": "int32",
+        "Value": "8",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "USER_PROFILE_TEXT_COUNT_LIMIT": {
+        "Type": "int32",
+        "Value": "100",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "VOICE_OVERWRITE_CLASS": {
+        "Type": "string",
+        "Value": "Voice_Main",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "WAVE_START_TIME": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "WAVE_START_TIME2": {
+        "Type": "int32",
+        "Value": "1",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "WEEKLY_RESET_DAY": {
+        "Type": "int32",
+        "Value": "3",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "WORLDMAP_DEFAULT_MAP_ID": {
+        "Type": "int32",
+        "Value": "1010101",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "WORLDMAP_OBJECT_LANDMARK": {
+        "Type": "int32",
+        "Value": "103109101",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "WORLDMAP_SCALE_BUTTON_COUNT": {
+        "Type": "int32",
+        "Value": "10",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "WORLDMAP_SCALE_CONSTANT": {
+        "Type": "int32",
+        "Value": "20000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "WORLDMAP_SCALE_DEFAULT": {
+        "Type": "int32",
+        "Value": "32500",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "WORLDMAP_SCALE_MAX": {
+        "Type": "int32",
+        "Value": "50000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "WORLDMAP_SCALE_MIN": {
+        "Type": "int32",
+        "Value": "13000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      },
+      "WORLDMAP_SCALE_RADIUS": {
+        "Type": "int32",
+        "Value": "530000",
+        "SUPPLY_FREE_COUNT": 0,
+        "SUPPLY_ADD_COUNT": 0
+      }
+    }
+  }
+]

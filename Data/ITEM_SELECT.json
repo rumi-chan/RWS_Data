@@ -1,0 +1,551 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ITEM_SELECT",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBITEM_SELECT'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "612010101": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010101,
+        "ITEM_ID": 321015001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010101,
+        "PROB": 1000000
+      },
+      "612010102": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010101,
+        "ITEM_ID": 321015003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010103,
+        "PROB": 1000000
+      },
+      "612010103": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010101,
+        "ITEM_ID": 321025002,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010107,
+        "PROB": 1000000
+      },
+      "612010104": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010101,
+        "ITEM_ID": 321055002,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010112,
+        "PROB": 1000000
+      },
+      "612010105": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010101,
+        "ITEM_ID": 321035001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010108,
+        "PROB": 1000000
+      },
+      "612010106": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010101,
+        "ITEM_ID": 321015002,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010102,
+        "PROB": 1000000
+      },
+      "612010107": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010101,
+        "ITEM_ID": 321015007,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010115,
+        "PROB": 1000000
+      },
+      "612010108": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010101,
+        "ITEM_ID": 321015004,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010113,
+        "PROB": 1000000
+      },
+      "612010109": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010101,
+        "ITEM_ID": 321045001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010114,
+        "PROB": 1000000
+      },
+      "612010110": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010101,
+        "ITEM_ID": 321015008,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010116,
+        "PROB": 1000000
+      },
+      "612010111": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010101,
+        "ITEM_ID": 321045003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010117,
+        "PROB": 1000000
+      },
+      "612010112": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010101,
+        "ITEM_ID": 321035003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010118,
+        "PROB": 1000000
+      },
+      "612010113": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010101,
+        "ITEM_ID": 321045004,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010119,
+        "PROB": 1000000
+      },
+      "612010114": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010101,
+        "ITEM_ID": 321025003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010120,
+        "PROB": 1000000
+      },
+      "612010115": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010101,
+        "ITEM_ID": 321055003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010121,
+        "PROB": 1000000
+      },
+      "612010201": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010201,
+        "ITEM_ID": 321015001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010101,
+        "PROB": 1000000
+      },
+      "612010202": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010201,
+        "ITEM_ID": 321015003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010103,
+        "PROB": 1000000
+      },
+      "612010203": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010201,
+        "ITEM_ID": 321025002,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010107,
+        "PROB": 1000000
+      },
+      "612010204": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010201,
+        "ITEM_ID": 321055002,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010112,
+        "PROB": 1000000
+      },
+      "612010205": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010201,
+        "ITEM_ID": 321035001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010108,
+        "PROB": 1000000
+      },
+      "612010206": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010201,
+        "ITEM_ID": 321015002,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010102,
+        "PROB": 1000000
+      },
+      "612010207": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010201,
+        "ITEM_ID": 321015007,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010115,
+        "PROB": 1000000
+      },
+      "612010208": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010201,
+        "ITEM_ID": 321045003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010117,
+        "PROB": 1000000
+      },
+      "612010209": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010201,
+        "ITEM_ID": 321035003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010118,
+        "PROB": 1000000
+      },
+      "612010210": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010201,
+        "ITEM_ID": 321045004,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010119,
+        "PROB": 1000000
+      },
+      "612010211": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612010201,
+        "ITEM_ID": 321055003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612010121,
+        "PROB": 1000000
+      },
+      "612020101": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612020101,
+        "ITEM_ID": 321015001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 79545
+      },
+      "612020102": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612020101,
+        "ITEM_ID": 321015003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 79545
+      },
+      "612020103": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612020101,
+        "ITEM_ID": 321025002,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 79545
+      },
+      "612020104": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612020101,
+        "ITEM_ID": 321055002,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 79545
+      },
+      "612020105": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612020101,
+        "ITEM_ID": 321035001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 79545
+      },
+      "612020106": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612020101,
+        "ITEM_ID": 321015002,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 79545
+      },
+      "612020107": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612020101,
+        "ITEM_ID": 321015007,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 79545
+      },
+      "612020108": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612020101,
+        "ITEM_ID": 321045003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 79545
+      },
+      "612020109": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612020101,
+        "ITEM_ID": 321035003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 79545
+      },
+      "612020110": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612020101,
+        "ITEM_ID": 321045004,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 79545
+      },
+      "612020201": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612020101,
+        "ITEM_ID": 321055003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 79550
+      },
+      "612020202": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612020101,
+        "ITEM_ID": 321015004,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 31250
+      },
+      "612020203": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612020101,
+        "ITEM_ID": 321045001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 31250
+      },
+      "612020204": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612020101,
+        "ITEM_ID": 321015008,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 31250
+      },
+      "612020205": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612020101,
+        "ITEM_ID": 321025003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 31250
+      },
+      "612030101": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612030101,
+        "ITEM_ID": 321014001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612030101,
+        "PROB": 1000000
+      },
+      "612030102": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612030101,
+        "ITEM_ID": 321014002,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612030102,
+        "PROB": 1000000
+      },
+      "612030103": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612030101,
+        "ITEM_ID": 321014003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612030103,
+        "PROB": 1000000
+      },
+      "612030104": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612030101,
+        "ITEM_ID": 321014004,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612030104,
+        "PROB": 1000000
+      },
+      "612030105": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612030101,
+        "ITEM_ID": 321024001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612030105,
+        "PROB": 1000000
+      },
+      "612030106": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612030101,
+        "ITEM_ID": 321024003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612030106,
+        "PROB": 1000000
+      },
+      "612030107": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612030101,
+        "ITEM_ID": 321034001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612030107,
+        "PROB": 1000000
+      },
+      "612030108": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612030101,
+        "ITEM_ID": 321034002,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612030108,
+        "PROB": 1000000
+      },
+      "612030109": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612030101,
+        "ITEM_ID": 321044001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612030109,
+        "PROB": 1000000
+      },
+      "612030110": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612030101,
+        "ITEM_ID": 321044002,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612030110,
+        "PROB": 1000000
+      },
+      "612030111": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612030101,
+        "ITEM_ID": 321054001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612030111,
+        "PROB": 1000000
+      },
+      "612030112": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612030101,
+        "ITEM_ID": 321054002,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612030112,
+        "PROB": 1000000
+      },
+      "612030113": {
+        "Type": "ENBItemSelectType::Select",
+        "GROUP_ID": 612030101,
+        "ITEM_ID": 321024004,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 612030113,
+        "PROB": 1000000
+      },
+      "612040101": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612040101,
+        "ITEM_ID": 321014001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "612040102": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612040101,
+        "ITEM_ID": 321014002,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "612040103": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612040101,
+        "ITEM_ID": 321014003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "612040104": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612040101,
+        "ITEM_ID": 321014004,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "612040105": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612040101,
+        "ITEM_ID": 321024001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "612040106": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612040101,
+        "ITEM_ID": 321024003,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "612040107": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612040101,
+        "ITEM_ID": 321034001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "612040108": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612040101,
+        "ITEM_ID": 321034002,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "612040109": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612040101,
+        "ITEM_ID": 321044001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "612040110": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612040101,
+        "ITEM_ID": 321044002,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "612040111": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612040101,
+        "ITEM_ID": 321054001,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "612040112": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612040101,
+        "ITEM_ID": 321054002,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "612040113": {
+        "Type": "ENBItemSelectType::Random",
+        "GROUP_ID": 612040101,
+        "ITEM_ID": 321024004,
+        "ITEM_QTY": 1,
+        "SHORTCUT_ID": 0,
+        "PROB": 76924
+      }
+    }
+  }
+]

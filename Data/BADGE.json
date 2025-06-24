@@ -1,0 +1,355 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "BADGE",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBBADGE'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "100001": {
+        "Name": "PC_NAME_100001",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Player_W_Sprite"
+      },
+      "100002": {
+        "Name": "PC_NAME_100002",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Serie_Sprite"
+      },
+      "100003": {
+        "Name": "PC_NAME_100003",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Jeremiah_Sprite"
+      },
+      "100004": {
+        "Name": "PC_NAME_100004",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Theodore_Sprite"
+      },
+      "100005": {
+        "Name": "PC_NAME_100005",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Lilia_Sprite"
+      },
+      "100006": {
+        "Name": "PC_NAME_100006",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Lixiang_Sprite"
+      },
+      "100007": {
+        "Name": "PC_NAME_100007",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Yuri_Sprite"
+      },
+      "100008": {
+        "Name": "PC_NAME_100008",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Xeon_Sprite"
+      },
+      "100009": {
+        "Name": "PC_NAME_100009",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Kana_Sprite"
+      },
+      "100010": {
+        "Name": "PC_NAME_100010",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Ferrancy_Sprite"
+      },
+      "100011": {
+        "Name": "PC_NAME_100011",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Bernice_Sprite"
+      },
+      "100012": {
+        "Name": "PC_NAME_100012",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Shutein_Sprite"
+      },
+      "100013": {
+        "Name": "PC_NAME_100013",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Artnis_Sprite"
+      },
+      "100014": {
+        "Name": "PC_NAME_100014",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Roussin_Sprite"
+      },
+      "100015": {
+        "Name": "PC_NAME_100015",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Chloe_Sprite"
+      },
+      "100016": {
+        "Name": "PC_NAME_100016",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Lucas_Sprite"
+      },
+      "100017": {
+        "Name": "PC_NAME_100017",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Isania_Sprite"
+      },
+      "100018": {
+        "Name": "PC_NAME_100018",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Pluto_Sprite"
+      },
+      "100019": {
+        "Name": "PC_NAME_100019",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Monica_Sprite"
+      },
+      "100020": {
+        "Name": "PC_NAME_100020",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Rampart_Sprite"
+      },
+      "100021": {
+        "Name": "PC_NAME_100021",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Hajin_Sprite"
+      },
+      "100022": {
+        "Name": "PC_NAME_100022",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Sacha_Sprite"
+      },
+      "100023": {
+        "Name": "PC_NAME_100023",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Beatrice_Sprite"
+      },
+      "100024": {
+        "Name": "PC_NAME_100024",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Diana_Sprite"
+      },
+      "100025": {
+        "Name": "PC_NAME_100025",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Chesha_Sprite"
+      },
+      "100026": {
+        "Name": "PC_NAME_100026",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Priscilia_Sprite"
+      },
+      "100027": {
+        "Name": "PC_NAME_100027",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Ravi_Sprite"
+      },
+      "100028": {
+        "Name": "PC_NAME_100028",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Libertas_Sprite"
+      },
+      "100029": {
+        "Name": "PC_NAME_100029",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Enas_Sprite"
+      },
+      "100030": {
+        "Name": "PC_NAME_100030",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Ivy_Sprite"
+      },
+      "100031": {
+        "Name": "PC_NAME_100001",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Player_Sprite"
+      },
+      "100032": {
+        "Name": "PC_NAME_100031",
+        "Desc": "",
+        "RESOURCE": "Icon_Badge_Machina_Sprite"
+      },
+      "200001": {
+        "Name": "BADGE_NAME_200001",
+        "Desc": "BADGE_DESC_200001",
+        "RESOURCE": "Icon_Badge_VicariousMe_Sprite"
+      },
+      "200002": {
+        "Name": "BADGE_NAME_200002",
+        "Desc": "BADGE_DESC_200002",
+        "RESOURCE": "Icon_Badge_StopJeremiah_Sprite"
+      },
+      "200003": {
+        "Name": "BADGE_NAME_200003",
+        "Desc": "BADGE_DESC_200003",
+        "RESOURCE": "Icon_Badge_DetectiveChickReasoning_Sprite"
+      },
+      "200004": {
+        "Name": "BADGE_NAME_200004",
+        "Desc": "BADGE_DESC_200004",
+        "RESOURCE": "Icon_Badge_MaybeMaroron_Sprite"
+      },
+      "200005": {
+        "Name": "BADGE_NAME_200005",
+        "Desc": "BADGE_DESC_200005",
+        "RESOURCE": "Icon_Badge_DetectiveDuo_Sprite"
+      },
+      "200006": {
+        "Name": "BADGE_NAME_200006",
+        "Desc": "BADGE_DESC_200006",
+        "RESOURCE": "Icon_Badge_ChloeNightMarket_Sprite"
+      },
+      "200007": {
+        "Name": "BADGE_NAME_200007",
+        "Desc": "BADGE_DESC_200007",
+        "RESOURCE": "Icon_Badge_NightQueen_Sprite"
+      },
+      "200008": {
+        "Name": "BADGE_NAME_200008",
+        "Desc": "BADGE_DESC_200008",
+        "RESOURCE": "Icon_Badge_WitchAlcyone_Sprite"
+      },
+      "200009": {
+        "Name": "BADGE_NAME_200009",
+        "Desc": "BADGE_DESC_200009",
+        "RESOURCE": "Icon_Badge_WitchTaygeta_Sprite"
+      },
+      "200010": {
+        "Name": "BADGE_NAME_200010",
+        "Desc": "BADGE_DESC_200010",
+        "RESOURCE": "Icon_Badge_RafiaAvatar_Sprite"
+      },
+      "200011": {
+        "Name": "BADGE_NAME_200011",
+        "Desc": "BADGE_DESC_200011",
+        "RESOURCE": "Icon_Badge_MonicaSkin01_Sprite"
+      },
+      "200012": {
+        "Name": "BADGE_NAME_200012",
+        "Desc": "BADGE_DESC_200012",
+        "RESOURCE": "Icon_Badge_PlutoSkin01_Sprite"
+      },
+      "200013": {
+        "Name": "BADGE_NAME_200013",
+        "Desc": "BADGE_DESC_200013",
+        "RESOURCE": "Icon_Badge_IsaniaSkin01_Sprite"
+      },
+      "200014": {
+        "Name": "BADGE_NAME_200014",
+        "Desc": "BADGE_DESC_200014",
+        "RESOURCE": "Icon_Badge_DianaTea_Sprite"
+      },
+      "200015": {
+        "Name": "BADGE_NAME_200015",
+        "Desc": "BADGE_DESC_200015",
+        "RESOURCE": "Icon_Badge_CheshaThread_Sprite"
+      },
+      "200016": {
+        "Name": "BADGE_NAME_200016",
+        "Desc": "BADGE_DESC_200016",
+        "RESOURCE": "Icon_Badge_CheshaSkin01_Sprite"
+      },
+      "200017": {
+        "Name": "BADGE_NAME_200017",
+        "Desc": "BADGE_DESC_200017",
+        "RESOURCE": "Icon_Badge_ArtnisSkin01_Sprite"
+      },
+      "200018": {
+        "Name": "BADGE_NAME_200018",
+        "Desc": "BADGE_DESC_200018",
+        "RESOURCE": "Icon_Badge_Artnis_DressSkin01_Sprite"
+      },
+      "200019": {
+        "Name": "BADGE_NAME_200019",
+        "Desc": "BADGE_DESC_200019",
+        "RESOURCE": "Icon_Badge_JeremiahSkin01_Sprite"
+      },
+      "200020": {
+        "Name": "BADGE_NAME_200020",
+        "Desc": "BADGE_DESC_200020",
+        "RESOURCE": "Icon_Badge_YuriSkin01_Sprite"
+      },
+      "200021": {
+        "Name": "BADGE_NAME_200021",
+        "Desc": "BADGE_DESC_200021",
+        "RESOURCE": "Icon_Badge_trustmeYuri_Sprite"
+      },
+      "200022": {
+        "Name": "BADGE_NAME_200022",
+        "Desc": "BADGE_DESC_200022",
+        "RESOURCE": "Icon_Badge_Bunny_girl_Diana_Sprite"
+      },
+      "200023": {
+        "Name": "BADGE_NAME_200023",
+        "Desc": "BADGE_DESC_200023",
+        "RESOURCE": "Icon_Badge_Priscilia_SD_01_Sprite"
+      },
+      "200024": {
+        "Name": "BADGE_NAME_200024",
+        "Desc": "BADGE_DESC_200024",
+        "RESOURCE": "Icon_Badge_Ravi_SD_01_Sprite"
+      },
+      "200025": {
+        "Name": "BADGE_NAME_200025",
+        "Desc": "BADGE_DESC_200025",
+        "RESOURCE": "Icon_Badge_RaviSkin_SD_01_Sprite"
+      },
+      "200026": {
+        "Name": "BADGE_NAME_200026",
+        "Desc": "BADGE_DESC_200026",
+        "RESOURCE": "Icon_Badge_ChloeSkin_SD_01_Sprite"
+      },
+      "200027": {
+        "Name": "BADGE_NAME_200027",
+        "Desc": "BADGE_DESC_200027",
+        "RESOURCE": "Icon_Badge_ShuteinSkin_SD_01_Sprite"
+      },
+      "200028": {
+        "Name": "BADGE_NAME_200028",
+        "Desc": "BADGE_DESC_200028",
+        "RESOURCE": "Icon_Badge_PrisciliaSkin_SD_01_Sprite"
+      },
+      "200029": {
+        "Name": "BADGE_NAME_200029",
+        "Desc": "BADGE_DESC_200029",
+        "RESOURCE": "Icon_Badge_FerrancySkin01_Sprite"
+      },
+      "200030": {
+        "Name": "BADGE_NAME_200030",
+        "Desc": "BADGE_DESC_200030",
+        "RESOURCE": "Icon_Badge_RampartSkin_SD_01_Sprite"
+      },
+      "200031": {
+        "Name": "BADGE_NAME_200031",
+        "Desc": "BADGE_DESC_200031",
+        "RESOURCE": "Icon_Badge_Libertas_SD_01_Sprite"
+      },
+      "200032": {
+        "Name": "BADGE_NAME_200032",
+        "Desc": "BADGE_DESC_200032",
+        "RESOURCE": "Icon_Badge_EnasSkin_SD_01_Sprite"
+      },
+      "200033": {
+        "Name": "BADGE_NAME_200033",
+        "Desc": "BADGE_DESC_200033",
+        "RESOURCE": "Icon_Badge_BeatriceSkin02_Sprite"
+      },
+      "200034": {
+        "Name": "BADGE_NAME_200034",
+        "Desc": "BADGE_DESC_200034",
+        "RESOURCE": "Icon_Badge_LucasSkin01_Sprite"
+      },
+      "200035": {
+        "Name": "BADGE_NAME_200035",
+        "Desc": "BADGE_DESC_200035",
+        "RESOURCE": "Icon_Badge_IvySkin01_Sprite"
+      },
+      "200036": {
+        "Name": "BADGE_NAME_200036",
+        "Desc": "BADGE_DESC_200036",
+        "RESOURCE": "Icon_Badge_MachinaSkin01_Sprite"
+      }
+    }
+  }
+]

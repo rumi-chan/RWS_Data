@@ -1,0 +1,120 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "FISHING_GROUP",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBFISHING_GROUP'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "700001": {
+        "ID": 0,
+        "Name": "LEVEL_FISHING_NAME_700001",
+        "Description": "LEVEL_FISHING_DESC_700001",
+        "RESOURCE": "TestFishingGroup",
+        "INTERACTION_DISTANCE": 500,
+        "DISTANCE_CORRECTION": 600,
+        "MAXIMUM_POINT": 10,
+        "FISH_ID_1": 205011001,
+        "FISH_ID_2": 205011002,
+        "FISH_ID_3": 205011003,
+        "FISH_ID_4": 205011004,
+        "FISH_ID_5": 205011005,
+        "FISH_ID_6": 0
+      },
+      "700002": {
+        "ID": 0,
+        "Name": "LEVEL_FISHING_NAME_700002",
+        "Description": "LEVEL_FISHING_DESC_700002",
+        "RESOURCE": "TestFishingGroup",
+        "INTERACTION_DISTANCE": 730,
+        "DISTANCE_CORRECTION": 800,
+        "MAXIMUM_POINT": 10,
+        "FISH_ID_1": 205011001,
+        "FISH_ID_2": 205011002,
+        "FISH_ID_3": 205011003,
+        "FISH_ID_4": 205011004,
+        "FISH_ID_5": 205011005,
+        "FISH_ID_6": 0
+      },
+      "700003": {
+        "ID": 0,
+        "Name": "LEVEL_FISHING_NAME_700003",
+        "Description": "LEVEL_FISHING_DESC_700003",
+        "RESOURCE": "TestFishingGroup",
+        "INTERACTION_DISTANCE": 700,
+        "DISTANCE_CORRECTION": 750,
+        "MAXIMUM_POINT": 10,
+        "FISH_ID_1": 205011001,
+        "FISH_ID_2": 205011002,
+        "FISH_ID_3": 205011003,
+        "FISH_ID_4": 205011004,
+        "FISH_ID_5": 205011006,
+        "FISH_ID_6": 0
+      },
+      "700004": {
+        "ID": 0,
+        "Name": "LEVEL_FISHING_NAME_700004",
+        "Description": "LEVEL_FISHING_DESC_700004",
+        "RESOURCE": "TestFishingGroup",
+        "INTERACTION_DISTANCE": 900,
+        "DISTANCE_CORRECTION": 850,
+        "MAXIMUM_POINT": 10,
+        "FISH_ID_1": 205011001,
+        "FISH_ID_2": 205011002,
+        "FISH_ID_3": 205011003,
+        "FISH_ID_4": 205011005,
+        "FISH_ID_5": 205011006,
+        "FISH_ID_6": 0
+      },
+      "700005": {
+        "ID": 0,
+        "Name": "LEVEL_FISHING_NAME_700005",
+        "Description": "LEVEL_FISHING_DESC_700005",
+        "RESOURCE": "TestFishingGroup",
+        "INTERACTION_DISTANCE": 650,
+        "DISTANCE_CORRECTION": 700,
+        "MAXIMUM_POINT": 10,
+        "FISH_ID_1": 205011001,
+        "FISH_ID_2": 205011002,
+        "FISH_ID_3": 205011003,
+        "FISH_ID_4": 205011004,
+        "FISH_ID_5": 205011006,
+        "FISH_ID_6": 0
+      },
+      "700006": {
+        "ID": 0,
+        "Name": "LEVEL_FISHING_NAME_700006",
+        "Description": "LEVEL_FISHING_DESC_700006",
+        "RESOURCE": "TestFishingGroup",
+        "INTERACTION_DISTANCE": 600,
+        "DISTANCE_CORRECTION": 700,
+        "MAXIMUM_POINT": 10,
+        "FISH_ID_1": 205011001,
+        "FISH_ID_2": 205011002,
+        "FISH_ID_3": 205011003,
+        "FISH_ID_4": 205011005,
+        "FISH_ID_5": 205011006,
+        "FISH_ID_6": 0
+      },
+      "700007": {
+        "ID": 0,
+        "Name": "LEVEL_FISHING_NAME_700007",
+        "Description": "LEVEL_FISHING_DESC_700007",
+        "RESOURCE": "TestFishingGroup",
+        "INTERACTION_DISTANCE": 500,
+        "DISTANCE_CORRECTION": 850,
+        "MAXIMUM_POINT": 10,
+        "FISH_ID_1": 205011001,
+        "FISH_ID_2": 205011002,
+        "FISH_ID_3": 205011003,
+        "FISH_ID_4": 205011004,
+        "FISH_ID_5": 205011006,
+        "FISH_ID_6": 0
+      }
+    }
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "QUEST_MAIN_NOTICE",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBQUEST_MAIN_NOTICE'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1001": {
+        "Icon": "T_UI_Alert_Stellarium",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Alert/T_UI_Alert_Stellarium.T_UI_Alert_Stellarium",
+          "SubPathString": ""
+        },
+        "ACT_LOCAL": "ACT_LOCAL_1001",
+        "CHAPTER_LOCAL": "CHAPTER_LOCAL_1001",
+        "TITLE_LOCAL": "TITLE_LOCAL_1001",
+        "QUEST_TYPE": "ENBQuestType::All"
+      },
+      "1002": {
+        "Icon": "T_UI_Alert_Pereus",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Alert/T_UI_Alert_Pereus.T_UI_Alert_Pereus",
+          "SubPathString": ""
+        },
+        "ACT_LOCAL": "ACT_LOCAL_1002",
+        "CHAPTER_LOCAL": "CHAPTER_LOCAL_1002",
+        "TITLE_LOCAL": "TITLE_LOCAL_1002",
+        "QUEST_TYPE": "ENBQuestType::All"
+      },
+      "1003": {
+        "Icon": "T_UI_Alert_Pereus",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Alert/T_UI_Alert_Pereus.T_UI_Alert_Pereus",
+          "SubPathString": ""
+        },
+        "ACT_LOCAL": "ACT_LOCAL_1003",
+        "CHAPTER_LOCAL": "CHAPTER_LOCAL_1003",
+        "TITLE_LOCAL": "TITLE_LOCAL_1003",
+        "QUEST_TYPE": "ENBQuestType::All"
+      },
+      "1004": {
+        "Icon": "T_UI_Alert_Pereus",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Alert/T_UI_Alert_Pereus.T_UI_Alert_Pereus",
+          "SubPathString": ""
+        },
+        "ACT_LOCAL": "ACT_LOCAL_1004",
+        "CHAPTER_LOCAL": "CHAPTER_LOCAL_1004",
+        "TITLE_LOCAL": "TITLE_LOCAL_1004",
+        "QUEST_TYPE": "ENBQuestType::All"
+      },
+      "1005": {
+        "Icon": "T_UI_Alert_Pereus",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Alert/T_UI_Alert_Pereus.T_UI_Alert_Pereus",
+          "SubPathString": ""
+        },
+        "ACT_LOCAL": "ACT_LOCAL_1005",
+        "CHAPTER_LOCAL": "CHAPTER_LOCAL_1005",
+        "TITLE_LOCAL": "TITLE_LOCAL_1005",
+        "QUEST_TYPE": "ENBQuestType::All"
+      },
+      "1006": {
+        "Icon": "T_UI_Alert_Pereus",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Alert/T_UI_Alert_Pereus.T_UI_Alert_Pereus",
+          "SubPathString": ""
+        },
+        "ACT_LOCAL": "ACT_LOCAL_1006",
+        "CHAPTER_LOCAL": "CHAPTER_LOCAL_1006",
+        "TITLE_LOCAL": "TITLE_LOCAL_1006",
+        "QUEST_TYPE": "ENBQuestType::All"
+      },
+      "1007": {
+        "Icon": "T_UI_Alert_Pereus",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Alert/T_UI_Alert_Pereus.T_UI_Alert_Pereus",
+          "SubPathString": ""
+        },
+        "ACT_LOCAL": "ACT_LOCAL_1007",
+        "CHAPTER_LOCAL": "CHAPTER_LOCAL_1007",
+        "TITLE_LOCAL": "TITLE_LOCAL_1007",
+        "QUEST_TYPE": "ENBQuestType::All"
+      },
+      "1008": {
+        "Icon": "T_UI_Alert_Pereus",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Alert/T_UI_Alert_Pereus.T_UI_Alert_Pereus",
+          "SubPathString": ""
+        },
+        "ACT_LOCAL": "ACT_LOCAL_1008",
+        "CHAPTER_LOCAL": "CHAPTER_LOCAL_1008",
+        "TITLE_LOCAL": "TITLE_LOCAL_1008",
+        "QUEST_TYPE": "ENBQuestType::All"
+      },
+      "1009": {
+        "Icon": "T_UI_Alert_Pereus",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Alert/T_UI_Alert_Pereus.T_UI_Alert_Pereus",
+          "SubPathString": ""
+        },
+        "ACT_LOCAL": "ACT_LOCAL_1009",
+        "CHAPTER_LOCAL": "CHAPTER_LOCAL_1009",
+        "TITLE_LOCAL": "TITLE_LOCAL_1009",
+        "QUEST_TYPE": "ENBQuestType::All"
+      },
+      "2001": {
+        "Icon": "T_UI_Alert_Pereus",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Alert/T_UI_Alert_Pereus.T_UI_Alert_Pereus",
+          "SubPathString": ""
+        },
+        "ACT_LOCAL": "END_ACT_LOCAL_2001",
+        "CHAPTER_LOCAL": "END_CHAPTER_LOCAL_2001",
+        "TITLE_LOCAL": "END_TITLE_LOCAL_2001",
+        "QUEST_TYPE": "ENBQuestType::All"
+      },
+      "2002": {
+        "Icon": "T_UI_Alert_Pereus",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Alert/T_UI_Alert_Pereus.T_UI_Alert_Pereus",
+          "SubPathString": ""
+        },
+        "ACT_LOCAL": "END_ACT_LOCAL_2002",
+        "CHAPTER_LOCAL": "END_CHAPTER_LOCAL_2002",
+        "TITLE_LOCAL": "END_TITLE_LOCAL_2002",
+        "QUEST_TYPE": "ENBQuestType::Special"
+      },
+      "2003": {
+        "Icon": "T_UI_Alert_Pereus",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Alert/T_UI_Alert_Pereus.T_UI_Alert_Pereus",
+          "SubPathString": ""
+        },
+        "ACT_LOCAL": "END_ACT_LOCAL_2003",
+        "CHAPTER_LOCAL": "END_CHAPTER_LOCAL_2003",
+        "TITLE_LOCAL": "END_TITLE_LOCAL_2003",
+        "QUEST_TYPE": "ENBQuestType::Special"
+      },
+      "2004": {
+        "Icon": "T_UI_Alert_Pereus",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Alert/T_UI_Alert_Pereus.T_UI_Alert_Pereus",
+          "SubPathString": ""
+        },
+        "ACT_LOCAL": "END_ACT_LOCAL_2004",
+        "CHAPTER_LOCAL": "END_CHAPTER_LOCAL_2004",
+        "TITLE_LOCAL": "END_TITLE_LOCAL_2004",
+        "QUEST_TYPE": "ENBQuestType::All"
+      }
+    }
+  }
+]

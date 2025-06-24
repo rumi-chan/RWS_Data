@@ -1,0 +1,279 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "PROPER_NOUN",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBPROPER_NOUN'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1001": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1001",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1001",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1002,
+        "RELATE_ID2": 1005,
+        "RELATE_ID3": 1010
+      },
+      "1002": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1002",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1002",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1001,
+        "RELATE_ID2": 1004,
+        "RELATE_ID3": 1006
+      },
+      "1003": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1003",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1003",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1001,
+        "RELATE_ID2": 1005,
+        "RELATE_ID3": 0
+      },
+      "1004": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1004",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1004",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1002,
+        "RELATE_ID2": 1006,
+        "RELATE_ID3": 1007
+      },
+      "1005": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1005",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1005",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1001,
+        "RELATE_ID2": 1003,
+        "RELATE_ID3": 0
+      },
+      "1006": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1006",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1006",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1002,
+        "RELATE_ID2": 1004,
+        "RELATE_ID3": 1016
+      },
+      "1007": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1007",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1007",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1004,
+        "RELATE_ID2": 1006,
+        "RELATE_ID3": 1016
+      },
+      "1008": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1008",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1008",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1006,
+        "RELATE_ID2": 1016,
+        "RELATE_ID3": 1009
+      },
+      "1009": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1009",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1009",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1008,
+        "RELATE_ID2": 0,
+        "RELATE_ID3": 0
+      },
+      "1010": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1010",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1010",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1001,
+        "RELATE_ID2": 1003,
+        "RELATE_ID3": 1005
+      },
+      "1011": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1011",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1011",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1001,
+        "RELATE_ID2": 1010,
+        "RELATE_ID3": 0
+      },
+      "1012": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1012",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1012",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1010,
+        "RELATE_ID2": 1021,
+        "RELATE_ID3": 0
+      },
+      "1013": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1013",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1013",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1005,
+        "RELATE_ID2": 1006,
+        "RELATE_ID3": 1029
+      },
+      "1014": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1014",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1014",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1013,
+        "RELATE_ID2": 1016,
+        "RELATE_ID3": 0
+      },
+      "1015": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1015",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1015",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1005,
+        "RELATE_ID2": 0,
+        "RELATE_ID3": 0
+      },
+      "1016": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1016",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1016",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1006,
+        "RELATE_ID2": 1007,
+        "RELATE_ID3": 1017
+      },
+      "1017": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1017",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1017",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1006,
+        "RELATE_ID2": 1016,
+        "RELATE_ID3": 0
+      },
+      "1018": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1018",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1018",
+        "REQ_QUEST_COMPLETE": 111004,
+        "RELATE_ID1": 1005,
+        "RELATE_ID2": 1013,
+        "RELATE_ID3": 1029
+      },
+      "1019": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1019",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1019",
+        "REQ_QUEST_COMPLETE": 111008,
+        "RELATE_ID1": 1005,
+        "RELATE_ID2": 1010,
+        "RELATE_ID3": 1013
+      },
+      "1020": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1020",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1020",
+        "REQ_QUEST_COMPLETE": 111007,
+        "RELATE_ID1": 1013,
+        "RELATE_ID2": 0,
+        "RELATE_ID3": 0
+      },
+      "1021": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1021",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1021",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1005,
+        "RELATE_ID2": 1010,
+        "RELATE_ID3": 1014
+      },
+      "1022": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1022",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1022",
+        "REQ_QUEST_COMPLETE": 111006,
+        "RELATE_ID1": 1006,
+        "RELATE_ID2": 1016,
+        "RELATE_ID3": 1030
+      },
+      "1023": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1023",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1023",
+        "REQ_QUEST_COMPLETE": 111101,
+        "RELATE_ID1": 1005,
+        "RELATE_ID2": 0,
+        "RELATE_ID3": 0
+      },
+      "1024": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1024",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1024",
+        "REQ_QUEST_COMPLETE": 111105,
+        "RELATE_ID1": 1008,
+        "RELATE_ID2": 0,
+        "RELATE_ID3": 0
+      },
+      "1025": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1025",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1025",
+        "REQ_QUEST_COMPLETE": 111301,
+        "RELATE_ID1": 1005,
+        "RELATE_ID2": 1010,
+        "RELATE_ID3": 0
+      },
+      "1026": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1026",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1026",
+        "REQ_QUEST_COMPLETE": 111101,
+        "RELATE_ID1": 1023,
+        "RELATE_ID2": 1032,
+        "RELATE_ID3": 0
+      },
+      "1027": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1027",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1027",
+        "REQ_QUEST_COMPLETE": 111101,
+        "RELATE_ID1": 1023,
+        "RELATE_ID2": 0,
+        "RELATE_ID3": 0
+      },
+      "1028": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1028",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1028",
+        "REQ_QUEST_COMPLETE": 111101,
+        "RELATE_ID1": 1027,
+        "RELATE_ID2": 0,
+        "RELATE_ID3": 0
+      },
+      "1029": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1029",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1029",
+        "REQ_QUEST_COMPLETE": 111005,
+        "RELATE_ID1": 1005,
+        "RELATE_ID2": 1018,
+        "RELATE_ID3": 1013
+      },
+      "1030": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1030",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1030",
+        "REQ_QUEST_COMPLETE": 0,
+        "RELATE_ID1": 1010,
+        "RELATE_ID2": 1021,
+        "RELATE_ID3": 0
+      },
+      "1031": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1031",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1031",
+        "REQ_QUEST_COMPLETE": 111006,
+        "RELATE_ID1": 1018,
+        "RELATE_ID2": 1023,
+        "RELATE_ID3": 0
+      },
+      "1032": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1032",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1032",
+        "REQ_QUEST_COMPLETE": 111301,
+        "RELATE_ID1": 1023,
+        "RELATE_ID2": 1025,
+        "RELATE_ID3": 0
+      },
+      "1033": {
+        "PROPER_NOUN_NAME": "PROPER_NOUN_NAME_1033",
+        "PROPER_NOUN_DESC": "PROPER_NOUN_DESC_1033",
+        "REQ_QUEST_COMPLETE": 600005,
+        "RELATE_ID1": 0,
+        "RELATE_ID2": 0,
+        "RELATE_ID3": 0
+      }
+    }
+  }
+]

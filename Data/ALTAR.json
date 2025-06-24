@@ -1,0 +1,132 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ALTAR",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBALTAR'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1": {
+        "GROUP_ID": 101,
+        "LV": 1,
+        "REQ_ITEM_ID": 701015001,
+        "REQ_ITEM_QTY": 4,
+        "REQ_ITEM_ACCRUE": 4,
+        "REWARD_ID": 715010001,
+        "GUID_ID": 0
+      },
+      "10": {
+        "GROUP_ID": 101,
+        "LV": 10,
+        "REQ_ITEM_ID": 701015001,
+        "REQ_ITEM_QTY": 4,
+        "REQ_ITEM_ACCRUE": 40,
+        "REWARD_ID": 715010010,
+        "GUID_ID": 0
+      },
+      "11": {
+        "GROUP_ID": 101,
+        "LV": 11,
+        "REQ_ITEM_ID": 701015001,
+        "REQ_ITEM_QTY": 4,
+        "REQ_ITEM_ACCRUE": 44,
+        "REWARD_ID": 715010011,
+        "GUID_ID": 0
+      },
+      "12": {
+        "GROUP_ID": 101,
+        "LV": 12,
+        "REQ_ITEM_ID": 701015001,
+        "REQ_ITEM_QTY": 4,
+        "REQ_ITEM_ACCRUE": 48,
+        "REWARD_ID": 715010012,
+        "GUID_ID": 0
+      },
+      "13": {
+        "GROUP_ID": 101,
+        "LV": 13,
+        "REQ_ITEM_ID": 0,
+        "REQ_ITEM_QTY": 0,
+        "REQ_ITEM_ACCRUE": 0,
+        "REWARD_ID": 0,
+        "GUID_ID": 0
+      },
+      "2": {
+        "GROUP_ID": 101,
+        "LV": 2,
+        "REQ_ITEM_ID": 701015001,
+        "REQ_ITEM_QTY": 4,
+        "REQ_ITEM_ACCRUE": 8,
+        "REWARD_ID": 715010002,
+        "GUID_ID": 0
+      },
+      "3": {
+        "GROUP_ID": 101,
+        "LV": 3,
+        "REQ_ITEM_ID": 701015001,
+        "REQ_ITEM_QTY": 4,
+        "REQ_ITEM_ACCRUE": 12,
+        "REWARD_ID": 715010003,
+        "GUID_ID": 0
+      },
+      "4": {
+        "GROUP_ID": 101,
+        "LV": 4,
+        "REQ_ITEM_ID": 701015001,
+        "REQ_ITEM_QTY": 4,
+        "REQ_ITEM_ACCRUE": 16,
+        "REWARD_ID": 715010004,
+        "GUID_ID": 0
+      },
+      "5": {
+        "GROUP_ID": 101,
+        "LV": 5,
+        "REQ_ITEM_ID": 701015001,
+        "REQ_ITEM_QTY": 4,
+        "REQ_ITEM_ACCRUE": 20,
+        "REWARD_ID": 715010005,
+        "GUID_ID": 0
+      },
+      "6": {
+        "GROUP_ID": 101,
+        "LV": 6,
+        "REQ_ITEM_ID": 701015001,
+        "REQ_ITEM_QTY": 4,
+        "REQ_ITEM_ACCRUE": 24,
+        "REWARD_ID": 715010006,
+        "GUID_ID": 0
+      },
+      "7": {
+        "GROUP_ID": 101,
+        "LV": 7,
+        "REQ_ITEM_ID": 701015001,
+        "REQ_ITEM_QTY": 4,
+        "REQ_ITEM_ACCRUE": 28,
+        "REWARD_ID": 715010007,
+        "GUID_ID": 0
+      },
+      "8": {
+        "GROUP_ID": 101,
+        "LV": 8,
+        "REQ_ITEM_ID": 701015001,
+        "REQ_ITEM_QTY": 4,
+        "REQ_ITEM_ACCRUE": 32,
+        "REWARD_ID": 715010008,
+        "GUID_ID": 0
+      },
+      "9": {
+        "GROUP_ID": 101,
+        "LV": 9,
+        "REQ_ITEM_ID": 701015001,
+        "REQ_ITEM_QTY": 4,
+        "REQ_ITEM_ACCRUE": 36,
+        "REWARD_ID": 715010009,
+        "GUID_ID": 0
+      }
+    }
+  }
+]

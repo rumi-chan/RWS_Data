@@ -1,0 +1,375 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "SUPPLY_REWARD",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBSUPPLY_REWARD'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1001": {
+        "GROUP_ID": 10,
+        "SORT": 1,
+        "GET_TIME": 60000,
+        "REWARD": 710010110,
+        "Icon": "Icon_Currency_platinumCoin_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 20
+      },
+      "1002": {
+        "GROUP_ID": 10,
+        "SORT": 2,
+        "GET_TIME": 400000,
+        "REWARD": 710010210,
+        "Icon": "Icon_Item_Expbook_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "1003": {
+        "GROUP_ID": 10,
+        "SORT": 3,
+        "GET_TIME": 400000,
+        "REWARD": 710010310,
+        "Icon": "Icon_Item_Prism_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "101": {
+        "GROUP_ID": 1,
+        "SORT": 1,
+        "GET_TIME": 60000,
+        "REWARD": 710010101,
+        "Icon": "Icon_Currency_platinumCoin_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 11
+      },
+      "102": {
+        "GROUP_ID": 1,
+        "SORT": 2,
+        "GET_TIME": 869000,
+        "REWARD": 710010201,
+        "Icon": "Icon_Item_Expbook_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "103": {
+        "GROUP_ID": 1,
+        "SORT": 3,
+        "GET_TIME": 869000,
+        "REWARD": 710010301,
+        "Icon": "Icon_Item_Prism_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "201": {
+        "GROUP_ID": 2,
+        "SORT": 1,
+        "GET_TIME": 60000,
+        "REWARD": 710010102,
+        "Icon": "Icon_Currency_platinumCoin_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 12
+      },
+      "202": {
+        "GROUP_ID": 2,
+        "SORT": 2,
+        "GET_TIME": 769000,
+        "REWARD": 710010202,
+        "Icon": "Icon_Item_Expbook_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "203": {
+        "GROUP_ID": 2,
+        "SORT": 3,
+        "GET_TIME": 769000,
+        "REWARD": 710010302,
+        "Icon": "Icon_Item_Prism_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "301": {
+        "GROUP_ID": 3,
+        "SORT": 1,
+        "GET_TIME": 60000,
+        "REWARD": 710010103,
+        "Icon": "Icon_Currency_platinumCoin_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 13
+      },
+      "302": {
+        "GROUP_ID": 3,
+        "SORT": 2,
+        "GET_TIME": 689000,
+        "REWARD": 710010203,
+        "Icon": "Icon_Item_Expbook_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "303": {
+        "GROUP_ID": 3,
+        "SORT": 3,
+        "GET_TIME": 689000,
+        "REWARD": 710010303,
+        "Icon": "Icon_Item_Prism_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "401": {
+        "GROUP_ID": 4,
+        "SORT": 1,
+        "GET_TIME": 60000,
+        "REWARD": 710010104,
+        "Icon": "Icon_Currency_platinumCoin_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 14
+      },
+      "402": {
+        "GROUP_ID": 4,
+        "SORT": 2,
+        "GET_TIME": 625000,
+        "REWARD": 710010204,
+        "Icon": "Icon_Item_Expbook_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "403": {
+        "GROUP_ID": 4,
+        "SORT": 3,
+        "GET_TIME": 625000,
+        "REWARD": 710010304,
+        "Icon": "Icon_Item_Prism_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "501": {
+        "GROUP_ID": 5,
+        "SORT": 1,
+        "GET_TIME": 60000,
+        "REWARD": 710010105,
+        "Icon": "Icon_Currency_platinumCoin_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 15
+      },
+      "502": {
+        "GROUP_ID": 5,
+        "SORT": 2,
+        "GET_TIME": 571000,
+        "REWARD": 710010205,
+        "Icon": "Icon_Item_Expbook_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "503": {
+        "GROUP_ID": 5,
+        "SORT": 3,
+        "GET_TIME": 571000,
+        "REWARD": 710010305,
+        "Icon": "Icon_Item_Prism_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "601": {
+        "GROUP_ID": 6,
+        "SORT": 1,
+        "GET_TIME": 60000,
+        "REWARD": 710010106,
+        "Icon": "Icon_Currency_platinumCoin_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 16
+      },
+      "602": {
+        "GROUP_ID": 6,
+        "SORT": 2,
+        "GET_TIME": 526000,
+        "REWARD": 710010206,
+        "Icon": "Icon_Item_Expbook_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "603": {
+        "GROUP_ID": 6,
+        "SORT": 3,
+        "GET_TIME": 526000,
+        "REWARD": 710010306,
+        "Icon": "Icon_Item_Prism_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "701": {
+        "GROUP_ID": 7,
+        "SORT": 1,
+        "GET_TIME": 60000,
+        "REWARD": 710010107,
+        "Icon": "Icon_Currency_platinumCoin_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 17
+      },
+      "702": {
+        "GROUP_ID": 7,
+        "SORT": 2,
+        "GET_TIME": 487000,
+        "REWARD": 710010207,
+        "Icon": "Icon_Item_Expbook_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "703": {
+        "GROUP_ID": 7,
+        "SORT": 3,
+        "GET_TIME": 487000,
+        "REWARD": 710010307,
+        "Icon": "Icon_Item_Prism_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "801": {
+        "GROUP_ID": 8,
+        "SORT": 1,
+        "GET_TIME": 60000,
+        "REWARD": 710010108,
+        "Icon": "Icon_Currency_platinumCoin_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 18
+      },
+      "802": {
+        "GROUP_ID": 8,
+        "SORT": 2,
+        "GET_TIME": 454000,
+        "REWARD": 710010208,
+        "Icon": "Icon_Item_Expbook_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "803": {
+        "GROUP_ID": 8,
+        "SORT": 3,
+        "GET_TIME": 454000,
+        "REWARD": 710010308,
+        "Icon": "Icon_Item_Prism_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "901": {
+        "GROUP_ID": 9,
+        "SORT": 1,
+        "GET_TIME": 60000,
+        "REWARD": 710010109,
+        "Icon": "Icon_Currency_platinumCoin_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 19
+      },
+      "902": {
+        "GROUP_ID": 9,
+        "SORT": 2,
+        "GET_TIME": 425000,
+        "REWARD": 710010209,
+        "Icon": "Icon_Item_Expbook_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      },
+      "903": {
+        "GROUP_ID": 9,
+        "SORT": 3,
+        "GET_TIME": 425000,
+        "REWARD": 710010309,
+        "Icon": "Icon_Item_Prism_1_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SUPPLY_QTY": 1
+      }
+    }
+  }
+]

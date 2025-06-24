@@ -1,0 +1,547 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "PC_SELECT",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBPC_SELECT'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "611010101": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010101,
+        "PC_ID": 100011,
+        "SHORTCUT_ID": 7130501,
+        "PROB": 1000000
+      },
+      "611010102": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010101,
+        "PC_ID": 100013,
+        "SHORTCUT_ID": 7130502,
+        "PROB": 1000000
+      },
+      "611010103": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010101,
+        "PC_ID": 100015,
+        "SHORTCUT_ID": 7130503,
+        "PROB": 1000000
+      },
+      "611010104": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010101,
+        "PC_ID": 100019,
+        "SHORTCUT_ID": 7130504,
+        "PROB": 1000000
+      },
+      "611010201": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010201,
+        "PC_ID": 100011,
+        "SHORTCUT_ID": 611010201,
+        "PROB": 1000000
+      },
+      "611010202": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010201,
+        "PC_ID": 100013,
+        "SHORTCUT_ID": 611010202,
+        "PROB": 1000000
+      },
+      "611010203": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010201,
+        "PC_ID": 100015,
+        "SHORTCUT_ID": 611010203,
+        "PROB": 1000000
+      },
+      "611010204": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010201,
+        "PC_ID": 100019,
+        "SHORTCUT_ID": 611010204,
+        "PROB": 1000000
+      },
+      "611010205": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010201,
+        "PC_ID": 100017,
+        "SHORTCUT_ID": 611010205,
+        "PROB": 1000000
+      },
+      "611010206": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010201,
+        "PC_ID": 100008,
+        "SHORTCUT_ID": 611010206,
+        "PROB": 1000000
+      },
+      "611010207": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010201,
+        "PC_ID": 100010,
+        "SHORTCUT_ID": 611010207,
+        "PROB": 1000000
+      },
+      "611010208": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010201,
+        "PC_ID": 100023,
+        "SHORTCUT_ID": 611010208,
+        "PROB": 1000000
+      },
+      "611010209": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010201,
+        "PC_ID": 100025,
+        "SHORTCUT_ID": 611010209,
+        "PROB": 1000000
+      },
+      "611010210": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010201,
+        "PC_ID": 100024,
+        "SHORTCUT_ID": 611010210,
+        "PROB": 1000000
+      },
+      "611010211": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010201,
+        "PC_ID": 100027,
+        "SHORTCUT_ID": 611010211,
+        "PROB": 1000000
+      },
+      "611010212": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010201,
+        "PC_ID": 100026,
+        "SHORTCUT_ID": 611010212,
+        "PROB": 1000000
+      },
+      "611010213": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010201,
+        "PC_ID": 100028,
+        "SHORTCUT_ID": 611010213,
+        "PROB": 1000000
+      },
+      "611010214": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010201,
+        "PC_ID": 100029,
+        "SHORTCUT_ID": 611010214,
+        "PROB": 1000000
+      },
+      "611010301": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010301,
+        "PC_ID": 100011,
+        "SHORTCUT_ID": 611010201,
+        "PROB": 1000000
+      },
+      "611010302": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010301,
+        "PC_ID": 100013,
+        "SHORTCUT_ID": 611010202,
+        "PROB": 1000000
+      },
+      "611010303": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010301,
+        "PC_ID": 100015,
+        "SHORTCUT_ID": 611010203,
+        "PROB": 1000000
+      },
+      "611010304": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010301,
+        "PC_ID": 100019,
+        "SHORTCUT_ID": 611010204,
+        "PROB": 1000000
+      },
+      "611010305": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010301,
+        "PC_ID": 100017,
+        "SHORTCUT_ID": 611010205,
+        "PROB": 1000000
+      },
+      "611010306": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010301,
+        "PC_ID": 100023,
+        "SHORTCUT_ID": 611010208,
+        "PROB": 1000000
+      },
+      "611010307": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010301,
+        "PC_ID": 100024,
+        "SHORTCUT_ID": 611010210,
+        "PROB": 1000000
+      },
+      "611010308": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010301,
+        "PC_ID": 100027,
+        "SHORTCUT_ID": 611010211,
+        "PROB": 1000000
+      },
+      "611010309": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010301,
+        "PC_ID": 100026,
+        "SHORTCUT_ID": 611010212,
+        "PROB": 1000000
+      },
+      "611010310": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010301,
+        "PC_ID": 100029,
+        "SHORTCUT_ID": 611010214,
+        "PROB": 1000000
+      },
+      "611010401": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010401,
+        "PC_ID": 100008,
+        "SHORTCUT_ID": 611010206,
+        "PROB": 1000000
+      },
+      "611010402": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010401,
+        "PC_ID": 100010,
+        "SHORTCUT_ID": 611010207,
+        "PROB": 1000000
+      },
+      "611010403": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010401,
+        "PC_ID": 100025,
+        "SHORTCUT_ID": 611010209,
+        "PROB": 1000000
+      },
+      "611010404": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611010401,
+        "PC_ID": 100028,
+        "SHORTCUT_ID": 611010213,
+        "PROB": 1000000
+      },
+      "611020101": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020101,
+        "PC_ID": 100011,
+        "SHORTCUT_ID": 0,
+        "PROB": 87500
+      },
+      "611020102": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020101,
+        "PC_ID": 100013,
+        "SHORTCUT_ID": 0,
+        "PROB": 87500
+      },
+      "611020103": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020101,
+        "PC_ID": 100015,
+        "SHORTCUT_ID": 0,
+        "PROB": 87500
+      },
+      "611020104": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020101,
+        "PC_ID": 100019,
+        "SHORTCUT_ID": 0,
+        "PROB": 87500
+      },
+      "611020105": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020101,
+        "PC_ID": 100017,
+        "SHORTCUT_ID": 0,
+        "PROB": 87500
+      },
+      "611020106": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020101,
+        "PC_ID": 100023,
+        "SHORTCUT_ID": 0,
+        "PROB": 87500
+      },
+      "611020107": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020101,
+        "PC_ID": 100024,
+        "SHORTCUT_ID": 0,
+        "PROB": 87500
+      },
+      "611020108": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020101,
+        "PC_ID": 100027,
+        "SHORTCUT_ID": 0,
+        "PROB": 87500
+      },
+      "611020109": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020101,
+        "PC_ID": 100026,
+        "SHORTCUT_ID": 0,
+        "PROB": 87500
+      },
+      "611020110": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020101,
+        "PC_ID": 100029,
+        "SHORTCUT_ID": 0,
+        "PROB": 87500
+      },
+      "611020201": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020101,
+        "PC_ID": 100008,
+        "SHORTCUT_ID": 0,
+        "PROB": 31250
+      },
+      "611020202": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020101,
+        "PC_ID": 100010,
+        "SHORTCUT_ID": 0,
+        "PROB": 31250
+      },
+      "611020203": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020101,
+        "PC_ID": 100025,
+        "SHORTCUT_ID": 0,
+        "PROB": 31250
+      },
+      "611020204": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020101,
+        "PC_ID": 100028,
+        "SHORTCUT_ID": 0,
+        "PROB": 31250
+      },
+      "611020501": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020201,
+        "PC_ID": 100008,
+        "SHORTCUT_ID": 0,
+        "PROB": 250000
+      },
+      "611020502": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020201,
+        "PC_ID": 100010,
+        "SHORTCUT_ID": 0,
+        "PROB": 250000
+      },
+      "611020503": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020201,
+        "PC_ID": 100025,
+        "SHORTCUT_ID": 0,
+        "PROB": 250000
+      },
+      "611020504": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611020201,
+        "PC_ID": 100028,
+        "SHORTCUT_ID": 0,
+        "PROB": 250000
+      },
+      "611030101": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611030101,
+        "PC_ID": 100002,
+        "SHORTCUT_ID": 611030101,
+        "PROB": 1000000
+      },
+      "611030102": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611030101,
+        "PC_ID": 100003,
+        "SHORTCUT_ID": 611030102,
+        "PROB": 1000000
+      },
+      "611030103": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611030101,
+        "PC_ID": 100004,
+        "SHORTCUT_ID": 611030103,
+        "PROB": 1000000
+      },
+      "611030104": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611030101,
+        "PC_ID": 100005,
+        "SHORTCUT_ID": 611030104,
+        "PROB": 1000000
+      },
+      "611030105": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611030101,
+        "PC_ID": 100007,
+        "SHORTCUT_ID": 611030105,
+        "PROB": 1000000
+      },
+      "611030106": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611030101,
+        "PC_ID": 100012,
+        "SHORTCUT_ID": 611030106,
+        "PROB": 1000000
+      },
+      "611030107": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611030101,
+        "PC_ID": 100014,
+        "SHORTCUT_ID": 611030107,
+        "PROB": 1000000
+      },
+      "611030108": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611030101,
+        "PC_ID": 100016,
+        "SHORTCUT_ID": 611030108,
+        "PROB": 1000000
+      },
+      "611030109": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611030101,
+        "PC_ID": 100018,
+        "SHORTCUT_ID": 611030109,
+        "PROB": 1000000
+      },
+      "611030110": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611030101,
+        "PC_ID": 100020,
+        "SHORTCUT_ID": 611030110,
+        "PROB": 1000000
+      },
+      "611030111": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611030101,
+        "PC_ID": 100021,
+        "SHORTCUT_ID": 611030111,
+        "PROB": 1000000
+      },
+      "611030112": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611030101,
+        "PC_ID": 100022,
+        "SHORTCUT_ID": 611030112,
+        "PROB": 1000000
+      },
+      "611030113": {
+        "Type": "ENBPcSelectType::Select",
+        "GROUP_ID": 611030101,
+        "PC_ID": 100009,
+        "SHORTCUT_ID": 611030113,
+        "PROB": 1000000
+      },
+      "611040101": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611040101,
+        "PC_ID": 100002,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "611040102": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611040101,
+        "PC_ID": 100003,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "611040103": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611040101,
+        "PC_ID": 100004,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "611040104": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611040101,
+        "PC_ID": 100005,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "611040105": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611040101,
+        "PC_ID": 100007,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "611040106": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611040101,
+        "PC_ID": 100012,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "611040107": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611040101,
+        "PC_ID": 100014,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "611040108": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611040101,
+        "PC_ID": 100016,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "611040109": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611040101,
+        "PC_ID": 100018,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "611040110": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611040101,
+        "PC_ID": 100020,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "611040111": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611040101,
+        "PC_ID": 100021,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "611040112": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611040101,
+        "PC_ID": 100022,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      },
+      "611040113": {
+        "Type": "ENBPcSelectType::Random",
+        "GROUP_ID": 611040101,
+        "PC_ID": 100009,
+        "SHORTCUT_ID": 0,
+        "PROB": 76923
+      }
+    }
+  }
+]

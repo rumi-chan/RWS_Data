@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "FORMATION_BATTLE",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBFORMATION_BATTLE'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "101": {
+        "ALLY_CENTER_OFFSET": 0,
+        "ALLY_OFFSET_X": 400,
+        "ALLY_OFFSET_Y": 110,
+        "ENEMY_CENTER_OFFSET": 0,
+        "ENEMY_OFFSET_X": 400,
+        "ENEMY_OFFSET_Y": 90
+      },
+      "102": {
+        "ALLY_CENTER_OFFSET": 0,
+        "ALLY_OFFSET_X": 400,
+        "ALLY_OFFSET_Y": 100,
+        "ENEMY_CENTER_OFFSET": 0,
+        "ENEMY_OFFSET_X": 400,
+        "ENEMY_OFFSET_Y": 90
+      },
+      "103": {
+        "ALLY_CENTER_OFFSET": 0,
+        "ALLY_OFFSET_X": 250,
+        "ALLY_OFFSET_Y": 100,
+        "ENEMY_CENTER_OFFSET": 0,
+        "ENEMY_OFFSET_X": 250,
+        "ENEMY_OFFSET_Y": 90
+      },
+      "901": {
+        "ALLY_CENTER_OFFSET": 0,
+        "ALLY_OFFSET_X": 400,
+        "ALLY_OFFSET_Y": 100,
+        "ENEMY_CENTER_OFFSET": 0,
+        "ENEMY_OFFSET_X": 800,
+        "ENEMY_OFFSET_Y": 90
+      }
+    }
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "OPTION_SUB_CATEGORY",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBOPTION_SUB_CATEGORY'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "100101": {
+        "CATEGORY_ID": 1001,
+        "SUB_CATEGORY": 100101,
+        "Index": 1,
+        "Name": "OPTION_GRAPHIC_GROUP1",
+        "DISPLAY_PC": 1,
+        "DISPLAY_MOBILE_AOS": 1,
+        "DISPLAY_MOBILE_IOS": 1
+      },
+      "100102": {
+        "CATEGORY_ID": 1001,
+        "SUB_CATEGORY": 100102,
+        "Index": 2,
+        "Name": "OPTION_GRAPHIC_GROUP2",
+        "DISPLAY_PC": 1,
+        "DISPLAY_MOBILE_AOS": 1,
+        "DISPLAY_MOBILE_IOS": 1
+      },
+      "200101": {
+        "CATEGORY_ID": 2001,
+        "SUB_CATEGORY": 200101,
+        "Index": 1,
+        "Name": "OPTION_SOUND_GROUP1",
+        "DISPLAY_PC": 1,
+        "DISPLAY_MOBILE_AOS": 1,
+        "DISPLAY_MOBILE_IOS": 1
+      },
+      "200102": {
+        "CATEGORY_ID": 2001,
+        "SUB_CATEGORY": 200102,
+        "Index": 2,
+        "Name": "OPTION_SOUND_GROUP2",
+        "DISPLAY_PC": 1,
+        "DISPLAY_MOBILE_AOS": 1,
+        "DISPLAY_MOBILE_IOS": 1
+      },
+      "300101": {
+        "CATEGORY_ID": 3001,
+        "SUB_CATEGORY": 300101,
+        "Index": 1,
+        "Name": "OPTION_ALARM_GROUP1",
+        "DISPLAY_PC": 0,
+        "DISPLAY_MOBILE_AOS": 1,
+        "DISPLAY_MOBILE_IOS": 1
+      },
+      "400101": {
+        "CATEGORY_ID": 4001,
+        "SUB_CATEGORY": 400101,
+        "Index": 1,
+        "Name": "OPTION_LANGUAGE_GROUP1",
+        "DISPLAY_PC": 1,
+        "DISPLAY_MOBILE_AOS": 1,
+        "DISPLAY_MOBILE_IOS": 1
+      },
+      "400102": {
+        "CATEGORY_ID": 4001,
+        "SUB_CATEGORY": 400102,
+        "Index": 2,
+        "Name": "OPTION_LANGUAGE_GROUP2",
+        "DISPLAY_PC": 1,
+        "DISPLAY_MOBILE_AOS": 1,
+        "DISPLAY_MOBILE_IOS": 1
+      },
+      "500101": {
+        "CATEGORY_ID": 5001,
+        "SUB_CATEGORY": 500101,
+        "Index": 1,
+        "Name": "OPTION_GAME_GROUP1",
+        "DISPLAY_PC": 0,
+        "DISPLAY_MOBILE_AOS": 0,
+        "DISPLAY_MOBILE_IOS": 0
+      },
+      "500102": {
+        "CATEGORY_ID": 5001,
+        "SUB_CATEGORY": 500102,
+        "Index": 2,
+        "Name": "OPTION_GAME_GROUP2",
+        "DISPLAY_PC": 1,
+        "DISPLAY_MOBILE_AOS": 1,
+        "DISPLAY_MOBILE_IOS": 1
+      },
+      "500103": {
+        "CATEGORY_ID": 5001,
+        "SUB_CATEGORY": 500103,
+        "Index": 3,
+        "Name": "OPTION_GAME_GROUP3",
+        "DISPLAY_PC": 1,
+        "DISPLAY_MOBILE_AOS": 1,
+        "DISPLAY_MOBILE_IOS": 1
+      },
+      "600101": {
+        "CATEGORY_ID": 6001,
+        "SUB_CATEGORY": 600101,
+        "Index": 1,
+        "Name": "OPTION_CONTROLL_KEY_GROUP1",
+        "DISPLAY_PC": 0,
+        "DISPLAY_MOBILE_AOS": 0,
+        "DISPLAY_MOBILE_IOS": 0
+      },
+      "600102": {
+        "CATEGORY_ID": 6001,
+        "SUB_CATEGORY": 600102,
+        "Index": 2,
+        "Name": "OPTION_CONTROLL_KEY_GROUP2",
+        "DISPLAY_PC": 0,
+        "DISPLAY_MOBILE_AOS": 0,
+        "DISPLAY_MOBILE_IOS": 0
+      },
+      "700101": {
+        "CATEGORY_ID": 7001,
+        "SUB_CATEGORY": 700101,
+        "Index": 1,
+        "Name": "OPTION_CUSTOMER_CENTER1",
+        "DISPLAY_PC": 1,
+        "DISPLAY_MOBILE_AOS": 1,
+        "DISPLAY_MOBILE_IOS": 1
+      }
+    }
+  }
+]

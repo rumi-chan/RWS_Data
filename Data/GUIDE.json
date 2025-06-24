@@ -1,0 +1,582 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "GUIDE",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBGUIDE'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1002": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1002,
+        "MOBILE_GUIDE": 1002
+      },
+      "1003": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1003,
+        "MOBILE_GUIDE": 1003
+      },
+      "1004": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1004,
+        "MOBILE_GUIDE": 1004
+      },
+      "1005": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1005,
+        "MOBILE_GUIDE": 1005
+      },
+      "1009": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1009,
+        "MOBILE_GUIDE": 1009
+      },
+      "1010": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1010,
+        "MOBILE_GUIDE": 1010
+      },
+      "1013": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1013,
+        "MOBILE_GUIDE": 1013
+      },
+      "1014": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1014,
+        "MOBILE_GUIDE": 1014
+      },
+      "1015": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1015,
+        "MOBILE_GUIDE": 1015
+      },
+      "1016": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1016,
+        "MOBILE_GUIDE": 1016
+      },
+      "1017": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1017,
+        "MOBILE_GUIDE": 1017
+      },
+      "1018": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1018,
+        "MOBILE_GUIDE": 1018
+      },
+      "1019": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1019,
+        "MOBILE_GUIDE": 1019
+      },
+      "1020": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1020,
+        "MOBILE_GUIDE": 1020
+      },
+      "1021": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1021,
+        "MOBILE_GUIDE": 1021
+      },
+      "1022": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1022,
+        "MOBILE_GUIDE": 1022
+      },
+      "1023": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1023,
+        "MOBILE_GUIDE": 1023
+      },
+      "1024": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1024,
+        "MOBILE_GUIDE": 1024
+      },
+      "1025": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1025,
+        "MOBILE_GUIDE": 1025
+      },
+      "1026": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1026,
+        "MOBILE_GUIDE": 1026
+      },
+      "1027": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1027,
+        "MOBILE_GUIDE": 1027
+      },
+      "1028": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1028,
+        "MOBILE_GUIDE": 1028
+      },
+      "1029": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1029,
+        "MOBILE_GUIDE": 1029
+      },
+      "1030": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1030,
+        "MOBILE_GUIDE": 1030
+      },
+      "1031": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1031,
+        "MOBILE_GUIDE": 1031
+      },
+      "1032": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1032,
+        "MOBILE_GUIDE": 1032
+      },
+      "1033": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1033,
+        "MOBILE_GUIDE": 1033
+      },
+      "1034": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1034,
+        "MOBILE_GUIDE": 1034
+      },
+      "1035": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1035,
+        "MOBILE_GUIDE": 1035
+      },
+      "1036": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1036,
+        "MOBILE_GUIDE": 1036
+      },
+      "1037": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1037,
+        "MOBILE_GUIDE": 1037
+      },
+      "1038": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1038,
+        "MOBILE_GUIDE": 1038
+      },
+      "1039": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1039,
+        "MOBILE_GUIDE": 1039
+      },
+      "1040": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1040,
+        "MOBILE_GUIDE": 1040
+      },
+      "1041": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1041,
+        "MOBILE_GUIDE": 1041
+      },
+      "1042": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1042,
+        "MOBILE_GUIDE": 1042
+      },
+      "1043": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1043,
+        "MOBILE_GUIDE": 1043
+      },
+      "1044": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1044,
+        "MOBILE_GUIDE": 1044
+      },
+      "1045": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1045,
+        "MOBILE_GUIDE": 1045
+      },
+      "1046": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1046,
+        "MOBILE_GUIDE": 1046
+      },
+      "1047": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1047,
+        "MOBILE_GUIDE": 1047
+      },
+      "1048": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1048,
+        "MOBILE_GUIDE": 1048
+      },
+      "1049": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::GuidePopup",
+        "PC_GUIDE": 1049,
+        "MOBILE_GUIDE": 1049
+      },
+      "20001": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20001,
+        "MOBILE_GUIDE": 21001
+      },
+      "20002": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20002,
+        "MOBILE_GUIDE": 21002
+      },
+      "20003": {
+        "ID": 0,
+        "Trigger": 99940003,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20003,
+        "MOBILE_GUIDE": 21003
+      },
+      "20004": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20004,
+        "MOBILE_GUIDE": 21004
+      },
+      "20005": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20005,
+        "MOBILE_GUIDE": 21005
+      },
+      "20006": {
+        "ID": 0,
+        "Trigger": 99940004,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20006,
+        "MOBILE_GUIDE": 21006
+      },
+      "20007": {
+        "ID": 0,
+        "Trigger": 99940005,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20007,
+        "MOBILE_GUIDE": 21007
+      },
+      "20009": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20009,
+        "MOBILE_GUIDE": 21009
+      },
+      "20010": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20010,
+        "MOBILE_GUIDE": 21010
+      },
+      "20011": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20011,
+        "MOBILE_GUIDE": 21011
+      },
+      "20012": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20012,
+        "MOBILE_GUIDE": 21012
+      },
+      "20013": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20013,
+        "MOBILE_GUIDE": 21013
+      },
+      "20014": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20014,
+        "MOBILE_GUIDE": 21014
+      },
+      "20015": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20015,
+        "MOBILE_GUIDE": 21015
+      },
+      "20016": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20016,
+        "MOBILE_GUIDE": 21016
+      },
+      "20017": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20017,
+        "MOBILE_GUIDE": 21017
+      },
+      "20019": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20019,
+        "MOBILE_GUIDE": 21019
+      },
+      "2002": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 2002,
+        "MOBILE_GUIDE": 2002
+      },
+      "20020": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20020,
+        "MOBILE_GUIDE": 21020
+      },
+      "20022": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20022,
+        "MOBILE_GUIDE": 21022
+      },
+      "20023": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20023,
+        "MOBILE_GUIDE": 21023
+      },
+      "20024": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20024,
+        "MOBILE_GUIDE": 21024
+      },
+      "20025": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20025,
+        "MOBILE_GUIDE": 21025
+      },
+      "20026": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20026,
+        "MOBILE_GUIDE": 21026
+      },
+      "20027": {
+        "ID": 0,
+        "Trigger": 99940020,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20027,
+        "MOBILE_GUIDE": 21027
+      },
+      "20028": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20028,
+        "MOBILE_GUIDE": 21028
+      },
+      "20029": {
+        "ID": 0,
+        "Trigger": 99940022,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20029,
+        "MOBILE_GUIDE": 21029
+      },
+      "2003": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 2003,
+        "MOBILE_GUIDE": 2003
+      },
+      "20030": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20030,
+        "MOBILE_GUIDE": 21030
+      },
+      "20031": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20031,
+        "MOBILE_GUIDE": 21031
+      },
+      "20032": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20032,
+        "MOBILE_GUIDE": 21032
+      },
+      "20033": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20033,
+        "MOBILE_GUIDE": 21033
+      },
+      "20034": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 20034,
+        "MOBILE_GUIDE": 21034
+      },
+      "2005": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 2005,
+        "MOBILE_GUIDE": 2005
+      },
+      "2007": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 2007,
+        "MOBILE_GUIDE": 2007
+      },
+      "2008": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 2008,
+        "MOBILE_GUIDE": 2008
+      },
+      "2014": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 2014,
+        "MOBILE_GUIDE": 2014
+      },
+      "2015": {
+        "ID": 0,
+        "Trigger": 0,
+        "Type": "ENBGuideType::Tutorial",
+        "PC_GUIDE": 2015,
+        "MOBILE_GUIDE": 2015
+      }
+    }
+  }
+]

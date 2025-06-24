@@ -1,0 +1,165 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "PRESET_GROUP",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBPRESET_GROUP'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "100000101": {
+        "PRESET_GROUP_ID": 1000001,
+        "BAN_CHARACTER": 0,
+        "ADD_CHARACTER": 100001,
+        "SLOT_INDEX": 1
+      },
+      "100000102": {
+        "PRESET_GROUP_ID": 1000001,
+        "BAN_CHARACTER": 0,
+        "ADD_CHARACTER": 100002,
+        "SLOT_INDEX": 2
+      },
+      "100000103": {
+        "PRESET_GROUP_ID": 1000001,
+        "BAN_CHARACTER": 0,
+        "ADD_CHARACTER": 100003,
+        "SLOT_INDEX": 3
+      },
+      "100010101": {
+        "PRESET_GROUP_ID": 1000101,
+        "BAN_CHARACTER": 100002,
+        "ADD_CHARACTER": 0,
+        "SLOT_INDEX": 2
+      },
+      "100010102": {
+        "PRESET_GROUP_ID": 1000101,
+        "BAN_CHARACTER": 100003,
+        "ADD_CHARACTER": 0,
+        "SLOT_INDEX": 3
+      },
+      "100030101": {
+        "PRESET_GROUP_ID": 1000301,
+        "BAN_CHARACTER": 100002,
+        "ADD_CHARACTER": 0,
+        "SLOT_INDEX": 0
+      },
+      "100030102": {
+        "PRESET_GROUP_ID": 1000301,
+        "BAN_CHARACTER": 100003,
+        "ADD_CHARACTER": 0,
+        "SLOT_INDEX": 0
+      },
+      "100040101": {
+        "PRESET_GROUP_ID": 1000401,
+        "BAN_CHARACTER": 100002,
+        "ADD_CHARACTER": 0,
+        "SLOT_INDEX": 3
+      },
+      "100040102": {
+        "PRESET_GROUP_ID": 1000401,
+        "BAN_CHARACTER": 100003,
+        "ADD_CHARACTER": 0,
+        "SLOT_INDEX": 4
+      },
+      "100050101": {
+        "PRESET_GROUP_ID": 1000501,
+        "BAN_CHARACTER": 100002,
+        "ADD_CHARACTER": 0,
+        "SLOT_INDEX": 0
+      },
+      "100050102": {
+        "PRESET_GROUP_ID": 1000501,
+        "BAN_CHARACTER": 100003,
+        "ADD_CHARACTER": 0,
+        "SLOT_INDEX": 0
+      },
+      "100050103": {
+        "PRESET_GROUP_ID": 1000501,
+        "BAN_CHARACTER": 0,
+        "ADD_CHARACTER": 100004,
+        "SLOT_INDEX": 0
+      },
+      "100060101": {
+        "PRESET_GROUP_ID": 1000601,
+        "BAN_CHARACTER": 0,
+        "ADD_CHARACTER": 100001,
+        "SLOT_INDEX": 1
+      },
+      "100060102": {
+        "PRESET_GROUP_ID": 1000601,
+        "BAN_CHARACTER": 0,
+        "ADD_CHARACTER": 100002,
+        "SLOT_INDEX": 2
+      },
+      "100060103": {
+        "PRESET_GROUP_ID": 1000601,
+        "BAN_CHARACTER": 0,
+        "ADD_CHARACTER": 100003,
+        "SLOT_INDEX": 3
+      },
+      "100060104": {
+        "PRESET_GROUP_ID": 1000601,
+        "BAN_CHARACTER": 0,
+        "ADD_CHARACTER": 100004,
+        "SLOT_INDEX": 4
+      },
+      "100070101": {
+        "PRESET_GROUP_ID": 1000701,
+        "BAN_CHARACTER": 100003,
+        "ADD_CHARACTER": 0,
+        "SLOT_INDEX": 3
+      },
+      "990000101": {
+        "PRESET_GROUP_ID": 9900001,
+        "BAN_CHARACTER": 0,
+        "ADD_CHARACTER": 100006,
+        "SLOT_INDEX": 1
+      },
+      "990000102": {
+        "PRESET_GROUP_ID": 9900001,
+        "BAN_CHARACTER": 0,
+        "ADD_CHARACTER": 100002,
+        "SLOT_INDEX": 2
+      },
+      "990000103": {
+        "PRESET_GROUP_ID": 9900001,
+        "BAN_CHARACTER": 0,
+        "ADD_CHARACTER": 100003,
+        "SLOT_INDEX": 3
+      },
+      "990000104": {
+        "PRESET_GROUP_ID": 9900001,
+        "BAN_CHARACTER": 0,
+        "ADD_CHARACTER": 100004,
+        "SLOT_INDEX": 4
+      },
+      "990000201": {
+        "PRESET_GROUP_ID": 9900002,
+        "BAN_CHARACTER": 0,
+        "ADD_CHARACTER": 100008,
+        "SLOT_INDEX": 1
+      },
+      "990000202": {
+        "PRESET_GROUP_ID": 9900002,
+        "BAN_CHARACTER": 0,
+        "ADD_CHARACTER": 100009,
+        "SLOT_INDEX": 2
+      },
+      "990000203": {
+        "PRESET_GROUP_ID": 9900002,
+        "BAN_CHARACTER": 0,
+        "ADD_CHARACTER": 100010,
+        "SLOT_INDEX": 3
+      },
+      "990000204": {
+        "PRESET_GROUP_ID": 9900002,
+        "BAN_CHARACTER": 0,
+        "ADD_CHARACTER": 100011,
+        "SLOT_INDEX": 4
+      }
+    }
+  }
+]

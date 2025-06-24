@@ -1,0 +1,885 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "FAVOR_QUEST",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBFAVOR_QUEST'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1000020101": {
+        "GROUP_ID": 10000201,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 400201
+      },
+      "1000020102": {
+        "GROUP_ID": 10000201,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 400202
+      },
+      "1000020103": {
+        "GROUP_ID": 10000201,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 400203
+      },
+      "1000020104": {
+        "GROUP_ID": 10000201,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 400204
+      },
+      "1000020105": {
+        "GROUP_ID": 10000201,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 400205
+      },
+      "1000030101": {
+        "GROUP_ID": 10000301,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 400301
+      },
+      "1000030102": {
+        "GROUP_ID": 10000301,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 400302
+      },
+      "1000030103": {
+        "GROUP_ID": 10000301,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 400303
+      },
+      "1000030104": {
+        "GROUP_ID": 10000301,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 400304
+      },
+      "1000030105": {
+        "GROUP_ID": 10000301,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 400305
+      },
+      "1000040101": {
+        "GROUP_ID": 10000401,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 400401
+      },
+      "1000040102": {
+        "GROUP_ID": 10000401,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 400402
+      },
+      "1000040103": {
+        "GROUP_ID": 10000401,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 400403
+      },
+      "1000040104": {
+        "GROUP_ID": 10000401,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 400404
+      },
+      "1000040105": {
+        "GROUP_ID": 10000401,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 400405
+      },
+      "1000050101": {
+        "GROUP_ID": 10000501,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 400501
+      },
+      "1000050102": {
+        "GROUP_ID": 10000501,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 400502
+      },
+      "1000050103": {
+        "GROUP_ID": 10000501,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 400503
+      },
+      "1000050104": {
+        "GROUP_ID": 10000501,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 400504
+      },
+      "1000050105": {
+        "GROUP_ID": 10000501,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 400505
+      },
+      "1000060101": {
+        "GROUP_ID": 10000601,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 400601
+      },
+      "1000060102": {
+        "GROUP_ID": 10000601,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 400602
+      },
+      "1000060103": {
+        "GROUP_ID": 10000601,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 400603
+      },
+      "1000060104": {
+        "GROUP_ID": 10000601,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 400604
+      },
+      "1000060105": {
+        "GROUP_ID": 10000601,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 400605
+      },
+      "1000070101": {
+        "GROUP_ID": 10000701,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 400701
+      },
+      "1000070102": {
+        "GROUP_ID": 10000701,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 400702
+      },
+      "1000070103": {
+        "GROUP_ID": 10000701,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 400703
+      },
+      "1000070104": {
+        "GROUP_ID": 10000701,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 400704
+      },
+      "1000070105": {
+        "GROUP_ID": 10000701,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 400705
+      },
+      "1000080101": {
+        "GROUP_ID": 10000801,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 400801
+      },
+      "1000080102": {
+        "GROUP_ID": 10000801,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 400802
+      },
+      "1000080103": {
+        "GROUP_ID": 10000801,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 400803
+      },
+      "1000080104": {
+        "GROUP_ID": 10000801,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 400804
+      },
+      "1000080105": {
+        "GROUP_ID": 10000801,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 400805
+      },
+      "1000090101": {
+        "GROUP_ID": 10000901,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 400901
+      },
+      "1000090102": {
+        "GROUP_ID": 10000901,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 400902
+      },
+      "1000090103": {
+        "GROUP_ID": 10000901,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 400903
+      },
+      "1000090104": {
+        "GROUP_ID": 10000901,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 400904
+      },
+      "1000090105": {
+        "GROUP_ID": 10000901,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 400905
+      },
+      "1000100101": {
+        "GROUP_ID": 10001001,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 401001
+      },
+      "1000100102": {
+        "GROUP_ID": 10001001,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 401002
+      },
+      "1000100103": {
+        "GROUP_ID": 10001001,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 401003
+      },
+      "1000100104": {
+        "GROUP_ID": 10001001,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 401004
+      },
+      "1000100105": {
+        "GROUP_ID": 10001001,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 401005
+      },
+      "1000110101": {
+        "GROUP_ID": 10001101,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 401101
+      },
+      "1000110102": {
+        "GROUP_ID": 10001101,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 401102
+      },
+      "1000110103": {
+        "GROUP_ID": 10001101,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 401103
+      },
+      "1000110104": {
+        "GROUP_ID": 10001101,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 401104
+      },
+      "1000110105": {
+        "GROUP_ID": 10001101,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 401105
+      },
+      "1000120101": {
+        "GROUP_ID": 10001201,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 401201
+      },
+      "1000120102": {
+        "GROUP_ID": 10001201,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 401202
+      },
+      "1000120103": {
+        "GROUP_ID": 10001201,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 401203
+      },
+      "1000120104": {
+        "GROUP_ID": 10001201,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 401204
+      },
+      "1000120105": {
+        "GROUP_ID": 10001201,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 401205
+      },
+      "1000130101": {
+        "GROUP_ID": 10001301,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 401301
+      },
+      "1000130102": {
+        "GROUP_ID": 10001301,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 401302
+      },
+      "1000130103": {
+        "GROUP_ID": 10001301,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 401303
+      },
+      "1000130104": {
+        "GROUP_ID": 10001301,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 401304
+      },
+      "1000130105": {
+        "GROUP_ID": 10001301,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 401305
+      },
+      "1000140101": {
+        "GROUP_ID": 10001401,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 401401
+      },
+      "1000140102": {
+        "GROUP_ID": 10001401,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 401402
+      },
+      "1000140103": {
+        "GROUP_ID": 10001401,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 401403
+      },
+      "1000140104": {
+        "GROUP_ID": 10001401,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 401404
+      },
+      "1000140105": {
+        "GROUP_ID": 10001401,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 401405
+      },
+      "1000150101": {
+        "GROUP_ID": 10001501,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 401501
+      },
+      "1000150102": {
+        "GROUP_ID": 10001501,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 401502
+      },
+      "1000150103": {
+        "GROUP_ID": 10001501,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 401503
+      },
+      "1000150104": {
+        "GROUP_ID": 10001501,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 401504
+      },
+      "1000150105": {
+        "GROUP_ID": 10001501,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 401505
+      },
+      "1000160101": {
+        "GROUP_ID": 10001601,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 401601
+      },
+      "1000160102": {
+        "GROUP_ID": 10001601,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 401602
+      },
+      "1000160103": {
+        "GROUP_ID": 10001601,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 401603
+      },
+      "1000160104": {
+        "GROUP_ID": 10001601,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 401604
+      },
+      "1000160105": {
+        "GROUP_ID": 10001601,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 401605
+      },
+      "1000170101": {
+        "GROUP_ID": 10001701,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 401701
+      },
+      "1000170102": {
+        "GROUP_ID": 10001701,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 401702
+      },
+      "1000170103": {
+        "GROUP_ID": 10001701,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 401703
+      },
+      "1000170104": {
+        "GROUP_ID": 10001701,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 401704
+      },
+      "1000170105": {
+        "GROUP_ID": 10001701,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 401705
+      },
+      "1000180101": {
+        "GROUP_ID": 10001801,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 401801
+      },
+      "1000180102": {
+        "GROUP_ID": 10001801,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 401802
+      },
+      "1000180103": {
+        "GROUP_ID": 10001801,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 401803
+      },
+      "1000180104": {
+        "GROUP_ID": 10001801,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 401804
+      },
+      "1000180105": {
+        "GROUP_ID": 10001801,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 401805
+      },
+      "1000190101": {
+        "GROUP_ID": 10001901,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 401901
+      },
+      "1000190102": {
+        "GROUP_ID": 10001901,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 401902
+      },
+      "1000190103": {
+        "GROUP_ID": 10001901,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 401903
+      },
+      "1000190104": {
+        "GROUP_ID": 10001901,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 401904
+      },
+      "1000190105": {
+        "GROUP_ID": 10001901,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 401905
+      },
+      "1000200101": {
+        "GROUP_ID": 10002001,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 402801
+      },
+      "1000200102": {
+        "GROUP_ID": 10002001,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 402802
+      },
+      "1000200103": {
+        "GROUP_ID": 10002001,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 402803
+      },
+      "1000200104": {
+        "GROUP_ID": 10002001,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 402804
+      },
+      "1000200105": {
+        "GROUP_ID": 10002001,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 402805
+      },
+      "1000210101": {
+        "GROUP_ID": 10002101,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 402701
+      },
+      "1000210102": {
+        "GROUP_ID": 10002101,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 402702
+      },
+      "1000210103": {
+        "GROUP_ID": 10002101,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 402703
+      },
+      "1000210104": {
+        "GROUP_ID": 10002101,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 402704
+      },
+      "1000210105": {
+        "GROUP_ID": 10002101,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 402705
+      },
+      "1000220101": {
+        "GROUP_ID": 10002201,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 402001
+      },
+      "1000220102": {
+        "GROUP_ID": 10002201,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 402002
+      },
+      "1000220103": {
+        "GROUP_ID": 10002201,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 402003
+      },
+      "1000220104": {
+        "GROUP_ID": 10002201,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 402004
+      },
+      "1000220105": {
+        "GROUP_ID": 10002201,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 402005
+      },
+      "1000230101": {
+        "GROUP_ID": 10002301,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 402101
+      },
+      "1000230102": {
+        "GROUP_ID": 10002301,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 402102
+      },
+      "1000230103": {
+        "GROUP_ID": 10002301,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 402103
+      },
+      "1000230104": {
+        "GROUP_ID": 10002301,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 402104
+      },
+      "1000230105": {
+        "GROUP_ID": 10002301,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 402105
+      },
+      "1000240101": {
+        "GROUP_ID": 10002401,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 402201
+      },
+      "1000240102": {
+        "GROUP_ID": 10002401,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 402202
+      },
+      "1000240103": {
+        "GROUP_ID": 10002401,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 402203
+      },
+      "1000240104": {
+        "GROUP_ID": 10002401,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 402204
+      },
+      "1000240105": {
+        "GROUP_ID": 10002401,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 402205
+      },
+      "1000250101": {
+        "GROUP_ID": 10002501,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 402301
+      },
+      "1000250102": {
+        "GROUP_ID": 10002501,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 402302
+      },
+      "1000250103": {
+        "GROUP_ID": 10002501,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 402303
+      },
+      "1000250104": {
+        "GROUP_ID": 10002501,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 402304
+      },
+      "1000250105": {
+        "GROUP_ID": 10002501,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 402305
+      },
+      "1000260101": {
+        "GROUP_ID": 10002601,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 402401
+      },
+      "1000260102": {
+        "GROUP_ID": 10002601,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 402402
+      },
+      "1000260103": {
+        "GROUP_ID": 10002601,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 402403
+      },
+      "1000260104": {
+        "GROUP_ID": 10002601,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 402404
+      },
+      "1000260105": {
+        "GROUP_ID": 10002601,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 402405
+      },
+      "1000270101": {
+        "GROUP_ID": 10002701,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 402501
+      },
+      "1000270102": {
+        "GROUP_ID": 10002701,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 402502
+      },
+      "1000270103": {
+        "GROUP_ID": 10002701,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 402503
+      },
+      "1000270104": {
+        "GROUP_ID": 10002701,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 402504
+      },
+      "1000270105": {
+        "GROUP_ID": 10002701,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 402505
+      },
+      "1000280101": {
+        "GROUP_ID": 10002801,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 402601
+      },
+      "1000280102": {
+        "GROUP_ID": 10002801,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 402602
+      },
+      "1000280103": {
+        "GROUP_ID": 10002801,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 402603
+      },
+      "1000280104": {
+        "GROUP_ID": 10002801,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 402604
+      },
+      "1000280105": {
+        "GROUP_ID": 10002801,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 402605
+      },
+      "1000290101": {
+        "GROUP_ID": 10002901,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 402901
+      },
+      "1000290102": {
+        "GROUP_ID": 10002901,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 402902
+      },
+      "1000290103": {
+        "GROUP_ID": 10002901,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 402903
+      },
+      "1000290104": {
+        "GROUP_ID": 10002901,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 402904
+      },
+      "1000290105": {
+        "GROUP_ID": 10002901,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 402905
+      },
+      "1000300101": {
+        "GROUP_ID": 10003001,
+        "Index": 1,
+        "Level": 1,
+        "QUEST_ID": 403001
+      },
+      "1000300102": {
+        "GROUP_ID": 10003001,
+        "Index": 2,
+        "Level": 10,
+        "QUEST_ID": 403002
+      },
+      "1000300103": {
+        "GROUP_ID": 10003001,
+        "Index": 3,
+        "Level": 20,
+        "QUEST_ID": 403003
+      },
+      "1000300104": {
+        "GROUP_ID": 10003001,
+        "Index": 4,
+        "Level": 30,
+        "QUEST_ID": 403004
+      },
+      "1000300105": {
+        "GROUP_ID": 10003001,
+        "Index": 5,
+        "Level": 40,
+        "QUEST_ID": 403005
+      }
+    }
+  }
+]

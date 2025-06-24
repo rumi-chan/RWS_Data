@@ -1,0 +1,147 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "PROFILE_BANNER",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBPROFILE_BANNER'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1": {
+        "START_DATE": "2000-01-01 12:00:00",
+        "END_DATE": "2025-01-17 00:00:00",
+        "BANNER": "Profilebanner_Beatrice",
+        "SHORTCUT_ID": 1006001
+      },
+      "10": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-04-07 05:59:59",
+        "BANNER": "Profilebanner_Event_Dungeon_02",
+        "SHORTCUT_ID": 71309002
+      },
+      "11": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-04-07 05:59:59",
+        "BANNER": "Profilebanner_Priscilia",
+        "SHORTCUT_ID": 1006007
+      },
+      "12": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-04-07 05:59:59",
+        "BANNER": "Profilebanner_Roulette",
+        "SHORTCUT_ID": 7130805
+      },
+      "13": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-05-07 05:59:59",
+        "BANNER": "Profilebanner_Libertas",
+        "SHORTCUT_ID": 1006008
+      },
+      "14": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-04-07 05:59:59",
+        "BANNER": "Profilebanner_MainQuest_01",
+        "SHORTCUT_ID": 7130806
+      },
+      "15": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-04-07 05:59:59",
+        "BANNER": "Profilebanner_Event_Dungeon_03",
+        "SHORTCUT_ID": 71309003
+      },
+      "16": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-05-20 05:59:59",
+        "BANNER": "Profilebanner_Enas",
+        "SHORTCUT_ID": 1006009
+      },
+      "17": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-05-20 05:59:59",
+        "BANNER": "Profilebanner_MainQuest_01",
+        "SHORTCUT_ID": 7130806
+      },
+      "18": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-05-20 05:59:59",
+        "BANNER": "Profilebanner_Event_Dungeon_03",
+        "SHORTCUT_ID": 71309003
+      },
+      "19": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-06-18 11:59:59",
+        "BANNER": "Profilebanner_Ivy",
+        "SHORTCUT_ID": 1006010
+      },
+      "2": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-02-04 05:59:59",
+        "BANNER": "Profilebanner_EpicQuest",
+        "SHORTCUT_ID": 7130802
+      },
+      "20": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-03-26 05:59:59",
+        "BANNER": "Profilebanner_Ravi",
+        "SHORTCUT_ID": 1006011
+      },
+      "21": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-07-09 05:59:59",
+        "BANNER": "Profilebanner_MainQuest_02",
+        "SHORTCUT_ID": 7130807
+      },
+      "22": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-07-09 11:59:59",
+        "BANNER": "Profilebanner_Event_Dungeon_01",
+        "SHORTCUT_ID": 71309001
+      },
+      "3": {
+        "START_DATE": "2000-01-01 12:00:00",
+        "END_DATE": "2025-02-12 05:59:59",
+        "BANNER": "Profilebanner_Chesha",
+        "SHORTCUT_ID": 1006004
+      },
+      "4": {
+        "START_DATE": "2000-01-01 12:00:00",
+        "END_DATE": "2025-01-17 05:59:59",
+        "BANNER": "Profilebanner_SINGLEPVP_SEASON1_REWARD",
+        "SHORTCUT_ID": 1004018
+      },
+      "5": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-02-24 05:59:59",
+        "BANNER": "Profilebanner_Event_Dungeon_01",
+        "SHORTCUT_ID": 71309001
+      },
+      "6": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-02-24 05:59:59",
+        "BANNER": "Profilebanner_Diana",
+        "SHORTCUT_ID": 1006005
+      },
+      "7": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-02-24 05:59:59",
+        "BANNER": "Profilebanner_Event_Treasure_01",
+        "SHORTCUT_ID": 71309003
+      },
+      "8": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-04-07 05:59:59",
+        "BANNER": "Profilebanner_EpicQuest_01",
+        "SHORTCUT_ID": 7130804
+      },
+      "9": {
+        "START_DATE": "2025-01-17 12:00:00",
+        "END_DATE": "2025-03-26 05:59:59",
+        "BANNER": "Profilebanner_Ravi",
+        "SHORTCUT_ID": 1006006
+      }
+    }
+  }
+]

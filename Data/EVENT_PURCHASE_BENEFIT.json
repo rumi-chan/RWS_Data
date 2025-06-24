@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "EVENT_PURCHASE_BENEFIT",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBEVENT_PURCHASE_BENEFIT'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "71301601": {
+        "GROUP_ID": 71301601,
+        "DAY": 1,
+        "REWARD_GROUP_ID": 813000001
+      },
+      "71301602": {
+        "GROUP_ID": 71301601,
+        "DAY": 2,
+        "REWARD_GROUP_ID": 813000002
+      },
+      "71301603": {
+        "GROUP_ID": 71301601,
+        "DAY": 3,
+        "REWARD_GROUP_ID": 813000003
+      }
+    }
+  }
+]

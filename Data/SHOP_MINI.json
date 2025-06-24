@@ -1,0 +1,55 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "SHOP_MINI",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBSHOP_MINI'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "30010101": {
+        "MINI_GOODS_GROUP_ID": 300101,
+        "Name": "UI_SHOP_CASH_TITLE",
+        "Icon": "T_UI_Shop_Base_Sprite",
+        "CURRENCY_ID1": 103,
+        "CURRENCY_ID2": 102,
+        "CURRENCY_ID3": 114,
+        "CURRENCY_ID4": 0,
+        "CURRENCY_ID5": 0
+      },
+      "50010101": {
+        "MINI_GOODS_GROUP_ID": 500101,
+        "Name": "UI_SHOP_CASH_TITLE",
+        "Icon": "T_UI_Shop_Base_Sprite",
+        "CURRENCY_ID1": 103,
+        "CURRENCY_ID2": 102,
+        "CURRENCY_ID3": 107,
+        "CURRENCY_ID4": 113,
+        "CURRENCY_ID5": 0
+      },
+      "50010102": {
+        "MINI_GOODS_GROUP_ID": 500101,
+        "Name": "UI_SHOP_CASH_TITLE",
+        "Icon": "T_UI_Shop_Base_Sprite",
+        "CURRENCY_ID1": 103,
+        "CURRENCY_ID2": 102,
+        "CURRENCY_ID3": 107,
+        "CURRENCY_ID4": 113,
+        "CURRENCY_ID5": 0
+      },
+      "70010101": {
+        "MINI_GOODS_GROUP_ID": 700101,
+        "Name": "UI_SHOP_CASH_TITLE",
+        "Icon": "T_UI_Shop_Base_Sprite",
+        "CURRENCY_ID1": 103,
+        "CURRENCY_ID2": 102,
+        "CURRENCY_ID3": 0,
+        "CURRENCY_ID4": 0,
+        "CURRENCY_ID5": 0
+      }
+    }
+  }
+]

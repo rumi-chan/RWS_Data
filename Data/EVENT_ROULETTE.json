@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "EVENT_ROULETTE",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBEVENT_ROULETTE'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "150101": {
+        "ROULETTE_QTY": 1,
+        "REWARD_ID": 811001001
+      },
+      "150102": {
+        "ROULETTE_QTY": 1,
+        "REWARD_ID": 811001001
+      },
+      "150103": {
+        "ROULETTE_QTY": 1,
+        "REWARD_ID": 811001001
+      },
+      "150104": {
+        "ROULETTE_QTY": 1,
+        "REWARD_ID": 811001001
+      },
+      "150105": {
+        "ROULETTE_QTY": 1,
+        "REWARD_ID": 811001001
+      }
+    }
+  }
+]

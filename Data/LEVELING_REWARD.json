@@ -1,0 +1,315 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "LEVELING_REWARD",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBLEVELING_REWARD'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 1,
+        "REWARD_GROUP_ID": 713060101
+      },
+      "10": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 10,
+        "REWARD_GROUP_ID": 713060110
+      },
+      "11": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 11,
+        "REWARD_GROUP_ID": 713060111
+      },
+      "12": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 12,
+        "REWARD_GROUP_ID": 713060112
+      },
+      "13": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 13,
+        "REWARD_GROUP_ID": 713060113
+      },
+      "14": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 14,
+        "REWARD_GROUP_ID": 713060114
+      },
+      "15": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 15,
+        "REWARD_GROUP_ID": 713060115
+      },
+      "16": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 16,
+        "REWARD_GROUP_ID": 713060116
+      },
+      "17": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 17,
+        "REWARD_GROUP_ID": 713060117
+      },
+      "18": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 18,
+        "REWARD_GROUP_ID": 713060118
+      },
+      "19": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 19,
+        "REWARD_GROUP_ID": 713060119
+      },
+      "2": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 2,
+        "REWARD_GROUP_ID": 713060102
+      },
+      "20": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 20,
+        "REWARD_GROUP_ID": 713060120
+      },
+      "21": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 21,
+        "REWARD_GROUP_ID": 713060121
+      },
+      "22": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 22,
+        "REWARD_GROUP_ID": 713060122
+      },
+      "23": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 23,
+        "REWARD_GROUP_ID": 713060123
+      },
+      "24": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 24,
+        "REWARD_GROUP_ID": 713060124
+      },
+      "25": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 25,
+        "REWARD_GROUP_ID": 713060125
+      },
+      "26": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 26,
+        "REWARD_GROUP_ID": 713060126
+      },
+      "27": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 27,
+        "REWARD_GROUP_ID": 713060127
+      },
+      "28": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 28,
+        "REWARD_GROUP_ID": 713060128
+      },
+      "29": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 29,
+        "REWARD_GROUP_ID": 713060129
+      },
+      "3": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 3,
+        "REWARD_GROUP_ID": 713060103
+      },
+      "30": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 30,
+        "REWARD_GROUP_ID": 713060130
+      },
+      "31": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 31,
+        "REWARD_GROUP_ID": 713060131
+      },
+      "32": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 32,
+        "REWARD_GROUP_ID": 713060132
+      },
+      "33": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 33,
+        "REWARD_GROUP_ID": 713060133
+      },
+      "34": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 34,
+        "REWARD_GROUP_ID": 713060134
+      },
+      "35": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 35,
+        "REWARD_GROUP_ID": 713060135
+      },
+      "36": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 36,
+        "REWARD_GROUP_ID": 713060136
+      },
+      "37": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 37,
+        "REWARD_GROUP_ID": 713060137
+      },
+      "38": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 38,
+        "REWARD_GROUP_ID": 713060138
+      },
+      "39": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 39,
+        "REWARD_GROUP_ID": 713060139
+      },
+      "4": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 4,
+        "REWARD_GROUP_ID": 713060104
+      },
+      "40": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 40,
+        "REWARD_GROUP_ID": 713060140
+      },
+      "41": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 41,
+        "REWARD_GROUP_ID": 713060141
+      },
+      "42": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 42,
+        "REWARD_GROUP_ID": 713060142
+      },
+      "43": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 43,
+        "REWARD_GROUP_ID": 713060143
+      },
+      "44": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 44,
+        "REWARD_GROUP_ID": 713060144
+      },
+      "45": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 45,
+        "REWARD_GROUP_ID": 713060145
+      },
+      "46": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 46,
+        "REWARD_GROUP_ID": 713060146
+      },
+      "47": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 47,
+        "REWARD_GROUP_ID": 713060147
+      },
+      "48": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 48,
+        "REWARD_GROUP_ID": 713060148
+      },
+      "49": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 49,
+        "REWARD_GROUP_ID": 713060149
+      },
+      "5": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 5,
+        "REWARD_GROUP_ID": 713060105
+      },
+      "50": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 50,
+        "REWARD_GROUP_ID": 713060150
+      },
+      "51": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 51,
+        "REWARD_GROUP_ID": 713060151
+      },
+      "52": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 52,
+        "REWARD_GROUP_ID": 713060152
+      },
+      "53": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 53,
+        "REWARD_GROUP_ID": 713060153
+      },
+      "54": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 54,
+        "REWARD_GROUP_ID": 713060154
+      },
+      "55": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 55,
+        "REWARD_GROUP_ID": 713060155
+      },
+      "56": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 56,
+        "REWARD_GROUP_ID": 713060156
+      },
+      "57": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 57,
+        "REWARD_GROUP_ID": 713060157
+      },
+      "58": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 58,
+        "REWARD_GROUP_ID": 713060158
+      },
+      "59": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 59,
+        "REWARD_GROUP_ID": 713060159
+      },
+      "6": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 6,
+        "REWARD_GROUP_ID": 713060106
+      },
+      "60": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 60,
+        "REWARD_GROUP_ID": 713060160
+      },
+      "7": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 7,
+        "REWARD_GROUP_ID": 713060107
+      },
+      "8": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 8,
+        "REWARD_GROUP_ID": 713060108
+      },
+      "9": {
+        "GROUP_ID": 60101,
+        "FAME_LEVEL": 9,
+        "REWARD_GROUP_ID": 713060109
+      }
+    }
+  }
+]

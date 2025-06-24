@@ -1,0 +1,176 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "FUNCTION_NOTICE",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBFUNCTION_NOTICE'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "101101": {
+        "Icon_1": "T_UI_Character_Base_Sprite",
+        "Icon_2": "T_UI_Character_Big_Sprite",
+        "Name": "FUNCTION_NAME_101101",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_101101"
+      },
+      "101103": {
+        "Icon_1": "T_UI_Party_Base_Sprite",
+        "Icon_2": "T_UI_Party_Big_Sprite",
+        "Name": "FUNCTION_NAME_101103",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_101103"
+      },
+      "101104": {
+        "Icon_1": "T_UI_Gacha_Base_Sprite",
+        "Icon_2": "T_UI_Gacha_Big_Sprite",
+        "Name": "FUNCTION_NAME_101104",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_101104"
+      },
+      "101109": {
+        "Icon_1": "T_UI_StellaNote_Base_Sprite",
+        "Icon_2": "T_UI_StellaNote_Big_Sprite",
+        "Name": "FUNCTION_NAME_101109",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_101109"
+      },
+      "101110": {
+        "Icon_1": "T_UI_Quest_Base_Sprite",
+        "Icon_2": "T_UI_Quest_Big_Sprite",
+        "Name": "FUNCTION_NAME_101110",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_101110"
+      },
+      "101113": {
+        "Icon_1": "T_UI_Epelleye_Base_Sprite",
+        "Icon_2": "T_UI_Epelleye_Big_Sprite",
+        "Name": "FUNCTION_NAME_101113",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_101113"
+      },
+      "101114": {
+        "Icon_1": "T_UI_Party_Base_Sprite",
+        "Icon_2": "T_UI_Party_Big_Sprite",
+        "Name": "FUNCTION_NAME_101114",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_101114"
+      },
+      "101116": {
+        "Icon_1": "T_UI_Favor_Base_Sprite",
+        "Icon_2": "T_UI_Favor_Big_Sprite",
+        "Name": "FUNCTION_NAME_101116",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_101116"
+      },
+      "101119": {
+        "Icon_1": "T_UI_Event_Base_Sprite",
+        "Icon_2": "T_UI_Event_Big_Sprite",
+        "Name": "FUNCTION_NAME_101119",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_101119"
+      },
+      "101120": {
+        "Icon_1": "T_UI_Vehicle_Base_Sprite",
+        "Icon_2": "T_UI_Vehicle_Big_Sprite",
+        "Name": "FUNCTION_NAME_101120",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_101120"
+      },
+      "102101": {
+        "Icon_1": "T_UI_Fortuna_Base_Sprite",
+        "Icon_2": "T_UI_Rememento_Big_Sprite",
+        "Name": "FUNCTION_NAME_102101",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_102101"
+      },
+      "103101": {
+        "Icon_1": "T_UI_Equip_Base_Sprite",
+        "Icon_2": "T_UI_Equip_Big_Sprite",
+        "Name": "FUNCTION_NAME_103101",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_103101"
+      },
+      "200001": {
+        "Icon_1": "T_UI_Supply_Base_Sprite",
+        "Icon_2": "T_UI_Supply_Big_Sprite",
+        "Name": "FUNCTION_NAME_200001",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_200001"
+      },
+      "200002": {
+        "Icon_1": "T_UI_Operation_Base_Sprite",
+        "Icon_2": "T_UI_Operation_Big_Sprite",
+        "Name": "FUNCTION_NAME_200002",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_200002"
+      },
+      "200003": {
+        "Icon_1": "T_UI_SinglePVP_Base_Sprite",
+        "Icon_2": "T_UI_SinglePVP_Big_Sprite",
+        "Name": "FUNCTION_NAME_200003",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_200003"
+      },
+      "200004": {
+        "Icon_1": "T_UI_Mix_Base_Sprite",
+        "Icon_2": "T_UI_Mix_Big_Sprite",
+        "Name": "FUNCTION_NAME_200004",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_200004"
+      },
+      "200005": {
+        "Icon_1": "T_UI_Fishing_Base_Sprite",
+        "Icon_2": "T_UI_Fishing_Big_Sprite",
+        "Name": "FUNCTION_NAME_200005",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_200005"
+      },
+      "200006": {
+        "Icon_1": "T_UI_Reproduction_Base_Sprite",
+        "Icon_2": "T_UI_Littlemate_Big_Sprite",
+        "Name": "FUNCTION_NAME_200006",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_200006"
+      },
+      "200007": {
+        "Icon_1": "T_UI_DungeonTower_Base_Sprite",
+        "Icon_2": "T_UI_Tower_Big_Sprite",
+        "Name": "FUNCTION_NAME_200007",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_200007"
+      },
+      "200008": {
+        "Icon_1": "T_UI_Altar_Base_Sprite",
+        "Icon_2": "T_UI_Altar_Big_Sprite",
+        "Name": "FUNCTION_NAME_200008",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_200008"
+      },
+      "200009": {
+        "Icon_1": "T_UI_Cook_Base_Sprite",
+        "Icon_2": "T_UI_Cook_Big_Sprite",
+        "Name": "FUNCTION_NAME_200009",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_200009"
+      },
+      "200010": {
+        "Icon_1": "T_UI_StellaCore_Base_Sprite",
+        "Icon_2": "T_UI_StellaCore_Big_Sprite",
+        "Name": "FUNCTION_NAME_200010",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_200010"
+      },
+      "200011": {
+        "Icon_1": "T_UI_Guide_Base_Sprite",
+        "Icon_2": "T_UI_Guide_Big_Sprite",
+        "Name": "FUNCTION_NAME_200011",
+        "SUB_NAME": "FUNCTION_SUB_NAME_101101",
+        "Desc": "FUNCTION_DESC_200011"
+      }
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ROAMINGITEM_LIST",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBROAMINGITEM_LIST'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "510101": {
+        "FIELD_AI": "BT_ElementProp_TreasureBug001",
+        "FIELD_AIForCook": {
+          "AssetPathName": "/Game/Resources/AI/BT_ElementProp_TreasureBug001.BT_ElementProp_TreasureBug001",
+          "SubPathString": ""
+        },
+        "WALK_SPEED": 140,
+        "RUN_SPEED": 500,
+        "INTERACTION_DISTANCE": 300,
+        "REWARD_GROUP_ID": 0,
+        "QUEST_COMPLETE": 0,
+        "QUEST_STEP": 0,
+        "Respawn": 101,
+        "DIE_TIME": 0,
+        "VISIBLE_MINIMAP_YN": 0,
+        "Name": "DROPITEM_VITALITYHERB",
+        "SUBNAME": "DROPITEM_VITALITYHERB",
+        "Scale": 10000,
+        "RECOGNITION_TYPE": 0,
+        "DESC_LOCAL": "",
+        "RESOURCE": "ELEMENTPROP_TreasureBug_Test"
+      }
+    }
+  }
+]

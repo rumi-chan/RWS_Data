@@ -1,0 +1,33 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "FORTUNA_SYNTHESIS_RANK",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBFORTUNA_SYNTHESIS_RANK'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1": {
+        "REQ_GOLD": 0
+      },
+      "2": {
+        "REQ_GOLD": 0
+      },
+      "3": {
+        "REQ_GOLD": 0
+      },
+      "4": {
+        "REQ_GOLD": 0
+      },
+      "5": {
+        "REQ_GOLD": 0
+      },
+      "6": {
+        "REQ_GOLD": 0
+      }
+    }
+  }
+]

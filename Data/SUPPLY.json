@@ -1,0 +1,169 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "SUPPLY",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBSUPPLY'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "0": {
+        "GRADE": 0,
+        "SUPPLY_REWARD_GROUP": 0,
+        "CURRENCY_ID": 0,
+        "CURRENCY_QTY": 0,
+        "GET_TIME_1": 0,
+        "ITEM_ID_1": 0,
+        "ITEM_QTY_1": 0,
+        "GET_TIME_2": 0,
+        "ITEM_ID_2": 0,
+        "ITEM_QTY_2": 0,
+        "GET_TIME_3": 0,
+        "REWARD_MAX_TIME": 86400000
+      },
+      "1": {
+        "GRADE": 1,
+        "SUPPLY_REWARD_GROUP": 0,
+        "CURRENCY_ID": 101,
+        "CURRENCY_QTY": 2,
+        "GET_TIME_1": 57600,
+        "ITEM_ID_1": 101012001,
+        "ITEM_QTY_1": 1,
+        "GET_TIME_2": 1440000,
+        "ITEM_ID_2": 103011001,
+        "ITEM_QTY_2": 1,
+        "GET_TIME_3": 1440000,
+        "REWARD_MAX_TIME": 86400000
+      },
+      "10": {
+        "GRADE": 10,
+        "SUPPLY_REWARD_GROUP": 0,
+        "CURRENCY_ID": 101,
+        "CURRENCY_QTY": 2,
+        "GET_TIME_1": 34560,
+        "ITEM_ID_1": 101012001,
+        "ITEM_QTY_1": 1,
+        "GET_TIME_2": 864000,
+        "ITEM_ID_2": 103011001,
+        "ITEM_QTY_2": 1,
+        "GET_TIME_3": 864000,
+        "REWARD_MAX_TIME": 86400000
+      },
+      "2": {
+        "GRADE": 2,
+        "SUPPLY_REWARD_GROUP": 0,
+        "CURRENCY_ID": 101,
+        "CURRENCY_QTY": 2,
+        "GET_TIME_1": 55040,
+        "ITEM_ID_1": 101012001,
+        "ITEM_QTY_1": 1,
+        "GET_TIME_2": 1376000,
+        "ITEM_ID_2": 103011001,
+        "ITEM_QTY_2": 1,
+        "GET_TIME_3": 1376000,
+        "REWARD_MAX_TIME": 86400000
+      },
+      "3": {
+        "GRADE": 3,
+        "SUPPLY_REWARD_GROUP": 0,
+        "CURRENCY_ID": 101,
+        "CURRENCY_QTY": 2,
+        "GET_TIME_1": 52480,
+        "ITEM_ID_1": 101012001,
+        "ITEM_QTY_1": 1,
+        "GET_TIME_2": 1312000,
+        "ITEM_ID_2": 103011001,
+        "ITEM_QTY_2": 1,
+        "GET_TIME_3": 1312000,
+        "REWARD_MAX_TIME": 86400000
+      },
+      "4": {
+        "GRADE": 4,
+        "SUPPLY_REWARD_GROUP": 0,
+        "CURRENCY_ID": 101,
+        "CURRENCY_QTY": 2,
+        "GET_TIME_1": 49920,
+        "ITEM_ID_1": 101012001,
+        "ITEM_QTY_1": 1,
+        "GET_TIME_2": 1248000,
+        "ITEM_ID_2": 103011001,
+        "ITEM_QTY_2": 1,
+        "GET_TIME_3": 1248000,
+        "REWARD_MAX_TIME": 86400000
+      },
+      "5": {
+        "GRADE": 5,
+        "SUPPLY_REWARD_GROUP": 0,
+        "CURRENCY_ID": 101,
+        "CURRENCY_QTY": 2,
+        "GET_TIME_1": 47360,
+        "ITEM_ID_1": 101012001,
+        "ITEM_QTY_1": 1,
+        "GET_TIME_2": 1184000,
+        "ITEM_ID_2": 103011001,
+        "ITEM_QTY_2": 1,
+        "GET_TIME_3": 1184000,
+        "REWARD_MAX_TIME": 86400000
+      },
+      "6": {
+        "GRADE": 6,
+        "SUPPLY_REWARD_GROUP": 0,
+        "CURRENCY_ID": 101,
+        "CURRENCY_QTY": 2,
+        "GET_TIME_1": 44800,
+        "ITEM_ID_1": 101012001,
+        "ITEM_QTY_1": 1,
+        "GET_TIME_2": 1120000,
+        "ITEM_ID_2": 103011001,
+        "ITEM_QTY_2": 1,
+        "GET_TIME_3": 1120000,
+        "REWARD_MAX_TIME": 86400000
+      },
+      "7": {
+        "GRADE": 7,
+        "SUPPLY_REWARD_GROUP": 0,
+        "CURRENCY_ID": 101,
+        "CURRENCY_QTY": 2,
+        "GET_TIME_1": 42240,
+        "ITEM_ID_1": 101012001,
+        "ITEM_QTY_1": 1,
+        "GET_TIME_2": 1056000,
+        "ITEM_ID_2": 103011001,
+        "ITEM_QTY_2": 1,
+        "GET_TIME_3": 1056000,
+        "REWARD_MAX_TIME": 86400000
+      },
+      "8": {
+        "GRADE": 8,
+        "SUPPLY_REWARD_GROUP": 0,
+        "CURRENCY_ID": 101,
+        "CURRENCY_QTY": 2,
+        "GET_TIME_1": 39680,
+        "ITEM_ID_1": 101012001,
+        "ITEM_QTY_1": 1,
+        "GET_TIME_2": 992000,
+        "ITEM_ID_2": 103011001,
+        "ITEM_QTY_2": 1,
+        "GET_TIME_3": 992000,
+        "REWARD_MAX_TIME": 86400000
+      },
+      "9": {
+        "GRADE": 9,
+        "SUPPLY_REWARD_GROUP": 0,
+        "CURRENCY_ID": 101,
+        "CURRENCY_QTY": 2,
+        "GET_TIME_1": 37120,
+        "ITEM_ID_1": 101012001,
+        "ITEM_QTY_1": 1,
+        "GET_TIME_2": 928000,
+        "ITEM_ID_2": 103011001,
+        "ITEM_QTY_2": 1,
+        "GET_TIME_3": 928000,
+        "REWARD_MAX_TIME": 86400000
+      }
+    }
+  }
+]

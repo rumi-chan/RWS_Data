@@ -1,0 +1,57 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "CASH_BONUS_LIST",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBCASH_BONUS_LIST'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "3000101": {
+        "GROUP_ID": 300001,
+        "CURRENCY_ID": 0,
+        "CURRENCY_QTY": 0,
+        "REWARD_GROUP_ID": 604080098
+      },
+      "3000102": {
+        "GROUP_ID": 300001,
+        "CURRENCY_ID": 0,
+        "CURRENCY_QTY": 300,
+        "REWARD_GROUP_ID": 604080099
+      },
+      "3000103": {
+        "GROUP_ID": 300001,
+        "CURRENCY_ID": 0,
+        "CURRENCY_QTY": 1000,
+        "REWARD_GROUP_ID": 604080100
+      },
+      "3000104": {
+        "GROUP_ID": 300001,
+        "CURRENCY_ID": 0,
+        "CURRENCY_QTY": 2000,
+        "REWARD_GROUP_ID": 604080101
+      },
+      "3000105": {
+        "GROUP_ID": 300001,
+        "CURRENCY_ID": 0,
+        "CURRENCY_QTY": 4000,
+        "REWARD_GROUP_ID": 604080102
+      },
+      "3000106": {
+        "GROUP_ID": 300001,
+        "CURRENCY_ID": 0,
+        "CURRENCY_QTY": 8000,
+        "REWARD_GROUP_ID": 604080103
+      },
+      "3000107": {
+        "GROUP_ID": 300001,
+        "CURRENCY_ID": 0,
+        "CURRENCY_QTY": 16000,
+        "REWARD_GROUP_ID": 604080104
+      }
+    }
+  }
+]

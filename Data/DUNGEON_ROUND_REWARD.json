@@ -1,0 +1,195 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DUNGEON_ROUND_REWARD",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBDUNGEON_ROUND_REWARD'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "101": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000001,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_101",
+        "REWARD_GROUP_ID": 704070101
+      },
+      "102": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000002,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_102",
+        "REWARD_GROUP_ID": 704070102
+      },
+      "103": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000003,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_103",
+        "REWARD_GROUP_ID": 704070103
+      },
+      "104": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000004,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_104",
+        "REWARD_GROUP_ID": 704070104
+      },
+      "105": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000005,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_105",
+        "REWARD_GROUP_ID": 704070105
+      },
+      "106": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000006,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_106",
+        "REWARD_GROUP_ID": 704070106
+      },
+      "107": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000007,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_107",
+        "REWARD_GROUP_ID": 704070107
+      },
+      "108": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000008,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_108",
+        "REWARD_GROUP_ID": 704070108
+      },
+      "109": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000009,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_109",
+        "REWARD_GROUP_ID": 704070109
+      },
+      "110": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000010,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_110",
+        "REWARD_GROUP_ID": 704070110
+      },
+      "111": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000011,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_111",
+        "REWARD_GROUP_ID": 704070111
+      },
+      "112": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000012,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_112",
+        "REWARD_GROUP_ID": 704070112
+      },
+      "113": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000013,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_113",
+        "REWARD_GROUP_ID": 704070113
+      },
+      "114": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000014,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_114",
+        "REWARD_GROUP_ID": 704070114
+      },
+      "115": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000015,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_115",
+        "REWARD_GROUP_ID": 704070115
+      },
+      "116": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000016,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_116",
+        "REWARD_GROUP_ID": 704070116
+      },
+      "117": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000017,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_117",
+        "REWARD_GROUP_ID": 704070117
+      },
+      "118": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000018,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_118",
+        "REWARD_GROUP_ID": 704070118
+      },
+      "119": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000019,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_119",
+        "REWARD_GROUP_ID": 704070119
+      },
+      "120": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000020,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_120",
+        "REWARD_GROUP_ID": 704070120
+      },
+      "121": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000021,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_121",
+        "REWARD_GROUP_ID": 704070121
+      },
+      "122": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000022,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_122",
+        "REWARD_GROUP_ID": 704070122
+      },
+      "123": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000023,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_123",
+        "REWARD_GROUP_ID": 704070123
+      },
+      "124": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000024,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_124",
+        "REWARD_GROUP_ID": 704070124
+      },
+      "125": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000025,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_125",
+        "REWARD_GROUP_ID": 704070125
+      },
+      "126": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000026,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_126",
+        "REWARD_GROUP_ID": 704070126
+      },
+      "127": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000027,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_127",
+        "REWARD_GROUP_ID": 704070127
+      },
+      "128": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000028,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_128",
+        "REWARD_GROUP_ID": 704070128
+      },
+      "129": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000029,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_129",
+        "REWARD_GROUP_ID": 704070129
+      },
+      "130": {
+        "GROUP_ID": 7001,
+        "TRIGGER_GROUP_ID": 707000030,
+        "Desc": "ABYSS_DUNGEON_MISSION_DESC_130",
+        "REWARD_GROUP_ID": 704070130
+      }
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "INVENTORY",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBINVENTORY'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1": {
+        "Category": 0,
+        "CATEGORY_LOCAL": "INVEN_CATEGORY_1",
+        "MAX_SLOT": 1200
+      },
+      "2": {
+        "Category": 0,
+        "CATEGORY_LOCAL": "INVEN_CATEGORY_2",
+        "MAX_SLOT": 1200
+      },
+      "3": {
+        "Category": 0,
+        "CATEGORY_LOCAL": "INVEN_CATEGORY_3",
+        "MAX_SLOT": 300
+      },
+      "4": {
+        "Category": 0,
+        "CATEGORY_LOCAL": "INVEN_CATEGORY_4",
+        "MAX_SLOT": 300
+      },
+      "5": {
+        "Category": 0,
+        "CATEGORY_LOCAL": "INVEN_CATEGORY_5",
+        "MAX_SLOT": 300
+      },
+      "6": {
+        "Category": 0,
+        "CATEGORY_LOCAL": "INVEN_CATEGORY_6",
+        "MAX_SLOT": 300
+      },
+      "7": {
+        "Category": 0,
+        "CATEGORY_LOCAL": "INVEN_CATEGORY_7",
+        "MAX_SLOT": 300
+      }
+    }
+  }
+]

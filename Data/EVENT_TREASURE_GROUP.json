@@ -1,0 +1,106 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "EVENT_TREASURE_GROUP",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBEVENT_TREASURE_GROUP'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "100101": {
+        "GROUP_ID": 1001,
+        "Index": 1,
+        "TERRITORY_ID": 106039151,
+        "OBJECT_ID": 106019151,
+        "Name": "EVENT_TREASURE_BOX_NAME_01",
+        "Desc": "EVENT_TREASURE_BOX_DESC_01",
+        "BANNER_IMAGE": "Banner_TREASURE_01",
+        "BANNER_IMAGECook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Event/Banner_TREASURE_01.Banner_TREASURE_01",
+          "SubPathString": ""
+        }
+      },
+      "100102": {
+        "GROUP_ID": 1001,
+        "Index": 2,
+        "TERRITORY_ID": 106039152,
+        "OBJECT_ID": 106019152,
+        "Name": "EVENT_TREASURE_BOX_NAME_02",
+        "Desc": "EVENT_TREASURE_BOX_DESC_02",
+        "BANNER_IMAGE": "Banner_TREASURE_02",
+        "BANNER_IMAGECook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Event/Banner_TREASURE_02.Banner_TREASURE_02",
+          "SubPathString": ""
+        }
+      },
+      "100103": {
+        "GROUP_ID": 1001,
+        "Index": 3,
+        "TERRITORY_ID": 106039153,
+        "OBJECT_ID": 106019153,
+        "Name": "EVENT_TREASURE_BOX_NAME_03",
+        "Desc": "EVENT_TREASURE_BOX_DESC_03",
+        "BANNER_IMAGE": "Banner_TREASURE_03",
+        "BANNER_IMAGECook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Event/Banner_TREASURE_03.Banner_TREASURE_03",
+          "SubPathString": ""
+        }
+      },
+      "100104": {
+        "GROUP_ID": 1001,
+        "Index": 4,
+        "TERRITORY_ID": 134039151,
+        "OBJECT_ID": 134019151,
+        "Name": "EVENT_TREASURE_BOX_NAME_04",
+        "Desc": "EVENT_TREASURE_BOX_DESC_04",
+        "BANNER_IMAGE": "Banner_TREASURE_04",
+        "BANNER_IMAGECook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Event/Banner_TREASURE_04.Banner_TREASURE_04",
+          "SubPathString": ""
+        }
+      },
+      "100105": {
+        "GROUP_ID": 1001,
+        "Index": 5,
+        "TERRITORY_ID": 104039151,
+        "OBJECT_ID": 104019151,
+        "Name": "EVENT_TREASURE_BOX_NAME_05",
+        "Desc": "EVENT_TREASURE_BOX_DESC_05",
+        "BANNER_IMAGE": "Banner_TREASURE_05",
+        "BANNER_IMAGECook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Event/Banner_TREASURE_05.Banner_TREASURE_05",
+          "SubPathString": ""
+        }
+      },
+      "100106": {
+        "GROUP_ID": 1001,
+        "Index": 6,
+        "TERRITORY_ID": 134039152,
+        "OBJECT_ID": 134019152,
+        "Name": "EVENT_TREASURE_BOX_NAME_06",
+        "Desc": "EVENT_TREASURE_BOX_DESC_06",
+        "BANNER_IMAGE": "Banner_TREASURE_06",
+        "BANNER_IMAGECook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Event/Banner_TREASURE_06.Banner_TREASURE_06",
+          "SubPathString": ""
+        }
+      },
+      "100107": {
+        "GROUP_ID": 1001,
+        "Index": 7,
+        "TERRITORY_ID": 103039151,
+        "OBJECT_ID": 104019152,
+        "Name": "EVENT_TREASURE_BOX_NAME_07",
+        "Desc": "EVENT_TREASURE_BOX_DESC_07",
+        "BANNER_IMAGE": "Banner_TREASURE_07",
+        "BANNER_IMAGECook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Event/Banner_TREASURE_07.Banner_TREASURE_07",
+          "SubPathString": ""
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "GIMMICK_GROUP_LIST",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBGIMMICK_GROUP_LIST'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {}
+  }
+]

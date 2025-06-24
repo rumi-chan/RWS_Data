@@ -1,0 +1,50 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "ELEMENT",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBELEMENT'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "1": {
+        "BLUE": 0,
+        "RED": 1,
+        "GREEN": 2,
+        "YELLOW": 0,
+        "Black": 0
+      },
+      "2": {
+        "BLUE": 2,
+        "RED": 0,
+        "GREEN": 1,
+        "YELLOW": 0,
+        "Black": 0
+      },
+      "3": {
+        "BLUE": 1,
+        "RED": 2,
+        "GREEN": 0,
+        "YELLOW": 0,
+        "Black": 0
+      },
+      "4": {
+        "BLUE": 0,
+        "RED": 0,
+        "GREEN": 0,
+        "YELLOW": 0,
+        "Black": 1
+      },
+      "5": {
+        "BLUE": 0,
+        "RED": 0,
+        "GREEN": 0,
+        "YELLOW": 1,
+        "Black": 0
+      }
+    }
+  }
+]

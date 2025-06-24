@@ -1,0 +1,533 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "STATUS_LIST",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'NBSTATUS_LIST'",
+        "ObjectPath": "/Script/ProjectNB"
+      }
+    },
+    "Rows": {
+      "101": {
+        "Type": "ENBDisplayBasedType::Integer",
+        "Name": "BATTLE_STAT_ATK",
+        "Desc": "",
+        "Min": 0,
+        "Max": 1000000,
+        "Icon": "ICON_STAT_ATK_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_ATK_Sprite.ICON_STAT_ATK_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 1,
+        "DETAIL_SORT_ORDER": 1
+      },
+      "102": {
+        "Type": "ENBDisplayBasedType::Integer",
+        "Name": "BATTLE_STAT_DEF",
+        "Desc": "",
+        "Min": 0,
+        "Max": 1000000,
+        "Icon": "ICON_STAT_DEF_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_DEF_Sprite.ICON_STAT_DEF_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 2,
+        "DETAIL_SORT_ORDER": 2
+      },
+      "103": {
+        "Type": "ENBDisplayBasedType::Integer",
+        "Name": "BATTLE_STAT_HP",
+        "Desc": "",
+        "Min": 0,
+        "Max": 1000000,
+        "Icon": "ICON_STAT_HP_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_HP_Sprite.ICON_STAT_HP_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 3,
+        "DETAIL_SORT_ORDER": 3
+      },
+      "104": {
+        "Type": "ENBDisplayBasedType::Integer",
+        "Name": "BATTLE_STAT_TURN_SPEED",
+        "Desc": "BATTLE_STAT_TURN_SPEED_DESC",
+        "Min": 1,
+        "Max": 1000,
+        "Icon": "ICON_STAT_TURN_SPEED_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_TURN_SPEED_Sprite.ICON_STAT_TURN_SPEED_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 4,
+        "DETAIL_SORT_ORDER": 4
+      },
+      "105": {
+        "Type": "ENBDisplayBasedType::Integer",
+        "Name": "BATTLE_STAT_WALK_SPEED",
+        "Desc": "",
+        "Min": 200,
+        "Max": 400,
+        "Icon": "ICON_STAT_WALK_SPEED_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_WALK_SPEED_Sprite.ICON_STAT_WALK_SPEED_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "106": {
+        "Type": "ENBDisplayBasedType::Integer",
+        "Name": "BATTLE_STAT_RUN_SPEED",
+        "Desc": "",
+        "Min": 400,
+        "Max": 800,
+        "Icon": "ICON_STAT_RUN_SPEED_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_RUN_SPEED_Sprite.ICON_STAT_RUN_SPEED_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "108": {
+        "Type": "ENBDisplayBasedType::Integer",
+        "Name": "BATTLE_STAT_GUARD_HP",
+        "Desc": "",
+        "Min": 0,
+        "Max": 1000000,
+        "Icon": "ICON_STAT_GUARD_HP_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_GUARD_HP_Sprite.ICON_STAT_GUARD_HP_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "109": {
+        "Type": "ENBDisplayBasedType::Integer",
+        "Name": "BATTLE_STAT_GUARD_RESISTANCE",
+        "Desc": "",
+        "Min": 0,
+        "Max": 1000000,
+        "Icon": "",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "110": {
+        "Type": "ENBDisplayBasedType::Integer",
+        "Name": "BATTLE_STAT_GUARD_PROTECT",
+        "Desc": "",
+        "Min": 0,
+        "Max": 1000000,
+        "Icon": "",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "201": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_ATK",
+        "Desc": "",
+        "Min": 0,
+        "Max": 99999,
+        "Icon": "ICON_STAT_ATK_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_ATK_Sprite.ICON_STAT_ATK_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "202": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_DEF",
+        "Desc": "",
+        "Min": 0,
+        "Max": 99999,
+        "Icon": "ICON_STAT_DEF_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_DEF_Sprite.ICON_STAT_DEF_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "203": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_HP",
+        "Desc": "",
+        "Min": 0,
+        "Max": 99999,
+        "Icon": "ICON_STAT_HP_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_HP_Sprite.ICON_STAT_HP_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "204": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_TURN_SPEED",
+        "Desc": "",
+        "Min": 0,
+        "Max": 99999,
+        "Icon": "ICON_STAT_TURN_SPEED_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_TURN_SPEED_Sprite.ICON_STAT_TURN_SPEED_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "205": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_WALK_SPEED",
+        "Desc": "",
+        "Min": 0,
+        "Max": 3000,
+        "Icon": "ICON_STAT_WALK_SPEED_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_WALK_SPEED_Sprite.ICON_STAT_WALK_SPEED_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "206": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_RUN_SPEED",
+        "Desc": "",
+        "Min": 0,
+        "Max": 3000,
+        "Icon": "ICON_STAT_RUN_SPEED_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_RUN_SPEED_Sprite.ICON_STAT_RUN_SPEED_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "207": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_CRI_RATE",
+        "Desc": "",
+        "Min": 0,
+        "Max": 10000,
+        "Icon": "ICON_STAT_CRI_RATE_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_CRI_RATE_Sprite.ICON_STAT_CRI_RATE_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 5,
+        "DETAIL_SORT_ORDER": 5
+      },
+      "208": {
+        "Type": "ENBDisplayBasedType::ExcessPercentage",
+        "Name": "BATTLE_STAT_CRI_DMG",
+        "Desc": "",
+        "Min": 0,
+        "Max": 99999,
+        "Icon": "ICON_STAT_CRI_DMG_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_CRI_DMG_Sprite.ICON_STAT_CRI_DMG_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 6,
+        "DETAIL_SORT_ORDER": 6
+      },
+      "209": {
+        "Type": "ENBDisplayBasedType::ExcessPercentage",
+        "Name": "BATTLE_STAT_DEBUFF_ADJUST_RATE",
+        "Desc": "BATTLE_STAT_DEBUFF_ADJUST_RATE_DESC",
+        "Min": 0,
+        "Max": 99999,
+        "Icon": "ICON_STAT_DEBUFF_ADJUST_RATE_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_DEBUFF_ADJUST_RATE_Sprite.ICON_STAT_DEBUFF_ADJUST_RATE_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 7,
+        "DETAIL_SORT_ORDER": 7
+      },
+      "210": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_DEBUFF_RESIST_RATE",
+        "Desc": "BATTLE_STAT_DEBUFF_RESIST_RATE_DESC",
+        "Min": 0,
+        "Max": 99999,
+        "Icon": "ICON_STAT_DEBUFF_RESIST_RATE_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_DEBUFF_RESIST_RATE_Sprite.ICON_STAT_DEBUFF_RESIST_RATE_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 8,
+        "DETAIL_SORT_ORDER": 8
+      },
+      "211": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_INCREASE_DMG",
+        "Desc": "",
+        "Min": 0,
+        "Max": 99999,
+        "Icon": "",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "212": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_DECREASE_DMG",
+        "Desc": "",
+        "Min": 0,
+        "Max": 99999,
+        "Icon": "",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "213": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_INCREASE_DMG_TAKEN",
+        "Desc": "",
+        "Min": 0,
+        "Max": 99999,
+        "Icon": "",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "214": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_DECREASE_DMG_TAKEN",
+        "Desc": "",
+        "Min": 0,
+        "Max": 99999,
+        "Icon": "",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "215": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_HIT_RATE",
+        "Desc": "",
+        "Min": 0,
+        "Max": 99999,
+        "Icon": "",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "216": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_DODGE_RATE",
+        "Desc": "",
+        "Min": 0,
+        "Max": 99999,
+        "Icon": "",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "217": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_MISS_RATE",
+        "Desc": "",
+        "Min": 0,
+        "Max": 99999,
+        "Icon": "",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "218": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_HEAL_RATE",
+        "Desc": "",
+        "Min": 0,
+        "Max": 1000000,
+        "Icon": "ICON_STAT_HEAL_RATE_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_HEAL_RATE_Sprite.ICON_STAT_HEAL_RATE_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 9
+      },
+      "219": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_HEAL_TAKEN_RATE",
+        "Desc": "",
+        "Min": 0,
+        "Max": 1000000,
+        "Icon": "ICON_STAT_HEAL_TAKEN_RATE_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_HEAL_TAKEN_RATE_Sprite.ICON_STAT_HEAL_TAKEN_RATE_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 10
+      },
+      "220": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_BARRIER_RATE",
+        "Desc": "",
+        "Min": 0,
+        "Max": 1000000,
+        "Icon": "ICON_STAT_BARRIER_RATE_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_BARRIER_RATE_Sprite.ICON_STAT_BARRIER_RATE_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 11
+      },
+      "221": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_BARRIER_TAKEN_RATE",
+        "Desc": "",
+        "Min": 0,
+        "Max": 1000000,
+        "Icon": "ICON_STAT_BARRIER_TAKEN_RATE_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_BARRIER_TAKEN_RATE_Sprite.ICON_STAT_BARRIER_TAKEN_RATE_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 12
+      },
+      "222": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_INCREASE_WATER_DMG_RATE",
+        "Desc": "",
+        "Min": 0,
+        "Max": 1000000,
+        "Icon": "ICON_STAT_INCREASE_WATER_DMG_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_INCREASE_WATER_DMG_Sprite.ICON_STAT_INCREASE_WATER_DMG_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 13
+      },
+      "223": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_INCREASE_FIRE_DMG_RATE",
+        "Desc": "",
+        "Min": 0,
+        "Max": 1000000,
+        "Icon": "ICON_STAT_INCREASE_FIRE_DMG_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_INCREASE_FIRE_DMG_Sprite.ICON_STAT_INCREASE_FIRE_DMG_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 14
+      },
+      "224": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_INCREASE_FOREST_DMG_RATE",
+        "Desc": "",
+        "Min": 0,
+        "Max": 1000000,
+        "Icon": "ICON_STAT_INCREASE_FOREST_DMG_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_INCREASE_FOREST_DMG_Sprite.ICON_STAT_INCREASE_FOREST_DMG_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 15
+      },
+      "225": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_INCREASE_LIGHT_DMG_RATE",
+        "Desc": "",
+        "Min": 0,
+        "Max": 1000000,
+        "Icon": "ICON_STAT_INCREASE_LIGHT_DMG_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_INCREASE_LIGHT_DMG_Sprite.ICON_STAT_INCREASE_LIGHT_DMG_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 16
+      },
+      "226": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_INCREASE_DARK_DMG_RATE",
+        "Desc": "",
+        "Min": 0,
+        "Max": 1000000,
+        "Icon": "ICON_STAT_INCREASE_DARK_DMG_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "/Game/Resources/UI/icons/Ability/ICON_STAT_INCREASE_DARK_DMG_Sprite.ICON_STAT_INCREASE_DARK_DMG_Sprite",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 17
+      },
+      "227": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_TURN_GRANT_INCREASE_RATIO",
+        "Desc": "",
+        "Min": 0,
+        "Max": 1000000,
+        "Icon": "ICON_STAT_TURN_GRANT_INCREASE_RATIO_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      },
+      "228": {
+        "Type": "ENBDisplayBasedType::Percentage",
+        "Name": "BATTLE_STAT_DECREASE_TURN_TAKEN_RATE",
+        "Desc": "",
+        "Min": 0,
+        "Max": 1000000,
+        "Icon": "ICON_STAT_DECREASE_TURN_TAKEN_RATE_Sprite",
+        "ICONForCook": {
+          "AssetPathName": "",
+          "SubPathString": ""
+        },
+        "SORT_ORDER": 0,
+        "DETAIL_SORT_ORDER": 0
+      }
+    }
+  }
+]
